@@ -3,21 +3,156 @@
 Durable memory for the Whiskey Social whiskey-news pipeline. Authoritative over Slack
 thread copies. Human feedback in #whiskey-news overrides this file.
 
-**Last run:** 2026-08-20 (Thu), **PREP — posted 06:17 PT, one correction and two upgrades/adds.**
-**Prior run:** 2026-08-19 (Wed), PREP — three staged items.
-**Prior editions:** Aug 18 (Tue, The Shortlist) · Aug 14 (Fri, Last Call) · Aug 11 (Tue).
-**Next edition:** 2026-08-21 (Fri, Last Call).
+**Last run:** 2026-08-21 (Fri), **EDITION — Last Call, posted 06:14 PT. Four items, all four
+link-outs re-confirmed, prune executed.**
+**Prior run:** 2026-08-20 (Thu), PREP — one correction and two upgrades/adds.
+**Prior editions:** Aug 21 (Fri, Last Call) · Aug 18 (Tue, The Shortlist) · Aug 14 (Fri) · Aug 11 (Tue).
+**Next edition:** 2026-08-25 (Tue, The Shortlist).
 **Next prep:** 2026-08-23 (Sun — Saturday does not run; cover back through Friday).
-**Search window this run:** Aug 19–20.
+**Search window this run:** Aug 20–21 (urgent sweep only — the board was closed).
 
-Tenth consecutive run with a successful push. Write access stable.
+Eleventh consecutive run with a successful push. Write access stable.
 
-**Channel check:** last 14 days read (Aug 6 – Aug 20). **No human replies from Aaron or Adam in
-the window.** All eighteen parent messages Jul 30 – Aug 19 are automated Pour posts authored
-through this pipeline, every one carrying the `Sent using Claude` trailer. Adam's last real
-message was Jul 27 ("Seems to be creating the same articles over and over"), outside the window.
-**Nothing overrode this file.** Nothing had been posted Aug 20 before this run, so idempotency
-was not in play.
+**Channel check:** last 14 days read (Aug 7 – Aug 21). **No human replies from Aaron or Adam in
+the window.** Every parent message Jul 28 – Aug 20 is an automated Pour post authored through this
+pipeline. Adam's last real message was Jul 27 ("Seems to be creating the same articles over and
+over"), outside the window; **Aaron has never replied in the channel.** **Nothing overrode this
+file.** Nothing had been posted Aug 21 before this run, so idempotency was not in play.
+
+---
+
+## FRIDAY Aug 21 — WHAT SHIPPED (Last Call, posted 06:14 PT)
+
+**Four items, exactly as staged since Aug 19. Nothing added, nothing cut, no fifth item.** The
+board was closed going in, which is what an edition day is supposed to look like. Order shipped:
+Detroit blues festival (On the Calendar, Venue Regular) · Copperworks Spokane relief (What's
+Dropping, Social Drinker) · Dubai chocolate pairing (**Pair It — first ever**, Social Drinker) ·
+Thunder Bird cocktail (Easy Pour, Social Drinker). Send-off: "Worth the pour. See you Tuesday."
+
+**The tariff stayed out, as instructed three runs running.** No reader-facing mention. It carried
+one Notes bullet as a decision Aaron owes for Tuesday, which is the correct place for it.
+
+### Link re-confirmation — all four 200 with real body text
+
+Fetched to disk with a browser UA, scripts and styles stripped with a DOTALL regex before slicing.
+`detroitbourbonandblues.com` 1,349 words · Fred Minnick Copperworks 688 · WA Dubai chocolate 1,214 ·
+WA Thunder Bird 520. **No Notes bullet — nothing failed.** Fifth consecutive edition where every
+staged link re-confirmed clean.
+
+### Every printed claim, against its source
+
+- **Detroit** (detroitbourbonandblues.com, Tier 1 organizer): "sunday, august 23rd, 2026" ✓ ·
+  Eastern Market Shed 5 ✓ · "12 PM - 7 PM" ✓ · cocktail classes "presented by Louisville Tourism"
+  for "anyone 21+" ✓ · three blues acts across the afternoon (Rome Antenucci 12:30, Freestyle Band
+  Detroit 3:00, Shaun Booker Dammit Band 5:00 — **not named individually in copy**) ✓ · FernCare
+  Free Clinic, "provides no-cost medical" care ✓.
+  **PRICE PRECISION CORRECTED AT DRAFT TIME.** The staged instruction was "print $55 GA / $75 VIP."
+  **The page actually says "General Admission ($55 + fees) & VIP ($75 + fees)."** Printing a bare
+  $55 would have been a number a reader could falsify at checkout. **Published as "$55 plus fees,
+  VIP $75."** Logged as lesson 22.
+  **"Supports," not "proceeds."** The staged note said "proceeds to the FernCare Free Clinic." The
+  page says the festival "proudly supports" it and never uses the word proceeds or states a share.
+  **Published as "supports."** A donation mechanism nobody stated is not a sourced claim.
+  **The page's own phrase is "tasting experiences" — "experience" is banned and was not lifted.**
+- **Copperworks** (Fred Minnick Aug 14): Spokane Complex Fire "continues to burn across Eastern
+  Washington" ✓ · throughout August, **$20 from every bottle of Farmsmith American Single Malt
+  sold** ✓ · H.O.M.E. Starts Here relief fund ✓ · single-varietal Genie barley "grown 20 miles west
+  of Spokane" ✓ · "malted by LINC Malt in Spokane" ✓ · direct donation available ✓.
+  **THE EDITION'S ONE QUOTE, and it went here on merit.** "The farming families and partners around
+  Spokane aren't just our suppliers; they are our friends" — **16 words, named, in the link-out,
+  attributed as "said co-founder Jason Parker" with no pronoun** (lesson 14; Parker's are unstated).
+  **Schikora's 10-word line was the other candidate and was deliberately not used** — the edition
+  allows exactly one, and the Copperworks item has no price, no sensory and no availability, so the
+  quote is the only human thing in it. Thunder Bird carries itself on the recipe.
+  **DISCUS handled the way the staging note specified:** the donation is stated once, flatly, and
+  the item closes on "You can also donate to the relief fund directly" — **which deliberately
+  routes the reader to donating rather than to buying more bottles.** That is the mitigation; keep
+  it if this item ever recurs.
+  **No price, no ABV, no sensory printed — none exists.** FM's own "distilling journey" was not
+  lifted. **"Single malt" was left undefined on purpose** — it appears inside the product's name,
+  it is not gatekeeping, and a definitional aside would have intruded on a live-disaster item.
+- **Dubai chocolate** (WA Aug 12, Pete O'Connell): Belgian chocolate with pistachio cream, tahini,
+  crunchy fried phyllo ✓ · seven whiskies ✓ · every score 90+ (95, 94, 94, 93, 92, 92, 90) ✓ ·
+  price range $60–$200 (Wild Turkey $60 to Port Charlotte $200) ✓ · Redbreast 12's "nutty notes
+  help enhance pistachio and tahini flavors" → published as "there for its nutty side" ✓ · Hibiki
+  "something a bit more delicate and understated" → "the delicate pick" ✓ · pistachio shortages
+  **attributed to the magazine**, as the staging note required ✓.
+  **Wild Turkey was not led on** (ran Aug 11) — it is the cheapest bottle on the list at $60 and
+  still stayed unnamed; the $60 floor is printed as a range endpoint instead.
+  **Single pot still was NOT defined** — Redbreast 12 is named without the phrase, so the term is
+  unspent and belongs to Jameson on Aug 25, exactly as sequenced.
+  **WA's drinking-pace phrasing was not reproduced or paraphrased:** "wash it down with sips"
+  (Rampur) and "sipping this between bites" (Port Charlotte) both stayed out. Confirmed present in
+  the fetched page — the caution was real, not theoretical.
+- **Thunder Bird** (WA Aug 17, Brittany Risher Englert): Max Schikora, bar manager at Huna, Ann
+  Arbor, Michigan ✓ · a Jungle Bird riff ✓ · ¾ oz rye + ¾ oz Jamaican rum + ¾ oz Campari →
+  published as "split the base, equal parts" ✓ · "or other 100-proof rye" → "any 100-proof rye
+  works" ✓ · pineapple juice, lime, demerara syrup ✓ · "Shake for 5 to 8 seconds" → "five to eight
+  seconds" ✓ · "Strain over fresh ice" ✓ · "rye brings spice and structure" and Campari's
+  bitterness, **both attributed in copy to Whisky Advocate** ✓.
+  **Rittenhouse was not named and bottled-in-bond was not printed** — "any 100-proof rye works"
+  carries the same reader value and spends nothing on a term already printed four times.
+  **Both DISCUS blocks confirmed present in the live page and both excluded:** "it drinks easier
+  than it should for something with this much proof behind it" and "tastes like a vacation—one you
+  actually remember."
+
+### The collision this file MISSED, caught at draft time
+
+**Pineapple, twice in two Fridays — and the staging notes never flagged it.** Aug 14's Easy Pour was
+a "smoky pineapple smash" published with the line "Bright and tropical up front." Thunder Bird's own
+WA sensory is "a bright, juicy hit of pineapple and lime up front." **Same fruit, same segment, same
+weekday, nearly the same phrase, two Fridays apart.** Nine collision flags were carried on this
+board and not one of them was this.
+
+**Fixed by re-angling rather than dropping the item.** The published blurb leads on the **split base
+— rye and rum in one glass** — names Campari for bitterness, and prints pineapple only as an
+ingredient in the fill-out sentence. **Pineapple is never the hook and the Aug 14 phrasing is not
+reused.** The item still earns its slot on the split base, the named creator and the Michigan
+adjacency; it just no longer rhymes with two weeks ago.
+
+**Generalisation, logged as lesson 23:** the collision flags track brands, outlets, bylines, terms
+and categories. **They did not track the flavour that carried the hook.** Add the hook noun to the
+flag set. `bardstown-victoria-pineapple-2026` is also in dedup, which makes this the third pineapple
+in the recent record.
+
+### Beat-slug and gap movement
+
+**`pair-it` is spent for the first time, and it closed a 34-day gap.** The gap was never supply — a
+Tier 2 food pairing with its own sensory sat on this board for nine days. **It was a definition:
+whether Pair It means cigar-crossover or food pairing.** The standing recommendation on file was to
+redefine it as food pairing. **Nobody replied, so the recommendation was applied and Aaron was told
+in one Notes bullet that it was applied** — the Macallan precedent, and the same default discipline.
+**If he wants Pair It reserved for cigars, he reverses it by reply and the chocolate item is
+re-slugged retroactively in PostHog.** Until then, food pairing is what the beat means.
+
+**Persona shape shipped: Venue Regular ×1, Social Drinker ×3.** That is Friday's brief. **No
+Collector item, correctly** — Friday does not carry Collector weight, and the coverage floor is a
+weekly floor, not a per-edition grid. The Dubai list supplies the Explorer-facing depth (seven
+bottles, scores, ABVs, prices, cask detail) without being tagged Explorer.
+
+**Outlet mix shipped: organizer site ×1, Fred Minnick ×1, Whisky Advocate ×2.** As predicted, and
+**the fourth straight Friday of a WA cocktail happened.** See COLLISION FLAGS — it is now four, it
+was taken deliberately for the Detroit/Ann Arbor adjacency, and **the fifth should not be taken
+without Aaron saying so.**
+
+### Urgent sweep — no override
+
+**Window Aug 20–21.** Two broad searches. **No product recall, no safety issue, no litigation or
+investigation naming a partner brand or venue, no death in the industry. Nothing fires.** Returned
+only already-logged material: Garrard County Distilling, the Jim Beam Clermont pause, the Fireball
+distributor suit, craft-distillery closures, the industry-contraction coverage, and the Canada
+tariff pause itself.
+
+**One useful confirmation:** the search summary independently describes the Canada tariffs as
+"paused pending negotiations" as of this window. **Consistent with the Aug 20 finding. No evidence
+the pause has resolved either way yet** — which is exactly why it is a Tuesday item and not a
+Friday one. **The Sunday run's job is to find out how it landed.**
+
+**Assessed and correctly not fired:** the tariff pause, fourth consecutive run recording this. A
+trade measure, reversed or not, is not a recall, a safety issue, partner litigation or a death.
+**The Copperworks item is also not an override** — a charitable release during a live wildfire is
+not a recall or a safety issue. It ran in a normal slot, quiet and factual, no occasion framing,
+which is what the staging note specified.
 
 ---
 
@@ -653,7 +788,14 @@ its own primary source. The roundup is free for a future item or can simply go u
 
 ---
 
-## FRIDAY Aug 21 — FOUR FIRM AND CLOSED (Thunder Bird taken in Aug 19)
+## FRIDAY Aug 21 — STAGING RECORD (all four PUBLISHED Aug 21; see WHAT SHIPPED above)
+
+**Retained as the record of what was staged and why, and of which cautions proved real when the
+pages were re-fetched on edition morning. Every caution below was checked against the live page —
+the drinking-pace phrasing, the two DISCUS blocks and the long Robinson quote were all present as
+described.** The staged instruction to print a bare "$55 GA / $75 VIP" was the one thing this
+section got wrong; see lesson 22.
+
 
 - `detroit-bourbon-blues-festival-2026` — **VERIFIED, price resolved by default.**
   Sun Aug 23, Eastern Market Shed 5, 2810 Russell St, 12–7pm, 21+, blues from Rome Antenucci,
@@ -887,9 +1029,19 @@ pipeline's; surface it once if he has not raised it by the Aug 28 run.**
 
 ## OPEN GAPS
 
-- **Pair It — 34 days, actionable, unchanged.** A Tier 2 food pairing with its own sensory is on
-  the Aug 21 board. **The gap is a definition, not supply. Recommend redefining as food pairing.**
-  Surfaced Aug 13 and Aug 14; `_unchanged_` since. Do not re-explain.
+- **Pair It — CLOSED Aug 21, after 34 days, by applying the recommendation as the default.** The
+  gap was never supply; it was the definition — cigar-crossover or food pairing. **The Dubai
+  chocolate item shipped under `pair-it`, so the beat now means food pairing in practice.** Aaron
+  was told in one bullet that the recommendation had been applied; he reverses it by reply. **Do
+  not re-open this as a question.**
+- **NEW AND THE MOST ACTIONABLE GAP ON THE BOARD: Fri Aug 28 is EMPTY.** Aug 21 spent all four
+  staged Friday items and nothing has been staged behind them. **Three of the four Friday
+  constraints also just got tighter** — pineapple spent through September, Michigan spent until
+  October, and a fifth straight Whisky Advocate cocktail needs Aaron's say-so while all three
+  Easy Pour alternates on file are WA cocktails. **The Sunday sweep needs to find occasion-led
+  Social Drinker / Venue Regular material in the Aug 28 – Sep 6 window, and ideally a non-WA
+  occasion source.** This is the first genuinely empty edition slot since the outlet-concentration
+  work began; **Tuesdays are two deep and Fridays are now zero.**
 - **Sub-$30 — 25 days.** Aaron's standing decision, not re-queried. **No relief this run and the
   reason is now well evidenced:** the WA value list published Aug 18 has a floor of $35 across
   twenty bottles from Tier 2 sourcing. **A sub-$30 Tier 1–2 item may simply not exist in this
@@ -1228,12 +1380,49 @@ a line-based strip leaves kilobytes of inline JS in the text and buries the arti
    plainly and first. Never quietly restage the corrected version and hope nobody re-reads
    yesterday.**
 
+22. **NEW — a staged price instruction is not a verified price. Re-read the number on the page, not
+   in this file.** The Aug 21 board carried "Print $55 GA / $75 VIP, official site only" for three
+   runs. **The page actually says "($55 + fees)" and "($75 + fees)" and states no all-in figure.**
+   A bare "$55" is a number a reader falsifies at checkout — the exact failure lesson 11 exists to
+   prevent, arriving by a different route: **not a source contradicting itself, but this file
+   compressing a source's number and losing a qualifier.** Published as "$55 plus fees, VIP $75."
+   The same re-read caught "supports" versus "proceeds" on the same page — the file said proceeds;
+   the page never does. **Standing rule: on edition day, re-derive every printed number and verb
+   from the re-fetched page. The staging note tells you which page to read, not what it says.**
+23. **NEW — the collision flags track nouns of provenance, not nouns of flavour.** Nine flags were
+   carried into Aug 21 covering brands, outlets, bylines, insider terms and categories. **None of
+   them caught pineapple running as the Easy Pour hook two Fridays in a row**, in nearly the same
+   phrase, with a third pineapple already in dedup. Coconut is flagged five ways and peach is
+   flagged spent — **so the category exists in this file; it just was not applied to the item
+   actually being staged.** **Standing rule: when staging an item, add the noun that carries its
+   hook to the flag set — the fruit, the flavour, the occasion — and check it against the last two
+   editions of the same segment.** Provenance repetition is a credibility problem; hook repetition
+   is the one a reader actually notices.
+24. **NEW — the edition's one quote is an allocation decision, so make it deliberately.** Two clean
+   candidates cleared every rule on Aug 21: Parker at 16 words and Schikora at 10. **The prompt
+   allows one per edition, so the second is not a near-miss — it is spent budget.** Parker won on
+   need, not quality: the Copperworks item has no price, no sensory and no availability, so the
+   quote was the only human element available to it, while Thunder Bird stands up on a recipe and a
+   named creator. **Standing rule: award the quote to the item that has the least else, not to the
+   best line.**
+
 ---
 
 ## BLOCKERS
 
 - Write access: **resolved and stable.** Tenth consecutive successful push.
-- **`whiskey-social-brand` skill NOT PRESENT in this environment — NEW, noted Aug 20.** The
+- **`whiskey-social-brand` skill STILL NOT PRESENT — confirmed again Aug 21, and an edition shipped
+  without it.** Directory listing of the synced skills folder shows `whiskey-social-news-roundup`
+  with all three references and **no brand skill of any name.** **The Aug 21 Last Call ran entirely
+  off the inlined VOICE block, and the inlined block was sufficient** — it carries the banned-word
+  list, the sentence-length rule, the sentence-case and no-exclamation rules, the DISCUS clause and
+  the quote discipline. **The one thing it does not carry is the send-off phrase bank**, which came
+  from `references/edition-templates.md` ("Worth the pour") and was cross-checked against the real
+  Aug 14 post in the channel, which used the identical line. **So the gap is currently costing
+  nothing measurable.** It was surfaced to Aaron once on Aug 20 and compressed to `_unchanged_` on
+  Aug 21 per the no-re-explaining rule. **Do not raise it as its own bullet again unless an edition
+  actually needs a voice decision the inlined block cannot answer.**
+- **The prior brand-skill note, retained:** The
   `whiskey-social-news-roundup` skill and its three references loaded normally; the brand skill is
   not in the synced skills directory at all. **Consequence is limited but real: voice, lexicon and
   the banned-word list came from the inlined VOICE block in the task prompt, which is
@@ -1257,9 +1446,13 @@ a line-based strip leaves kilobytes of inline JS in the text and buries the arti
 
 Story keys are lowercase-hyphenated `brand-product-year`. Prune at 30 days.
 
-**STAGED — not published, but closed to re-scouting (update the entry, never re-discover):**
-Fri Aug 21 — `detroit-bourbon-blues-festival-2026` · `copperworks-farmsmith-spokane-relief-2026` ·
+**Added Aug 21 (published in Last Call):**
+`detroit-bourbon-blues-festival-2026` · `copperworks-farmsmith-spokane-relief-2026` ·
 `whisky-advocate-dubai-chocolate-pairing-2026` · `whisky-advocate-thunder-bird-cocktail-2026`.
+**All four are now PUBLISHED, not staged. Never re-publish, never re-scout.** Detroit is
+additionally dead by event date after Aug 23.
+
+**STAGED — not published, but closed to re-scouting (update the entry, never re-discover):**
 Tue Aug 25 — `jameson-distillers-batch-single-pot-still-2026` ·
 `heriot-watt-kirin-mango-aroma-study-2026` (**new Aug 19**) ·
 `redemption-single-barrel-bonded-bourbon-2026` · `garrison-brothers-cowboy-bourbon-12-2026`.
@@ -1296,30 +1489,36 @@ Carried: `bourbon-women-siposium-2026` · `unreined-wildhorse-ranch-rickhouse-20
 `louisville-rickhouse-nulu-2026` · `heaven-hill-bib-double-mash-2026` ·
 `blade-and-bow-12yr-solera-2026` · `deanston-orange-wine-17yr-2026` ·
 `barton-1792-straight-rye-2026` · `garrison-brothers-laguna-madre-2026` ·
-`scotch-tariff-removal-2026-07-24` (4x) · `canada-50pct-tariff-aug-19-2026` (2x) ·
-`bulleit-87-bourbon-rye-2026` (2x) · `old-forester-triple-char-117-2026` ·
-`old-forester-presidents-choice-2026` · `makers-mark-cask-strength-26-01-2026` ·
+`canada-50pct-tariff-aug-19-2026` (2x, **HELD — see below, do not prune**) ·
+`makers-mark-cask-strength-26-01-2026` ·
 `blood-oath-pact-12-2026` · `bushmills-ni-roi-tariff-split-2026` · `old-grand-dad-7yr-bib-2026` ·
 `bardstown-victoria-pineapple-2026` · `watch-hill-proper-festival-aug-15-2026` ·
 `larceny-vinepair-best-bourbons-2026` · `punch-whiskey-highball-2026`.
 Cut: `barton-1792-xv-2026` · `macallan-harmony-vi-coconut-2026`.
 
-### PRUNE LIST — PRE-STAGED Aug 19. Execute FRI Aug 21. Mechanical, no re-dating needed.
+### PRUNE LIST — EXECUTED FRI Aug 21. Four keys removed, two held.
 
-Dates were verified this run by grepping the channel history for each story's coverage date, not by
-position in the list above. **Prune at 30 days from first coverage.** **Confirmed unchanged Aug 20:
-nothing is eligible yet.** The first entry crosses the line **Sun Aug 23**. **Plan stands: run the
-prune Fri Aug 21 for anything eligible by Aug 23** — a two-day early prune on a 30-day window is
-harmless and Friday already has the file open.
+Pre-staged Aug 19, confirmed Aug 20, **run as written on Aug 21 with no re-dating.** The four
+PRUNE rows are gone from the Carried list above. **The plan worked exactly as designed: a table
+authored two runs earlier executed mechanically on edition day, when the file was already open.**
+Keep pre-staging prunes this way.
 
 | Story key | First covered | Eligible | Action Fri Aug 21 |
 |---|---|---|---|
-| `scotch-tariff-removal-2026-07-24` | Jul 24 | Aug 23 | **PRUNE** |
-| `bulleit-87-bourbon-rye-2026` | Jul 25 | Aug 24 | **PRUNE** |
-| `old-forester-presidents-choice-2026` | Jul 26 | Aug 25 | **PRUNE** |
-| `old-forester-triple-char-117-2026` | Jul 27 | Aug 26 | **PRUNE** |
-| `canada-50pct-tariff-aug-19-2026` | Jul 27 | Aug 26 | **HOLD — see below** |
-| `whisky-advocate-charred-garden-smash-2026` | **UNDATED** | unknown | **DO NOT PRUNE** |
+| `scotch-tariff-removal-2026-07-24` | Jul 24 | Aug 23 | **PRUNED ✓** |
+| `bulleit-87-bourbon-rye-2026` | Jul 25 | Aug 24 | **PRUNED ✓** |
+| `old-forester-presidents-choice-2026` | Jul 26 | Aug 25 | **PRUNED ✓** |
+| `old-forester-triple-char-117-2026` | Jul 27 | Aug 26 | **PRUNED ✓** |
+| `canada-50pct-tariff-aug-19-2026` | Jul 27 | Aug 26 | **HELD ✓ — see below** |
+| `whisky-advocate-charred-garden-smash-2026` | **UNDATED** | unknown | **NOT PRUNED ✓** |
+
+**A pruned key is re-scoutable by design.** All four are stale, low-value stories a fresh sweep is
+unlikely to surface — but `scotch-tariff-removal-2026-07-24` ran **four times** and the tariff beat
+is the one Adam complained about. **If a future run rediscovers a Scotch tariff story, that is not
+automatically a repeat — but check this section before staging it.**
+
+**NEXT PRUNE WINDOW:** nothing else is eligible until late September. **Do not re-derive the list
+until an entry actually crosses 30 days.** The four Aug 21 published keys become eligible **Sep 20**.
 
 **`canada-50pct-tariff-aug-19-2026` must NOT be pruned — the case got STRONGER Aug 20.** It is now
 an active Tue Aug 25 candidate carrying a material new development (the pause, and whatever it
@@ -1371,8 +1570,28 @@ and no longer reserved.** Every item that was queued behind it now has its own l
   `old-grand-dad-7yr-bib-2026` and `bib-tucker-8yr-bottled-in-bond-2026` in dedup. **The Thunder
   Bird recipe also calls for Rittenhouse bottled-in-bond rye.** Definition has been printed before.
   **Do not re-teach it; assume it and link.**
-- **A fourth straight Friday of a WA cocktail** if Thunder Bird runs Aug 21. **Recommended anyway**
-  — see the Aug 21 entry for why the Michigan/Detroit adjacency outweighs it.
+- **A fourth straight Friday of a WA cocktail — IT HAPPENED Aug 21.** Taken deliberately for the
+  Michigan/Detroit adjacency. **The count is now four. A fifth should not be taken without Aaron
+  saying so.** The three demoted alternates are all WA cocktails too, so **the fix is not a
+  different cocktail — it is a different kind of Easy Pour**, or no Easy Pour that week. Worth
+  finding one non-WA cocktail or occasion source before the Aug 28 Friday.
+- **PINEAPPLE — NEW Aug 21, and the flag set missed it.** Aug 14's Easy Pour was a pineapple smash
+  published with "Bright and tropical up front"; Thunder Bird's WA sensory is "a bright, juicy hit
+  of pineapple and lime up front." **Two Fridays, same segment, same fruit, nearly the same
+  phrase.** Caught at draft time and fixed by leading on the split rye-and-rum base instead;
+  pineapple ran as an ingredient, never the hook. `bardstown-victoria-pineapple-2026` is also in
+  dedup, making three. **Pineapple is spent for Friday through September.** See lesson 23 — the
+  flags tracked brands, outlets, bylines and terms but not the hook noun.
+- **Michigan, twice in one edition — deliberate and now spent.** Detroit (Eastern Market) and Ann
+  Arbor (Huna) both ran Aug 21. It reads as intentional geography rather than repetition, which is
+  why it was taken. **Do not run a third Michigan item before October.**
+- **Charitable and community framing, twice in one edition.** Detroit supports the FernCare Free
+  Clinic; Copperworks funds Spokane fire relief. **Both were sourced and neither was the hook, so it
+  read as coherent rather than worthy** — but a third cause-led item in one edition would tip into
+  sanctimony. **Cap it at two.**
+- **Spokane / live-wildfire framing.** The Copperworks item ran while the fire was still burning.
+  **If the fire is still active on a future run, a second Spokane item is defensible; once it is
+  out, the story is over and the item is not restageable.**
 - **Peach is spent for 2026.**
 - **Andrea Wilson twice in one week — spent.** Quoted Aug 11, named Aug 14. **Do not name her a
   third time before September** without a deliberate call.
@@ -1469,58 +1688,74 @@ and the fifth coconut item) · `discus-congressional-fly-in-2026`.
 
 ---
 
-## NEXT RUN (Fri Aug 21 — EDITION, Last Call)
+## NEXT RUN (Sun Aug 23 — PREP; Saturday does not run, cover back through Friday)
 
-**This is an edition day. Load the brand voice rules FIRST** — from `whiskey-social-brand` if it is
-present, otherwise from the inlined VOICE block in the task prompt (it was absent Aug 20).
+**This is a prep run, not an edition. Internal register, no UTMs, raw links.** The next edition is
+**Tue Aug 25 (The Shortlist)**, which is already four firm.
 
-1. **Fri Aug 21 is FOUR FIRM and closed.** Detroit blues festival (date-critical, Aug 23 event),
-   Copperworks Spokane relief (no price, quiet register), Dubai chocolate pairing, Thunder Bird
-   cocktail. **Do not add a fifth. Do not restage Bardstown into Friday just because it releases
-   that day** — wrong register for Last Call.
-2. **DO NOT PUT THE CANADA TARIFF IN FRIDAY'S EDITION.** The pause expires end of day Friday per
-   Carney, or Sat Aug 22 per Robb Report's three-day figure. **Either way it can be false by
-   Friday evening.** It belongs on Tue Aug 25, when the outcome is known.
-3. **Re-confirm all four staged link-outs load** before drafting — the edition-day step that makes
-   staged age safe. It cannot be skipped.
-4. **Execute the pre-staged prune list.** It is a table; no re-dating needed. **Hold
-   `canada-50pct-tariff-aug-19-2026`** — it is now an active Aug 25 candidate, so pruning it would
-   be worse than before. **Do not prune the undated Charred Garden Smash.**
-5. Spend no intimidation budget on **single pot still** (save it for Jameson Aug 25) or
-   **bottled-in-bond** (printed four times already — assume it and link).
-
-### Then Sun Aug 23 — PREP (Saturday does not run; cover back through Friday)
-
-6. **THE ONE THING TO CHECK FOR AARON: how did the Canada tariff pause resolve?** A finalized deal,
-   an extension, or a live 50% tariff. **Robb Report and The Spirits Business both covered the
-   pause, so either is the likely follow-up.** Whatever the outcome, it makes the Aug 25 item
-   concrete. **This is the highest-value single check on the board.**
-7. **Aaron owes two decisions. Do not re-ask either more than once more.**
+1. **THE ONE THING TO CHECK FOR AARON: how did the Canada tariff pause resolve?** A finalized deal,
+   an extension, or a live 50% tariff. Carney put the pause at end of day **Fri Aug 21**; Robb
+   Report's three-day figure lands **Sat Aug 22**. **Both dates are now in the past, so the outcome
+   is knowable on Sunday.** Robb Report and The Spirits Business both covered the pause, so either
+   is the likely follow-up; the Aug 21 urgent sweep still described it only as "paused pending
+   negotiations," so **the resolution had not published as of Friday morning.** Whatever it is, it
+   makes the Aug 25 item concrete. **Highest-value single check on the board, fifth run running.**
+   **Still not an urgent override, whatever it resolves into.**
+2. **Aaron owes two decisions, and BOTH now have a firm default date. Do not re-ask more than once
+   more.**
    (a) **Bardstown link-out:** Robb Report's tasting or Fred Minnick's 99 IWSC points — not both.
-   Recommendation on file is Robb Report. **If no reply by the Aug 28 run, apply the recommendation
-   as the default and say so once**, per the Macallan precedent.
-   (b) **The tariff reversal on Aug 25.** Now a much stronger ask than the Aug 19 version, because
-   the premise changed: it is the opposite outcome, not the same article a third time.
-8. **Aug 25 is four firm and balanced — do not add to it.** Live question is the **Flicker
+   Recommendation on file is Robb Report. **If no reply by the Aug 28 run, apply it as the default
+   and say so once**, per the Macallan precedent. **Not re-asked Aug 21** — it was compressed into
+   `_unchanged_` because nothing changed and the Sep 1 slot is not close.
+   (b) **The tariff reversal on Aug 25.** Asked Aug 20 and again Aug 21 as a one-line Notes bullet.
+   **That is the second ask. Do not ask a third time** — if Sunday finds the resolution and there is
+   still no reply, state the recommendation and apply it on Aug 25, or hold the item to Sep 1.
+   (c) **NEW, and it is already applied, not pending: Pair It now means food pairing.** The Aug 21
+   edition spent `pair-it` on the Dubai chocolate item and told Aaron in one bullet that the
+   standing recommendation had been applied. **He reverses it by reply. Do not re-surface it as an
+   open question — it is closed by default.**
+3. **Aug 25 is four firm and balanced — do not add to it.** Live question is the **Flicker
    concentration, three of four bylines.** If it needs breaking up, hold Garrison to a September
    Tuesday. **Do not re-search Jameson, Redemption, Garrison or the mango study; all four are
-   resolved and verified.**
-9. **Sep 1 is THREE STAGED and the non-Collector gap is closed.** All three carry sourced sensory.
+   resolved and verified.** Re-confirm their four link-outs on **Tue Aug 25**, not Sunday.
+4. **Sep 1 is THREE STAGED and the non-Collector gap is closed.** All three carry sourced sensory.
    **Do not add a fourth.** If one is added it must be neither Collector nor Flicker.
-10. **Discovery order, settled by evidence: section index → RSS feed → author rail.** Sweep
+5. **Fri Aug 28 is EMPTY and it is the real gap now.** Aug 21 spent all four Friday items. **The
+   Sunday sweep's second job, after the tariff, is finding Friday material** — occasion-led, Social
+   Drinker / Venue Regular, an event in the Aug 28–Sep 6 window. **Constraints that are now
+   tighter than they look:** no pineapple (spent through September), no Michigan (twice on Aug 21),
+   at most two cause-led items, **and a fifth straight WA cocktail needs Aaron's say-so** — the
+   three alternates on file are all WA cocktails, so a non-WA occasion source is worth real search
+   budget. `hard-truth-dark-roast-rye-2026` has an Indianapolis event **Fri Aug 28** already
+   assessed as the better peg of its two — **but it is Tuesday material, not Last Call.**
+6. **Discovery order, settled by evidence: section index → RSS feed → author rail.** Sweep
    `robbreport.com/food-drink/spirits/` first (nine articles per fetch, ten-digit post-ID regex in
    HOSTS, date from JSON-LD `datePublished`), then `whiskyadvocate.com/call/blogs/rss/`, then the FM
    recent-articles rail. **All three produced material Aug 20 — the order works, do not vary it.**
-11. **Recheck `jones-mack-bourbon-2026` for independent Tier 1–2 pickup.** It is the only watched
+7. **Recheck `jones-mack-bourbon-2026` for independent Tier 1–2 pickup.** It is the only watched
    item with a live path to publishable. Everything else in WATCHING is blocked on the forward bar,
-   not on sourcing.
-12. **Beat-slug gap:** the mango study publishes under `try-this-next`. **Aaron has not replied;
-   stop re-noting it — it is compressed into `_unchanged_` and stays there.**
-13. **If Aaron has not raised the September seasonal third-edition bump by the Aug 28 run, surface
+   not on sourcing. **Louisville collision has eased** — the Aug 21 venue item was Detroit, so the
+   Jul 31 / Aug 14 Louisville pair is no longer consecutive.
+8. **Also worth one cheap check: Copperworks.** The Fred Minnick rail on the Aug 14 page carried
+   **"Copperworks to Release Barleywine-Finished Expression to Whiskey Club Members," Aug 20** — a
+   collaboration with Urban Family Brewing. **Not staged and not assessed.** Club-members-only very
+   likely fails the forward bar, and Copperworks just ran Aug 21, so **it needs both a real footprint
+   and daylight from the Spokane item.** Recorded so it is assessed once rather than rediscovered
+   repeatedly. Same rail also carried **Filmland Spirits' first American Single Malt, Aug 20, 86
+   proof, 100% malted barley** — `filmland-malted-mummy-2026`, unassessed, and note Filmland already
+   appears in the Aug 18 value list. **Neither is a Friday item.**
+9. **Beat-slug gap:** the mango study publishes under `try-this-next`. **Aaron has not replied;
+   stop re-noting it — it is compressed into `_unchanged_` and stays there.** **`pair-it` is now
+   spent once and defined as food pairing** — see item 2(c).
+10. **If Aaron has not raised the September seasonal third-edition bump by the Aug 28 run, surface
    it once.** Sept–Nov adds a third weekly edition per the skill. His call, worth exactly one bullet.
-14. Do not search Pair It or sub-$30 — both are Aaron's standing decisions. **If sub-$30 comes up,
+   **Note the interaction with item 5:** a third weekly edition needs a fuller board than Aug 28
+   currently has. **Say that in the same bullet if it comes up — it is the honest constraint.**
+11. Do not search Pair It or sub-$30 — both are Aaron's standing decisions. **If sub-$30 comes up,
    the honest finding is that the Tier 1–2 value floor is $35–$40, not that supply was missed.**
    Do not re-test the WA bars subdomain before September. Do not re-fetch `/news` or
    `/Tag/Cocktails`. Do not re-fetch the Garrison event directory. Do not surface Macallan, Moonshine
    University, Jack Daniel's #17, Strathearn or Brown-Forman earnings — all closed.
-15. Urgent sweep, window back through Friday.
+12. Urgent sweep, window back through Friday Aug 21.
+13. **Do not re-derive the prune list.** It was executed Aug 21 and nothing is eligible until late
+   September. See the PRUNE LIST section.
