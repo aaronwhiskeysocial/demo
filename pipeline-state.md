@@ -3,23 +3,248 @@
 Durable memory for the Whiskey Social whiskey-news pipeline. Authoritative over Slack
 thread copies. Human feedback in #whiskey-news overrides this file.
 
-**Last run:** 2026-08-23 (Sun), **PREP — the tariff question is ANSWERED, and Fri Aug 28 went
-from empty to two staged.**
-**Prior run:** 2026-08-21 (Fri), EDITION — Last Call, four items, prune executed.
+**Last run:** 2026-08-24 (Mon), **PREP — the tariff got a spirits pickup but from an UNLISTED outlet,
+so the block moved from supply to tiering. WA's whiskey-life and travel indexes were proven
+loadable. No non-WA Friday item exists yet.**
+**Prior run:** 2026-08-23 (Sun), PREP — tariff resolved, Fri Aug 28 went from empty to two staged.
 **Prior editions:** Aug 21 (Fri, Last Call) · Aug 18 (Tue, The Shortlist) · Aug 14 (Fri) · Aug 11 (Tue).
-**Next edition:** 2026-08-25 (Tue, The Shortlist).
-**Next prep:** 2026-08-24 (Mon).
-**Search window this run:** Aug 20–23 (covering back through Friday; Saturday does not run).
+**Next edition:** 2026-08-25 (Tue, The Shortlist) — **TOMORROW. Four firm.**
+**Next prep:** 2026-08-26 (Wed).
+**Search window this run:** Aug 21–24 (covering back through Friday; Saturday does not run).
 
-Twelfth consecutive run with a successful push. Write access stable.
+Thirteenth consecutive run with a successful push. Write access stable.
 
-**Channel check:** last 14 days read (Aug 9 – Aug 23). **No human replies from Aaron or Adam in
-the window.** All 29 parent messages in the read are automated Pour posts authored through this
-pipeline; the threads hanging off the older ones are this pipeline's own state-fallback dumps from
-the write-access period, not replies. Adam's last real message was Jul 27 ("Seems to be creating
-the same articles over and over"), now outside the window; **Aaron has never replied in the
-channel.** **Nothing overrode this file.** **Nothing had been posted Aug 23 before this run, so
-idempotency was not in play** — the newest message in the channel was the Aug 21 06:14 PT edition.
+**Channel check:** last 14 days read (Aug 10 – Aug 24). **No human replies from Aaron or Adam in
+the window.** The newest message in the channel was this pipeline's own Aug 23 06:21 PT prep post;
+every parent message in the read is an automated Pour post authored through this pipeline. Adam's
+last real message was Jul 27 ("Seems to be creating the same articles over and over"), long outside
+the window; **Aaron has never replied in the channel.** **Nothing overrode this file.**
+**Nothing had been posted Aug 24 before this run, so idempotency was not in play.**
+
+---
+
+## MONDAY Aug 24 — PREP RUN (posted 06:2x PT)
+
+The run had three jobs from the Aug 23 file: find a vetted tariff link-out, find ONE non-Whisky-
+Advocate Friday item, and try WA's Travel and Whisky Life sections once. **One landed, one did
+not, and the third landed bigger than expected as a structural find.**
+
+### `canada-50pct-tariff-aug-19-2026` — A SPIRITS OUTLET FILED. The block is now a TIERING question.
+
+**The Spirits Business filed the collapse at 10:26 UTC today (03:26 PT), by Nicola Carruthers** —
+`https://www.thespiritsbusiness.com/2026/08/canada-us-dispute-heats-up-with-50-tariff/`.
+**Robb Report has NOT filed on the collapse.** Its section index still carries only the Aug 20
+pause piece (`trump-pauses-canada-goods-tariff-1238567069`). So the answer to the Aug 23 file's
+"one check that matters" is: **yes, a spirits outlet covered it — but not one on the vetted list.**
+
+**What TSB supports that this file did not already carry:**
+- Canada's retaliation **now has a date: 8 September**, at 50%, on US steel, dairy, appliances,
+  agricultural equipment, pulp and paper, and electronics.
+- US alcohol has been off Canadian government liquor-board shelves **since March 2025 — 18 months**,
+  which is the cause the US tariff was framed as answering.
+- Trump's July framing: the tariff would "level the playing field for crucial American exports –
+  cars, alcohol, and dairy."
+- **A clean short quote exists: Carney said the US "asked too much and offered too little"** —
+  seven words, named speaker, from the linked source. Also usable: "match Washington's new tariffs
+  dollar for dollar."
+- Confirms the tariff took effect **Saturday 22 August** and that the 19 Aug start was postponed by
+  at least three days for talks. **This matches the BNN Bloomberg facts already verified Aug 23.**
+
+**TWO-SOURCE RULE: CLEARED.** TSB (original UK trade reporting, named staff journalist) plus BNN
+Bloomberg (verified Aug 23) are independent, and Robb Report's pause piece is a third partial.
+**The facts were never the problem and are not re-searched.**
+
+**THE OPEN QUESTION IS THE TIER, AND IT IS AARON'S.** The inlined tier core in
+`references/verification-protocol.md` lists Tier 2 as: Whisky Advocate, Bourbon Review, Breaking
+Bourbon, PUNCH, SevenFifty Daily, **Drinks International**. **The Spirits Business is not on it.**
+It is not Tier 4 either — no conflict of interest, no contributor-column problem, original
+reporting with named staff bylines. **It is the same class of publication as Drinks International,
+which IS Tier 2 — an established UK spirits trade title.** The living source directory that would
+settle this is unreachable (25th run).
+**Recommendation: hold to Sep 1 as already planned, and let a listed outlet file if one will.**
+Sep 1 is seven days out; Whisky Advocate or Breaking Bourbon may well pick it up. **If neither has
+by the Sep 1 run, the recommendation is to treat TSB as Tier 2-equivalent and link it** — it is
+established trade press by every test except enumeration. **Surfaced to Aaron as one Notes bullet.
+Do not link it before he answers or the default date arrives.**
+**Key unchanged. Still HELD. Do not re-key it to a collapse slug. Do not re-search the facts.**
+
+### THIS IS THE SECOND ITEM TO STALL ON TIERING — the file's own escalation trigger has fired
+
+The Aug 21 BLOCKERS entry said a committed vetted-outlet list on this branch "is still the right
+fix **if a second item ever stalls on tiering** — but it is not urgent." **Shanken News Daily was
+the first (Redemption, Aug 17); The Spirits Business is now the second.** The Shanken question went
+moot only because Robb Report happened to cover the same story. **That luck is not a process.**
+**So the escalation is now earned and is raised as one Notes bullet this run** — a short committed
+tier list on this branch, so unlisted-but-legitimate outlets stop costing a decision each time.
+It is Aaron's call whether to write it; the pipeline should not invent tiers for itself.
+
+### `hibiki-12-2026` — NEW, fully verified, real sourced sensory, and it FAILS anyway
+
+Robb Report Taste Test, **Aug 23, Jonah Flicker** —
+`https://robbreport.com/food-drink/spirits/whiskey-review-hibiki-12-japanese-whisky-1238568950/`.
+**Score 92. Flicker's own palate notes: orange, chocolate, blueberry, baking spice, vanilla, maple,
+honey, warm biscuit.** $188, 86 proof. Hibiki 12 was discontinued in 2015 and is back after an
+eleven-year absence. Blend of Yamazaki and Hakushu malt plus Chita grain; **no umeshu-cask whisky in
+the new version**, unlike the original; Chita grain base in American oak, malts in Spanish oak and
+Japanese mizunara.
+**IT IS A GLOBAL TRAVEL RETAIL EXCLUSIVE — a few airport shops only.** Flicker writes that "it's
+not like you can just head out to a store to buy a bottle." **That is the forward bar, and it fails
+it decisively** — the same test that closed Jack Daniel's #17 (distillery-exclusive), Gleneagles (no
+US availability), Wyoming Whiskey (state-exclusive) and Branch & Barrel (Colorado-only).
+**Three further reasons, none of them needed:** $188 is high for the board; **it would be Flicker's
+sixth byline across the Aug 25 and Sep 1 boards**; and **Hibiki was already printed on Aug 21** —
+the Dubai chocolate blurb named Hibiki Japanese Harmony, and this article discusses Harmony directly.
+**ASSESSED ONCE AND DROPPED. Do not restage on the strength of "Robb Report tasted it" — it did,
+at 92, and the bottle is still airport-only.**
+
+### `koopers-texas-oak-bourbon-2026` — RESOLVED AGAINST. Removed from September pointers.
+
+Fred Minnick filed Aug 21 —
+`https://www.fredminnick.com/2026/08/21/koopers-whiskey-texas-oak-bourbon-set-to-release-aug-22/`.
+**Facts: 8-year-old straight bourbon, barrel proof 114.8, $70, TWO casks yielding only 360 750ml
+bottles**, finished in toasted Texas-grown white oak from **Standard Cooperage, Blanco, Texas** (the
+state's first cooperage), master blender **Troy Kooper**. **Presale opened 11:00 a.m. Saturday
+Aug 22**, online and at the Koopers tasting room.
+**IT FAILS ON TWO INDEPENDENT COUNTS.**
+1. **SOURCING: the FM piece is a press-release reprint** — it says "said in a news release" and
+   carries an "About Koopers Whiskey" boilerplate block. TSB's earlier write-up is the same release.
+   **Press-release reprints across outlets count as ONE source. Koopers has never had two.**
+   **All of its sensory language is Troy Kooper's own news-release quote** — "a solid core of
+   sweetness, structure, and grain character," "expressive but not overwhelming." **Brand copy.
+   Never printable as sourced sensory.** (TSB caveat already on file: its product write-ups reprint
+   release notes verbatim. Confirmed again.)
+2. **FORWARD BAR: 360 bottles, and the sale opened two days ago.** Same trap as Bruichladdich
+   Greener Still — by any edition date it is realistically gone. A September peg is indefensible.
+**REMOVED from SEPTEMBER POINTERS and moved to DROPPED. Do not rediscover.** Lesson 25 again: the
+second source arrived and killed the item rather than clearing it.
+
+### WA'S TRAVEL AND WHISKY-LIFE SEAM — TESTED, AND IT WORKS. This is the run's structural find.
+
+The Aug 23 file set this as job three and it paid off. **The guessed paths are wrong and the real
+ones work:**
+- **`whiskyadvocate.com/travel` → 404. `whiskyadvocate.com/whisky-life` → 404.** Do not retry these.
+- **`whiskyadvocate.com/whiskey-life` → 200 and RENDERS ARTICLE LINKS TO SCRIPTS** (note the
+  spelling: *whiskey*-life, not *whisky*-life). Yielded 22 article-shaped paths in one fetch.
+- **`whiskyadvocate.com/tag/travel` → 200, renders links.** Fifteen paths.
+- **`whiskyadvocate.com/tag/Features` → 200, renders links.** Fifteen paths.
+**This matters because `/news` and `/Tag/Cocktails` are article-link-free** — WA's tag pages were
+assumed client-rendered across the board. **They are not. Only some are.** These three are real,
+server-rendered indexes and they are the repeatable Friday seam lesson 26 predicted.
+Other section paths seen in WA nav, untested: `/tag/food` · `/tag/dispatches` · `/tag/insights` ·
+`/ratings-reviews` · `/tag/sevans` (a Sean Evans author index — **useful for byline management**).
+
+**A DATED BENCH OF FRIDAY CANDIDATES NOW EXISTS — verified to load, dated, NOT staged:**
+- `whiskyadvocate.com/fort-collins-for-whisky-lovers` — "Whisky-Friendly Fort Collins," **Jun 24
+  2026.** Freshest of the three. Venue Regular / travel.
+- `whiskyadvocate.com/Beach-Bars-with-Great-Whisky-Lists` — **Jul 6 2026.** Seasonal; beach framing
+  weakens after August.
+- `whiskyadvocate.com/48-hours-in-houston` — **May 14 2026.** Oldest.
+**All three are two-to-three months old with no news peg, which is the honest weakness** — the
+glamping piece worked because it was three days old and dateable. **Service journalism dates slowly
+(lesson 26), so these are a floor-clearer for a thin Friday, not a lead.** **Sensory content
+unverified — check before staging.** All three are Whisky Advocate, so **none of them fixes the
+Aug 28 outlet problem.**
+Skipped from these indexes as already-known or colliding: Louisville Rickhouse (Louisville ran
+Jul 31 and Aug 14) · Bourbon Room Saratoga Springs · Still Austin Quarter · WhistlePig depot ·
+peach cocktails (spent) · Tropical Manhattan (coconut) · barrel-entry-proof · multi-location bars
+(stale, in DROPPED). Untested feature candidates noted: `/red-white-blue-corn-bourbons` (**collides
+with First West's Baby Black corn, ran Aug 18**) · `/india-single-malt-whiskies` ·
+`/12-year-old-bourbons` · `/ultra-aged-bourbon` · `/Low-Proof-Whiskies-to-Try` ·
+`/the-art-of-creating-blended-scotch`.
+
+### Fri Aug 28 — THE NON-WA ITEM WAS NOT FOUND. Still two staged, both Whisky Advocate.
+
+**This is the one job that did not land, and it is a supply fact, not an oversight.**
+- **Whisky Advocate published NOTHING new since Fri Aug 21.** The RSS feed's newest item is the
+  Aug 21 Whisky Watch, already spent on Filmland. Three days, no new WA material.
+- **Robb Report filed a second consecutive dry week.** Two new pieces since Aug 23: the Hibiki 12
+  taste test (**fails, above**) and a Kyle MacLachlan Washington *winery* profile (not whiskey).
+  **Two dry weeks running is now a pattern, not variance** — see OPEN GAPS.
+- **The FM rail produced nothing stageable:** Koopers (**failed, above**), Sazerac/Garrard County
+  (trade), Jones Mack (still blocked), Tequila Ocho (already dropped).
+- **TSB's 23-item index produced nothing stageable either** beyond the tariff. Full assessment below.
+**Aug 28 remains TWO STAGED, which still clears the empty-pipeline floor.** Both are WA link-outs.
+**Do not fix this by dropping a verified item, and do not pad.** Three prep runs remain before it
+(Wed, Thu — and Tue is the edition). **If no non-WA item exists by Thursday, run two. Two verified
+beats three with one padded.** Constraints unchanged and all still clear: no pineapple, no
+Michigan, at most two cause-led, no fifth WA cocktail. **Hard Truth's Aug 28 Indianapolis event is
+still Tuesday material — do not convert it.**
+
+### Assessed and NOT staged this run — the TSB index, 23 items
+
+**`sazerac-finalises-garrard-county-acquisition` (Aug 21) — and this one CLOSES an urgent-sweep
+name.** Sazerac completed its purchase of Garrard County Distilling, Lancaster KY. Receivership
+April 2025 after Truist Bank took it to court over ~$26M; Sazerac affiliate Tom Collings Distilling
+bought the loan; **won a $20M court-ordered auction bid on 26 June.** 210 acres, two column stills,
+two 20,000-sq-ft warehouses. Joins Buffalo Trace, Barton 1792 and Glenmore. **Fred Minnick filed
+the same story Aug 21, so it has two outlets.** **Still trade news with no consequence for a
+reader's shelf or weekend — beat file, never staged**, same test that closed Circle City and
+Brown-Forman earnings. **Its real value: the Garrard County distress story logged in the Aug 17–18
+urgent sweep is now RESOLVED by acquisition. It should not resurface as live litigation.**
+**`soho-spirits-festival` — two pieces, and the word "safety" is in the headline. ASSESSED AGAINST
+AN OVERRIDE.** London's Soho Spirits Festival, due Aug 21–22 at The Vinyl Factory, **cancelled on
+the day**. The follow-up (Aug 24) carries founder **Tony McGeever**'s statement: he "tried to get
+there far too quickly and took on far too much myself, without the financial and operational
+foundations in place to deliver it safely," and reached a point where he "could no longer deliver
+the event safely and responsibly." **THIS IS NOT AN URGENT OVERRIDE and a future run must not
+escalate it because the headline says "safety."** No hazard, no injury, no recall, no regulator
+action, no litigation, no death. **It is an organiser's own financial-and-operational cancellation**,
+with refunds already processing. UK event, no WS partner; Four Roses and Bushmills were exhibitors
+only, not implicated. **Not stageable either** — a cancelled London event has no US reader
+consequence. **Recorded so the safety wording is never mistaken for a safety incident.**
+**`fssai-revokes-sales-ban-on-select-diageo-products` (Aug 21) — assessed against an override, no
+fire.** India's FSSAI lifted its ban on McDowell's No.1 Rum from United Spirits' Baramati plant
+(order dated 29 June, revoked 17 Aug) and on whisky from a third-party Madhya Pradesh unit
+(revoked 20 Aug) tied to Antiquity Blue and Royal Challenge. **The challenge was product LABELLING
+non-conformance, not consumer harm.** Linked to United Spirits' 1 Aug writ petition, Bombay High
+Court, hearing 24 Aug. Diageo denies misconduct and has agreed to reformulate some products
+(Reuters). Separately, FSSAI confiscated ~18,000 cases (~$1.6M) over missing safe-recycled-plastic
+markings on 180ml bottles. **Not a WS partner, India-only, bans REVOKED rather than imposed,
+labelling rather than safety. Not an override.** Logged so a future run recognises FSSAI.
+**Fast rejections, recorded so the TSB index does not re-surface them:**
+`english-whisky-distillery-at-bodmin-jail-gets-green-light` — a distillery *approval*; same
+forward-bar failure as Glenachulish, nothing to drink for years. ·
+`dr-rachel-barrie-on-creating-the-glendronach-aged-56-years` — a 56-year-old; price far past the
+forward bar, and Glendronach is already in DROPPED via Gleneagles. ·
+`gallup-us-drinkers-shift-to-spirits-as-beer-dips` — **consumption-share data. Trade news, and the
+framing is DISCUS-hostile. Never stage a consumption-trend item.** ·
+`alcohol-tax-killing-irelands-pub-sector` — Irish policy, no US reader consequence. ·
+`new-bar-paper-plane-to-open-in-october` — London bar opening. ·
+`sazerac-adds-two-whiskies-to-india-portfolio` · `iwsr-premiumisation-still-alive-in-gtr` ·
+`one-third-of-all-eu-spirits-exports-are-irish` · `cutwater-owner-invests-13m-in-ny-plant` ·
+`award-winning-lady-alai-sets-sights-on-expansion` — all trade. ·
+`mykonos-gets-taste-of-chic-elit` (vodka) · `casa-bacardi-heads-to-londons-victoria-park` (rum) ·
+`white-claw-taps-sam-quek-to-drive-friendships` · `chivas-charles-leclerc-challenges-chess-grandmaster`
+· `discover-the-best-of-the-us-at-free-trade-event` · `the-cambridge-global-series-returns-for-fourth-year`
+· `copenhagen-bar-summit-to-launch-in-2027` — non-whiskey, marketing, or trade events.
+**`kyle-maclachlan-pursued-by-bear-washington-wine` (Robb Report) — wine. Not whiskey.**
+
+### `jones-mack-bourbon-2026` — an FM URL exists. NOT fetched, by instruction.
+
+The FM rail surfaced `https://www.fredminnick.com/2026/08/17/2-cents-inc-releases-new-jones-mack-bourbon/`
+for free. **Instruction 8 of the Aug 23 file put this item on a monthly check and said not to spend
+a search on it before late September, after two rechecks with no movement. That was respected — the
+page was NOT fetched.** **The URL is recorded here so the late-September recheck starts from it
+rather than re-discovering it.** Expectation to test then, not now: FM reprints press releases, so
+this is most likely the same single release a third time, which would leave the item still
+one-source. **Do not fetch before late September.**
+
+### Urgent sweep — no override
+
+**Window Aug 21–24 (covering back through Friday).** One broad search plus the Robb Report spirits
+section index, the full WA RSS feed, the FM recent-articles rail and the TSB news index (23 items,
+all assessed above).
+**No product recall, no safety issue, no litigation or investigation naming a partner brand or
+venue, no death in the industry. Nothing fires.** The broad search returned only already-logged
+material: the Kentucky distillery that collapsed owing ~$28M (**this is Garrard County — now
+resolved by the Sazerac acquisition above**), the Uncle Nearest $108M banker suit, Sazerac v. RNDC
+(the search puts the claim at $38.6M in unpaid bills), the craft-distillery closure trend (a quarter
+of craft distilleries closed Sept 2024–Sept 2025), and the Fireball distributor suit. **Nothing
+newer than what this file already carries.**
+**Assessed and correctly not fired this run:** the **Soho Spirits Festival cancellation** (headline
+says "safety"; it is an organiser's financial-and-operational cancellation — see above) and the
+**FSSAI/Diageo sales bans** (labelling, India, revoked — see above). **The Canada tariff is now
+live and is still a trade measure, not an override. Fourth consecutive run recording that.**
 
 ---
 
@@ -1129,6 +1354,14 @@ where it is the whole story and where Robb Report supplies a clean plain-English
   where you are that matters," six words.**
   Link: `https://whiskyadvocate.com/glamping-near-whiskey-distilleries`
 
+**AUG 24 UPDATE: still TWO STAGED. The non-WA item was searched for and DOES NOT EXIST YET.**
+WA published nothing new since Aug 21; Robb Report's only new whiskey piece (Hibiki 12) fails the
+forward bar on airport-only distribution; the FM rail and the 23-item TSB index produced nothing
+stageable. **WA's newly-proven travel indexes yielded a dated bench — but every candidate on it is
+also Whisky Advocate, so none of them fixes an outlet problem.** Three runs remain before this
+edition. **If nothing non-WA exists by Thursday, run the two. Do not pad and do not drop a verified
+item.**
+
 **Aug 28 shape: TWO STAGED, which clears the empty-pipeline floor with room to spare.** One bottle,
 one places item — the occasion-led half is covered and the edition does not read as all-event.
 **Both are Whisky Advocate link-outs, and that is the one real cost of this run:** an all-WA Friday
@@ -1283,9 +1516,14 @@ pipeline's; surface it once if he has not raised it by the Aug 28 run.**
   supplied the second source and killed the item with it: U.S.-exclusive, distillery-website only,
   **currently sold out**. A reader cannot buy it. Facts and the sensory block are recorded in the
   Aug 23 section. **Do not restage. Do not re-derive the barley split.**
-- **New pointers added Aug 23, all five sensory-blocked, none staged** —
-  `koopers-texas-oak-bourbon-2026` (best sourced: TSB + WA + FM, but one release between them;
-  360 bottles) · `barrell-new-year-blend-11-2026` (nationwide, the best forward-bar profile) ·
+- **`koopers-texas-oak-bourbon-2026` — REMOVED AS A POINTER Aug 24. RESOLVED AGAINST.**
+  Two independent failures: **360 bottles from two casks with the sale already opened Aug 22**, and
+  **every outlet carrying it is reprinting the same news release**, so it has never had a second
+  source and all its sensory is Troy Kooper's own release quote. Full entry in the Aug 24 section.
+  **Moved to DROPPED. Do not rediscover.** Second pointer killed by its own second source after
+  Bruichladdich.
+- **New pointers added Aug 23 — FOUR remain, all sensory-blocked, none staged** —
+  `barrell-new-year-blend-11-2026` (nationwide, the best forward-bar profile) ·
   `new-riff-sherry-finish-malted-rye-2026` · `bowmore-snarkitecture-oak-voyage-2026` ($360,
   Collector-only) · `dublase-signature-bourbon-trio-2026` (prices not published until Sept 1).
   **Full entries in the Aug 23 section. Every one needs its own link-out — the WA Whisky Watch of
@@ -1300,6 +1538,32 @@ pipeline's; surface it once if he has not raised it by the Aug 28 run.**
   chocolate item shipped under `pair-it`, so the beat now means food pairing in practice.** Aaron
   was told in one bullet that the recommendation had been applied; he reverses it by reply. **Do
   not re-open this as a question.**
+- **NEW GAP, and it is a process gap, not a supply one: THE TARIFF IS BLOCKED ON OUTLET TIERING.**
+  The Spirits Business filed the collapse Aug 24 and clears the two-source rule alongside BNN
+  Bloomberg. **TSB is not on the inlined Tier 1–2 list, is not Tier 4 either, and is the same class
+  of title as Drinks International, which IS listed.** The living source directory that would settle
+  it is unreachable. **This is the SECOND item to stall on tiering after Shanken/Redemption, which
+  fired the escalation the Aug 21 BLOCKERS entry set.** Recommendation on file: **hold to Sep 1; if
+  no listed outlet files by then, treat TSB as Tier 2-equivalent and link it.** Raised to Aaron once
+  as a Notes bullet Aug 24. **Do not link it before he answers or the Sep 1 default arrives.**
+- **Fri Aug 28 outlet gap — STILL OPEN after a full run spent on it, and now with evidence it may
+  not close.** Both staged items are WA. **Nothing non-WA exists to stage:** WA silent since Aug 21,
+  Robb Report dry for a second week, FM rail and the 23-item TSB index empty of stageable material.
+  **The residual ask is unchanged — one non-WA Friday item, not more Friday items.** Three runs left.
+  **Running two verified WA items is the acceptable outcome and is better than padding.**
+- **Robb Report has now filed TWO CONSECUTIVE DRY WEEKS, and that is a pattern rather than variance.**
+  Aug 23: three pieces, none stageable. Aug 24: two pieces, neither stageable (Hibiki fails on
+  distribution, the other is wine). **The Aug 23 file called one dry week normal variance. Two is
+  worth watching.** The Taste Test column still runs weekly and is still the best sourced-sensory
+  supply — **but a weekly review is only useful when the bottle is buyable**, and two of the last
+  five Taste Test subjects were not (Jack Daniel's #17, Hibiki 12). **Check the column's
+  distribution line before treating a taste test as an unblock.**
+- **THE FRIDAY SEAM IS FOUND AND PROVEN — this is the one gap that genuinely closed this run.**
+  `whiskyadvocate.com/whiskey-life`, `/tag/travel` and `/tag/Features` all load 200 and render
+  article links. Lesson 26 predicted service journalism was the seam; the seam now has working URLs
+  and a dated bench of three candidates. **Sweep these monthly. Full detail in the Aug 24 section
+  and in HOSTS.** The residual weakness is honest: the bench is two-to-three months old with no news
+  peg, and all of it is WA.
 - **Fri Aug 28 — LARGELY CLOSED Aug 23, on the first run after it opened.** It was empty on
   Friday; it is **two verified items** now — Filmland (a bottle, Social Drinker) and the WA glamping
   guide (a places item, Venue Regular). **The floor is cleared and the occasion-led half is
@@ -1365,7 +1629,16 @@ pipeline's; surface it once if he has not raised it by the Aug 28 run.**
   orange, cherry syrup. **Still shares Lochs of Jura's link in BOTH outlets, so the two can never
   run in the same edition.** BBC's second garry-oak release this year after Cascadia; the oak is
   more associated with Seattle's Westland. **Still the weaker of the two. Hold as the alternate.**
+- **WA TRAVEL BENCH — new Aug 24, verified to load and dated, NOT staged, sensory unverified.**
+  `whiskyadvocate.com/fort-collins-for-whisky-lovers` (**Jun 24 2026**, freshest) ·
+  `whiskyadvocate.com/Beach-Bars-with-Great-Whisky-Lists` (**Jul 6 2026**, beach framing fades after
+  August) · `whiskyadvocate.com/48-hours-in-houston` (**May 14 2026**, oldest). **Floor-clearers for
+  a thin Friday, never a lead — no news peg, and all three are Whisky Advocate.** Verify sensory
+  before staging any of them.
 - `jones-mack-bourbon-2026` — **RECHECKED Aug 23. UNCHANGED, still needs a second source.**
+  **Aug 24: an FM URL surfaced free in the rail and was deliberately NOT fetched, per instruction —
+  `https://www.fredminnick.com/2026/08/17/2-cents-inc-releases-new-jones-mack-bourbon/`. Start the
+  late-September recheck from it. Do not fetch before then.** Expect the same release a third time.
   2 Cents Inc., Louisville, founders **Brittany and James Penny**. 100 proof, $54.99 / $49.99
   presale, DTC shipping from September. Named for the founders' four WWII-era grandparents —
   Wallace and Naomi Jones, Sylvester and Gertrude Mack. **Still one press release, now also
@@ -1435,7 +1708,16 @@ pipeline's; surface it once if he has not raised it by the Aug 28 run.**
 
 ## URGENT SWEEP — no override
 
-**Window Aug 19–20 (this run).** One broad search plus the full WA RSS feed, the Robb Report
+**Current window is Aug 21–24 — see the MONDAY Aug 24 section above for the full sweep.** Nothing
+fires. Two new names assessed and closed: the **Soho Spirits Festival cancellation** (the headline
+says "safety"; it is the organiser's own financial-and-operational cancellation, not a hazard) and
+the **FSSAI/Diageo sales bans** (India, labelling, revoked). **The Canada tariff is live and remains
+a trade measure, not an override — fourth consecutive run recording that.** The Garrard County
+distress story is now **resolved by Sazerac's acquisition** and should not resurface as litigation.
+
+### Prior window (Aug 19–20), retained
+
+**Window Aug 19–20.** One broad search plus the full WA RSS feed, the Robb Report
 spirits section index and the Fred Minnick recent-articles rail.
 
 **No product recall, no safety issue, no litigation or investigation naming a partner brand or
@@ -1503,6 +1785,15 @@ a line-based strip leaves kilobytes of inline JS in the text and buries the arti
 
 - **`whiskyadvocate.com/call/blogs/rss/` — 200, ten dated items with titles and URLs. THE primary
   WA discovery path.** Produced both new items this run.
+- **`whiskyadvocate.com/whiskey-life` — 200, SERVER-RENDERED, AND IT YIELDS ARTICLE LINKS. NEW AND
+  IMPORTANT, Aug 24.** Note the spelling — **`whiskey-life`, not `whisky-life`**. One fetch gave 22
+  article-shaped paths. **`whiskyadvocate.com/tag/travel` (15 paths) and `whiskyadvocate.com/tag/Features`
+  (15 paths) also load 200 and render links.** These three are the repeatable Friday seam.
+  **The lesson is that WA tag pages are NOT uniformly client-rendered** — `/news` and `/Tag/Cocktails`
+  are, these are not. **Do not generalise either way; test the specific path.**
+  **`whiskyadvocate.com/travel` and `whiskyadvocate.com/whisky-life` both 404 — do not retry them.**
+  Untested WA paths seen in nav: `/tag/food` · `/tag/dispatches` · `/tag/insights` · `/ratings-reviews`
+  · **`/tag/sevans` (a Sean Evans author index — directly useful for byline management)**.
 - **`whiskyadvocate.com/news` and `/Tag/Cocktails` are article-link-free.** `/news` 301s to `/News`,
   loads 200, renders zero article links; `/Tag/Cocktails` renders exactly one. Client-rendered.
   **Do not spend fetches on either.**
@@ -1550,6 +1841,8 @@ a line-based strip leaves kilobytes of inline JS in the text and buries the arti
 - `copperworksdistilling.com` product pages return 200 but are client-rendered; **no price
   readable.**
 - `whiskybars.whiskyadvocate.com` returns 200; content client-rendered and empty. Not re-tested.
+- **TSB article pages load 200 and are clean.** JSON-LD carries `"datePublished"` and a named staff
+  `"author"`, so TSB pieces are reliably dateable and attributable. Confirmed Aug 24 on five articles.
 - **`thespiritsbusiness.com/category/news/` — FETCHED Aug 23, 200, server-rendered, and it is a
   real index.** One fetch yielded **twenty-three dated article URLs** with titles. Extract with
   `https://www\.thespiritsbusiness\.com/2026/\d\d/[a-z0-9\-]+/`. **Use it as the fourth
@@ -1577,7 +1870,27 @@ a line-based strip leaves kilobytes of inline JS in the text and buries the arti
 
 ---
 
-## OPERATIONAL LESSONS (24–26 added Aug 23)
+## OPERATIONAL LESSONS (27–30 added Aug 24)
+
+27. **A guessed section URL is not a tested one, and the spelling matters.** `whiskyadvocate.com/travel`
+    and `/whisky-life` both 404. The real, working paths are **`/whiskey-life`** (with the "e"),
+    `/tag/travel` and `/tag/Features`. **Harvest section paths from an article page's own nav instead
+    of guessing them** — three fetches of guesses bought nothing; one fetch of a known article page
+    yielded the whole nav.
+28. **"Client-rendered" is a property of a path, not of a site.** WA's `/news` and `/Tag/Cocktails`
+    render no article links; `/whiskey-life`, `/tag/travel` and `/tag/Features` render plenty.
+    **Never generalise a rendering failure to a whole host — and never generalise a success either.**
+29. **A weekly review column is only an unblock if the bottle is buyable.** Robb Report's Taste Test
+    is the pipeline's best sourced-sensory supply, but two of its last five subjects failed the
+    forward bar on distribution (Jack Daniel's #17, Hibiki 12). **Read the distribution line before
+    treating a taste test as a green light.** A 92-point independent tasting of an airport exclusive
+    is still not an item.
+30. **An instruction not to search is worth following even when the URL falls into your lap.** The
+    Jones Mack FM link surfaced free in the rail; the file had put the item on a monthly check.
+    **The URL was recorded and the page was not fetched.** Recording where the next check starts is
+    the cheap half of the value; spending the fetch against instruction is the expensive half.
+
+## PRIOR LESSONS (24–26 added Aug 23)
 
 24. **A score is sourced sensory; a score is not a tasting note.** Whisky Advocate tasted Filmland
     and published **90 points and no descriptors**. The right move is to print the number, attribute
@@ -1743,11 +2056,17 @@ a line-based strip leaves kilobytes of inline JS in the text and buries the arti
   core in the skill's `references/verification-protocol.md`.
 - `references/subject-beats.md` still wrong on beat 7, open since Jul 26. Stale-reference risk,
   not a live error.
-- **The unreachable source directory cost nothing this run, and the Aug 17 escalation is
-  withdrawn.** It blocked Redemption for exactly one day; a vetted outlet then turned out to cover
-  the story. **A committed vetted-outlet list on this branch is still the right fix if a second
-  item ever stalls on tiering — but it is not urgent, and it was right not to raise it with Aaron
-  as its own Notes bullet.**
+- **THE SOURCE-DIRECTORY ESCALATION IS BACK ON, AND ITS OWN TRIGGER FIRED — Aug 24.** The Aug 21
+  entry withdrew it but set the condition: reinstate "if a second item ever stalls on tiering."
+  **Shanken/Redemption was the first (Aug 17); The Spirits Business/tariff is now the second.**
+  The Shanken question dissolved only because Robb Report happened to cover the same story — **luck,
+  not process.** Project knowledge has been unreachable for 25 runs, so the inlined stable core in
+  `references/verification-protocol.md` is the only tier authority available, and it enumerates six
+  Tier 2 outlets while the real world keeps producing legitimate unlisted ones.
+  **Raised to Aaron as one Notes bullet this run: a short committed tier list on this branch.**
+  It is his call to write it. **The pipeline must not invent tiers for itself** — that is why the
+  tariff is held rather than linked. **Do not raise this again as its own bullet once he has
+  answered, or if a third item stalls before he does; compress to `_unchanged_`.**
 
 ---
 
@@ -1774,9 +2093,17 @@ open. **Do not re-key it to a collapse slug.**
 **Added Aug 23 (STAGED for Fri Aug 28, closed to re-scouting):**
 `filmland-malted-mummy-2026` · `whisky-advocate-distillery-glamping-2026`.
 
-**Added Aug 23 (September pointers, closed to re-scouting):** `koopers-texas-oak-bourbon-2026` ·
+**Added Aug 23 (September pointers, closed to re-scouting):**
 `barrell-new-year-blend-11-2026` · `new-riff-sherry-finish-malted-rye-2026` ·
 `bowmore-snarkitecture-oak-voyage-2026` · `dublase-signature-bourbon-trio-2026`.
+**`koopers-texas-oak-bourbon-2026` MOVED TO DROPPED Aug 24** — 360 bottles, sale already open,
+one press release across every outlet. Never staged, never published.
+
+**Added Aug 24 (assessed and closed, closed to re-scouting):** `hibiki-12-2026` (Robb Report tasted
+it at 92 — **airport-only, fails the forward bar**) · `soho-spirits-festival-cancellation-2026`
+(organiser's own cancellation, not a safety incident) · `fssai-diageo-sales-ban-revoked-2026`
+(India, labelling, revoked) · `sazerac-garrard-county-acquisition-2026` (trade; **closes the
+Garrard County distress story**).
 
 Alternates and pointers — `bardstown-discovery-2026` · `redemption-ancients-18yr-2026` ·
 `jones-mack-bourbon-2026` (needs second source) ·
@@ -1875,6 +2202,18 @@ and no longer reserved.** Every item that was queued behind it now has its own l
 
 ## COLLISION FLAGS
 
+- **HIBIKI — NEW Aug 24, and it is why the Hibiki 12 rejection was overdetermined.** The Aug 21
+  Dubai chocolate blurb printed "Hibiki Japanese Harmony is the delicate pick," and Robb Report's
+  Hibiki 12 review discusses Harmony directly. **The brand has already been printed inside the last
+  week.** The item failed on distribution anyway, so this cost nothing — **but a Hibiki item before
+  October is a deliberate call, not a drift.**
+- **JONAH FLICKER — the count would have gone to SIX.** He bylines three of four Aug 25 items, both
+  Sep 1 items, and the Aug 18 Old Overholt item. **Hibiki 12 would have been a sixth inside one
+  week.** Rejecting it on the forward bar incidentally held the line. **The cheapest fix is still
+  unchanged: hold Garrison off Aug 25 to any Tuesday through Sept 8.**
+- **AN ALL-WA FRIDAY IS NOW LIKELY, NOT JUST FLAGGED — Aug 24.** A full run was spent looking for a
+  non-WA Friday item and none exists. **Aug 28 will probably run two of two WA.** That is acceptable
+  and better than padding. **Recorded so it reads as a known, accepted cost rather than a miss.**
 - **Whisky Advocate concentration — three of five on Aug 18.** Worse than the two-of-four the Aug
   17 file planned, because the fifth item added on edition morning was WA. **Surfaced in Notes so
   Aaron knows it moved.** It reverses on Aug 25, which carries zero WA link-outs.
@@ -2018,6 +2357,32 @@ and the fifth coconut item) · `discus-congressional-fly-in-2026`.
 - `brown-forman-q1-results-sept-2-2026` — an earnings date. **No consequence for a reader's shelf
   or weekend.** Same test that closed Circle City and the DISCUS fly-in.
 
+**Added Aug 24:**
+- `hibiki-12-2026` — **the clearest "verified and still fails" case this file carries.** Robb Report
+  Taste Test, Aug 23, Flicker, **score 92 with his own tasting notes**, $188, 86 proof, the 12-year
+  statement back after eleven years. **It is a global travel retail exclusive — airport shops only**,
+  and Flicker says so in the piece. Fails the forward bar exactly as Jack Daniel's #17, Gleneagles,
+  Wyoming Whiskey and Branch & Barrel did. **Do not restage on "Robb Report tasted it."**
+- `koopers-texas-oak-bourbon-2026` — **360 bottles from two casks, presale opened Aug 22**, and FM,
+  TSB and WA are all reprinting one news release, so it never had a second source. All sensory is
+  Troy Kooper's release quote. **Was a September pointer; resolved against Aug 24.**
+- `soho-spirits-festival-cancellation-2026` — London festival cancelled on the day. **The headline
+  says "safety" and it is NOT a safety incident** — the founder's own statement attributes it to
+  financial and operational foundations he did not have. UK, no WS partner, refunds processing.
+  **Recorded specifically so a future urgent sweep does not fire on the word.**
+- `fssai-diageo-sales-ban-revoked-2026` — India, product labelling non-conformance, bans **revoked**
+  rather than imposed. Not a WS partner, no US consequence. Not an override.
+- `sazerac-garrard-county-acquisition-2026` — Sazerac completed the $20M auction purchase. Trade
+  news, no reader consequence — beat file. **Value is that it closes the Garrard County distress
+  story from the Aug 17–18 sweep.**
+- `bodmin-jail-english-whisky-distillery-2026` — a distillery *approval*. Same forward-bar failure
+  as Glenachulish. · `glendronach-56-year-2026` — price far past the bar. ·
+  `gallup-spirits-vs-beer-2026` — **consumption-share data; DISCUS-hostile framing. Never stage a
+  consumption-trend item.** · `irelands-pub-sector-alcohol-tax-2026`, `paper-plane-london-bar-2026`
+  and the rest of the TSB trade index — full list in the Aug 24 section.
+- `kyle-maclachlan-washington-winery-2026` — wine, not whiskey. Recorded so the Robb Report index
+  sweep does not re-surface it.
+
 **Added Aug 23:**
 - `gleneagles-glendronach-moment-of-reflection-2026` — 100 bottles, a ballot, one Scottish resort,
   £160/~$218, no US availability, and Robb Report explicitly did not sample it. **Fails the forward
@@ -2034,68 +2399,96 @@ and the fifth coconut item) · `discus-congressional-fly-in-2026`.
 
 ---
 
-## NEXT RUN (Mon Aug 24 — PREP)
+## NEXT RUN (Tue Aug 25 — EDITION, The Shortlist)
 
-**Prep run, internal register, no UTMs, raw links.** The next edition is **Tue Aug 25 (The
-Shortlist)**, four firm.
+**EDITION DAY. Reader-facing copy, brand voice, UTMs on every link.** The board is **FOUR FIRM** and
+has been for six days. **This is a publish-and-verify run, not a discovery run.**
 
-1. **THE ONE CHECK THAT MATTERS: has a vetted outlet filed on the tariff collapse?** Sweep
-   `robbreport.com/food-drink/spirits/` and `thespiritsbusiness.com/category/news/` for it first.
-   **The story itself is resolved and does not need re-reporting** — the tariff has been live since
-   12:01 a.m. ET Sat Aug 22, on $28bn of goods, with Carney pledging dollar-for-dollar retaliation.
-   **The only open question is the link-out.** If one exists, the item becomes publishable and Aaron
-   can have it Aug 25 as a fifth; **the standing recommendation is still Sep 1, because Aug 25 is
-   four firm and balanced.** If none exists, say nothing new — **it is applied-by-default now, and
-   re-noting it would be the fourth mention.** **Do not re-search the tariff facts.**
-2. **Tue Aug 25 — FOUR FIRM. Do not add. Re-confirm the four link-outs on Tuesday morning, not
-   Monday.** Jameson, mango study (both Robb Report), Redemption (Robb Report), Garrison
-   (garrisonbros.com event page). **Do not re-search any of the four.** Live issue is the **Flicker
-   concentration, three of four bylines** — if Aaron wants it broken up, **Garrison holds to any
-   Tuesday through Sept 8** and that costs the board nothing.
-3. **Fri Aug 28 — TWO STAGED, and the ask has changed shape.** It is no longer "find Friday
-   material"; it is **"find ONE non-Whisky-Advocate Friday item."** Both staged items are WA
-   link-outs. **Two verified items already clear the floor, so a third is a nice-to-have and must
-   never be a padded one.** Constraints unchanged and all still clear: no pineapple, no Michigan,
-   at most two cause-led, no fifth WA cocktail without Aaron's say-so. **Do not convert Hard Truth's
-   Indianapolis Aug 28 event into a Last Call item — it is Tuesday material.**
-4. **The seam that actually produced this run's Friday item: WA's Travel and Whisky Life sections,
-   not its news feed.** Service journalism dates slowly and suits an occasion edition. **Try
-   `whiskyadvocate.com` Travel and Whisky Life once on Monday** — a non-cocktail, non-event Friday
-   source is the structural fix for the Friday problem, and one has now worked.
-5. **Discovery order, now four deep and evidence-backed: Robb Report section index → WA RSS feed →
-   FM recent-articles rail → The Spirits Business news index.** All four load and the fourth is
-   new this run. **Do not vary the order.** Note Robb Report filed a dry week (three pieces, none
-   stageable) — **that is normal variance, not a broken path.**
-6. **Sep 1 — THREE STAGED, gap closed, all three carry sourced sensory. Do not add a fourth.** If
-   one is added it must be neither Collector nor Flicker. The tariff item lands here if it gets a
-   link-out.
-7. **Do not re-assess, do not rediscover:** Gleneagles · Bruichladdich Greener Still (**sold out —
-   dead, not deferred**) · Copperworks barleywine (**item 8 is closed**) · Branch & Barrel rye ·
-   the Robb Report pisco sour. All five were assessed Aug 23 and are in DROPPED.
-8. **`jones-mack-bourbon-2026` is now a MONTHLY check, not a per-run one.** Two rechecks, no
-   movement. Do not spend a search on it before late September.
-9. **Five new September pointers exist and every one is sensory-blocked** — Koopers, Barrell New
-   Year, New Riff, Bowmore/Snarkitecture, Dublasé. **The WA Whisky Watch of Aug 21 is spent on
-   Filmland, so each needs its own link before it can run.** Barrell has the best forward-bar
-   profile (nationwide); Dublasé is un-stageable until prices publish Sept 1.
-10. **Aaron owes one decision, and it has a firm default date. Bardstown link-out:** Robb Report's
-   tasting or Fred Minnick's 99 IWSC points — not both. Recommendation on file is Robb Report.
-   **If no reply by the Aug 28 run, apply it as the default and say so once**, per the Macallan
-   precedent. **Compressed to `_unchanged_` until then.**
-11. **Closed by default, do not re-surface as questions:** Pair It now means food pairing (applied
-   Aug 21) · the explainer/travel beat-slug gap (the glamping item folds into it; **do not open a
-   second bullet and do not invent a slug**) · sub-$30 (**Branch & Barrel at $35, Colorado-only, is
-   more evidence the Tier 1–2 floor is $35–$40, not that supply was missed**).
-12. **If Aaron has not raised the September seasonal third-edition bump by the Aug 28 run, surface
-   it once.** Sept–Nov adds a third weekly edition per the skill. **Say the honest constraint in the
-   same bullet: Fridays are the thin side, and a third weekly edition needs a fuller board than
-   Aug 28 has.** His call, worth exactly one bullet.
-13. Urgent sweep, window back through Sun Aug 23. **Recorded and deliberately un-bulleted:** a
-   February 2026 discrimination suit against Bardstown Bourbon Company's former employer surfaced in
-   the Aug 23 sweep. Six months old, no vetted whiskey outlet, nothing to decide. **Context only,
-   for a Sep 1 item.**
-14. **Do not re-derive the prune list.** Executed Aug 21; nothing eligible until late September. The
+1. **RE-CONFIRM THE FOUR LINK-OUTS FIRST, before writing anything.** Jameson (Robb Report), mango
+   study (Robb Report), Redemption (Robb Report), Garrison (garrisonbros.com event page). **All four
+   must return 200 with real body text.** **Do NOT re-search any of the four for facts** — every
+   printable claim is already recorded against its source in the TUESDAY Aug 25 section. If a page
+   fails, one Notes bullet naming it; never present an unloaded link as verified.
+2. **FOUR ITEMS. DO NOT ADD A FIFTH.** Explorer ×2 (Jameson, mango study), Collector ×2 (Redemption,
+   Garrison). Three outlets, **zero Whisky Advocate link-outs**, two items with real sourced sensory.
+   **The tariff does NOT run Aug 25** — it is held to Sep 1 and its outlet question is unanswered.
+   **Do not promote anything from WATCHING to make it five.**
+3. **UTMs — campaign `shortlist-2026-08-25`. Recommended values, all lowercase:**
+   Jameson → `whats-dropping` / `explorer` · mango study → `try-this-next` / `explorer`
+   (**the explainer-slug gap; `try-this-next` is the agreed closest fit — do not invent a slug, and
+   the gap is already `_unchanged_` in Notes**) · Redemption → `whats-dropping` / `collector` ·
+   Garrison → `on-the-calendar` / `collector` (its peg is the Sept 12 event).
+4. **THE SENSORY DISCIPLINE, per item — this is where an edition would fail:**
+   - **Jameson: print Robb Report's taste notes and its score of 88.** Take price ($50) and
+     distribution (nationwide from September) from WA. **Never print the Pernod Ricard release's
+     notes. Forbes is a contributor column — Tier 4, do not cite or link.**
+   - **Redemption: NO SOURCED SENSORY EXISTS ANYWHERE. Print none.** The vanilla/leather/raspberry
+     line is brand copy. **Availability: "in stores and at ReserveBar now" only — never "nationwide,"
+     never a footprint.** The honest hook is six years against a four-year requirement.
+   - **Garrison: print NO AGE** — WA says at least 8 years, the brand's page says six Texas summers,
+     irreconcilable, and the brand is both primary and link-out. **Never split the difference.**
+     Print **$249.99** and **141.0 proof** (= 70.5% ABV, the two sources agree). **Print no sensory** —
+     the event page's notes are marketing and the page also uses "experience," a banned word.
+     **Attribute the 16,000 / 1,000 / 279 bottle figures to Whisky Advocate if printed.**
+     **DO NOT MINE `garrisonbros.com/cowboy-bourbon/` — undated, different, earlier bottling.**
+   - **Mango study: the science IS the sensory** and it carries the board's only usable quote —
+     **Annie Hill, 15 words.** At most one quote in the whole edition, so **spend it here.**
+5. **Do not re-teach bottled-in-bond** — four prior instances. Assume it and link. **Spend the
+   single-pot-still definition on Jameson** (it was deliberately not defined Aug 21). **Define one
+   insider term per item at most.**
+6. **The Flicker concentration is three of four and is the most acute collision on the board.**
+   It was surfaced Aug 18 and nothing has changed, so **compress to `_unchanged_`; do not
+   re-explain it.** **The cheapest fix remains holding Garrison to any Tuesday through Sept 8** — but
+   **that is Aaron's call and there is no default date on it. Run all four unless he says otherwise.
+   Never drop a verified item on the pipeline's own initiative to fix a byline count.**
+7. **Voice: the brand skill is still absent. Run the inlined VOICE block and do not raise it again** —
+   it carries the banned words, sentence length, sentence case, no exclamation points, DISCUS 73.8
+   and the quote rules. **The Shortlist needs no send-off** — that is a Last Call signature only.
+   **Banned words to watch on this specific board: "experience" (Garrison's page), "collection,"
+   "premium," "journey."** Sentences 3–15 words, reader is the subject, sentence-case bold headlines.
+8. **Notes for the Aug 25 post — likely contents, keep to five and only what a human must act on:**
+   the **tariff outlet call** (new Aug 24, unanswered, TSB is not on the vetted list) · the
+   **committed tier list** ask (escalation fired Aug 24) · **Fri Aug 28 will likely run two, both WA**
+   · then `_unchanged: Bardstown link-out, explainer slug, sub-$30_`. **Do not spend a bullet on the
+   Flicker count, the brand skill, or anything that worked.**
+9. **Fri Aug 28 — TWO STAGED, both WA, and that is now the expected shape.** A full run was spent
+   hunting a non-WA item and none exists. **Two remaining prep runs (Wed, Thu). If nothing turns up,
+   run two. Do not pad, do not drop a verified item, do not convert Hard Truth's Aug 28 Indianapolis
+   event — it is Tuesday material.** Constraints unchanged: no pineapple, no Michigan, at most two
+   cause-led, no fifth WA cocktail.
+10. **Discovery order, unchanged and still four deep: Robb Report section index → WA RSS feed → FM
+   recent-articles rail → TSB news index.** **Add the newly proven WA seam as a monthly sweep, not a
+   per-run one: `/whiskey-life`, `/tag/travel`, `/tag/Features`.** Note **Robb Report is now two dry
+   weeks running** — check its Taste Test distribution line before treating a review as an unblock.
+11. **Sep 1 — THREE STAGED, gap closed, all three with sourced sensory. Do not add a fourth.** If one
+   is added it must be neither Collector nor Flicker. **The tariff lands here if the outlet call
+   clears.** Frame Maker's Mark as the oldest blend, **never as a first age statement**, and never
+   let "cellar" appear in WS's own voice.
+12. **Aaron owes two decisions now, and only one has a default date.**
+   **(a) Bardstown link-out** — Robb Report's tasting or Fred Minnick's 99 IWSC points, not both;
+   recommendation on file is Robb Report; **if no reply by the Aug 28 run, apply it as the default
+   and say so once**, per the Macallan precedent. Compressed to `_unchanged_` until then.
+   **(b) The Spirits Business tier** — new Aug 24. **Recommendation: hold to Sep 1, and if no listed
+   outlet files by then, treat TSB as Tier 2-equivalent and link it.** Say it once; do not link early.
+13. **Do not re-assess, do not rediscover — all closed Aug 24:** Hibiki 12 (**airport-only, and
+   "Robb Report tasted it at 92" is not an argument**) · Koopers (**360 bottles, one release, sale
+   already open**) · the Soho festival cancellation (**the word "safety" is not a safety incident**)
+   · FSSAI/Diageo · Sazerac/Garrard County · Bodmin Jail · Glendronach 56 · the Gallup consumption
+   piece · the Kyle MacLachlan winery piece. Plus everything closed Aug 23: Gleneagles ·
+   Bruichladdich (**sold out — dead**) · Copperworks barleywine · Branch & Barrel · the pisco sour.
+14. **`jones-mack-bourbon-2026` — MONTHLY check, and the recheck now has a starting URL:**
+   `https://www.fredminnick.com/2026/08/17/2-cents-inc-releases-new-jones-mack-bourbon/`.
+   **Do not fetch it before late September.**
+15. **Do not re-derive the prune list.** Executed Aug 21; nothing eligible until late September. The
    four Aug 21 published keys become eligible **Sep 20**.
-15. Do not re-test the WA bars subdomain before September. Do not re-fetch `/news` or
-   `/Tag/Cocktails`. Do not re-fetch the Garrison event directory. Do not surface Macallan,
-   Moonshine University, Jack Daniel's #17, Strathearn or Brown-Forman earnings — all closed.
+16. **If Aaron has not raised the September seasonal third-edition bump by the Aug 28 run, surface it
+   once there — not before.** Sept–Nov adds a third weekly edition per the skill. **Say the honest
+   constraint in the same bullet: Fridays are the thin side, and a third weekly edition needs a
+   fuller board than Aug 28 has.**
+17. **Do not re-test:** `whiskyadvocate.com/travel` or `/whisky-life` (**both 404**) · WA `/news` or
+   `/Tag/Cocktails` · the WA bars subdomain before September · the Garrison event directory.
+   **Do not re-surface** Macallan, Moonshine University, Jack Daniel's #17, Strathearn, or
+   Brown-Forman earnings — all closed.
+18. Urgent sweep every run, window back through Mon Aug 24. **Context only, still un-bulleted:** the
+   February 2026 discrimination suit against Bardstown Bourbon Company's former employer — six
+   months old, no vetted whiskey outlet, nothing to decide.
