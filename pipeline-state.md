@@ -140,8 +140,8 @@ attributable to the outlet:**
   **$180** — "overripe berries and a hint of peanut" · **these three around 55% ABV** · Charles
   Goodnight 6 year old, a high-rye Texas bourbon — "peanut butter cookie and peanut butter" ·
   Redwood Empire Rocket Top bottled in bond, **$80** · Knob Creek 12 year old, **$60**.
-- **Pick ONE or TWO bottles for the blurb. The page names nine; a blurb that lists them is a wire
-  feed, not curation.** The $45 Virginia Distilling bottle is the recommended one — it is the value
+- **Pick ONE or TWO bottles for the blurb. The page names SEVEN whiskies (plus two whiskey-infused
+  jams, which are not bottles); a blurb that lists them is a wire feed, not curation.** The $45 Virginia Distilling bottle is the recommended one — it is the value
   pick and the sensory is WA's own.
 
 **THE ONE HARD RULE, AND IT IS A DISCUS 73.8 RULE RATHER THAN A LEXICON ONE: THE RECIPE'S NAME IS
