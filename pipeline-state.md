@@ -3,41 +3,178 @@
 Durable memory for the Whiskey Social whiskey-news pipeline. Authoritative over Slack
 thread copies. Human feedback in #whiskey-news overrides this file.
 
-**Last run:** 2026-09-02 (Wed), **PREP — THE BIGGEST PREP RUN THIS PIPELINE HAS HAD, and every bit of
-it is a consequence of Lesson 46. ALL FOUR DISCOVERY RAILS RETURNED HTTP 200 UNDER THE BROWSER UA:
-WA RSS, the Robb Report spirits index, The Spirits Business news index and the Fred Minnick rail.
-A week of "dry rails" findings was instrument failure, not supply failure.** The run's yield:
-**FRI SEP 4 WENT FROM TWO TO FOUR AND THE PRIORITY GAP IS CLOSED** (Shortbarrel Cigar Batch #4 and
-the Whisky Advocate crumble-bars pairing piece, both new) · **`michters-toasted-barrel-finish-rye-2026`
-GOT ITS SECOND SOURCE** at Robb Report, which retires the Sep 8 flag-or-hold decision · **the Sep 4
-tariff item was materially strengthened and a NEW TRAP was found in it** (delisting is not tariffing) ·
-**Brough Brothers' River Road date hunt ran and closed — still no published date** · **Tue Sep 15
-opens with two candidates.** No urgent override.
-**Prior run:** 2026-09-01 (Tue), THE SHORTLIST — shipped, four items, every claim traced.
+**Last run:** 2026-09-03 (Thu), **PREP — TUE SEP 15 FLIPPED FROM TWO THIN LEADS TO A FULL, COLLECTOR-HEAVY
+BOARD IN ONE RUN, on the rails Lesson 47 reopened.** The run's yield: **`old-forester-birthday-bourbon-2026`
+NEW, VERIFIED** (Robb Report + Old Forester's own FAQ — 11yr, 97 proof, $199.99, sweepstakes-only, a
+forward-bar caveat) · **`four-roses-le-small-batch-2026` NEW** (FM, single-source, 19th edition, 109.2
+proof, ~16,800 bottles, $249, Oct 10) · **`high-west-cask-strength-blend-of-straights-2026` VERIFIED**
+(WA review, David Fleming, 91 pts, $70, 58.5%, WA's OWN sensory — the Explorer value + sourced-note
+anchor) · **`bruichladdich-octomore-17th-2026` VERIFIED** (WA + TSB, US distribution CONFIRMED — the .4
+reaches the US for the first time) · **Sagamore second-source hunt RAN: no vetted pickup, only an
+unlisted InsideHook review — stays single-sourced, runs flagged** · **`whisky-advocate-1880-whiskey-tasting-2026`
+assessed, stageable, but collides with Balvenie 88 as two unbuyable ultra-aged items — pick one** ·
+**`angels-envy-amburana-2026` CLOSED on distribution.** No urgent override.
+**Prior run:** 2026-09-02 (Wed), PREP — Fri Sep 4 closed at four; Michter's rye got its second source.
 **Prior editions:** Sep 1 (Tue, The Shortlist) · Aug 28 (Fri, Last Call) · Aug 25 (Tue) · Aug 21 (Fri).
-**Next edition:** 2026-09-04 (Fri, Last Call) — **FOUR STAGED. The count question is answered; what is
-left is drafting discipline, not research.**
-**Next prep:** 2026-09-03 (Thu) — **the last prep before Sep 4.**
-**Search window this run:** Sep 1 – Sep 2 inclusive (WA RSS reached back to Aug 31, since four of its
-items had never been assessed under the blocked fetcher).
+**Next edition:** 2026-09-04 (Fri, Last Call) — **FOUR STAGED, unchanged this run. Tomorrow's job is the
+edition-day re-confirm and the drafting discipline (one flagged item, "Tipsy" never appears, the tariff
+delisting trap), NOT research.**
+**Next prep:** 2026-09-06 (Sun) — covers back through Friday, no Saturday run.
+**Search window this run:** Sep 2 – Sep 3 inclusive.
 
-Twenty-first consecutive run with a successful push. Write access stable.
+Twenty-second consecutive run with a successful push. Write access stable.
 
-**Channel check:** last 14 days read (Aug 19 – Sep 2), **every message this pipeline's own post.**
+**Channel check:** last 14 days read (Aug 20 – Sep 3), **every message this pipeline's own post.**
 **No human replies from Aaron or Adam in the window.** Adam's last real message was Jul 27;
-**Aaron has never replied in the channel.** **Nothing overrode this file.**
-**Nothing had been posted Sep 2 before this run, so idempotency was not in play.** This prep brief is
+**Aaron has never replied in the channel.** **Nothing overrode this file.** **Balvenie 88's forward-bar
+call was surfaced Sep 2 and is unanswered — do NOT re-raise it; compress to `_unchanged_`.**
+**Nothing had been posted Sep 3 before this run, so idempotency was not in play.** This prep brief is
 the day's only post.
 
-**FILE SIZE IS NOW AN OPERATIONAL RISK — 4,400+ lines and over 320KB.** It already exceeds the Read
-tool's 256KB single-read limit, so this run had to reach it by targeted offsets and grep. **It is
-still fully usable that way, but it will not stay that way.** Safe pruning method, for a future run
-to execute deliberately and NOT blind: **read a dated run section older than 21 days, confirm its
-lessons are already captured in the PRIOR LESSONS blocks and its keys in DEDUP, then delete that
-section only.** One section per run. **Never prune DEDUP, OPEN GAPS, COLLISION FLAGS, the boards or
-the LESSONS blocks — those are the load-bearing parts.**
+**FILE SIZE IS AN OPERATIONAL RISK — ~5,050 lines and ~385KB, and growing each run.** It exceeds the
+Read tool's 256KB single-read limit, so reach it by targeted offsets and grep. **It is still fully
+usable that way, but it will not stay that way.** Safe pruning method, for a future run to execute
+deliberately and NOT blind: **read a dated run section older than 21 days, confirm its lessons are
+already captured in the PRIOR LESSONS blocks and its keys in DEDUP, then delete that section only.**
+One section per run. **Never prune DEDUP, OPEN GAPS, COLLISION FLAGS, the boards or the LESSONS blocks
+— those are the load-bearing parts.** **PRUNE STATUS Sep 3: NOTHING eligible yet — the oldest dated
+section is Aug 18 (16 days), and 21-day eligibility first arrives ~Sep 8–9 (Aug 18/19 sections). The
+first run on/after Sep 9 should prune exactly one of them.**
 
 ---
+
+## THURSDAY Sep 3 — PREP RUN
+
+**Window Sep 2–3.** Lesson 47's step-zero browser-UA fetch ran first; all four rails 200. WA article
+pages remain **client-rendered — the static HTML returns only the title/H1**, so the article body is
+pulled from the raw HTML via a Python strip (the RSS description alone is not enough for the
+sourced-claims rule). Recorded so a future run does not mistake an empty WA body for a dead page.
+
+### THE SEP 15 BOARD WAS NEVER THE PROBLEM IT LOOKED LIKE ON SEP 2 — it went from two thin leads to oversupplied in one run
+
+Two annual allocated releases landed inside the window (Old Forester Birthday Bourbon, Four Roses LE
+Small Batch), plus a WA review with its own sensory (High West) and a confirmed-US Octomore. **Sep 15 is
+now Collector/allocation-heavy with more candidates than a 4–6 item Tuesday can hold.** The shape
+problem inverted: not "find supply" but "the Explorer/value half is thin against four Collector items."
+**High West ($70, WA's own notes) and Sagamore ($59.99, national, 8yr) are the two Explorer anchors that
+keep Sep 15 from reading Collector-only. Overflow Collector items hold for Tue Sep 22.**
+
+### `old-forester-birthday-bourbon-2026` — NEW, STAGED Tue Sep 15, VERIFIED. The marquee find.
+
+**Robb Report, Sept 2, 2026** (`https://robbreport.com/food-drink/spirits/old-forester-2026-birthday-bourbon-1238619380`)
+corroborated by **Old Forester's own Birthday Bourbon FAQ** (Tier 1 brand). **Two independent sources.**
+**Facts both support:** the annual "unicorn" release · **aged 11 years** · **bottled at 97 proof** ·
+**212 barrels**, third floor of Warehouse B (Brown-Forman's oldest Shively warehouse) · selected by
+master distiller emeritus **Chris Morris** and assistant master distiller **Caleb Trigo** · entry proof
+lowered to **124.4 from 125** ("tank venting" over a six-day holiday-weekend rest, which the distillery
+credits for a "sweet and fruity character") · **MSRP $199.99** · **released Sept 2** · **SWEEPSTAKES
+ONLY — no in-store distillery sale; the distillery told buyers not to travel for it.**
+**FORWARD-BAR CAVEAT, and it is the same class as Balvenie/Hibiki: sweepstakes-only means most readers
+cannot buy it at retail.** BUT Birthday Bourbon is the canonical allocated hunt — `allocation-watch`
+exists for exactly this, and the Collector persona is served by the specifics. **Frame as a record/hunt,
+not a "buy this."** **SENSORY IS BRAND-ATTRIBUTED — "sweet and fruity" is the distillery's, and the full
+flavour string ("baking spice, ginger, vanilla, honey, graham cracker...") reads as Old Forester's own
+tasting notes.** RR's body carried production detail, **not an independent RR tasting.** **Print no taste
+as ours; if RR published no independent note by Sep 15, say "no independent tasting published."**
+**Beat `allocation-watch`, persona `collector`.**
+
+### `four-roses-le-small-batch-2026` — NEW, STAGED Tue Sep 15, single-sourced on an FM news release.
+
+**Fred Minnick, Sept 2, 2026** (`https://fredminnick.com/2026/09/02/four-roses-to-release-2026-le-small-batch-oct-10/`).
+**19th edition** of the annual Limited Edition Small Batch · **a blend of three of the distillery's
+bourbon recipes across four batches, each over a decade in age** · **non-chill filtered** · **109.2
+proof** · **about 16,800 bottles** · **$249** · at retailers nationwide and the Lawrenceburg, KY visitor
+centers **beginning Oct 10, while supplies last** · master distiller **Brent Elliott**.
+**RELEASE IS OCT 10 — after the Sep 15 edition.** That is fine for `allocation-watch`/on-the-calendar: it
+is a "here is what is coming and how to get it" item, not a same-day drop. **SINGLE-SOURCED. Elliott's
+news-release quotes are the brand's — the shortest usable one for the edition still needs a re-read
+against the 20-word cap. Sensory is blocked; say so.** A major release — RR/WA will likely file before
+Sep 15; **run a second-source check Sun Sep 6. Runs flagged if none.** **"Highly anticipated" and other
+release-copy adjectives are on the page; never lift them.**
+**Beat `allocation-watch` or `on-the-calendar`, persona `collector`.**
+
+### `high-west-cask-strength-blend-of-straights-2026` — NEW, STAGED Tue Sep 15, VERIFIED (WA review, one source by design). The value + sensory anchor.
+
+**Whisky Advocate, David Fleming, Summer 2026 issue**
+(`https://whiskyadvocate.com/High-West-Cask-Strength-Blend-of-Straights-58-5`). **Score 91 · $70 ·
+58.5% ABV · category Bourbon/Tennessee Whiskey.** First introduced **2023**, released in **occasional
+limited-edition batches** since. **WA'S OWN SENSORY, printable and attributable to WA/Fleming:** cherries
+and red berries lead the nose, a dry fragrance balanced by oak; the palate sweet and well-spiced with
+cherry tart and raspberry coulis, "a bit hot in carrying its proof"; chocolate on the finish with more
+cherry and red berry. **This is the honest counterweight to the Collector items — a buyable $70 bottle
+with real sourced notes and a strong score.** **One caveat to check Sep 6/15: "occasional limited-edition
+batches" — confirm the current batch is actually on shelves, not sold through.** **Beat `try-this-next`,
+persona `explorer`.**
+
+### `bruichladdich-octomore-17th-2026` — NEW, STAGED Tue Sep 15, VERIFIED (WA + TSB). US distribution confirmed; the queued distribution question is answered.
+
+**Whisky Advocate, Danny Brandon, Sept 3, 2026** (`https://whiskyadvocate.com/octomore-17-details`),
+corroborated by **The Spirits Business** (`bruichladdich-challenges-industry-norms-with-17th-octomore-line`,
+the queued Aug 30 item). **The four-bottle Series 17 dials back the peat** — the news hook. **17.1:**
+Concerto barley peated to 81 PPM, 5yr first-fill bourbon, 59.7% ABV. **17.2:** same distillate, 4yr in
+ex-California-red-wine French oak briefly used for bourbon, +1yr first-fill port barriques, 59.5%.
+**17.3:** single-field Octomore Farm barley, highest peat at 132.1 PPM, first-fill bourbon/Ribera del
+Duero/sauternes/ice wine/syrah, 60.9%. **17.4:** **the first ".4" ever released in the US** (prior ones
+were distillery exclusives or abroad) — 108.2 PPM, **7yr (oldest in the lineup)**, first-fill oloroso +
+virgin French oak, 62.6%. Master blender **Adam Hannett**. **NO PRICE in the WA piece and NO WA TASTING
+NOTE — this is a "details" explainer, not a review, so SENSORY IS BLOCKED. Get a price before Sep 15;
+teach "PPM / peat" in one plain clause.** **Beat `whats-dropping` or `try-this-next`, persona `explorer`
+(a Collector reads it too).** **Note: NOT the dropped Bruichladdich Greener Still — different product.**
+
+### `sagamore-bottled-in-bond-rye-2026` — SECOND-SOURCE HUNT RAN. No vetted pickup. Stays single-sourced; runs flagged.
+
+The Thu Sep 3 second-source job ran (web search). **Every wire pickup is the same FM/PR news release —
+BevNET (`/pr/`), PRNewswire, The Whisky Wire, Northwest Beer Guide — one source under the two-source
+rule.** **The only independent editorial is an InsideHook review**
+(`insidehook.com/drinks/sagamore-spirit-bottled-in-bond-rye-review`), which **carries its own sensory**
+but **InsideHook is NOT on the vetted directory** — same class of unlisted-outlet call as TSB and
+Shanken before it. **Per discipline it does not clear the two-source rule for a clean Tier 1–2 link-out.**
+**Sagamore stays single-sourced and runs FLAGGED for Sep 15, exactly as Shortbarrel and Brough Brothers
+did.** Recorded so Sun Sep 6 does not re-run the hunt from scratch — the standing residual is "a VETTED
+outlet files," not "any pickup." **The release-copy sensory ("powdered sugar, soft leather, baking
+spices") is Sagamore's own — never print it as ours.** **Beat `try-this-next`, persona `explorer`.**
+
+### Assessed and NOT staged / closed this run
+
+- **`angels-envy-amburana-2026` — CLOSED on distribution.** RR's Taste Test
+  (`whiskey-review-angels-envy-distillery-series-amburana-1238602149`, "a Cask-Finishing Experiment Gone
+  Awry") is a genuine independent negative review — but it is the **Distillery Series**, the same program
+  as `angels-envy-distillery-series-imperial-stout-2026` **dropped Aug 30 for being visitors-center-only
+  (Louisville)**. A negative review is publishable; a distillery-exclusive is not. **Same distribution
+  failure, same close.** Not re-scouted, not staged. (Distribution not re-fetched — the Distillery Series
+  is definitionally visitors-center-only; if a future run wants certainty, one fetch confirms it.)
+- **`whisky-advocate-1880-whiskey-tasting-2026` — ASSESSED, STAGEABLE, held as a Sep 15 alternate.** WA,
+  **Sean Evans, Aug 31** (`oldest-whiskey-pre-prohibition-tasting-sothebys-auction`). WA uncorked six
+  pre-Prohibition bottles (Old Hermitage to an 1880 Chicken Cock) too far gone for the **Sotheby's Whisky
+  auction running Sept 3–18** — a live peg through the edition. WA's own account and sensory, one source
+  by design. **A strong Collector reading item — BUT it pairs with Balvenie 88 as two unbuyable
+  ultra-aged items, which is a theme, not a board. Pick ONE for Sep 15; the other holds or drops.** Also
+  a Sean Evans byline (Balvenie is Jennings, High West Fleming, Octomore Brandon, so mixing keeps byline
+  spread). **Beat `allocation-watch`/reading, persona `collector`.**
+- **`four-roses-honey-cask-2026`** — RR now has it (`four-roses-honey-cask-finish-bourbon-1238604614`);
+  **stays CLOSED — distillery/visitor-center exclusive, closed Aug 27/30. A second source does not fix
+  distribution.**
+- **`michters-most-admired-whiskey-2026`** (FM Sept 1) · **`diageo-north-america-layoffs-2026`** ·
+  **`rndc-georgia-layoffs-2026`** (TSB `nearly-600-rndc-jobs-axed-in-georgia`, NEW — trade layoffs, NOT
+  an urgent override; a layoff is not a recall/safety/litigation/death) · **`brown-forman-q1-fy27-2026`**
+  (FM + TSB + RR — earnings, not consumer) · **`buchanans-coconut-2026`** (coconut flagged five ways) ·
+  **`rays-bar-detroit-2026`** (no third Michigan item before October) — all assessed, none staged.
+- **UNASSESSED bench, carried — NOT closed:** `benromach-12yo-core-range-2026` (TSB, NEW — core range =
+  ongoing availability, a possible Explorer item; needs US distribution + price) · `deanston-17-orange-wine-cask-2026`
+  (WA review, WA's own sensory, 17yr = 15yr bourbon + 2yr vino de naranja; needs price + US distribution)
+  · `loch-lomond-waypoint-31yo-2026` (TSB, likely UK-first) · `filliers-mizunara-2026` (TSB, Belgian,
+  likely non-US) · `american-whiskey-scholars-program-2026` (FM — education, needs a price/date/way in).
+- **Fri Sep 18 (Last Call) — TWO EARLY, UNVERIFIED LEADS, occasion-shaped:** `whisky-advocate-grilling-with-whisky-2026`
+  (WA, Sept 3, a recipe roundup — cocktail to dessert; `pair-it`/`easy-pour`, Social Drinker) ·
+  `new-era-kentucky-distillery-club-2026` (TSB, NEW — a distillery-and-club opening in Kentucky; Venue
+  Regular). **Neither verified. Assess Sun Sep 6 — Sep 18 is otherwise empty.**
+
+### Urgent sweep — no override
+
+Window Sep 2–3. Searched recalls, safety notices, litigation and investigations naming a partner brand
+or venue, and industry deaths. **Nothing. No override.** The RNDC Georgia layoffs and Brown-Forman Q1
+earnings were assessed and are explicitly NOT overrides — neither is a recall, safety issue, litigation,
+investigation or death.
 
 ## WEDNESDAY Sep 2 — PREP RUN
 
@@ -3434,6 +3571,20 @@ theme, not a board.**
 
 ## OPEN GAPS
 
+- **TUE SEP 15 — NO LONGER A COUNT GAP. It is oversupplied and Collector-heavy, and the ask has
+  inverted.** As of Sep 3 the board holds, in strength order: `high-west-...` (VERIFIED, Explorer, $70,
+  WA's own notes — the value/sensory anchor), `old-forester-birthday-bourbon-2026` (VERIFIED, Collector,
+  sweepstakes-only), `four-roses-le-small-batch-2026` (Collector, single-source, 2nd-source check Sep 6),
+  `bruichladdich-octomore-17th-2026` (VERIFIED, Explorer, needs price), `balvenie-88-year-old-2026`
+  (Collector, forward-bar call unanswered since Sep 2 — do not re-raise), `sagamore-...` (Explorer, runs
+  flagged), and `whisky-advocate-1880-whiskey-tasting-2026` (Collector reading alternate). **That is
+  6–7 candidates for a 4–6 item Tuesday. The residual is shape, not supply: four are Collector/allocation
+  and only High West + Sagamore anchor the Explorer/value half.** **Rules for the Sep 15 draft: (a) keep
+  High West and Sagamore in; (b) run ONLY ONE of Balvenie 88 / 1880 tasting — two unbuyable ultra-aged
+  items is a theme, not a board; (c) hold overflow Collector items for Tue Sep 22, do not cram.**
+- **FRI SEP 18 (Last Call) — OPEN, occasion-led, two unverified leads only.** `whisky-advocate-grilling-with-whisky-2026`
+  and `new-era-kentucky-distillery-club-2026`, both surfaced Sep 3, neither assessed. **Assess Sun Sep 6;
+  the slot is otherwise empty.** No Collector overflow belongs here — Sep 18 skews Social/Venue.
 - **FRI SEP 4 — CLOSED SEP 2, AT FOUR ITEMS. This gap is done and the entry below it is spent
   history.** It stood open across four runs and was closed in one, by two items found on rails the
   pipeline had recorded as dead: **Shortbarrel Cigar Batch #4** (FM, non-WA, non-calendar, DTC drop
@@ -4237,6 +4388,37 @@ a line-based strip leaves kilobytes of inline JS in the text and buries the arti
 ## DEDUP — closed to re-use
 
 Story keys are lowercase-hyphenated `brand-product-year`. Prune at 30 days.
+
+**Added Sep 3 (STAGED / ASSESSED — all closed to re-scouting):**
+Tue Sep 15 — **`old-forester-birthday-bourbon-2026`** (**NEW, STAGED, VERIFIED on Robb Report + Old
+Forester's FAQ. 11yr, 97 proof, $199.99, sweepstakes-only forward-bar caveat. Sensory is
+brand-attributed — blocked.**) · **`four-roses-le-small-batch-2026`** (**NEW, STAGED. SINGLE-SOURCED on
+an FM news release; 2nd-source check due Sun Sep 6, runs flagged if none. 109.2 proof, ~16,800 bottles,
+$249, Oct 10. Sensory blocked.**) · **`high-west-cask-strength-blend-of-straights-2026`** (**NEW,
+STAGED, VERIFIED — WA review, one source by design. 91 pts, $70, 58.5%. WA's OWN sensory is printable
+and attributable to WA/Fleming. Confirm the limited batch is still on shelves.**) ·
+**`bruichladdich-octomore-17th-2026`** (**NEW, STAGED, VERIFIED — WA + TSB. US distribution confirmed
+(.4 first US release). No price and no WA tasting note in the details piece — sensory blocked, get a
+price. A DIFFERENT product from the dropped Greener Still.**) · **`whisky-advocate-1880-whiskey-tasting-2026`**
+(**ASSESSED, stageable Sep 15 alternate — WA/Sean Evans, one source by design, Sotheby's auction peg
+Sept 3–18. Runs ONLY if Balvenie 88 does not — two unbuyable ultra-aged items is a theme.**).
+**STATUS CHANGE:** `sagamore-bottled-in-bond-rye-2026` — **2nd-source hunt RAN Sep 3 and FAILED to find
+a vetted pickup; only an unlisted InsideHook review exists. Stays single-sourced, runs flagged. Residual
+is "a VETTED outlet files," not "any pickup" — do not re-run the hunt from scratch.**
+**ASSESSED AND NOT STAGED / CLOSED Sep 3 — do not re-discover:**
+`angels-envy-amburana-2026` (**CLOSED on distribution — the Distillery Series is visitors-center-only,
+same as the imperial stout dropped Aug 30; RR's negative review does not change that**) ·
+`four-roses-honey-cask-2026` (**RR pickup does not reopen it — still distillery-exclusive**) ·
+`rndc-georgia-layoffs-2026` (**NEW; trade layoffs, explicitly NOT an urgent override**) ·
+`brown-forman-q1-fy27-2026` (**earnings, not consumer**) · `michters-most-admired-whiskey-2026`,
+`diageo-north-america-layoffs-2026`, `buchanans-coconut-2026`, `rays-bar-detroit-2026` (**carried from
+Sep 2, still not staged**).
+**UNASSESSED bench, carried to Sun Sep 6 — NOT closed, queued:** `benromach-12yo-core-range-2026` (**NEW,
+TSB — core range, promising**) · `deanston-17-orange-wine-cask-2026` (**NEW, WA review with own
+sensory**) · `whisky-advocate-grilling-with-whisky-2026` (**NEW, Fri Sep 18 lead**) ·
+`new-era-kentucky-distillery-club-2026` (**NEW, Fri Sep 18 lead**) · `loch-lomond-waypoint-31yo-2026`,
+`filliers-mizunara-2026`, `american-whiskey-scholars-program-2026`.
+**Prune check Sep 3: nothing eligible, confirmed. Next eligibility is Sep 20.**
 
 **Added Sep 2 (STAGED / CANDIDATE / ASSESSED — all closed to re-scouting):**
 Fri Sep 4 — **`shortbarrel-cigar-batch-4-2026`** (**NEW, STAGED. SINGLE-SOURCED on an FM news
