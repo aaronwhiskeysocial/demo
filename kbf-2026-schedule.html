@@ -1,0 +1,1328 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<title>KBF 2026 Schedule</title>
+<meta name="description" content="Day-by-day itinerary for the 2026 Kentucky Bourbon Festival in Bardstown, Kentucky — Trail Hotel programming, official KBF grounds events, and downtown parties, with venue addresses, drive times from Elizabethtown, and festival logistics.">
+<meta property="og:type" content="website">
+<meta property="og:title" content="KBF 2026 Schedule — Kentucky Bourbon Festival, Sept 9–13">
+<meta property="og:description" content="Day-by-day itinerary for the 2026 Kentucky Bourbon Festival in Bardstown, Kentucky — Trail Hotel programming, official KBF grounds events, and downtown parties, with venue addresses, drive times from Elizabethtown, and festival logistics.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%A5%83%3C/text%3E%3C/svg%3E">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@400;600;700&family=Archivo:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap');
+
+  :root {
+    --bg: #EFE9DD;
+    --bg-2: #E7E0D1;
+    --ink: #221A12;
+    --muted: #6B6052;
+    --line: #D6CBB4;
+    --accent: #A8541F;
+    --on-accent: #FFF7ED;
+    --brass: #7E6A3A;
+    --ok: #3F7040;
+    --paid: #3B6073;
+    --soldout: #9B3A2D;
+    --daypass: #664E82;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #17130E;
+      --bg-2: #201A13;
+      --ink: #EDE4D3;
+      --muted: #A99C88;
+      --line: #3A3125;
+      --accent: #E28B47;
+      --on-accent: #1B1108;
+      --brass: #C4A86C;
+      --ok: #8AB784;
+      --paid: #8DB9CD;
+      --soldout: #E48C76;
+      --daypass: #C3A6E3;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #17130E;
+    --bg-2: #201A13;
+    --ink: #EDE4D3;
+    --muted: #A99C88;
+    --line: #3A3125;
+    --accent: #E28B47;
+    --on-accent: #1B1108;
+    --brass: #C4A86C;
+    --ok: #8AB784;
+    --paid: #8DB9CD;
+    --soldout: #E48C76;
+    --daypass: #C3A6E3;
+  }
+
+  * { box-sizing: border-box; }
+  img { max-width: 100%; }
+  [hidden] { display: none !important; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: 'Archivo', 'Helvetica Neue', Arial, sans-serif;
+    line-height: 1.5;
+    font-size: 15px;
+  }
+  h1, h2, h3 { font-family: 'Zilla Slab', Georgia, 'Times New Roman', serif; margin: 0; text-wrap: balance; }
+  a { color: var(--accent); text-underline-offset: 2px; }
+  button { font: inherit; }
+  .mono { font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; }
+  .wrap { max-width: 780px; margin: 0 auto; padding-left: 1.25rem; padding-right: 1.25rem; }
+
+  /* ---------- Header ---------- */
+  .site-header { padding-top: 2rem; padding-bottom: 1.25rem; }
+  .eyebrow {
+    font-family: 'IBM Plex Mono', ui-monospace, monospace;
+    text-transform: uppercase; letter-spacing: 0.09em;
+    font-size: 0.72rem; color: var(--brass); margin: 0 0 0.45rem;
+  }
+  .site-header h1 { font-size: clamp(2rem, 6vw, 2.9rem); font-weight: 700; line-height: 1.02; letter-spacing: -0.01em; }
+  .homebase {
+    display: flex; flex-wrap: wrap; gap: 0.35rem 1.4rem;
+    margin: 0.9rem 0 0; padding: 0.7rem 0;
+    border-top: 1px solid var(--line); border-bottom: 1px solid var(--line);
+    font-size: 0.85rem;
+  }
+  .homebase .k { font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--brass); display: block; }
+  .homebase .v { font-variant-numeric: tabular-nums; }
+  .freshness { max-width: 64ch; color: var(--muted); font-size: 0.8rem; margin: 0.8rem 0 0; }
+
+  /* ---------- Sticky nav ---------- */
+  .sticky { position: sticky; top: 0; z-index: 5; background: var(--bg); border-bottom: 1px solid var(--line); }
+  .tabs { display: flex; gap: 0.35rem; overflow-x: auto; padding-top: 0.55rem; padding-bottom: 0.35rem; scrollbar-width: none; }
+  .tabs::-webkit-scrollbar { display: none; }
+  .tab {
+    font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 0.78rem;
+    min-height: 44px; padding: 0 0.9rem; border-radius: 999px;
+    border: 1px solid var(--line); background: transparent; color: var(--ink);
+    cursor: pointer; white-space: nowrap; flex: 0 0 auto;
+  }
+  .tab:hover { border-color: var(--accent); }
+  .tab.active { background: var(--accent); border-color: var(--accent); color: var(--on-accent); font-weight: 500; }
+  .tab.today-mark::after { content: " · today"; opacity: 0.85; }
+  .subbar { display: flex; align-items: center; gap: 0.35rem; flex-wrap: wrap; padding-bottom: 0.55rem; }
+  .pill {
+    font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 0.72rem;
+    min-height: 36px; padding: 0 0.75rem; border-radius: 999px;
+    border: 1px solid var(--line); background: transparent; color: var(--ink); cursor: pointer;
+  }
+  .pill:hover { border-color: var(--accent); }
+  .pill.active { background: var(--ink); border-color: var(--ink); color: var(--bg); }
+  .clock { margin-left: auto; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 0.72rem; color: var(--muted); font-variant-numeric: tabular-nums; }
+  .tab:focus-visible, .pill:focus-visible, .star:focus-visible, .ghost:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+  /* ---------- Day sections ---------- */
+  main { padding-top: 1.5rem; padding-bottom: 3rem; }
+  .day-head { display: flex; align-items: baseline; gap: 0.7rem; flex-wrap: wrap; }
+  .day-head h2 { font-size: 2rem; font-weight: 700; line-height: 1; }
+  .day-sub { font-size: 0.85rem; color: var(--muted); }
+  .day-hours { font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 0.76rem; color: var(--brass); margin: 0.5rem 0 0; }
+  .day-plan { font-size: 0.85rem; margin: 0.6rem 0 0; padding: 0.55rem 0.8rem; background: var(--bg-2); border-radius: 8px; }
+  .day-plan:empty { display: none; }
+  .day-plan strong { color: var(--accent); }
+
+  ol.timetable { list-style: none; margin: 1.1rem 0 0; padding: 0; border-top: 1px solid var(--line); }
+  .row {
+    display: grid; grid-template-columns: 5.4rem 1fr 44px; gap: 0 0.9rem;
+    padding: 0.8rem 0; border-bottom: 1px solid var(--line);
+  }
+  .row .t {
+    font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 0.76rem; line-height: 1.35;
+    color: var(--brass); font-variant-numeric: tabular-nums; padding-top: 0.15rem;
+  }
+  .row.now .t { color: var(--accent); font-weight: 600; }
+  .row.past { opacity: 0.6; }
+  .row.past .star { opacity: 1; }
+  .ev { min-width: 0; }
+  .ev-head { display: flex; align-items: baseline; gap: 0.5rem; flex-wrap: wrap; }
+  .ev-head h3 { font-size: 1.05rem; font-weight: 600; line-height: 1.25; }
+  .badge {
+    font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 0.66rem;
+    text-transform: uppercase; letter-spacing: 0.04em;
+    padding: 0.15rem 0.5rem; border-radius: 999px; white-space: nowrap; color: var(--on-accent);
+  }
+  .badge-free { background: var(--ok); }
+  .badge-paid { background: var(--paid); }
+  .badge-soldout { background: var(--soldout); }
+  .badge-daypass { background: var(--daypass); }
+  .badge-now { background: var(--accent); }
+  .badge-next { background: transparent; color: var(--accent); border: 1px solid var(--accent); }
+  .badge-clash { background: transparent; color: var(--soldout); border: 1px solid var(--soldout); }
+  .where { font-size: 0.82rem; color: var(--muted); margin: 0.25rem 0 0.35rem; }
+  .vt { font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 0.66rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--brass); margin-right: 0.4rem; }
+  .where a { color: var(--muted); }
+  .where a:hover { color: var(--accent); }
+  .links { white-space: nowrap; }
+  .desc { font-size: 0.9rem; margin: 0 0 0.2rem; text-wrap: pretty; }
+  .note { font-size: 0.8rem; color: var(--muted); font-style: italic; margin: 0; }
+  .star {
+    width: 44px; height: 44px; border-radius: 999px; border: 1px solid transparent; background: transparent;
+    color: var(--muted); cursor: pointer; display: inline-flex; align-items: center; justify-content: center;
+    align-self: start; margin-top: -0.35rem;
+  }
+  .star:hover { border-color: var(--line); color: var(--ink); }
+  .star svg { width: 20px; height: 20px; fill: none; stroke: currentColor; stroke-width: 1.6; }
+  .star[aria-pressed="true"] { color: var(--accent); }
+  .star[aria-pressed="true"] svg { fill: currentColor; }
+
+  .recur { margin-top: 1rem; font-size: 0.85rem; color: var(--ink); padding: 0.7rem 0.9rem; background: var(--bg-2); border-radius: 8px; }
+  .recur strong { color: var(--brass); font-weight: 600; }
+
+  main.f-hotel .row:not([data-venue="hotel"]),
+  main.f-town .row:not([data-venue="town"]),
+  main.f-grounds .row:not([data-venue="grounds"]) { display: none; }
+
+  /* ---------- Plan tab ---------- */
+  .plan-status { font-size: 0.82rem; color: var(--muted); margin: 0.4rem 0 0; }
+  .plan-day { margin-top: 1.4rem; }
+  .plan-day h3 { font-size: 1.25rem; font-weight: 700; }
+  .plan-leave { font-size: 0.85rem; margin: 0.3rem 0 0; color: var(--ink); }
+  .plan-leave strong { color: var(--accent); }
+  .plan-empty { margin-top: 1.5rem; padding: 1.2rem; border: 1px dashed var(--line); border-radius: 8px; color: var(--muted); font-size: 0.9rem; max-width: 52ch; }
+  .plan-tools { display: flex; gap: 0.5rem; margin-top: 1.4rem; flex-wrap: wrap; }
+  .ghost {
+    font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 0.74rem;
+    min-height: 44px; padding: 0 0.9rem; border-radius: 999px; background: transparent;
+    border: 1px solid var(--line); color: var(--ink); cursor: pointer;
+  }
+  .ghost.danger { border-color: var(--soldout); color: var(--soldout); }
+
+  /* ---------- Logistics ---------- */
+  .facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 0 1.6rem; margin-top: 1rem; }
+  .fact { padding: 0.9rem 0; border-top: 1px solid var(--line); }
+  .fact h3 { font-size: 1rem; font-weight: 700; margin-bottom: 0.3rem; }
+  .fact p, .fact li { font-size: 0.87rem; margin: 0 0 0.3rem; text-wrap: pretty; }
+  .fact ul { padding-left: 1.1rem; margin: 0.2rem 0; }
+  .fact.wide { grid-column: 1 / -1; }
+  .drives { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 0.6rem 1.2rem; margin: 0.5rem 0 0.6rem; }
+  .drive { padding: 0.5rem 0.75rem; background: var(--bg-2); border-radius: 8px; }
+  .drive .to { font-weight: 600; font-size: 0.9rem; }
+  .drive .n { font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 0.8rem; color: var(--brass); font-variant-numeric: tabular-nums; }
+  .drive .via { font-size: 0.78rem; color: var(--muted); }
+  .src { font-size: 0.76rem; color: var(--muted); }
+  table.shuttle { width: 100%; border-collapse: collapse; font-size: 0.85rem; margin-top: 0.4rem; }
+  table.shuttle th, table.shuttle td { text-align: left; padding: 0.4rem 0.5rem 0.4rem 0; border-bottom: 1px solid var(--line); }
+  table.shuttle th, table.shuttle td.mono { font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 0.76rem; font-variant-numeric: tabular-nums; }
+  .tablewrap { overflow-x: auto; }
+  .no { color: var(--soldout); }
+  .yes { color: var(--ok); }
+
+  /* ---------- Locations ---------- */
+  .locgroup { margin-top: 1.4rem; }
+  .locgroup h3 { font-size: 1.15rem; font-weight: 700; padding-bottom: 0.4rem; border-bottom: 1px solid var(--line); }
+  .loc { display: grid; grid-template-columns: 1fr auto; gap: 0.2rem 1rem; padding: 0.6rem 0; border-bottom: 1px solid var(--line); font-size: 0.88rem; align-items: start; }
+  .loc .name { font-weight: 600; }
+  .loc .addr { color: var(--muted); font-size: 0.84rem; grid-column: 1; }
+  .loc .links { grid-row: 1 / span 2; align-self: center; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 0.72rem; text-align: right; display: flex; flex-direction: column; gap: 0.5rem; }
+  .loc .links a { display: inline-block; padding: 0.35rem 0; }
+
+  footer { padding-top: 1.4rem; padding-bottom: 3rem; color: var(--muted); font-size: 0.8rem; border-top: 1px solid var(--line); margin-top: 1rem; }
+  footer p { max-width: 64ch; text-wrap: pretty; }
+
+  @media (max-width: 480px) {
+    .row { grid-template-columns: 4.6rem 1fr 44px; gap: 0 0.6rem; }
+    .day-head h2 { font-size: 1.7rem; }
+  }
+  @media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
+</style>
+</head>
+<body>
+<header class="site-header wrap">
+  <p class="eyebrow">Bardstown, Kentucky &middot; September 9&ndash;13, 2026</p>
+  <h1>Kentucky Bourbon Festival</h1>
+  <div class="homebase">
+    <div><span class="k">Home base</span><span class="v">Elizabethtown, KY</span></div>
+    <div><span class="k">To Bardstown</span><span class="v">27 mi &middot; ~34 min non-stop &middot; Bluegrass Pkwy</span></div>
+    <div><span class="k">Timezone</span><span class="v">Eastern &mdash; 3 h ahead of Pacific</span></div>
+  </div>
+  <p class="freshness">Merged from The Trail Hotel's festival-week flyer and Bourbon &amp; Banter's insider guide (published Sept 2). Prices and sold-out status reflect that date and may have moved &mdash; confirm anything time-sensitive against the official KBF site and TIXR. Trail Hotel events are open to non-guests unless noted.</p>
+</header>
+
+<div class="sticky">
+  <nav class="tabs wrap" id="tabs" aria-label="Sections">
+    <button class="tab" data-tab="wed">Wed 9</button>
+    <button class="tab" data-tab="thu">Thu 10</button>
+    <button class="tab" data-tab="fri">Fri 11</button>
+    <button class="tab" data-tab="sat">Sat 12</button>
+    <button class="tab" data-tab="sun">Sun 13</button>
+    <button class="tab" data-tab="mon">Mon 14</button>
+    <button class="tab" data-tab="plan" id="plan-tab">Our plan</button>
+    <button class="tab" data-tab="logistics">Logistics</button>
+    <button class="tab" data-tab="locations">Locations</button>
+  </nav>
+  <div class="subbar wrap" id="subbar">
+    <button class="pill active" data-filter="all">All</button>
+    <button class="pill" data-filter="hotel">Trail Hotel</button>
+    <button class="pill" data-filter="town">Downtown</button>
+    <button class="pill" data-filter="grounds">Festival Grounds</button>
+    <span class="clock" id="clock"></span>
+  </div>
+</div>
+
+<main id="main" class="wrap">
+
+  <!-- ================= WEDNESDAY ================= -->
+  <section class="day" data-day="wed" data-date="2026-09-09">
+    <div class="day-head"><h2>Wednesday, Sept 9</h2><span class="day-sub">Pre-festival</span></div>
+    <p class="day-hours">Festival grounds not yet open &middot; town &amp; hotel programming only</p>
+    <p class="day-plan" data-plan-line></p>
+    <ol class="timetable">
+
+      <li class="row" data-id="wed-parkers" data-venue="town" data-start="2026-09-09T09:00" data-end="2026-09-09T13:00" data-drive="34" data-addr="1311 Gilkey Run Road, Bardstown, KY 40004">
+        <div class="t">9:00 &amp;<br>11:00 AM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Parker's Heritage Breakfast</h3><span class="badge badge-soldout">Sold Out</span></div>
+          <p class="where"><span class="vt">Town</span>Heaven Hill Bourbon Experience &middot; 1311 Gilkey Run Road</p>
+          <p class="desc">Seated breakfast marking the 20th Edition of the Parker's Heritage Collection &mdash; guided tasting of the 2026 release, cocktails, and a take-home bottle.</p>
+          <p class="note">$425 &middot; was sold out as of Sept 2</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="wed-social" data-venue="hotel" data-start="2026-09-09T15:00" data-end="2026-09-09T18:00" data-drive="34" data-addr="1875 New Haven Rd, Bardstown, KY 40004">
+        <div class="t">3:00&ndash;<br>6:00 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Oak &amp; Ember Social Hour</h3></div>
+          <p class="where"><span class="vt">Trail Hotel</span>The Bar at Oak &amp; Ember &middot; 1875 New Haven Rd</p>
+          <p class="desc">Specially priced pours, pints, and cocktails.</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="wed-wings" data-venue="hotel" data-start="2026-09-09T17:00" data-drive="34" data-addr="1875 New Haven Rd, Bardstown, KY 40004">
+        <div class="t">From<br>5:00 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Whiskey &amp; Wings</h3><span class="badge badge-paid">$20</span></div>
+          <p class="where"><span class="vt">Trail Hotel</span>The Bar at Oak &amp; Ember</p>
+          <p class="desc">A dozen wings paired with a pour of house whiskey.</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="wed-cigar" data-venue="town" data-start="2026-09-09T18:00" data-end="2026-09-09T20:00" data-drive="34" data-addr="131 N 3rd St, Bardstown, KY 40004">
+        <div class="t">6:00&ndash;<br>8:00 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Cigar Night &mdash; Wenzel Distillery + Pappy &amp; Co.</h3><span class="badge badge-paid">$45</span></div>
+          <p class="where"><span class="vt">Town</span>Liam Ash Cocktail Emporium &middot; 131 N 3rd St</p>
+          <p class="desc">Cigars, premium pours, and conversation. Includes a welcome cocktail and a fine cigar.</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="wed-eight-gen" data-venue="hotel" data-start="2026-09-09T19:00" data-drive="34" data-addr="1875 New Haven Rd, Bardstown, KY 40004">
+        <div class="t">7:00 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Eight Generations at The Trail</h3><span class="badge badge-paid">$250</span></div>
+          <p class="where"><span class="vt">Trail Hotel</span>Reserve Room &middot; 1875 New Haven Rd</p>
+          <p class="desc">Four-course Beam family dinner with 8th-generation Master Distiller Freddie Noe and chef Mickey Palello. Three expressions debut: Jim Beam 10-Year Bowling Pin, Booker's The Reserves 2026, and Little Book "The Infinite" Edition III. Opens with a Knob Creek Smoked Maple Old Fashioned.</p>
+          <p class="note">Limited to 40 guests &middot; advance ticket required</p>
+        </div>
+      </li>
+
+    </ol>
+    <div class="recur"><strong>Also running today</strong> &mdash; Bourbon &amp; Bunkers, golf-simulator takeover with Elijah Craig pours, 6&ndash;10pm, Trail Hotel Elijah Craig Golf Lounge.</div>
+  </section>
+
+  <!-- ================= THURSDAY ================= -->
+  <section class="day" data-day="thu" data-date="2026-09-10">
+    <div class="day-head"><h2>Thursday, Sept 10</h2><span class="day-sub">Grounds open &middot; kickoff night</span></div>
+    <p class="day-hours">Festival-grounds hours not published for Thursday &mdash; the official kickoff runs 6&ndash;9:30pm</p>
+    <p class="day-plan" data-plan-line></p>
+    <ol class="timetable">
+
+      <li class="row" data-id="thu-southern" data-venue="town" data-start="2026-09-10T13:30" data-end="2026-09-10T15:30" data-drive="34" data-addr="127 North 3rd Street, Bardstown, KY 40004">
+        <div class="t">1:30 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Kick Off with Southern Spirits</h3><span class="badge badge-free">Free</span></div>
+          <p class="where"><span class="vt">Town</span>Evergreen Liquors &middot; 127 North 3rd Street</p>
+          <p class="desc">Southern Spirits brings its bourbon games to Bardstown &mdash; 100 first-come tickets handed out at 1:30pm, then a 3pm Mystery Lottery with 25 bags (20 allocated bourbons, 5 tickets to the 5 Second Game).</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="thu-bita-vip" data-venue="town" data-start="2026-09-10T15:00" data-end="2026-09-10T18:00" data-drive="34" data-addr="104 N 4th St, Bardstown, KY 40004">
+        <div class="t">3:00&ndash;<br>6:00 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Bourbon in the Air &mdash; VIP Kick-off</h3><span class="badge badge-free">Free</span></div>
+          <p class="where"><span class="vt">Town</span>Mr. Tubs &middot; 104 N 4th St</p>
+          <p class="desc">Augusta Distillery takeover &mdash; Buckner's 13 specialty pours, cocktails by Sherri Jenkins, cigar pairings from Ember &amp; Ash's mobile lounge.</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="thu-social" data-venue="hotel" data-start="2026-09-10T15:00" data-end="2026-09-10T18:00" data-drive="34" data-addr="1875 New Haven Rd, Bardstown, KY 40004">
+        <div class="t">3:00&ndash;<br>6:00 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Oak &amp; Ember Social Hour</h3></div>
+          <p class="where"><span class="vt">Trail Hotel</span>The Bar at Oak &amp; Ember</p>
+          <p class="desc">Specially priced pours, pints, and cocktails.</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="thu-proof" data-venue="town" data-start="2026-09-10T16:00" data-end="2026-09-10T17:00" data-drive="34" data-addr="131 N 3rd St, Bardstown, KY 40004">
+        <div class="t">4:00&ndash;<br>5:00 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Proof &amp; Purpose &mdash; A Masterclass Experience</h3><span class="badge badge-paid">$50</span></div>
+          <p class="where"><span class="vt">Town</span>Liam Ash Cocktail Emporium &middot; 131 N 3rd St</p>
+          <p class="desc">Liam Ash x Kentucky Peerless masterclass on working with high-proof whiskey, led by Head Blender/Taster John Waddell. Two tastings, two crafted cocktails, and a walkthrough on balancing higher-proof drinks.</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="thu-cellar" data-venue="town" data-start="2026-09-10T16:00" data-end="2026-09-10T18:00" data-drive="55" data-addr="3350 Burkes Spring Rd, Loretto, KY 40037">
+        <div class="t">4:00&ndash;<br>6:00 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Cellar Aged Launch Party</h3><span class="badge badge-paid">$79.50+</span></div>
+          <p class="where"><span class="vt">Loretto &middot; drive</span>Maker's Mark Distillery &middot; 3350 Burkes Spring Rd, Loretto</p>
+          <p class="desc">The 2026 Cellar Aged release &mdash; cocktails, pours, light bites, live music. Master Distiller Dr. Blake Layfield leads the tasting. Ticket + bottle packages available.</p>
+          <p class="note">~55 min from Elizabethtown, non-stop</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="thu-castle-key" data-venue="hotel" data-start="2026-09-10T16:00" data-end="2026-09-10T21:00" data-drive="34" data-addr="1875 New Haven Rd, Bardstown, KY 40004">
+        <div class="t">4&ndash;6 PM &amp;<br>7&ndash;9 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Castle &amp; Key: A Beverage Ritual</h3></div>
+          <p class="where"><span class="vt">Trail Hotel</span>Lobby &rarr; Reserve Room &amp; Bourbon Alley</p>
+          <p class="desc">Welcome ritual in the lobby (4&ndash;6pm), then fire-pit pours under the stars in the Reserve Room and Bourbon Alley (7&ndash;9pm).</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="thu-makers" data-venue="town" data-start="2026-09-10T17:00" data-end="2026-09-10T20:00" data-drive="34" data-addr="1 Lux Row, Bardstown, KY 40004">
+        <div class="t">5:00&ndash;<br>8:00 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Meet the Makers</h3><span class="badge badge-paid">$125</span></div>
+          <p class="where"><span class="vt">Town</span>Lux Row Distillers &middot; 1 Lux Row</p>
+          <p class="desc">Luxco meet-and-greet with master distillers and blenders from Lux Row, Limestone Branch, Penelope, and Remus. Light bites, live music, open bar, distillery tour. Sample or purchase Ezra Brooks 12-Year, Yellowstone Recollection II, Penelope Estate Collection, MGP 10-Year.</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="thu-scoops" data-venue="town" data-start="2026-09-10T18:00" data-end="2026-09-10T21:00" data-drive="34" data-addr="103 E Stephen Foster Ave, Bardstown, KY 40004">
+        <div class="t">6:00&ndash;<br>9:00 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Scoops &amp; Staves</h3></div>
+          <p class="where"><span class="vt">Town</span>Chicken Cock Circa 1856 &middot; 103 E. Stephen Foster Ave</p>
+          <p class="desc">New ice cream flavors, bourbon pours, laid-back patio hang.</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="thu-bottles" data-venue="hotel" data-start="2026-09-10T18:00" data-end="2026-09-10T21:00" data-drive="34" data-addr="1875 New Haven Rd, Bardstown, KY 40004">
+        <div class="t">6:00&ndash;<br>9:00 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Bottles in Bond</h3></div>
+          <p class="where"><span class="vt">Trail Hotel</span>Bourbon Alley</p>
+          <p class="desc">Public open bottle share along Bourbon Alley and the pool-lawn fire pits &mdash; bring a pour, share a pour. Cigar service from Oxmoor Smoke.</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="thu-willett" data-venue="town" data-start="2026-09-10T18:00" data-drive="34" data-addr="111 N 3rd St Ste 105, Bardstown, KY 40004">
+        <div class="t">6:00 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Willett x Brook Hill &mdash; night 1 of 2</h3><span class="badge badge-paid">$2,300</span></div>
+          <p class="where"><span class="vt">Town</span>The Parlor Room &middot; 111 N 3rd St Ste 105</p>
+          <p class="desc">Master distiller Drew Kulsveen and Rare Character co-founder Pablo Moix lead tastings of hand-selected whiskies and private barrel selections. Cocktails by Katie Cruz, hors d'oeuvres by chef Newman Miller; 15-Year Brook Hill and 15-Year Willett Family Estate private barrels.</p>
+          <p class="note">Per person &middot; covers both Thu &amp; Fri nights</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="thu-bita" data-venue="grounds" data-start="2026-09-10T18:00" data-end="2026-09-10T21:30" data-drive="34" data-addr="114 N 5th St, Bardstown, KY 40004">
+        <div class="t">6:00&ndash;<br>9:30 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Bourbon in the Air &mdash; official kickoff</h3><span class="badge badge-soldout">Sold Out</span></div>
+          <p class="where"><span class="vt">Festival Grounds</span>Great Lawn &middot; 114 N 5th St</p>
+          <p class="desc">KBF's official Thursday-evening celebration on the Great Lawn. Brown-Forman plans to unveil a brand-new bourbon here; Ryan Blaney (Ten Runner) appears at The Blending House tent.</p>
+          <p class="note">$215 &middot; was sold out as of Sept 2</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="thu-first-pour" data-venue="hotel" data-start="2026-09-10T19:00" data-end="2026-09-10T21:00" data-drive="34" data-addr="1875 New Haven Rd, Bardstown, KY 40004">
+        <div class="t">7:00&ndash;<br>9:00 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>The First Pour: Where Community Meets Craft</h3><span class="badge badge-soldout">Sold Out</span></div>
+          <p class="where"><span class="vt">Trail Hotel</span>1875 New Haven Rd</p>
+          <p class="desc">Hosted with content creators Whiskey Dizz, Bourbon and Smoke, and Heavy Bourbon. Full Castle &amp; Key lineup, curated cigar and neat pour via Oxmoor Smoke Shop, and a community Q&amp;A with Owner Will Arvin and Master Blender Brett Connors.</p>
+          <p class="note">Free, RSVP &mdash; was sold out as of Sept 2</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="thu-tnf" data-venue="hotel" data-start="2026-09-10T20:35" data-drive="34" data-addr="1875 New Haven Rd, Bardstown, KY 40004">
+        <div class="t">Kickoff<br>8:35 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Thursday Night Football Under the Stars</h3></div>
+          <p class="where"><span class="vt">Trail Hotel</span>The Lawn at the Swim Club</p>
+          <p class="desc">Dual inflatable screens (one in the pool, one on the cabana lawn), Evan Williams cocktails, game-night specials.</p>
+        </div>
+      </li>
+
+    </ol>
+    <div class="recur"><strong>Also running today</strong> &mdash; Bourbon &amp; Bunkers, 6&ndash;10pm, Trail Hotel golf lounge &middot; Poolside, Reimagined: Angel's Envy &amp; Patr&oacute;n, 4&ndash;7pm, Trail Hotel pool.</div>
+  </section>
+
+  <!-- ================= FRIDAY ================= -->
+  <section class="day" data-day="fri" data-date="2026-09-11">
+    <div class="day-head"><h2>Friday, Sept 11</h2></div>
+    <p class="day-hours">Grounds noon&ndash;6pm (VIP 11am) &middot; distilleries close 4pm, marketplace 3pm</p>
+    <p class="day-plan" data-plan-line></p>
+    <ol class="timetable">
+
+      <li class="row" data-id="fri-breakfast" data-venue="hotel" data-start="2026-09-11T07:00" data-end="2026-09-11T11:00" data-drive="34" data-addr="1875 New Haven Rd, Bardstown, KY 40004">
+        <div class="t">7:00&ndash;<br>11:00 AM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Breakfast Buffet</h3><span class="badge badge-paid">$25</span></div>
+          <p class="where"><span class="vt">Trail Hotel</span>Oak &amp; Ember</p>
+          <p class="desc">All-you-can-eat breakfast buffet with coffee, tea, and juices.</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="fri-augusta" data-venue="town" data-start="2026-09-11T10:00" data-end="2026-09-11T12:00" data-drive="34" data-addr="127 North 3rd Street, Bardstown, KY 40004">
+        <div class="t">10:00 AM&ndash;<br>12:00 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Augusta Distillery Tasting &amp; Signing with Alex Castle</h3></div>
+          <p class="where"><span class="vt">Town</span>Evergreen Liquors &middot; 127 North 3rd Street</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="fri-neat" data-venue="town" data-start="2026-09-11T12:00" data-end="2026-09-12T00:00" data-drive="34" data-addr="110 W Stephen Foster, Bardstown, KY 40004">
+        <div class="t">12:00 PM&ndash;<br>12:00 AM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Neat Bottle Shop Allocated Drop</h3></div>
+          <p class="where"><span class="vt">Town</span>Neat Bourbon Bar &amp; Bottle Shop &middot; 110 W. Stephen Foster</p>
+          <p class="desc">Allocated bottles released at random through the weekend &mdash; no announced schedule. Per proprietor Owen Powell, staying for a drink reportedly improves the odds.</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="fri-b2b" data-venue="grounds" data-start="2026-09-11T14:00" data-end="2026-09-11T17:00" data-drive="34" data-addr="114 N 5th St, Bardstown, KY 40004">
+        <div class="t">2:00 &amp;<br>4:00 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Between Two Barrels &mdash; two panels</h3></div>
+          <p class="where"><span class="vt">Festival Grounds</span>Pursuit Spirits space &middot; 114 N 5th St</p>
+          <p class="desc">Maksymilian Podraza hosts with Kenny Coleman, Ryan Cecil, Dan Callaway, Macaulay Minton, Dave Bob Gaspar, and Jane Bowie. Shortbarrel's Clinton Dugan joins the 2pm session; Peerless's John Waddell the 4pm. Debuts the Pursuit x Shortbarrel "Found Footage" collaboration.</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="fri-speakeasy" data-venue="grounds" data-start="2026-09-11T14:15" data-end="2026-09-11T15:15" data-drive="34" data-addr="114 N 5th St, Bardstown, KY 40004">
+        <div class="t">2:15&ndash;<br>3:15 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Speakeasy: Angel's Envy Takeover</h3><span class="badge badge-daypass">Day-pass</span></div>
+          <p class="where"><span class="vt">Festival Grounds</span>The Speakeasy lounge</p>
+          <p class="desc">Angel Teta and Titus Teague lead a session on creative cocktails and mixology. Speakeasy access is a per-day pass (air-conditioned lounge, private bar, three drink tickets, light bites), separate from VIP tiers.</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="fri-rutledge" data-venue="town" data-start="2026-09-11T15:00" data-drive="34" data-addr="127 North 3rd Street, Bardstown, KY 40004">
+        <div class="t">3:00 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Jim Rutledge &mdash; Echoes of Oak bottle signing</h3></div>
+          <p class="where"><span class="vt">Town</span>Evergreen Liquors</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="fri-binders" data-venue="town" data-start="2026-09-11T16:00" data-end="2026-09-11T18:00" data-drive="34" data-addr="104 N 4th St, Bardstown, KY 40004">
+        <div class="t">4:00&ndash;<br>6:00 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Binder's Stash Whiskey Single Barrel Tasting</h3></div>
+          <p class="where"><span class="vt">Town</span>Mr. Tubs &middot; 104 N 4th St</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="fri-austin" data-venue="town" data-start="2026-09-11T17:00" data-drive="34" data-addr="127 North 3rd Street, Bardstown, KY 40004">
+        <div class="t">5:00 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Nicole Austin &mdash; Blade and Bow 12-Year Solera bottle signing</h3></div>
+          <p class="where"><span class="vt">Town</span>Evergreen Liquors</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="fri-divergent" data-venue="town" data-start="2026-09-11T17:00" data-end="2026-09-11T19:30" data-drive="34" data-addr="418 E Stephen Foster Ave, Bardstown, KY 40004">
+        <div class="t">5:00&ndash;<br>7:30 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Divergent Spirits Golden Hour Pool Party</h3><span class="badge badge-paid">$20</span></div>
+          <p class="where"><span class="vt">Town</span>Bardstown Motor Lodge &middot; 418 E Stephen Foster Ave</p>
+          <p class="desc">Trey Wade's fifth year hosting a KBF pool party, now under his own Divergent Spirits label. Full spirits lineup, poolside cocktails, music on the outdoor deck.</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="fri-judah" data-venue="town" data-start="2026-09-11T18:00" data-end="2026-09-11T21:00" data-drive="34" data-addr="103 E Stephen Foster Ave, Bardstown, KY 40004">
+        <div class="t">6:00&ndash;<br>9:00 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Chasing Judah KBF Kickoff Party</h3></div>
+          <p class="where"><span class="vt">Town</span>Chicken Cock Circa 1856 &middot; 103 E. Stephen Foster Ave</p>
+          <p class="desc">Live music, cocktail specials, patio games, prizes.</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="fri-willett" data-venue="town" data-start="2026-09-11T18:00" data-drive="34" data-addr="111 N 3rd St Ste 105, Bardstown, KY 40004">
+        <div class="t">6:00 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Willett x Brook Hill &mdash; night 2</h3></div>
+          <p class="where"><span class="vt">Town</span>The Parlor Room &middot; 111 N 3rd St Ste 105</p>
+          <p class="note">Covered by Thursday's $2,300/person ticket</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="fri-route250" data-venue="town" data-start="2026-09-11T18:00" data-end="2026-09-11T21:30" data-drive="34" data-addr="1500 Parkway Dr, Bardstown, KY 40004">
+        <div class="t">6:00&ndash;<br>9:30 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Route 250 &mdash; KBF After Party</h3><span class="badge badge-paid">$150</span></div>
+          <p class="where"><span class="vt">Town</span>Bardstown Bourbon Company &middot; 1500 Parkway Dr</p>
+          <p class="desc">BBC's annual bash &mdash; this year's theme is the great American road trip, with chef-curated bites and cocktails inspired by Seattle, Texas, and New Orleans.</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="fri-goodtimes" data-venue="hotel" data-start="2026-09-11T18:00" data-end="2026-09-11T21:00" data-drive="34" data-addr="1875 New Haven Rd, Bardstown, KY 40004">
+        <div class="t">6:00&ndash;<br>9:00 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Good Times Single-Barrel Tasting</h3></div>
+          <p class="where"><span class="vt">Trail Hotel</span>Bourbon Alley</p>
+          <p class="desc">Cox Creek family&ndash;hosted single-barrel picks with cigar pairings by Oxmoor Smoke. Select bottles available for purchase.</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="fri-jamey" data-venue="town" data-addr="">
+        <div class="t">Evening</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Jamey Johnson live at The Amp</h3></div>
+          <p class="where"><span class="vt">Nelson County &middot; drive</span>Log Still Distillery &middot; ~25 min from the festival grounds; street address not published</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="fri-lougame" data-venue="hotel" data-start="2026-09-11T19:00" data-drive="34" data-addr="1875 New Haven Rd, Bardstown, KY 40004">
+        <div class="t">Kickoff<br>7:00 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Louisville Game Night</h3></div>
+          <p class="where"><span class="vt">Trail Hotel</span>The Lawn at the Swim Club</p>
+          <p class="desc">Louisville on the inflatable screens, poolside and on the lawn, with Evan Williams cocktails. Game-night specials 6&ndash;9pm.</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="fri-wildturkey" data-venue="hotel" data-start="2026-09-11T19:00" data-end="2026-09-11T21:00" data-drive="34" data-addr="1875 New Haven Rd, Bardstown, KY 40004">
+        <div class="t">7:00&ndash;<br>9:00 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Wild Turkey Tasting with Bruce Russell</h3><span class="badge badge-paid">$150</span></div>
+          <p class="where"><span class="vt">Trail Hotel</span>Bourbon Lounge</p>
+          <p class="desc">Three allocated pours with Associate Master Blender Bruce Russell, paired with chef-selected bites.</p>
+          <p class="note">Limited to 20 guests &middot; advance reservation required</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="fri-bespoke" data-venue="town" data-start="2026-09-11T20:00" data-drive="34" data-addr="110 W Stephen Foster Ave #2, Bardstown, KY 40004">
+        <div class="t">8:00 PM<br>doors 6</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Bespoke After Dark &mdash; night 1</h3><span class="badge badge-paid">$58+</span></div>
+          <p class="where"><span class="vt">Town</span>Bespoke In Bond &middot; 110 W Stephen Foster Ave #2</p>
+          <p class="desc">Candlelit, vintage-glam burlesque &amp; bourbon lounge with a runway performance by Bettes Burlesque. VIP tiers include a Wenzel pour and a bottle of Article &amp; Oak to take home.</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="fri-bottles-late" data-venue="hotel" data-start="2026-09-11T21:00" data-end="2026-09-11T23:00" data-drive="34" data-addr="1875 New Haven Rd, Bardstown, KY 40004">
+        <div class="t">9:00&ndash;<br>11:00 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Bottles in Bond &mdash; late-night</h3></div>
+          <p class="where"><span class="vt">Trail Hotel</span>Bourbon Alley &middot; bar service throughout</p>
+        </div>
+      </li>
+
+    </ol>
+    <div class="recur"><strong>Also running today</strong> &mdash; Bourbon:30 free panel stage (Steve Coomes) and ISC cooperage demos, Great Lawn, no fixed times &middot; Bourbon:60 "Women in Whiskey" panel with Michter's Andrea Wilson, time not published &middot; Bourbon &amp; Bunkers, 6&ndash;10pm, Trail Hotel &middot; Poolside, Reimagined: Angel's Envy &amp; Patr&oacute;n, 4&ndash;7pm, Trail Hotel pool.</div>
+  </section>
+
+  <!-- ================= SATURDAY ================= -->
+  <section class="day" data-day="sat" data-date="2026-09-12">
+    <div class="day-head"><h2>Saturday, Sept 12</h2></div>
+    <p class="day-hours">Grounds noon&ndash;6pm (VIP 11am) &middot; distilleries close 4pm, marketplace 3pm</p>
+    <p class="day-plan" data-plan-line></p>
+    <ol class="timetable">
+
+      <li class="row" data-id="sat-breakfast" data-venue="hotel" data-start="2026-09-12T07:00" data-end="2026-09-12T11:00" data-drive="34" data-addr="1875 New Haven Rd, Bardstown, KY 40004">
+        <div class="t">7:00&ndash;<br>11:00 AM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Breakfast Buffet</h3><span class="badge badge-paid">$25</span></div>
+          <p class="where"><span class="vt">Trail Hotel</span>Oak &amp; Ember</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="sat-biscuits" data-venue="town" data-start="2026-09-12T09:30" data-drive="62" data-addr="1280 Veterans Memorial Hwy, Lebanon, KY 40033">
+        <div class="t">9:30 AM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Barrels &amp; Biscuits with Stephen Beam</h3><span class="badge badge-paid">$56</span></div>
+          <p class="where"><span class="vt">Lebanon &middot; drive</span>Limestone Branch Distillery &middot; 1280 Veterans Memorial Hwy, Lebanon</p>
+          <p class="desc">Bourbon Bacon Bloody Mary welcome, a hearty meal, and the Limestone Branch story from Stephen Beam. Guided Yellowstone tasting led by Stephen Fante, then distillery tour and bottle signing.</p>
+          <p class="note">~1 h 02 from Elizabethtown, non-stop, routing through Bardstown</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="sat-frednoe" data-venue="town" data-start="2026-09-12T10:00" data-drive="34" data-addr="127 North 3rd Street, Bardstown, KY 40004">
+        <div class="t">10:00 AM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Brunch with Fred Noe</h3></div>
+          <p class="where"><span class="vt">Town</span>Evergreen Liquors &middot; 127 North 3rd Street</p>
+          <p class="desc">Tasting and bottle signing with Jim Beam Master Distiller Fred Noe.</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="sat-michters" data-venue="town" data-addr="">
+        <div class="t">Time<br>TBA</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Michter's Saturday Brunch</h3></div>
+          <p class="where"><span class="vt">Location TBA</span>Details announced at KBF</p>
+          <p class="desc">Master Distiller Dan McKee and Master of Maturation/COO Andrea Wilson host. Bottle-purchasing and signing opportunities to be announced on-site.</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="sat-relay" data-venue="town" data-start="2026-09-12T10:00" data-end="2026-09-12T14:00" data-drive="34" data-addr="200 Nelson County Plaza, Bardstown, KY 40004">
+        <div class="t">10:00 AM&ndash;<br>2:00 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>World Championship Bourbon Barrel Relay&reg;</h3><span class="badge badge-free">Free</span></div>
+          <p class="where"><span class="vt">Town</span>Nelson County Justice Center &middot; 200 Nelson County Plaza</p>
+          <p class="desc">Distillery teams race 500-pound barrels around a timed course, a tradition since 1991. Buffalo Trace defends both its Men's and Women's titles. Competitors: Bardstown Bourbon Co., Barton 1792, Buffalo Trace, Green River, Heaven Hill, James B. Beam, Maker's Mark, Potter Jane, Whiskey House of Kentucky, Willett.</p>
+          <p class="note">Open to the public, no festival ticket needed</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="sat-neat" data-venue="town" data-start="2026-09-12T12:00" data-end="2026-09-13T00:00" data-drive="34" data-addr="110 W Stephen Foster, Bardstown, KY 40004">
+        <div class="t">12:00 PM&ndash;<br>12:00 AM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Neat Bottle Shop Allocated Drop</h3></div>
+          <p class="where"><span class="vt">Town</span>Neat Bourbon Bar &amp; Bottle Shop &middot; 110 W. Stephen Foster</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="sat-auction" data-venue="town" data-start="2026-09-12T14:00" data-drive="34" data-addr="114 N 5th St, Bardstown, KY 40004">
+        <div class="t">2:00 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Master Distiller's Bottle Auction</h3><span class="badge badge-free">Free</span></div>
+          <p class="where"><span class="vt">Town</span>Oscar Getz Museum, Chapel in Spalding Hall &middot; 114 N. Fifth St</p>
+          <p class="desc">Rare and highly collectible bottles; proceeds support the Oscar Getz Museum and Spalding Hall.</p>
+          <p class="note">Open to the public, no festival ticket needed</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="sat-gaffigan" data-venue="grounds" data-start="2026-09-12T14:15" data-end="2026-09-12T15:15" data-drive="34" data-addr="114 N 5th St, Bardstown, KY 40004">
+        <div class="t">2:15&ndash;<br>3:15 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Speakeasy: Jim Gaffigan &amp; Fathertime</h3><span class="badge badge-daypass">Day-pass</span></div>
+          <p class="where"><span class="vt">Festival Grounds</span>The Speakeasy lounge</p>
+          <p class="desc">Fireside-style chat with Jim Gaffigan and BBC's Dan Callaway, with photos and autographed bottles of Fathertime "The Caboose" Empty Nester Cask Strength. Gaffigan also appears at a Bourbon:30 session and the Lofted Spirits tent today.</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="sat-b2b" data-venue="grounds" data-start="2026-09-12T15:00" data-end="2026-09-12T17:00" data-drive="34" data-addr="114 N 5th St, Bardstown, KY 40004">
+        <div class="t">3:00 &amp;<br>4:00 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Between Two Barrels &mdash; two panels</h3></div>
+          <p class="where"><span class="vt">Festival Grounds</span>Pursuit Spirits space</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="sat-heritage" data-venue="town" data-start="2026-09-12T15:00" data-drive="34" data-addr="111 N 3rd St Ste 105, Bardstown, KY 40004">
+        <div class="t">3:00 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Heritage of Heaven Hill</h3><span class="badge badge-paid">$159</span></div>
+          <p class="where"><span class="vt">Town</span>The Parlor Room &middot; 111 N 3rd St Ste 105</p>
+          <p class="desc">Seated exploration of the Heaven Hill Heritage Collection led by Master Distiller Conor O'Driscoll, Artisanal Distiller Jodie Filiatreau, and National Brand Ambassador Adam Edwards. Welcome cocktail, then guided pours of five releases aged 17&ndash;22 years.</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="sat-cookout" data-venue="hotel" data-start="2026-09-12T15:30" data-drive="34" data-addr="1875 New Haven Rd, Bardstown, KY 40004">
+        <div class="t">Kickoff<br>3:30 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Kentucky Game Day Cookout</h3><span class="badge badge-paid">$15 plates</span></div>
+          <p class="where"><span class="vt">Trail Hotel</span>The Lawn at the Swim Club</p>
+          <p class="desc">Kentucky vs. Alabama on the big screens, with an Evan Williams mobile bar.</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="sat-raffle" data-venue="grounds" data-addr="114 N 5th St, Bardstown, KY 40004">
+        <div class="t">Today,<br>time TBA</div>
+        <div class="ev">
+          <div class="ev-head"><h3>KBF Bottle Raffle &mdash; winner drawn</h3><span class="badge badge-paid">$100/entry</span></div>
+          <p class="where"><span class="vt">Festival Grounds</span>114 N 5th St</p>
+          <p class="desc">Curated lot of 11 bottles selected by the KBF team; max 1,000 tickets sold. Winner must pick up in person.</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="sat-chickencock" data-venue="town" data-start="2026-09-12T17:00" data-end="2026-09-12T20:00" data-drive="34" data-addr="103 E Stephen Foster Ave, Bardstown, KY 40004">
+        <div class="t">5:00&ndash;<br>8:00 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Chicken Cock 170th Anniversary Release Party</h3></div>
+          <p class="where"><span class="vt">Town</span>Chicken Cock Circa 1856 &middot; 103 E. Stephen Foster Ave</p>
+          <p class="desc">Anniversary bottle release; musician Carly Johnson performs on the patio.</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="sat-goodtimes" data-venue="hotel" data-start="2026-09-12T18:00" data-end="2026-09-12T21:00" data-drive="34" data-addr="1875 New Haven Rd, Bardstown, KY 40004">
+        <div class="t">6:00&ndash;<br>9:00 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Good Times Single-Barrel Tasting</h3></div>
+          <p class="where"><span class="vt">Trail Hotel</span>Bourbon Alley &middot; cigar pairings by Oxmoor Smoke</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="sat-bernie" data-venue="town" data-start="2026-09-12T18:00" data-drive="34" data-addr="111 N 3rd St Ste 105, Bardstown, KY 40004">
+        <div class="t">6:00 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Bourbon, Bluegrass &amp; Bernie</h3><span class="badge badge-paid">$106</span></div>
+          <p class="where"><span class="vt">Town</span>The Parlor Room &middot; 111 N 3rd St Ste 105</p>
+          <p class="desc">Rare whiskey, Kentucky storytelling, and live bluegrass with Heaven Hill Ambassador Emeritus Bernie Lubbers and Adam Edwards. Welcome cocktail plus three age-stated releases: Heritage Collection 20-Year Corn, 19-Year Wheat, and Elijah Craig 21-Year.</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="sat-icons" data-venue="town" data-start="2026-09-12T18:00" data-end="2026-09-12T21:30" data-addr="">
+        <div class="t">6:00&ndash;<br>9:30 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Bourbon Icons Dinner</h3><span class="badge badge-paid">$500</span></div>
+          <p class="where"><span class="vt">Location TBA</span>Fred Noe's Backyard &middot; address not published</p>
+          <p class="desc">Ultra-exclusive multi-course dinner from The Kitchen Table. Master Distillers from James B. Beam, Potter Jane, Whiskey Thief, Michter's, Angel's Envy, and Barton 1792.</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="sat-preservation" data-venue="hotel" data-start="2026-09-12T19:00" data-end="2026-09-12T21:00" data-drive="34" data-addr="1875 New Haven Rd, Bardstown, KY 40004">
+        <div class="t">7:00&ndash;<br>9:00 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Preservation at The Trail</h3></div>
+          <p class="where"><span class="vt">Trail Hotel</span>Bourbon Lounge</p>
+          <p class="desc">Preservation Distillery artisan pours, featuring The Trail Hotel's private barrel pick.</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="sat-bespoke" data-venue="town" data-start="2026-09-12T20:00" data-drive="34" data-addr="110 W Stephen Foster Ave #2, Bardstown, KY 40004">
+        <div class="t">8:00 PM<br>doors 6</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Bespoke After Dark &mdash; night 2</h3><span class="badge badge-paid">$58+</span></div>
+          <p class="where"><span class="vt">Town</span>Bespoke In Bond &middot; 110 W Stephen Foster Ave #2</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="sat-jazz" data-venue="town" data-start="2026-09-12T20:30" data-end="2026-09-12T23:30" data-drive="34" data-addr="1311 Gilkey Run Road, Bardstown, KY 40004">
+        <div class="t">8:30&ndash;<br>11:30 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Bourbon, Cigars &amp; Jazz</h3><span class="badge badge-soldout">Sold Out</span></div>
+          <p class="where"><span class="vt">Town</span>Heaven Hill Bourbon Experience &middot; 1311 Gilkey Run Road</p>
+          <p class="desc">Late-night celebration with live jazz, premium cigars, handcrafted desserts, relaxed outdoor atmosphere.</p>
+          <p class="note">$225 &middot; was sold out as of Sept 2</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="sat-bottles-late" data-venue="hotel" data-start="2026-09-12T21:00" data-end="2026-09-12T23:00" data-drive="34" data-addr="1875 New Haven Rd, Bardstown, KY 40004">
+        <div class="t">9:00&ndash;<br>11:00 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Bottles in Bond &mdash; late-night</h3></div>
+          <p class="where"><span class="vt">Trail Hotel</span>Bourbon Alley</p>
+        </div>
+      </li>
+
+    </ol>
+    <div class="recur"><strong>Also running today</strong> &mdash; Bourbon:30 stage and cooperage demos, Great Lawn &middot; Bottle Raffle drawing (above) &middot; Bourbon &amp; Bunkers, 6&ndash;10pm, Trail Hotel &middot; Poolside, Reimagined: The Spritz Pool Club, 4&ndash;7pm, Trail Hotel pool &middot; Old Steelhouse Blueprint Series Rye release, 6&ndash;8pm Fri &amp; Sat, 124 N. 3rd St.</div>
+  </section>
+
+  <!-- ================= SUNDAY ================= -->
+  <section class="day" data-day="sun" data-date="2026-09-13">
+    <div class="day-head"><h2>Sunday, Sept 13</h2></div>
+    <p class="day-hours">Grounds noon&ndash;4pm (VIP 11am) &middot; food trucks close 2&ndash;4pm by vendor</p>
+    <p class="day-plan" data-plan-line></p>
+    <ol class="timetable">
+
+      <li class="row" data-id="sun-breakfast" data-venue="hotel" data-start="2026-09-13T07:00" data-end="2026-09-13T11:00" data-drive="34" data-addr="1875 New Haven Rd, Bardstown, KY 40004">
+        <div class="t">7:00&ndash;<br>11:00 AM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Breakfast Buffet</h3><span class="badge badge-paid">$25</span></div>
+          <p class="where"><span class="vt">Trail Hotel</span>Oak &amp; Ember</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="sun-winedown" data-venue="hotel" data-addr="1875 New Haven Rd, Bardstown, KY 40004">
+        <div class="t">All day</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Wine Down Sundays</h3></div>
+          <p class="where"><span class="vt">Trail Hotel</span>Oak &amp; Ember</p>
+          <p class="desc">Half off bottles of wine, with a meal, on the patio, or around the fire pits in Bourbon Alley.</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="sun-bmh" data-venue="town" data-start="2026-09-13T10:00" data-drive="34" data-addr="127 North 3rd Street, Bardstown, KY 40004">
+        <div class="t">10:00 AM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Black Maple Hill Brunch</h3><span class="badge badge-paid">$400</span></div>
+          <p class="where"><span class="vt">Town</span>Evergreen Liquors &middot; 127 North 3rd Street</p>
+          <p class="desc">Meet-and-greet with Pablo Moix. Includes a flight of Black Maple Hill Red Label, 11-Year, and 16-Year; a take-home 11-Year bottle; the option to purchase the 10-Year; welcome cocktail; brunch by Bourbon City Kitchen &amp; Trade Company; Evergreen swag bag.</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="sun-neat" data-venue="town" data-start="2026-09-13T12:00" data-end="2026-09-14T00:00" data-drive="34" data-addr="110 W Stephen Foster, Bardstown, KY 40004">
+        <div class="t">12:00 PM&ndash;<br>12:00 AM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Neat Bottle Shop Allocated Drop</h3></div>
+          <p class="where"><span class="vt">Town</span>Neat Bourbon Bar &amp; Bottle Shop &middot; 110 W. Stephen Foster</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="sun-nfl" data-venue="hotel" data-start="2026-09-13T13:00" data-drive="34" data-addr="1875 New Haven Rd, Bardstown, KY 40004">
+        <div class="t">Games<br>from 1 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>NFL Kickoff Sunday</h3></div>
+          <p class="where"><span class="vt">Trail Hotel</span>The Lawn at the Swim Club</p>
+          <p class="desc">First Sunday of the NFL season on the poolside inflatable screens, with Evan Williams cocktails through the day.</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="sun-pappy" data-venue="grounds" data-start="2026-09-13T13:30" data-end="2026-09-13T14:30" data-drive="34" data-addr="114 N 5th St, Bardstown, KY 40004">
+        <div class="t">1:30&ndash;<br>2:30 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Speakeasy: Pappy &amp; Company Takeover</h3><span class="badge badge-daypass">Day-pass</span></div>
+          <p class="where"><span class="vt">Festival Grounds</span>The Speakeasy lounge</p>
+          <p class="desc">The Van Winkle sisters guide a cocktail-and-food pairing featuring Pappy &amp; Co mixers.</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="sun-pops" data-venue="grounds" data-addr="114 N 5th St, Bardstown, KY 40004">
+        <div class="t">Today,<br>time TBA</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Pops' Vintage Bourbon Tasting</h3><span class="badge badge-soldout">Sold Out</span></div>
+          <p class="where"><span class="vt">Festival Grounds</span>114 N 5th St</p>
+          <p class="desc">Premium ticketed tasting of dusty pours ranging from 1979 to 2003.</p>
+          <p class="note">Sold out quickly, per the guide</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="sun-burgoyne" data-venue="town" data-start="2026-09-13T15:00" data-end="2026-09-13T18:00" data-drive="34" data-addr="103 E Stephen Foster Ave, Bardstown, KY 40004">
+        <div class="t">3:00&ndash;<br>6:00 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Katrina Burgoyne KBF After Party</h3></div>
+          <p class="where"><span class="vt">Town</span>Chicken Cock Circa 1856 &middot; 103 E. Stephen Foster Ave</p>
+          <p class="desc">Live music, patio games, good bourbon &mdash; one last celebration before the weekend ends.</p>
+        </div>
+      </li>
+
+      <li class="row" data-id="sun-wrap" data-venue="town" data-start="2026-09-13T16:00" data-end="2026-09-13T19:00" data-drive="34" data-addr="104 N 4th St, Bardstown, KY 40004">
+        <div class="t">4:00&ndash;<br>7:00 PM</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Industry Wrap Party</h3></div>
+          <p class="where"><span class="vt">Town</span>Mr. Tubs &middot; 104 N 4th St</p>
+          <p class="desc">DJ Dnasti, cocktails by Sherri Jenkins, industry swag.</p>
+        </div>
+      </li>
+
+    </ol>
+    <div class="recur"><strong>Also running today</strong> &mdash; Bourbon:30 stage and cooperage demos until grounds close &middot; Bourbon &amp; Bunkers, 6&ndash;10pm, Trail Hotel &middot; Poolside, Reimagined: The Spritz Pool Club, 1&ndash;4pm, Trail Hotel pool.</div>
+  </section>
+
+  <!-- ================= MONDAY ================= -->
+  <section class="day" data-day="mon" data-date="2026-09-14">
+    <div class="day-head"><h2>Monday, Sept 14</h2><span class="day-sub">Post-festival</span></div>
+    <p class="day-plan" data-plan-line></p>
+    <ol class="timetable">
+      <li class="row" data-id="mon-hof" data-venue="town" data-addr="">
+        <div class="t">Time<br>TBA</div>
+        <div class="ev">
+          <div class="ev-head"><h3>Kentucky Bourbon Hall of Fame induction</h3></div>
+          <p class="where"><span class="vt">Location TBA</span>Not published in the guide</p>
+          <p class="desc">Wilderness Trail founders Shane Baker and Dr. Patrick Heist are inducted, closing out festival week. Wilderness Trail marked it Saturday with two cask-strength small-batch releases: a 10-Year Cask-Strength Wheated Bourbon and an 8-Year Cask Strength Rye, "Haley's Blend."</p>
+        </div>
+      </li>
+    </ol>
+  </section>
+
+  <!-- ================= OUR PLAN ================= -->
+  <section class="day" data-day="plan">
+    <div class="day-head"><h2>Our plan</h2></div>
+    <p class="plan-status" id="plan-status">Loading&hellip;</p>
+    <div id="plan-body"></div>
+    <div class="plan-tools" id="plan-tools" hidden>
+      <button class="ghost danger" id="plan-clear">Clear all</button>
+    </div>
+  </section>
+
+  <!-- ================= LOGISTICS ================= -->
+  <section class="day" data-day="logistics">
+    <div class="day-head"><h2>Logistics</h2></div>
+    <div class="facts">
+
+      <div class="fact wide">
+        <h3>Home base: Elizabethtown</h3>
+        <p>Every day is a drive in and a drive out. The Louisville shuttle doesn't serve Elizabethtown, and rideshare <em>out</em> of Bardstown is notoriously unreliable on festival weekend &mdash; settle who's driving home before the day starts, not at the end of it.</p>
+        <div class="drives">
+          <div class="drive"><div class="to">Bardstown / festival grounds</div><div class="n">27 mi &middot; ~34 min</div><div class="via">Bluegrass Parkway, halfway at Boston, KY</div></div>
+          <div class="drive"><div class="to">Maker's Mark, Loretto</div><div class="n">40 mi &middot; ~55 min</div><div class="via">Bluegrass Parkway route</div></div>
+          <div class="drive"><div class="to">Limestone Branch, Lebanon</div><div class="n">51 mi &middot; ~1 h 02</div><div class="via">Bluegrass Parkway, through Bardstown</div></div>
+        </div>
+        <p class="src">Town-center to town-center, non-stop, no traffic or parking time included &mdash; distance-cities.com. Every event in this schedule carries a "from E-town" directions link for a live estimate.</p>
+      </div>
+
+      <div class="fact">
+        <h3>Parking</h3>
+        <p>No dedicated attendee lot at the festival. Plan on a nearby cash lot or street parking; the grounds are at 114 N 5th St and most downtown venues sit within the 3rd&ndash;5th Street / Stephen Foster Ave grid.</p>
+      </div>
+
+      <div class="fact">
+        <h3>Tickets</h3>
+        <p>Weekend passes sold out April 14. General Admission still turns up on the festival's TIXR resale marketplace, new this year. Speakeasy access is a separate per-day pass.</p>
+      </div>
+
+      <div class="fact">
+        <h3>Festival hours</h3>
+        <p>VIP entry 11am daily; General Admission noon. Distilleries on-site close 4pm; Vendor Marketplace 3pm; food trucks 2&ndash;4pm by vendor. Thursday's grounds-open hours weren't published &mdash; only the 6&ndash;9:30pm kickoff is scheduled.</p>
+        <p class="mono" style="font-size:0.78rem;">Fri &amp; Sat 12&ndash;6 PM &middot; Sun 12&ndash;4 PM</p>
+      </div>
+
+      <div class="fact">
+        <h3>Entry</h3>
+        <p>RFID wristbands mailed Sept 3&ndash;7 (or will-call via your TIXR account); required for entry, exit, and premium-event access. Bring a valid ID. Re-entry allowed through the day.</p>
+      </div>
+
+      <div class="fact">
+        <h3>Weather</h3>
+        <p>Rain-or-shine. Rain is common and the grounds get muddy in moderate-to-heavy storms &mdash; the guide's advice is a spare pair of mud shoes. Expect low-to-mid 80s&deg;F.</p>
+      </div>
+
+      <div class="fact">
+        <h3>Bring</h3>
+        <ul>
+          <li>Empty refillable water bottle (hydration stations at both ends of the grounds)</li>
+          <li>Valid photo ID and your wristband</li>
+          <li>Individual folding lawn chair, if you want one</li>
+          <li>Spare shoes for mud</li>
+          <li>Clear bag (max 12&Prime;&times;6&Prime;&times;12&Prime;) or small clutch / fanny pack</li>
+        </ul>
+      </div>
+
+      <div class="fact">
+        <h3>Leave in the car</h3>
+        <p class="no">Outside alcohol, external glassware (KBF glassware only), food or beverages, large bags, coolers, scooters/skateboards/bicycles, drones, tents/canopies, wagons/carts, signs/banners, pets.</p>
+        <p class="yes">Companion animals with proper paperwork are allowed. All bags are subject to search.</p>
+      </div>
+
+      <div class="fact">
+        <h3>Lockers</h3>
+        <p>Rentable lockers on-site for bottle purchases and gear &mdash; reserve ahead via the festival site. Useful if you're not walking back to a hotel.</p>
+      </div>
+
+      <div class="fact wide">
+        <h3>Louisville shuttle (for reference)</h3>
+        <p>Runs between Tempo by Hilton in NuLu and the festival; tickets via TIXR. Not useful from Elizabethtown &mdash; listed in case anyone in the party is based in Louisville.</p>
+        <div class="tablewrap">
+          <table class="shuttle">
+            <thead><tr><th>Day</th><th>Depart Tempo</th><th>Depart KBF</th></tr></thead>
+            <tbody>
+              <tr><td>Thursday</td><td class="mono">4:30 PM</td><td class="mono">10:00 PM</td></tr>
+              <tr><td>Friday</td><td class="mono">9 or 10 AM</td><td class="mono">6:30 PM</td></tr>
+              <tr><td>Saturday</td><td class="mono">9 or 10 AM</td><td class="mono">6:30 PM</td></tr>
+              <tr><td>Sunday</td><td class="mono">9 or 10 AM</td><td class="mono">4:30 PM</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ================= LOCATIONS ================= -->
+  <section class="day" data-day="locations">
+    <div class="day-head"><h2>Locations</h2></div>
+    <p style="color:var(--muted);font-size:0.88rem;max-width:62ch;margin:0.5rem 0 0;">Every address in this schedule, as published by the source guides. Each has a map link and turn-by-turn directions from Elizabethtown.</p>
+
+    <div class="locgroup">
+      <h3>Bardstown</h3>
+      <div class="loc" data-addr="114 N 5th St, Bardstown, KY 40004"><div class="name">Kentucky Bourbon Festival Grounds</div><div class="addr">114 N 5th St, Bardstown, KY 40004</div></div>
+      <div class="loc" data-addr="1875 New Haven Rd, Bardstown, KY 40004"><div class="name">The Trail Hotel</div><div class="addr">1875 New Haven Rd., Bardstown, KY 40004</div></div>
+      <div class="loc" data-addr="1311 Gilkey Run Road, Bardstown, KY 40004"><div class="name">Heaven Hill Bourbon Experience</div><div class="addr">1311 Gilkey Run Road, Bardstown, KY 40004</div></div>
+      <div class="loc" data-addr="127 North 3rd Street, Bardstown, KY 40004"><div class="name">Evergreen Liquors</div><div class="addr">127 North 3rd Street, Bardstown, KY 40004</div></div>
+      <div class="loc" data-addr="131 N 3rd St, Bardstown, KY 40004"><div class="name">Liam Ash Cocktail Emporium</div><div class="addr">131 N 3rd St, Bardstown, KY 40004</div></div>
+      <div class="loc" data-addr="104 N 4th St, Bardstown, KY 40004"><div class="name">Mr. Tubs</div><div class="addr">104 N 4th St, Bardstown, KY 40004</div></div>
+      <div class="loc" data-addr="1 Lux Row, Bardstown, KY 40004"><div class="name">Lux Row Distillers</div><div class="addr">1 Lux Row, Bardstown, KY 40004</div></div>
+      <div class="loc" data-addr="103 E Stephen Foster Ave, Bardstown, KY 40004"><div class="name">Chicken Cock Circa 1856</div><div class="addr">103 E. Stephen Foster Ave., Bardstown, KY 40004</div></div>
+      <div class="loc" data-addr="111 N 3rd St Ste 105, Bardstown, KY 40004"><div class="name">The Parlor Room</div><div class="addr">111 N 3rd St Ste 105, Bardstown, KY 40004</div></div>
+      <div class="loc" data-addr="418 E Stephen Foster Ave, Bardstown, KY 40004"><div class="name">Bardstown Motor Lodge</div><div class="addr">418 E Stephen Foster Ave, Bardstown, KY 40004</div></div>
+      <div class="loc" data-addr="1500 Parkway Dr, Bardstown, KY 40004"><div class="name">Bardstown Bourbon Company</div><div class="addr">1500 Parkway Dr, Bardstown, KY 40004</div></div>
+      <div class="loc" data-addr="110 W Stephen Foster Ave #2, Bardstown, KY 40004"><div class="name">Bespoke In Bond</div><div class="addr">110 W Stephen Foster Ave #2, Bardstown, KY 40004</div></div>
+      <div class="loc" data-addr="110 W Stephen Foster, Bardstown, KY 40004"><div class="name">Neat Bourbon Bar &amp; Bottle Shop</div><div class="addr">110 W. Stephen Foster, Bardstown, KY 40004</div></div>
+      <div class="loc" data-addr="124 N 3rd St, Bardstown, KY 40004"><div class="name">The Old Steelhouse tasting room</div><div class="addr">124 N. 3rd St, Bardstown, KY 40004</div></div>
+      <div class="loc" data-addr="200 Nelson County Plaza, Bardstown, KY 40004"><div class="name">Nelson County Justice Center</div><div class="addr">200 Nelson County Plaza, Bardstown, KY 40004</div></div>
+      <div class="loc" data-addr="114 N 5th St, Bardstown, KY 40004"><div class="name">Oscar Getz Museum / Chapel in Spalding Hall</div><div class="addr">114 N. Fifth St., Bardstown, KY 40004</div></div>
+    </div>
+
+    <div class="locgroup">
+      <h3>Outside Bardstown</h3>
+      <div class="loc" data-addr="3350 Burkes Spring Rd, Loretto, KY 40037"><div class="name">Maker's Mark Distillery</div><div class="addr">3350 Burkes Spring Rd, Loretto, KY 40037 &middot; ~55 min from E-town</div></div>
+      <div class="loc" data-addr="1280 Veterans Memorial Hwy, Lebanon, KY 40033"><div class="name">Limestone Branch Distillery</div><div class="addr">1280 Veterans Memorial Hwy., Lebanon, KY 40033 &middot; ~1 h 02 from E-town</div></div>
+      <div class="loc"><div class="name">Log Still Distillery &middot; The Amp</div><div class="addr">Nelson County, KY &middot; street address not published &middot; ~25 min from the festival grounds</div></div>
+      <div class="loc"><div class="name">Fred Noe's Backyard</div><div class="addr">Address not published</div></div>
+      <div class="loc"><div class="name">Tempo by Hilton (shuttle hub)</div><div class="addr">NuLu neighborhood, Louisville, KY &middot; exact address not published</div></div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="wrap">
+  <p><strong>Sources.</strong> The Trail Hotel Festival Week Schedule (event flyer, transcribed); Bourbon &amp; Banter, "The Ultimate Insider's Guide to the 2026 Kentucky Bourbon Festival," Patrick Pho, Sept 2, 2026; drive figures from distance-cities.com (non-stop, town-center estimates).</p>
+  <p>All events not run by The Trail Hotel are third-party programming, not Whiskey Social content. Dates, prices, and sold-out status were accurate as published and may have changed. The banner at the top of "Our plan" says whether picks are shared or saved to this device only.</p>
+</footer>
+
+<script>
+(function () {
+  var DAYS = ['wed','thu','fri','sat','sun','mon'];
+  var DATE_TO_DAY = { '2026-09-09':'wed','2026-09-10':'thu','2026-09-11':'fri','2026-09-12':'sat','2026-09-13':'sun','2026-09-14':'mon' };
+  var DAY_LABEL = { wed:'Wednesday, Sept 9', thu:'Thursday, Sept 10', fri:'Friday, Sept 11', sat:'Saturday, Sept 12', sun:'Sunday, Sept 13', mon:'Monday, Sept 14' };
+  var ORIGIN = 'Elizabethtown, KY';
+  var DEFAULT_LEN = 90; // minutes assumed for events with no published end time
+
+  var main = document.getElementById('main');
+  var tabs = Array.prototype.slice.call(document.querySelectorAll('.tab'));
+  var sections = Array.prototype.slice.call(document.querySelectorAll('section.day'));
+  var rows = Array.prototype.slice.call(document.querySelectorAll('.row'));
+  var STAR = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3.6l2.6 5.5 6 .8-4.4 4.2 1.1 6-5.3-2.9-5.3 2.9 1.1-6L3.4 9.9l6-.8z"/></svg>';
+
+  /* ---------- Eastern time helpers ---------- */
+  function etNow() {
+    var f = new Intl.DateTimeFormat('en-US', { timeZone: 'America/New_York', year:'numeric', month:'2-digit', day:'2-digit', hour:'2-digit', minute:'2-digit', hour12:false });
+    var p = {}; f.formatToParts(new Date()).forEach(function (x) { p[x.type] = x.value; });
+    var h = p.hour === '24' ? '00' : p.hour;
+    return { date: p.year + '-' + p.month + '-' + p.day, stamp: p.year + '-' + p.month + '-' + p.day + 'T' + h + ':' + p.minute };
+  }
+  function toMin(stamp) { // 'YYYY-MM-DDTHH:MM' -> minutes (naive)
+    if (!stamp) return null;
+    var m = /^(\d{4})-(\d{2})-(\d{2})T(\d{2}):(\d{2})$/.exec(stamp);
+    if (!m) return null;
+    return Date.UTC(+m[1], +m[2]-1, +m[3], +m[4], +m[5]) / 60000;
+  }
+  function fmtMin(min) {
+    var d = new Date(min * 60000);
+    var h = d.getUTCHours(), mi = d.getUTCMinutes();
+    var ap = h >= 12 ? 'PM' : 'AM'; h = h % 12; if (h === 0) h = 12;
+    return h + ':' + (mi < 10 ? '0' : '') + mi + ' ' + ap;
+  }
+  function clockText() {
+    var t = new Intl.DateTimeFormat('en-US', { timeZone: 'America/New_York', hour:'numeric', minute:'2-digit' }).format(new Date());
+    return 'Bardstown ' + t + ' ET';
+  }
+
+  /* ---------- Row metadata ---------- */
+  function meta(row) {
+    var s = row.getAttribute('data-start'), e = row.getAttribute('data-end');
+    var sm = toMin(s), em = toMin(e);
+    if (sm !== null && em === null) em = sm + DEFAULT_LEN;
+    return {
+      id: row.getAttribute('data-id'),
+      day: row.closest('section').getAttribute('data-day'),
+      title: row.querySelector('h3').textContent,
+      venue: row.getAttribute('data-venue'),
+      where: (function () { var w = row.querySelector('.where'); if (!w) return ''; var c = w.cloneNode(true); var l = c.querySelector('.links'); if (l) l.remove(); return c.innerHTML; })(),
+      start: s || '', end: e || '',
+      sm: sm, em: em,
+      drive: parseInt(row.getAttribute('data-drive') || '', 10) || null,
+      addr: row.getAttribute('data-addr') || ''
+    };
+  }
+
+  /* ---------- Links (map + directions from E-town) ---------- */
+  function mapsLinks(addr) {
+    var q = encodeURIComponent(addr);
+    return '<span class="links"> &middot; <a href="https://www.google.com/maps/search/?api=1&query=' + q + '" target="_blank" rel="noopener">Map</a>' +
+           ' &middot; <a href="https://www.google.com/maps/dir/?api=1&origin=' + encodeURIComponent(ORIGIN) + '&destination=' + q + '" target="_blank" rel="noopener">From E-town</a></span>';
+  }
+  rows.forEach(function (row) {
+    var addr = row.getAttribute('data-addr');
+    var where = row.querySelector('.where');
+    if (addr && where) where.insertAdjacentHTML('beforeend', mapsLinks(addr));
+    var btn = document.createElement('button');
+    btn.className = 'star'; btn.type = 'button';
+    btn.setAttribute('aria-pressed', 'false');
+    btn.setAttribute('aria-label', 'Add to our plan');
+    btn.innerHTML = STAR;
+    btn.addEventListener('click', function () { toggle(row.getAttribute('data-id')); });
+    row.appendChild(btn);
+  });
+  Array.prototype.forEach.call(document.querySelectorAll('.loc[data-addr]'), function (loc) {
+    var addr = loc.getAttribute('data-addr'); var q = encodeURIComponent(addr);
+    loc.insertAdjacentHTML('beforeend',
+      '<div class="links"><a href="https://www.google.com/maps/search/?api=1&query=' + q + '" target="_blank" rel="noopener">Map &rarr;</a>' +
+      '<a href="https://www.google.com/maps/dir/?api=1&origin=' + encodeURIComponent(ORIGIN) + '&destination=' + q + '" target="_blank" rel="noopener">From E-town &rarr;</a></div>');
+  });
+
+  /* ---------- Tabs ---------- */
+  function show(key) {
+    tabs.forEach(function (t) {
+      var on = t.getAttribute('data-tab') === key;
+      t.classList.toggle('active', on);
+      if (on && t.scrollIntoView) { try { t.scrollIntoView({ block: 'nearest', inline: 'center' }); } catch (e) {} }
+    });
+    sections.forEach(function (s) { s.hidden = s.getAttribute('data-day') !== key; });
+    document.getElementById('subbar').querySelectorAll('.pill').forEach(function (p) { p.hidden = DAYS.indexOf(key) === -1; });
+    window.scrollTo({ top: 0, behavior: 'auto' });
+  }
+  tabs.forEach(function (t) { t.addEventListener('click', function () { show(t.getAttribute('data-tab')); }); });
+
+  /* ---------- Venue filter ---------- */
+  Array.prototype.forEach.call(document.querySelectorAll('.pill'), function (pill) {
+    pill.addEventListener('click', function () {
+      document.querySelectorAll('.pill').forEach(function (p) { p.classList.remove('active'); });
+      pill.classList.add('active');
+      var f = pill.getAttribute('data-filter');
+      main.className = 'wrap' + (f === 'all' ? '' : ' f-' + f);
+    });
+  });
+
+  /* ---------- Now / next ---------- */
+  function markNow() {
+    var now = etNow();
+    document.getElementById('clock').textContent = clockText();
+    var todayKey = DATE_TO_DAY[now.date];
+    tabs.forEach(function (t) { t.classList.toggle('today-mark', t.getAttribute('data-tab') === todayKey); });
+    var nowMin = toMin(now.stamp);
+    sections.forEach(function (sec) {
+      var isToday = sec.getAttribute('data-date') === now.date;
+      var nextFound = false;
+      Array.prototype.forEach.call(sec.querySelectorAll('.row'), function (row) {
+        row.classList.remove('past', 'now');
+        var old = row.querySelector('.badge-now, .badge-next'); if (old) old.remove();
+        if (!isToday) return;
+        var m = meta(row);
+        if (m.sm === null) return;
+        var head = row.querySelector('.ev-head');
+        if (m.em <= nowMin) { row.classList.add('past'); }
+        else if (m.sm <= nowMin) { row.classList.add('now'); head.insertAdjacentHTML('beforeend', '<span class="badge badge-now">Now</span>'); }
+        else if (!nextFound) { nextFound = true; head.insertAdjacentHTML('beforeend', '<span class="badge badge-next">Next</span>'); }
+      });
+    });
+  }
+
+  /* ---------- Plan state (shared db, or this device) ---------- */
+  var plan = {};          // id -> record
+  var db = null;
+  var source = 'loading'; // 'db' | 'local' | 'loading'
+  var LS_KEY = 'kbf26-plan-v1';
+
+  function loadLocal() { try { var raw = localStorage.getItem(LS_KEY); plan = raw ? JSON.parse(raw) : {}; } catch (e) { plan = {}; } }
+  function saveLocal() { try { localStorage.setItem(LS_KEY, JSON.stringify(plan)); } catch (e) {} }
+
+  function record(id) {
+    var row = document.querySelector('.row[data-id="' + id + '"]');
+    var m = meta(row);
+    var r = { title: m.title, day: m.day, addedAt: new Date().toISOString() };
+    if (m.start) r.start = m.start;
+    if (m.end) r.end = m.end;
+    return r;
+  }
+  function toggle(id) {
+    if (plan[id]) {
+      delete plan[id];
+      if (db) db.collection('plan').doc(id).delete().catch(function () {});
+    } else {
+      plan[id] = record(id);
+      if (db) db.collection('plan').doc(id).set(plan[id]).catch(function () {});
+    }
+    if (!db) saveLocal();
+    renderPlan();
+  }
+  function clearAll() {
+    var ids = Object.keys(plan);
+    ids.forEach(function (id) { if (db) db.collection('plan').doc(id).delete().catch(function () {}); });
+    plan = {};
+    if (!db) saveLocal();
+    renderPlan();
+  }
+  var clearBtn = document.getElementById('plan-clear');
+  var clearArmed = false;
+  clearBtn.addEventListener('click', function () {
+    if (!clearArmed) { clearArmed = true; clearBtn.textContent = 'Really clear everything?'; setTimeout(function () { clearArmed = false; clearBtn.textContent = 'Clear all'; }, 4000); return; }
+    clearArmed = false; clearBtn.textContent = 'Clear all'; clearAll();
+  });
+
+  function overlaps(a, b) { return a.sm !== null && b.sm !== null && a.sm < b.em && b.sm < a.em; }
+
+  function renderPlan() {
+    var ids = Object.keys(plan);
+    // star states + tab count
+    rows.forEach(function (row) {
+      var on = !!plan[row.getAttribute('data-id')];
+      var b = row.querySelector('.star'); if (b) { b.setAttribute('aria-pressed', on ? 'true' : 'false'); b.setAttribute('aria-label', on ? 'Remove from our plan' : 'Add to our plan'); }
+      var old = row.querySelector('.badge-clash'); if (old) old.remove();
+    });
+    document.getElementById('plan-tab').textContent = ids.length ? 'Our plan (' + ids.length + ')' : 'Our plan';
+
+    // group by day
+    var byDay = {}; DAYS.forEach(function (d) { byDay[d] = []; });
+    ids.forEach(function (id) {
+      var row = document.querySelector('.row[data-id="' + id + '"]');
+      if (!row) return;
+      byDay[meta(row).day].push(meta(row));
+    });
+
+    var body = document.getElementById('plan-body');
+    var status = document.getElementById('plan-status');
+    var tools = document.getElementById('plan-tools');
+    status.textContent = source === 'db' ? 'Shared with everyone who has this link — changes sync live.'
+                       : source === 'local' ? 'Saved on this device only.'
+                       : 'Connecting…';
+    if (!ids.length) {
+      body.innerHTML = '<div class="plan-empty">Nothing here yet. Tap the star on any event to build the week — the plan flags overlaps and works out when to leave Elizabethtown for the first stop each day.</div>';
+      tools.hidden = true;
+      sections.forEach(function (s) { var pl = s.querySelector('[data-plan-line]'); if (pl) pl.textContent = ''; });
+      return;
+    }
+    tools.hidden = false;
+    var html = '';
+    DAYS.forEach(function (d) {
+      var list = byDay[d];
+      var sec = document.querySelector('section[data-day="' + d + '"]');
+      var pl = sec.querySelector('[data-plan-line]');
+      if (!list.length) { if (pl) pl.textContent = ''; return; }
+      list.sort(function (a, b) { return (a.sm === null ? 1e12 : a.sm) - (b.sm === null ? 1e12 : b.sm); });
+      // clashes
+      var clash = {};
+      for (var i = 0; i < list.length; i++) for (var j = i + 1; j < list.length; j++) {
+        if (overlaps(list[i], list[j])) { (clash[list[i].id] = clash[list[i].id] || []).push(list[j].title); (clash[list[j].id] = clash[list[j].id] || []).push(list[i].title); }
+      }
+      Object.keys(clash).forEach(function (id) {
+        var row = document.querySelector('.row[data-id="' + id + '"]');
+        if (row) row.querySelector('.ev-head').insertAdjacentHTML('beforeend', '<span class="badge badge-clash">Overlaps</span>');
+      });
+      // leave-by for first timed stop with a validated drive
+      var first = null;
+      for (var k = 0; k < list.length; k++) { if (list[k].sm !== null && list[k].drive) { first = list[k]; break; } }
+      var leave = '';
+      if (first) leave = 'Leave Elizabethtown by about <strong>' + fmtMin(first.sm - first.drive) + '</strong> for ' + first.title + ' (' + first.drive + '-min non-stop estimate, no traffic or parking buffer).';
+      if (pl) pl.innerHTML = list.length + ' planned today' + (Object.keys(clash).length ? ' · <strong>' + Object.keys(clash).length + ' overlap</strong>' : '') + (leave ? ' · ' + leave : '');
+
+      html += '<div class="plan-day"><h3>' + DAY_LABEL[d] + '</h3>' + (leave ? '<p class="plan-leave">' + leave + '</p>' : '') + '<ol class="timetable">';
+      list.forEach(function (m) {
+        var t = m.sm !== null ? fmtMin(m.sm) + (m.end ? '–' + fmtMin(m.em) : '') : 'Time TBA';
+        var c = clash[m.id] ? '<span class="badge badge-clash">Overlaps: ' + clash[m.id].join(', ') + '</span>' : '';
+        html += '<li class="row" data-plan-id="' + m.id + '"><div class="t">' + t + '</div><div class="ev"><div class="ev-head"><h3>' + m.title + '</h3>' + c + '</div><p class="where">' + m.where + (m.addr ? mapsLinks(m.addr) : '') + '</p></div>' +
+                '<button class="star" type="button" aria-pressed="true" aria-label="Remove from our plan">' + STAR + '</button></li>';
+      });
+      html += '</ol></div>';
+    });
+    body.innerHTML = html;
+    Array.prototype.forEach.call(body.querySelectorAll('.star'), function (b) {
+      b.addEventListener('click', function () { toggle(b.closest('li').getAttribute('data-plan-id')); });
+    });
+  }
+
+  function initDb() {
+    var use = window.claude && typeof window.claude.use === 'function' ? window.claude.use('db') : Promise.resolve(null);
+    use.then(function (ns) {
+      if (!ns) { source = 'local'; loadLocal(); renderPlan(); return; }
+      db = ns;
+      var pending = plan; // anything starred before the store answered
+      db.collection('plan').onSnapshot(function (snap) {
+        var next = {};
+        snap.docs.forEach(function (d) { if (d.exists) next[d.id] = d.data(); });
+        plan = next; source = 'db';
+        Object.keys(pending).forEach(function (id) { if (!plan[id]) { plan[id] = pending[id]; db.collection('plan').doc(id).set(pending[id]).catch(function () {}); } });
+        pending = {};
+        renderPlan();
+      }, function () { db = null; source = 'local'; loadLocal(); renderPlan(); });
+    }).catch(function () { source = 'local'; loadLocal(); renderPlan(); });
+  }
+
+  /* ---------- Boot ---------- */
+  var today = DATE_TO_DAY[etNow().date];
+  var start = today || (etNow().date < '2026-09-09' ? 'wed' : 'sun');
+  show(start);
+  markNow();
+  renderPlan();
+  initDb();
+  setInterval(markNow, 30000);
+})();
+</script>
+</body>
+</html>
