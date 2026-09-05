@@ -5,10 +5,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="color-scheme" content="light dark">
 <title>KBF 2026 Schedule</title>
-<meta name="description" content="Day-by-day itinerary for the 2026 Kentucky Bourbon Festival in Bardstown, Kentucky — Trail Hotel programming, official KBF grounds events, and downtown parties, with venue addresses, drive times from Elizabethtown, and festival logistics.">
+<meta name="description" content="Day-by-day itinerary for the 2026 Kentucky Bourbon Festival in Bardstown, Kentucky — Trail Hotel programming, official KBF grounds events, and downtown parties, with venue addresses, drive times from Elizabethtown, and a two-person plan builder.">
 <meta property="og:type" content="website">
 <meta property="og:title" content="KBF 2026 Schedule — Kentucky Bourbon Festival, Sept 9–13">
-<meta property="og:description" content="Day-by-day itinerary for the 2026 Kentucky Bourbon Festival in Bardstown, Kentucky — Trail Hotel programming, official KBF grounds events, and downtown parties, with venue addresses, drive times from Elizabethtown, and festival logistics.">
+<meta property="og:description" content="Day-by-day itinerary for the 2026 Kentucky Bourbon Festival in Bardstown, Kentucky — Trail Hotel programming, official KBF grounds events, and downtown parties, with venue addresses, drive times from Elizabethtown, and a two-person plan builder.">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%A5%83%3C/text%3E%3C/svg%3E">
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@400;600;700&family=Archivo:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap');
@@ -129,7 +129,7 @@
 
   ol.timetable { list-style: none; margin: 1.1rem 0 0; padding: 0; border-top: 1px solid var(--line); }
   .row {
-    display: grid; grid-template-columns: 5.4rem 1fr 44px; gap: 0 0.9rem;
+    display: grid; grid-template-columns: 5.4rem 1fr; gap: 0 0.9rem;
     padding: 0.8rem 0; border-bottom: 1px solid var(--line);
   }
   .row .t {
@@ -161,15 +161,48 @@
   .links { white-space: nowrap; }
   .desc { font-size: 0.9rem; margin: 0 0 0.2rem; text-wrap: pretty; }
   .note { font-size: 0.8rem; color: var(--muted); font-style: italic; margin: 0; }
-  .star {
-    width: 44px; height: 44px; border-radius: 999px; border: 1px solid transparent; background: transparent;
-    color: var(--muted); cursor: pointer; display: inline-flex; align-items: center; justify-content: center;
-    align-self: start; margin-top: -0.35rem;
+  /* ---------- Who's going ---------- */
+  .crew { display: flex; gap: 0.4rem; justify-content: flex-end; align-items: center; margin-top: 0.45rem; }
+  .crew-label { font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 0.66rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); margin-right: auto; }
+  .who {
+    font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 0.73rem;
+    min-height: 44px; padding: 0 0.85rem; border-radius: 999px; cursor: pointer;
+    border: 1px solid var(--line); background: transparent; color: var(--muted);
+    display: inline-flex; align-items: center; white-space: nowrap;
   }
-  .star:hover { border-color: var(--line); color: var(--ink); }
-  .star svg { width: 20px; height: 20px; fill: none; stroke: currentColor; stroke-width: 1.6; }
-  .star[aria-pressed="true"] { color: var(--accent); }
-  .star[aria-pressed="true"] svg { fill: currentColor; }
+  .who:hover { border-color: var(--ink); color: var(--ink); }
+  .who[aria-pressed="true"] { font-weight: 600; }
+  .who-aaron[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--on-accent); }
+  .who-adam[aria-pressed="true"] { background: var(--ink); border-color: var(--ink); color: var(--bg); }
+  .row:not(.claimed) .crew-label { visibility: hidden; }
+
+  /* ---------- Plan lanes ---------- */
+  .tally { font-size: 0.85rem; margin: 0.3rem 0 0; color: var(--muted); }
+  .tally b { color: var(--ink); font-weight: 600; }
+  .lanes { display: grid; grid-template-columns: 1fr 1fr; gap: 0 1.5rem; margin-top: 0.9rem; }
+  @media (max-width: 620px) { .lanes { grid-template-columns: 1fr; gap: 1.3rem; } }
+  .lane-head {
+    font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 0.72rem;
+    text-transform: uppercase; letter-spacing: 0.07em; padding-bottom: 0.35rem;
+    border-bottom: 2px solid var(--line);
+  }
+  .lane-aaron .lane-head { color: var(--accent); border-bottom-color: var(--accent); }
+  .lane-adam .lane-head { color: var(--ink); border-bottom-color: var(--ink); }
+  .lane-leave { font-size: 0.8rem; margin: 0.45rem 0 0; color: var(--muted); }
+  .lane-leave b { color: var(--ink); font-variant-numeric: tabular-nums; }
+  .lane ol { list-style: none; margin: 0.3rem 0 0; padding: 0; }
+  .lane li { display: grid; grid-template-columns: 4.6rem 1fr; gap: 0 0.6rem; padding: 0.55rem 0; border-bottom: 1px solid var(--line); font-size: 0.87rem; }
+  .lane .lt { font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 0.72rem; color: var(--brass); font-variant-numeric: tabular-nums; line-height: 1.4; }
+  .lane .li-title { text-wrap: pretty; }
+  .lane .li-where { color: var(--muted); font-size: 0.78rem; }
+  .li-flags { margin-top: 0.25rem; display: flex; flex-wrap: wrap; gap: 0.15rem 0.6rem; }
+  .flag { font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.04em; }
+  .flag-together { color: var(--brass); }
+  .flag-clash { color: var(--soldout); }
+  .lane-empty { font-size: 0.84rem; color: var(--muted); font-style: italic; padding: 0.6rem 0; }
+  .drop { background: none; border: none; color: var(--muted); cursor: pointer; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 0.7rem; padding: 0.2rem 0.3rem; text-decoration: underline; text-underline-offset: 2px; }
+  .drop:hover { color: var(--soldout); }
+  .drop:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 
   .recur { margin-top: 1rem; font-size: 0.85rem; color: var(--ink); padding: 0.7rem 0.9rem; background: var(--bg-2); border-radius: 8px; }
   .recur strong { color: var(--brass); font-weight: 600; }
@@ -226,7 +259,7 @@
   footer p { max-width: 64ch; text-wrap: pretty; }
 
   @media (max-width: 480px) {
-    .row { grid-template-columns: 4.6rem 1fr 44px; gap: 0 0.6rem; }
+    .row { grid-template-columns: 4.6rem 1fr; gap: 0 0.6rem; }
     .day-head h2 { font-size: 1.7rem; }
   }
   @media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
@@ -240,6 +273,7 @@
     <div><span class="k">Home base</span><span class="v">Elizabethtown, KY</span></div>
     <div><span class="k">To Bardstown</span><span class="v">27 mi &middot; ~34 min non-stop &middot; Bluegrass Pkwy</span></div>
     <div><span class="k">Timezone</span><span class="v">Eastern &mdash; 3 h ahead of Pacific</span></div>
+    <div><span class="k">Crew</span><span class="v">Aaron &amp; Adam</span></div>
   </div>
   <p class="freshness">Merged from The Trail Hotel's festival-week flyer and Bourbon &amp; Banter's insider guide (published Sept 2). Prices and sold-out status reflect that date and may have moved &mdash; confirm anything time-sensitive against the official KBF site and TIXR. Trail Hotel events are open to non-guests unless noted.</p>
 </header>
@@ -927,7 +961,8 @@
     <p class="plan-status" id="plan-status">Loading&hellip;</p>
     <div id="plan-body"></div>
     <div class="plan-tools" id="plan-tools" hidden>
-      <button class="ghost danger" id="plan-clear">Clear all</button>
+      <button class="ghost danger" data-clear="aaron">Clear Aaron's picks</button>
+      <button class="ghost danger" data-clear="adam">Clear Adam's picks</button>
     </div>
   </section>
 
@@ -1053,7 +1088,7 @@
 
 <footer class="wrap">
   <p><strong>Sources.</strong> The Trail Hotel Festival Week Schedule (event flyer, transcribed); Bourbon &amp; Banter, "The Ultimate Insider's Guide to the 2026 Kentucky Bourbon Festival," Patrick Pho, Sept 2, 2026; drive figures from distance-cities.com (non-stop, town-center estimates).</p>
-  <p>All events not run by The Trail Hotel are third-party programming, not Whiskey Social content. Dates, prices, and sold-out status were accurate as published and may have changed. The banner at the top of "Our plan" says whether picks are shared or saved to this device only.</p>
+  <p>All events not run by The Trail Hotel are third-party programming, not Whiskey Social content. Dates, prices, and sold-out status were accurate as published and may have changed. The banner at the top of "Our plan" says whether picks are syncing between Aaron and Adam or saved to one device.</p>
 </footer>
 
 <script>
@@ -1068,7 +1103,7 @@
   var tabs = Array.prototype.slice.call(document.querySelectorAll('.tab'));
   var sections = Array.prototype.slice.call(document.querySelectorAll('section.day'));
   var rows = Array.prototype.slice.call(document.querySelectorAll('.row'));
-  var STAR = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3.6l2.6 5.5 6 .8-4.4 4.2 1.1 6-5.3-2.9-5.3 2.9 1.1-6L3.4 9.9l6-.8z"/></svg>';
+  var PEOPLE = [{ key: 'aaron', label: 'Aaron' }, { key: 'adam', label: 'Adam' }];
 
   /* ---------- Eastern time helpers ---------- */
   function etNow() {
@@ -1105,6 +1140,7 @@
       title: row.querySelector('h3').textContent,
       venue: row.getAttribute('data-venue'),
       where: (function () { var w = row.querySelector('.where'); if (!w) return ''; var c = w.cloneNode(true); var l = c.querySelector('.links'); if (l) l.remove(); return c.innerHTML; })(),
+      venueShort: (function () { var w = row.querySelector('.where'); if (!w) return ''; var c = w.cloneNode(true); var l = c.querySelector('.links'); if (l) l.remove(); var v = c.querySelector('.vt'); if (v) v.remove(); return c.textContent.trim(); })(),
       start: s || '', end: e || '',
       sm: sm, em: em,
       drive: parseInt(row.getAttribute('data-drive') || '', 10) || null,
@@ -1122,13 +1158,16 @@
     var addr = row.getAttribute('data-addr');
     var where = row.querySelector('.where');
     if (addr && where) where.insertAdjacentHTML('beforeend', mapsLinks(addr));
-    var btn = document.createElement('button');
-    btn.className = 'star'; btn.type = 'button';
-    btn.setAttribute('aria-pressed', 'false');
-    btn.setAttribute('aria-label', 'Add to our plan');
-    btn.innerHTML = STAR;
-    btn.addEventListener('click', function () { toggle(row.getAttribute('data-id')); });
-    row.appendChild(btn);
+    var title = row.querySelector('h3').textContent;
+    var crew = document.createElement('div');
+    crew.className = 'crew';
+    crew.innerHTML = '<span class="crew-label">Going</span>' + PEOPLE.map(function (p) {
+      return '<button class="who who-' + p.key + '" type="button" data-person="' + p.key + '" aria-pressed="false" aria-label="' + p.label + ' going to ' + title.replace(/"/g, '') + '">' + p.label + '</button>';
+    }).join('');
+    Array.prototype.forEach.call(crew.querySelectorAll('.who'), function (b) {
+      b.addEventListener('click', function () { toggle(row.getAttribute('data-id'), b.getAttribute('data-person')); });
+    });
+    row.querySelector('.ev').appendChild(crew);
   });
   Array.prototype.forEach.call(document.querySelectorAll('.loc[data-addr]'), function (loc) {
     var addr = loc.getAttribute('data-addr'); var q = encodeURIComponent(addr);
@@ -1190,110 +1229,197 @@
   var source = 'loading'; // 'db' | 'local' | 'loading'
   var LS_KEY = 'kbf26-plan-v1';
 
-  function loadLocal() { try { var raw = localStorage.getItem(LS_KEY); plan = raw ? JSON.parse(raw) : {}; } catch (e) { plan = {}; } }
+  // Records saved before the page had two people belong to Aaron, who was the only one using it.
+  function normalize(rec) {
+    if (!rec || rec.who) return rec;
+    var r = Object.assign({}, rec); r.who = { aaron: true, adam: false }; return r;
+  }
+  function loadLocal() {
+    try { var raw = localStorage.getItem(LS_KEY); var o = raw ? JSON.parse(raw) : {}; plan = {}; Object.keys(o).forEach(function (k) { plan[k] = normalize(o[k]); }); }
+    catch (e) { plan = {}; }
+  }
   function saveLocal() { try { localStorage.setItem(LS_KEY, JSON.stringify(plan)); } catch (e) {} }
+
+  function whoOf(rec) { return (rec && rec.who) || {}; }
+  function anyone(rec) { var w = whoOf(rec); return !!(w.aaron || w.adam); }
 
   function record(id) {
     var row = document.querySelector('.row[data-id="' + id + '"]');
     var m = meta(row);
-    var r = { title: m.title, day: m.day, addedAt: new Date().toISOString() };
+    var r = { title: m.title, day: m.day, who: { aaron: false, adam: false } };
     if (m.start) r.start = m.start;
     if (m.end) r.end = m.end;
     return r;
   }
-  function toggle(id) {
-    if (plan[id]) {
-      delete plan[id];
-      if (db) db.collection('plan').doc(id).delete().catch(function () {});
+  function toggle(id, person) {
+    var cur = plan[id];
+    if (cur) {
+      var who = Object.assign({}, whoOf(cur));
+      who[person] = !who[person];
+      plan[id] = Object.assign({}, cur, { who: who });
+      if (db) {
+        var patch = {}; patch[person] = who[person];
+        var body = plan[id];
+        // merge into the other person's flag rather than replacing the document
+        db.collection('plan').doc(id).update({ who: patch })
+          .catch(function () { db.collection('plan').doc(id).set(body).catch(function () {}); });
+      }
     } else {
-      plan[id] = record(id);
-      if (db) db.collection('plan').doc(id).set(plan[id]).catch(function () {});
+      var rec = record(id); rec.who[person] = true;
+      plan[id] = rec;
+      if (db) db.collection('plan').doc(id).set(rec).catch(function () {});
     }
     if (!db) saveLocal();
     renderPlan();
   }
-  function clearAll() {
-    var ids = Object.keys(plan);
-    ids.forEach(function (id) { if (db) db.collection('plan').doc(id).delete().catch(function () {}); });
-    plan = {};
+  function clearPerson(person) {
+    Object.keys(plan).forEach(function (id) {
+      if (!whoOf(plan[id])[person]) return;
+      var who = Object.assign({}, whoOf(plan[id])); who[person] = false;
+      plan[id] = Object.assign({}, plan[id], { who: who });
+      if (db) {
+        var patch = {}; patch[person] = false;
+        db.collection('plan').doc(id).update({ who: patch }).catch(function () {});
+      }
+    });
     if (!db) saveLocal();
     renderPlan();
   }
-  var clearBtn = document.getElementById('plan-clear');
-  var clearArmed = false;
-  clearBtn.addEventListener('click', function () {
-    if (!clearArmed) { clearArmed = true; clearBtn.textContent = 'Really clear everything?'; setTimeout(function () { clearArmed = false; clearBtn.textContent = 'Clear all'; }, 4000); return; }
-    clearArmed = false; clearBtn.textContent = 'Clear all'; clearAll();
+  Array.prototype.forEach.call(document.querySelectorAll('[data-clear]'), function (btn) {
+    var label = btn.textContent, armed = false, timer = null;
+    btn.addEventListener('click', function () {
+      if (!armed) {
+        armed = true; btn.textContent = 'Tap again to confirm';
+        timer = setTimeout(function () { armed = false; btn.textContent = label; }, 4000);
+        return;
+      }
+      clearTimeout(timer); armed = false; btn.textContent = label;
+      clearPerson(btn.getAttribute('data-clear'));
+    });
   });
 
   function overlaps(a, b) { return a.sm !== null && b.sm !== null && a.sm < b.em && b.sm < a.em; }
 
   function renderPlan() {
-    var ids = Object.keys(plan);
-    // star states + tab count
+    var ids = Object.keys(plan).filter(function (id) { return anyone(plan[id]); });
+
     rows.forEach(function (row) {
-      var on = !!plan[row.getAttribute('data-id')];
-      var b = row.querySelector('.star'); if (b) { b.setAttribute('aria-pressed', on ? 'true' : 'false'); b.setAttribute('aria-label', on ? 'Remove from our plan' : 'Add to our plan'); }
+      var rec = plan[row.getAttribute('data-id')];
+      var w = whoOf(rec);
+      row.classList.toggle('claimed', anyone(rec));
+      Array.prototype.forEach.call(row.querySelectorAll('.who'), function (b) {
+        b.setAttribute('aria-pressed', w[b.getAttribute('data-person')] ? 'true' : 'false');
+      });
       var old = row.querySelector('.badge-clash'); if (old) old.remove();
     });
     document.getElementById('plan-tab').textContent = ids.length ? 'Our plan (' + ids.length + ')' : 'Our plan';
 
-    // group by day
     var byDay = {}; DAYS.forEach(function (d) { byDay[d] = []; });
     ids.forEach(function (id) {
       var row = document.querySelector('.row[data-id="' + id + '"]');
       if (!row) return;
-      byDay[meta(row).day].push(meta(row));
+      var m = meta(row); m.who = whoOf(plan[id]);
+      byDay[m.day].push(m);
     });
 
     var body = document.getElementById('plan-body');
     var status = document.getElementById('plan-status');
     var tools = document.getElementById('plan-tools');
-    status.textContent = source === 'db' ? 'Shared with everyone who has this link — changes sync live.'
-                       : source === 'local' ? 'Saved on this device only.'
+    status.textContent = source === 'db' ? 'Shared — Aaron and Adam see each other’s picks live on this link.'
+                       : source === 'local' ? 'Saved on this device only — this copy does not sync between phones.'
                        : 'Connecting…';
+
     if (!ids.length) {
-      body.innerHTML = '<div class="plan-empty">Nothing here yet. Tap the star on any event to build the week — the plan flags overlaps and works out when to leave Elizabethtown for the first stop each day.</div>';
+      body.innerHTML = '<div class="plan-empty">Nothing claimed yet. On any event, tap <b>Aaron</b> or <b>Adam</b> — both of you can be on the same thing, or split up and cover twice the ground. Each day then shows two lanes, who is doubled-booked, and when each of you needs to leave Elizabethtown.</div>';
       tools.hidden = true;
       sections.forEach(function (s) { var pl = s.querySelector('[data-plan-line]'); if (pl) pl.textContent = ''; });
       return;
     }
     tools.hidden = false;
+
     var html = '';
     DAYS.forEach(function (d) {
       var list = byDay[d];
       var sec = document.querySelector('section[data-day="' + d + '"]');
       var pl = sec.querySelector('[data-plan-line]');
       if (!list.length) { if (pl) pl.textContent = ''; return; }
-      list.sort(function (a, b) { return (a.sm === null ? 1e12 : a.sm) - (b.sm === null ? 1e12 : b.sm); });
-      // clashes
-      var clash = {};
-      for (var i = 0; i < list.length; i++) for (var j = i + 1; j < list.length; j++) {
-        if (overlaps(list[i], list[j])) { (clash[list[i].id] = clash[list[i].id] || []).push(list[j].title); (clash[list[j].id] = clash[list[j].id] || []).push(list[i].title); }
-      }
-      Object.keys(clash).forEach(function (id) {
-        var row = document.querySelector('.row[data-id="' + id + '"]');
-        if (row) row.querySelector('.ev-head').insertAdjacentHTML('beforeend', '<span class="badge badge-clash">Overlaps</span>');
-      });
-      // leave-by for first timed stop with a validated drive
-      var first = null;
-      for (var k = 0; k < list.length; k++) { if (list[k].sm !== null && list[k].drive) { first = list[k]; break; } }
-      var leave = '';
-      if (first) leave = 'Leave Elizabethtown by about <strong>' + fmtMin(first.sm - first.drive) + '</strong> for ' + first.title + ' (' + first.drive + '-min non-stop estimate, no traffic or parking buffer).';
-      if (pl) pl.innerHTML = list.length + ' planned today' + (Object.keys(clash).length ? ' · <strong>' + Object.keys(clash).length + ' overlap</strong>' : '') + (leave ? ' · ' + leave : '');
 
-      html += '<div class="plan-day"><h3>' + DAY_LABEL[d] + '</h3>' + (leave ? '<p class="plan-leave">' + leave + '</p>' : '') + '<ol class="timetable">';
-      list.forEach(function (m) {
-        var t = m.sm !== null ? fmtMin(m.sm) + (m.end ? '–' + fmtMin(m.em) : '') : 'Time TBA';
-        var c = clash[m.id] ? '<span class="badge badge-clash">Overlaps: ' + clash[m.id].join(', ') + '</span>' : '';
-        html += '<li class="row" data-plan-id="' + m.id + '"><div class="t">' + t + '</div><div class="ev"><div class="ev-head"><h3>' + m.title + '</h3>' + c + '</div><p class="where">' + m.where + (m.addr ? mapsLinks(m.addr) : '') + '</p></div>' +
-                '<button class="star" type="button" aria-pressed="true" aria-label="Remove from our plan">' + STAR + '</button></li>';
+      var lanes = {}, clash = {}, leaveBy = {};
+      PEOPLE.forEach(function (p) {
+        var mine = list.filter(function (m) { return m.who[p.key]; })
+                       .sort(function (a, b) { return (a.sm === null ? 1e12 : a.sm) - (b.sm === null ? 1e12 : b.sm); });
+        lanes[p.key] = mine;
+        // a person cannot be in two places at once — their own overlaps are the real conflicts
+        for (var i = 0; i < mine.length; i++) for (var j = i + 1; j < mine.length; j++) {
+          if (overlaps(mine[i], mine[j])) {
+            (clash[p.key] = clash[p.key] || {})[mine[i].id] = mine[j].title;
+            (clash[p.key])[mine[j].id] = mine[i].title;
+          }
+        }
+        for (var k = 0; k < mine.length; k++) { if (mine[k].sm !== null && mine[k].drive) { leaveBy[p.key] = mine[k]; break; } }
       });
-      html += '</ol></div>';
+
+      var together = list.filter(function (m) { return m.who.aaron && m.who.adam; });
+      var splitCount = list.length - together.length;
+
+      // clash badges on the main timetable, named by person
+      Object.keys(clash).forEach(function (pk) {
+        var label = PEOPLE.filter(function (p) { return p.key === pk; })[0].label;
+        Object.keys(clash[pk]).forEach(function (id) {
+          var row = document.querySelector('.row[data-id="' + id + '"]');
+          if (!row) return;
+          var head = row.querySelector('.ev-head');
+          var existing = head.querySelector('.badge-clash');
+          if (existing) { existing.textContent = existing.textContent + ' + ' + label; return; }
+          head.insertAdjacentHTML('beforeend', '<span class="badge badge-clash">Double-booked: ' + label + '</span>');
+        });
+      });
+
+      var tally = PEOPLE.map(function (p) { return '<b>' + p.label + '</b> ' + lanes[p.key].length; }).join(' · ')
+                + (together.length ? ' · ' + together.length + ' together' : '')
+                + (splitCount && together.length ? ' · ' + splitCount + ' split' : '');
+
+      var leaveLine = PEOPLE.filter(function (p) { return leaveBy[p.key]; })
+        .map(function (p) { return p.label + ' by <b>' + fmtMin(leaveBy[p.key].sm - leaveBy[p.key].drive) + '</b>'; })
+        .join(', ');
+      var twoCars = leaveBy.aaron && leaveBy.adam && leaveBy.aaron.id !== leaveBy.adam.id;
+
+      if (pl) pl.innerHTML = tally + (leaveLine ? ' · leave E-town: ' + leaveLine : '');
+
+      html += '<div class="plan-day"><h3>' + DAY_LABEL[d] + '</h3><p class="tally">' + tally +
+              (twoCars ? ' · different first stops — two cars' : '') + '</p><div class="lanes">';
+
+      PEOPLE.forEach(function (p) {
+        var mine = lanes[p.key];
+        html += '<div class="lane lane-' + p.key + '"><div class="lane-head">' + p.label + ' · ' + mine.length + '</div>';
+        if (leaveBy[p.key]) {
+          html += '<p class="lane-leave">Leave E-town by <b>' + fmtMin(leaveBy[p.key].sm - leaveBy[p.key].drive) +
+                  '</b> — ' + leaveBy[p.key].drive + ' min to ' + leaveBy[p.key].title + '.</p>';
+        }
+        if (!mine.length) { html += '<p class="lane-empty">Nothing claimed.</p></div>'; return; }
+        html += '<ol>';
+        mine.forEach(function (m) {
+          var t = m.sm !== null ? fmtMin(m.sm) + (m.end ? '<br>' + fmtMin(m.em) : '') : 'TBA';
+          var flags = [];
+          if (m.who.aaron && m.who.adam) flags.push('<span class="flag flag-together">Both going</span>');
+          if (clash[p.key] && clash[p.key][m.id]) {
+            var other = clash[p.key][m.id];
+            if (other.length > 30) other = other.slice(0, 29).replace(/[\s—·-]+$/, '') + '…';
+            flags.push('<span class="flag flag-clash">Clashes with ' + other + '</span>');
+          }
+          html += '<li><div class="lt">' + t + '</div><div><div class="li-title">' + m.title + '</div>' +
+                  '<div class="li-where">' + m.venueShort + '</div>' +
+                  (flags.length ? '<div class="li-flags">' + flags.join(' ') + '</div>' : '') +
+                  '<button class="drop" type="button" data-drop-id="' + m.id + '" data-drop-person="' + p.key + '">drop</button></div></li>';
+        });
+        html += '</ol></div>';
+      });
+      html += '</div></div>';
     });
+
     body.innerHTML = html;
-    Array.prototype.forEach.call(body.querySelectorAll('.star'), function (b) {
-      b.addEventListener('click', function () { toggle(b.closest('li').getAttribute('data-plan-id')); });
+    Array.prototype.forEach.call(body.querySelectorAll('.drop'), function (b) {
+      b.addEventListener('click', function () { toggle(b.getAttribute('data-drop-id'), b.getAttribute('data-drop-person')); });
     });
   }
 
@@ -1305,9 +1431,23 @@
       var pending = plan; // anything starred before the store answered
       db.collection('plan').onSnapshot(function (snap) {
         var next = {};
-        snap.docs.forEach(function (d) { if (d.exists) next[d.id] = d.data(); });
+        snap.docs.forEach(function (d) { if (d.exists) next[d.id] = normalize(d.data()); });
         plan = next; source = 'db';
-        Object.keys(pending).forEach(function (id) { if (!plan[id]) { plan[id] = pending[id]; db.collection('plan').doc(id).set(pending[id]).catch(function () {}); } });
+        Object.keys(pending).forEach(function (id) {
+          var mine = whoOf(pending[id]);
+          PEOPLE.forEach(function (p) {
+            if (!mine[p.key] || whoOf(plan[id])[p.key]) return;
+            if (plan[id]) {
+              var who = Object.assign({}, whoOf(plan[id])); who[p.key] = true;
+              plan[id] = Object.assign({}, plan[id], { who: who });
+              var patch = {}; patch[p.key] = true;
+              db.collection('plan').doc(id).update({ who: patch }).catch(function () {});
+            } else {
+              plan[id] = pending[id];
+              db.collection('plan').doc(id).set(pending[id]).catch(function () {});
+            }
+          });
+        });
         pending = {};
         renderPlan();
       }, function () { db = null; source = 'local'; loadLocal(); renderPlan(); });
