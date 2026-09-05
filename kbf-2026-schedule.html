@@ -5,10 +5,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="color-scheme" content="light dark">
 <title>KBF 2026 Schedule</title>
-<meta name="description" content="Day-by-day itinerary for the 2026 Kentucky Bourbon Festival in Bardstown, Kentucky — Trail Hotel programming, official KBF grounds events, and downtown parties, with venue addresses, drive times from Elizabethtown, and a two-person plan builder.">
+<meta name="description" content="Day-by-day itinerary for the 2026 Kentucky Bourbon Festival in Bardstown, Kentucky — Trail Hotel programming, official KBF grounds events, and downtown parties, with venue addresses, drive times from Elizabethtown, and a shared two-person plan that needs no sign-in.">
 <meta property="og:type" content="website">
 <meta property="og:title" content="KBF 2026 Schedule — Kentucky Bourbon Festival, Sept 9–13">
-<meta property="og:description" content="Day-by-day itinerary for the 2026 Kentucky Bourbon Festival in Bardstown, Kentucky — Trail Hotel programming, official KBF grounds events, and downtown parties, with venue addresses, drive times from Elizabethtown, and a two-person plan builder.">
+<meta property="og:description" content="Day-by-day itinerary for the 2026 Kentucky Bourbon Festival in Bardstown, Kentucky — Trail Hotel programming, official KBF grounds events, and downtown parties, with venue addresses, drive times from Elizabethtown, and a shared two-person plan that needs no sign-in.">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%A5%83%3C/text%3E%3C/svg%3E">
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@400;600;700&family=Archivo:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap');
@@ -218,6 +218,8 @@
   .plan-leave { font-size: 0.85rem; margin: 0.3rem 0 0; color: var(--ink); }
   .plan-leave strong { color: var(--accent); }
   .plan-empty { margin-top: 1.5rem; padding: 1.2rem; border: 1px dashed var(--line); border-radius: 8px; color: var(--muted); font-size: 0.9rem; max-width: 52ch; }
+  .sync-tools { display: flex; gap: 0.5rem; margin-top: 0.7rem; flex-wrap: wrap; align-items: center; }
+  .sync-note { font-size: 0.8rem; color: var(--muted); }
   .plan-tools { display: flex; gap: 0.5rem; margin-top: 1.4rem; flex-wrap: wrap; }
   .ghost {
     font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 0.74rem;
@@ -959,6 +961,7 @@
   <section class="day" data-day="plan">
     <div class="day-head"><h2>Our plan</h2></div>
     <p class="plan-status" id="plan-status">Loading&hellip;</p>
+    <div class="sync-tools" id="sync-tools"></div>
     <div id="plan-body"></div>
     <div class="plan-tools" id="plan-tools" hidden>
       <button class="ghost danger" data-clear="aaron">Clear Aaron's picks</button>
@@ -1126,7 +1129,13 @@
   }
   function clockText() {
     var t = new Intl.DateTimeFormat('en-US', { timeZone: 'America/New_York', hour:'numeric', minute:'2-digit' }).format(new Date());
-    return 'Bardstown ' + t + ' ET';
+    var tag = source === 'db' ? ' · shared' :
+              source === 'cloud' ? (cloudState === 'error' ? ' · offline' : ' · shared') :
+              source === 'local' ? ' · this device' : '';
+    return 'Bardstown ' + t + ' ET' + tag;
+  }
+  function fmtClock(ms) {
+    return new Intl.DateTimeFormat('en-US', { hour: 'numeric', minute: '2-digit' }).format(new Date(ms));
   }
 
   /* ---------- Row metadata ---------- */
@@ -1231,8 +1240,11 @@
 
   // Records saved before the page had two people belong to Aaron, who was the only one using it.
   function normalize(rec) {
-    if (!rec || rec.who) return rec;
-    var r = Object.assign({}, rec); r.who = { aaron: true, adam: false }; return r;
+    if (!rec) return rec;
+    var r = Object.assign({}, rec);
+    if (!r.who) r.who = { aaron: true, adam: false };
+    if (!r.at) { var seed = r.who.aaron || r.who.adam ? 1 : 0; r.at = { aaron: r.who.aaron ? seed : 0, adam: r.who.adam ? seed : 0 }; }
+    return r;
   }
   function loadLocal() {
     try { var raw = localStorage.getItem(LS_KEY); var o = raw ? JSON.parse(raw) : {}; plan = {}; Object.keys(o).forEach(function (k) { plan[k] = normalize(o[k]); }); }
@@ -1252,37 +1264,37 @@
     return r;
   }
   function toggle(id, person) {
-    var cur = plan[id];
-    if (cur) {
-      var who = Object.assign({}, whoOf(cur));
-      who[person] = !who[person];
-      plan[id] = Object.assign({}, cur, { who: who });
-      if (db) {
-        var patch = {}; patch[person] = who[person];
-        var body = plan[id];
-        // merge into the other person's flag rather than replacing the document
-        db.collection('plan').doc(id).update({ who: patch })
-          .catch(function () { db.collection('plan').doc(id).set(body).catch(function () {}); });
-      }
-    } else {
-      var rec = record(id); rec.who[person] = true;
-      plan[id] = rec;
-      if (db) db.collection('plan').doc(id).set(rec).catch(function () {});
+    var cur = plan[id] || record(id);
+    var who = Object.assign({}, whoOf(cur));
+    var at = Object.assign({}, cur.at || {});
+    who[person] = !who[person];
+    at[person] = Date.now();
+    plan[id] = Object.assign({}, cur, { who: who, at: at });
+
+    if (db) {
+      var patch = {}; patch[person] = who[person];
+      var body = plan[id];
+      db.collection('plan').doc(id).update({ who: patch })
+        .catch(function () { db.collection('plan').doc(id).set(body).catch(function () {}); });
     }
-    if (!db) saveLocal();
+    saveLocal();
+    schedulePush();
     renderPlan();
   }
   function clearPerson(person) {
+    var now = Date.now();
     Object.keys(plan).forEach(function (id) {
       if (!whoOf(plan[id])[person]) return;
       var who = Object.assign({}, whoOf(plan[id])); who[person] = false;
-      plan[id] = Object.assign({}, plan[id], { who: who });
+      var at = Object.assign({}, plan[id].at || {}); at[person] = now;
+      plan[id] = Object.assign({}, plan[id], { who: who, at: at });
       if (db) {
         var patch = {}; patch[person] = false;
         db.collection('plan').doc(id).update({ who: patch }).catch(function () {});
       }
     });
-    if (!db) saveLocal();
+    saveLocal();
+    schedulePush();
     renderPlan();
   }
   Array.prototype.forEach.call(document.querySelectorAll('[data-clear]'), function (btn) {
@@ -1297,6 +1309,123 @@
       clearPerson(btn.getAttribute('data-clear'));
     });
   });
+
+  /* ---------- Shared list over a public JSON store (no account, no sign-in) ----------
+     The key lives in the link (#s=…) and in this device's storage, never in the repo.
+     Every pick carries a per-person timestamp, so two phones editing at once merge
+     field by field instead of one overwriting the other. */
+  var hasClaude = !!(window.claude && typeof window.claude.use === 'function');
+  var claudeSettled = false;
+  var SYNC_BASE = 'https://textdb.dev/api/data/';
+  var KEY_STORE = 'kbf26-sync-key';
+  var syncKey = '';
+  var cloudState = 'idle';   // idle | ok | error
+  var lastSyncAt = 0;
+  var pushTimer = null;
+
+  function readKeyFromHash() {
+    var m = (location.hash || '').match(/[#&]s=([A-Za-z0-9_-]{6,64})/);
+    return m ? m[1] : '';
+  }
+  function rememberKey(k) {
+    syncKey = k;
+    try { k ? localStorage.setItem(KEY_STORE, k) : localStorage.removeItem(KEY_STORE); } catch (e) {}
+  }
+  function newKey() {
+    var a = 'abcdefghijklmnopqrstuvwxyz0123456789', out = 'kbf26-';
+    var buf = new Uint8Array(20);
+    if (window.crypto && crypto.getRandomValues) crypto.getRandomValues(buf);
+    else for (var i = 0; i < buf.length; i++) buf[i] = Math.floor(Math.random() * 256);
+    for (var j = 0; j < buf.length; j++) out += a[buf[j] % a.length];
+    return out;
+  }
+  function payload() {
+    var events = {};
+    Object.keys(plan).forEach(function (id) {
+      var r = plan[id];
+      events[id] = { who: { aaron: !!whoOf(r).aaron, adam: !!whoOf(r).adam },
+                     at: { aaron: (r.at || {}).aaron || 0, adam: (r.at || {}).adam || 0 } };
+    });
+    return JSON.stringify({ v: 1, events: events });
+  }
+  // Field-level merge: for each person on each event, the newer stamp wins.
+  function mergeRemote(remoteEvents) {
+    var changedLocal = false, weAreAhead = false, ids = {};
+    Object.keys(plan).forEach(function (id) { ids[id] = 1; });
+    Object.keys(remoteEvents || {}).forEach(function (id) { ids[id] = 1; });
+    Object.keys(ids).forEach(function (id) {
+      if (!document.querySelector('.row[data-id="' + id + '"]')) return;
+      var loc = plan[id], rem = remoteEvents[id] || {};
+      var lw = whoOf(loc), la = (loc && loc.at) || {};
+      var rw = rem.who || {}, ra = rem.at || {};
+      var who = {}, at = {};
+      PEOPLE.forEach(function (pp) {
+        var lt = la[pp.key] || 0, rt = ra[pp.key] || 0;
+        if (rt > lt) {
+          if (!!rw[pp.key] !== !!lw[pp.key]) changedLocal = true;
+          who[pp.key] = !!rw[pp.key]; at[pp.key] = rt;
+        } else {
+          if (lt > rt) weAreAhead = true;
+          who[pp.key] = !!lw[pp.key]; at[pp.key] = lt;
+        }
+      });
+      plan[id] = Object.assign({}, loc || record(id), { who: who, at: at });
+    });
+    return { changedLocal: changedLocal, weAreAhead: weAreAhead };
+  }
+  function pullCloud(then) {
+    if (!syncKey) return;
+    fetch(SYNC_BASE + encodeURIComponent(syncKey), { cache: 'no-store' })
+      .then(function (r) { return r.ok ? r.text() : Promise.reject(r.status); })
+      .then(function (txt) {
+        var doc = {};
+        try { doc = txt && txt.trim() ? JSON.parse(txt) : {}; } catch (e) { doc = {}; }
+        var res = mergeRemote(doc.events || {});
+        cloudState = 'ok'; lastSyncAt = Date.now();
+        if (res.changedLocal) saveLocal();
+        if (res.weAreAhead) pushCloud();
+        renderPlan();
+        if (then) then();
+      })
+      .catch(function () { cloudState = 'error'; renderPlan(); });
+  }
+  function pushCloud() {
+    if (!syncKey) return;
+    fetch(SYNC_BASE + encodeURIComponent(syncKey), {
+      method: 'POST', headers: { 'Content-Type': 'text/plain' }, body: payload()
+    })
+      .then(function (r) { if (!r.ok) throw r.status; cloudState = 'ok'; lastSyncAt = Date.now(); renderPlan(); })
+      .catch(function () { cloudState = 'error'; renderPlan(); });
+  }
+  function schedulePush() {
+    if (!syncKey) return;
+    clearTimeout(pushTimer);
+    pushTimer = setTimeout(pushCloud, 400);
+  }
+  function startSharing() {
+    var k = newKey();
+    rememberKey(k);
+    history.replaceState(null, '', location.pathname + location.search + '#s=' + k);
+    source = 'cloud'; cloudState = 'ok'; lastSyncAt = Date.now();
+    pushCloud(); renderPlan();
+  }
+  function stopSharing() {
+    rememberKey('');
+    history.replaceState(null, '', location.pathname + location.search);
+    source = 'local'; cloudState = 'idle'; renderPlan();
+  }
+  function copyLink() {
+    var url = location.href;
+    var done = function (ok) {
+      var b = document.getElementById('copy-link');
+      if (!b) return;
+      b.textContent = ok ? 'Link copied' : 'Copy failed — select the address bar';
+      setTimeout(function () { if (b) b.textContent = 'Copy link for Adam'; }, 2500);
+    };
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(url).then(function () { done(true); }, function () { done(false); });
+    } else { done(false); }
+  }
 
   function overlaps(a, b) { return a.sm !== null && b.sm !== null && a.sm < b.em && b.sm < a.em; }
 
@@ -1324,18 +1453,43 @@
 
     var body = document.getElementById('plan-body');
     var status = document.getElementById('plan-status');
-    var tools = document.getElementById('plan-tools');
-    status.textContent = source === 'db' ? 'Shared — Aaron and Adam see each other’s picks live on this link.'
-                       : source === 'local' ? 'Saved on this device only — this copy does not sync between phones.'
-                       : 'Connecting…';
+    var planTools = document.getElementById('plan-tools');
+    var clockEl = document.getElementById('clock');
+    if (clockEl) clockEl.textContent = clockText();
+    var tools = document.getElementById('sync-tools');
+    if (hasClaude && !claudeSettled && source !== 'db') {
+      status.textContent = 'Connecting\u2026';
+      document.getElementById('sync-tools').innerHTML = '';
+    } else if (source === 'db') {
+      status.textContent = 'Shared through Claude — Aaron and Adam see each other\u2019s picks live on this link.';
+      tools.innerHTML = '';
+    } else if (source === 'cloud') {
+      status.innerHTML = cloudState === 'error'
+        ? 'Can\u2019t reach the shared list right now. Your picks are safe on this device and will sync when the connection is back.'
+        : 'Shared list — Aaron and Adam sync automatically, no sign-in. <span class="sync-note">Anyone with this link can edit it.</span>';
+      tools.innerHTML = '<button class="ghost" id="copy-link" type="button">Copy link for Adam</button>' +
+                        '<button class="ghost" id="stop-share" type="button">Stop syncing this device</button>' +
+                        '<span class="sync-note" id="sync-when"></span>';
+      var when = document.getElementById('sync-when');
+      if (when) when.textContent = cloudState === 'error' ? 'offline' : (lastSyncAt ? 'synced ' + fmtClock(lastSyncAt) : '');
+      document.getElementById('copy-link').addEventListener('click', copyLink);
+      document.getElementById('stop-share').addEventListener('click', stopSharing);
+    } else if (source === 'local') {
+      status.textContent = 'Saved on this device only. Start a shared list and both of you can tick things off from your own phones — no account, no sign-in.';
+      tools.innerHTML = '<button class="ghost" id="start-share" type="button">Start a shared list</button>';
+      document.getElementById('start-share').addEventListener('click', startSharing);
+    } else {
+      status.textContent = 'Connecting…';
+      tools.innerHTML = '';
+    }
 
     if (!ids.length) {
-      body.innerHTML = '<div class="plan-empty">Nothing claimed yet. On any event, tap <b>Aaron</b> or <b>Adam</b> — both of you can be on the same thing, or split up and cover twice the ground. Each day then shows two lanes, who is doubled-booked, and when each of you needs to leave Elizabethtown.</div>';
-      tools.hidden = true;
+      body.innerHTML = '<div class="plan-empty">Nothing claimed yet. On any event, tap <b>Aaron</b> or <b>Adam</b> — both of you can be on the same thing, or split up and cover twice the ground. Each day then shows two lanes, who is double-booked, and when each of you needs to leave Elizabethtown.</div>';
+      planTools.hidden = true;
       sections.forEach(function (s) { var pl = s.querySelector('[data-plan-line]'); if (pl) pl.textContent = ''; });
       return;
     }
-    tools.hidden = false;
+    planTools.hidden = false;
 
     var html = '';
     DAYS.forEach(function (d) {
@@ -1423,45 +1577,71 @@
     });
   }
 
+  var BOOT = Date.now();
+
   function initDb() {
     var use = window.claude && typeof window.claude.use === 'function' ? window.claude.use('db') : Promise.resolve(null);
     use.then(function (ns) {
-      if (!ns) { source = 'local'; loadLocal(); renderPlan(); return; }
+      claudeSettled = true;
+      if (!ns) { renderPlan(); return; }     // no Claude store: the cloud/local path already runs
       db = ns;
-      var pending = plan; // anything starred before the store answered
+      syncKey = '';                          // Claude's own store wins; leave the saved key untouched
       db.collection('plan').onSnapshot(function (snap) {
         var next = {};
         snap.docs.forEach(function (d) { if (d.exists) next[d.id] = normalize(d.data()); });
+        // picks made in this page load before the store answered still belong to us
+        var madeHere = plan;
         plan = next; source = 'db';
-        Object.keys(pending).forEach(function (id) {
-          var mine = whoOf(pending[id]);
-          PEOPLE.forEach(function (p) {
-            if (!mine[p.key] || whoOf(plan[id])[p.key]) return;
+        Object.keys(madeHere).forEach(function (id) {
+          var mine = whoOf(madeHere[id]), stamps = madeHere[id].at || {};
+          PEOPLE.forEach(function (pp) {
+            if (!mine[pp.key] || (stamps[pp.key] || 0) < BOOT || whoOf(plan[id])[pp.key]) return;
             if (plan[id]) {
-              var who = Object.assign({}, whoOf(plan[id])); who[p.key] = true;
+              var who = Object.assign({}, whoOf(plan[id])); who[pp.key] = true;
               plan[id] = Object.assign({}, plan[id], { who: who });
-              var patch = {}; patch[p.key] = true;
+              var patch = {}; patch[pp.key] = true;
               db.collection('plan').doc(id).update({ who: patch }).catch(function () {});
             } else {
-              plan[id] = pending[id];
-              db.collection('plan').doc(id).set(pending[id]).catch(function () {});
+              plan[id] = madeHere[id];
+              db.collection('plan').doc(id).set(madeHere[id]).catch(function () {});
             }
           });
         });
-        pending = {};
         renderPlan();
-      }, function () { db = null; source = 'local'; loadLocal(); renderPlan(); });
-    }).catch(function () { source = 'local'; loadLocal(); renderPlan(); });
+      }, function () { db = null; claudeSettled = true; source = syncKey ? 'cloud' : 'local'; loadLocal(); renderPlan(); });
+    }).catch(function () { claudeSettled = true; renderPlan(); });
   }
 
   /* ---------- Boot ---------- */
   var today = DATE_TO_DAY[etNow().date];
-  var start = today || (etNow().date < '2026-09-09' ? 'wed' : 'sun');
-  show(start);
+  var startTab = today || (etNow().date < '2026-09-09' ? 'wed' : 'sun');
+  show(startTab);
   markNow();
+
+  loadLocal();
+  var hashKey = readKeyFromHash();
+  var savedKey = '';
+  try { savedKey = localStorage.getItem(KEY_STORE) || ''; } catch (e) {}
+  if (hashKey) {
+    rememberKey(hashKey);                    // a link opened on a new phone joins the same list
+  } else if (savedKey) {
+    syncKey = savedKey;
+    history.replaceState(null, '', location.pathname + location.search + '#s=' + savedKey);
+  }
+  source = syncKey ? 'cloud' : 'local';
   renderPlan();
+  if (syncKey) pullCloud();
   initDb();
+
   setInterval(markNow, 30000);
+  setInterval(function () { if (syncKey && !db && !document.hidden) pullCloud(); }, 7000);
+  document.addEventListener('visibilitychange', function () {
+    if (!document.hidden) { markNow(); if (syncKey && !db) pullCloud(); }
+  });
+  window.addEventListener('hashchange', function () {
+    var k = readKeyFromHash();
+    if (k && k !== syncKey) { rememberKey(k); source = 'cloud'; pullCloud(); }
+  });
 })();
 </script>
 </body>
