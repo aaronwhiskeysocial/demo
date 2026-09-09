@@ -3,7 +3,23 @@
 Durable memory for the Whiskey Social whiskey-news pipeline. Authoritative over Slack
 thread copies. Human feedback in #whiskey-news overrides this file.
 
-**Last run:** 2026-09-08 (Tue), **THE SHORTLIST SHIPPED AT FOUR — AND THE RUN FOUND A CALENDAR ERROR
+**Last run:** 2026-09-09 (Wed), **PREP — THE PRE-EDITION PASS FOUND THE MISSING NEW ERA PRICE, A NEW
+PRESIDENTIAL PROCLAMATION RE-OPENED A COVERED STORY, AND THREE BOARDS MOVED.**
+**Five things happened:** (1) **THE SEP 11 PRE-EDITION PASS RAN ON ALL THREE LINK-OUTS, all 200.**
+Grilling and Deanston read exactly as staged. **New Era changed twice — see (2).** (2) **THE NEW ERA
+MEMBERSHIP PRICE NOW EXISTS: $249, on a one-month subscription plan, on New Era's own Shopify store,
+which newerawhiskey.com links to directly.** The file's "NO MEMBERSHIP PRICE EXISTS" is retired.
+**And the name collision softened materially: "Whiskey Social Club" appears NOWHERE on New Era's own
+store, its homepage, or TSB — WKYT alone used that phrase.** New Era's own name is "New Era Social
+Club." (3) **A NEW WHITE HOUSE PROCLAMATION BANS CANADIAN ALCOHOL IMPORTS FROM SEPT 29** — a genuinely
+new action on the covered `canada-50pct-tariff-2026` story, newly keyed and staged to Sep 11 as the
+fourth item. **It is neither WA nor a venue, so it satisfies the board's own condition and fixes its
+outlet concentration.** (4) **SEP 18 WENT FROM ZERO TO TWO and SEP 22 FROM TWO TO THREE**, the latter
+closing the Explorer/non-RR gap. **Two bench items were dropped on schedule.** (5) **THE AUG 19 PRUNE
+RAN** — verified first, not assumed. **No urgent override** — the sweep found no recall, no safety
+issue, no litigation naming a partner, and no death in the industry. **The import ban is major but is
+not on the urgent list, so it was staged, not force-posted.**
+**Prior run:** 2026-09-08 (Tue), **THE SHORTLIST SHIPPED AT FOUR — AND THE RUN FOUND A CALENDAR ERROR
 THAT WOULD HAVE COST FRIDAY'S EDITION.**
 **Three things happened:** (1) **THE EDITION SHIPPED CLEAN.** All four staged items re-confirmed
 against their link-outs on edition morning and **all four read exactly as staged** — chinquapin,
@@ -16,25 +32,24 @@ repeated it ("Sep 15 and Sep 18 closed"). **No board existed for the edition thr
 (3) **THE AUG 18 PRUNE RAN** — the first prune this file has performed, exactly one section, not
 blind. **No urgent override** — the sweep found no recall, no safety issue, no litigation naming a
 partner, and no death in the industry.
-**Prior run:** 2026-09-07 (Mon), **PREP — the Sep 8 pre-edition pass corrected the chinquapin board
+**Earlier run:** 2026-09-07 (Mon), **PREP — the Sep 8 pre-edition pass corrected the chinquapin board
 note (the WA page DOES carry prices) and Tue Sep 22 opened with two verified Robb Report items.**
 Lesson 50 was added that run.
-**Earlier run:** 2026-09-06 (Sun), PREP — the Fri board went from two unassessed leads to three
-verified items, Explorer gap closed off the bench. Lesson 49 added. **This is also the run that
-introduced the Sep 11 slot error.**
 **Prior editions:** Sep 8 (Tue, The Shortlist) · Sep 4 (Fri, Last Call) · Sep 1 (Tue) · Aug 28 (Fri).
-**Next edition:** 2026-09-11 (Fri, Last Call) — **THREE STAGED AND VERIFIED after this run's
-re-slot.** **One prep run remains before it: Wed Sep 9.** **The board is at the Last Call minimum of
-three and its weakness is outlet concentration — two of three are Whisky Advocate.**
-**Next prep:** 2026-09-09 (Wed).
-**Search window this run:** edition-day re-confirm only, plus the urgent sweep — no discovery, by design.
+**Next edition:** 2026-09-11 (Fri, Last Call) — **FOUR STAGED AND VERIFIED.** **One prep run remains
+before it: Thu Sep 10.** **The outlet-concentration weakness is FIXED — the board is now WA ×2, TSB ×1,
+plus the New Era venue item.** **The one open question on it is Aaron's New Era call, now with a price
+attached.**
+**Next prep:** 2026-09-10 (Thu).
+**Search window this run:** Sep 11 re-confirm, then discovery scoped to Sep 18 and Sep 22, plus the
+urgent sweep. **Window for discovery: news published Sep 8–9, plus the WA RSS back to Sep 2.**
 
-Twenty-sixth consecutive run with a successful push. Write access stable.
+Twenty-seventh consecutive run with a successful push. Write access stable.
 
-**Channel check:** last 14 days read (Aug 25 – Sep 8), **every message this pipeline's own post.**
-**No human replies from Aaron or Adam in the window.** **Nothing overrode this file.** **Nothing had
-been posted Sep 8 before this run** (last post was Sep 7, 06:15 PT), **so idempotency was not in
-play.** This edition is the day's only post. **Method note, still true and still reusable: the channel
+**Channel check:** last 14 days read (Aug 26 – Sep 9), **every message this pipeline's own post.**
+**No human replies from Aaron or Adam in the window.** **Nothing overrode this file.** **NOTHING HAD
+BEEN POSTED SEP 9 BEFORE THIS RUN** (last post was Sep 8, the Shortlist), **so idempotency was not in
+play.** This prep brief is the day's only post. **Method note, still true and still reusable: the channel
 read returns ~92KB and blows the tool's token cap — do NOT read it raw.** Save it and parse: regex the
 `=== Message from … at … ===` headers for author and date, and the `Thread: N replies (latest: …)`
 lines for replies. **A thread whose latest reply lands within minutes of the parent is this
@@ -45,18 +60,369 @@ whiskyadvocate.com path**. **curl with a desktop browser User-Agent returns 200 
 This is Lesson 46 and it is still load-bearing — **do not read a 503 as a dead host or a dry rail.**
 fredminnick.com fetches fine either way.
 
-**FILE SIZE — MANAGED, FOR THE FIRST TIME.** **PRUNE STATUS Sep 8: EXECUTED. The `TUESDAY Aug 18 —
-WHAT SHIPPED` section was deleted, and only that section.** It was verified prunable first, not
-assumed: **all five of its keys are in DEDUP** (`chattanooga-moldovan-ice-wine-2026`,
-`old-overholt-11yr-extra-aged-rye-2026`, `first-west-explorer-black-corn-2026`,
-`whisky-advocate-20-whiskies-under-75-2026`, `buffalo-trace-2026-prohibition-collection`), **its five
-spent URLs are in the spent-links list**, **its one lesson is captured as numbered Lesson 11** in the
-PRIOR LESSONS blocks and is cited by three later lessons, and **the COLLISION FLAGS entries that
-reference Aug 18 items stand on their own.** File went from ~6,062 to ~5,963 lines.
-**The method held and is now proven — reuse it exactly: read the section, confirm keys in DEDUP,
-URLs in the spent list, and lessons in the lessons blocks, THEN delete that one section.**
-**Next eligible section: `WEDNESDAY Aug 19` (21 days old on Sep 9). One per run, never blind.**
+**FILE SIZE — MANAGED. PRUNE STATUS Sep 9: EXECUTED. The `WEDNESDAY Aug 19 — PREP RUN` section was
+deleted, and only that section.** Verified first, and **the check paid for itself — it caught two
+apparent gaps and resolved both, and the method is now REFINED (see Lesson 52).** What was verified:
+**`bardstown-discovery-2026`, `bardstown-lochs-of-jura-2026`, `makers-mark-cellar-aged-2026`,
+`bushmills-ni-roi-tariff-split-2026`, `heriot-watt-kirin-mango-aroma-study-2026` and
+`canada-50pct-tariff-aug-19-2026` are all in DEDUP** · **`jack-daniels-distillery-series-17-2026` and
+`moonshine-university-closure-2026` are NOT in DEDUP and do not need to be — they were DROPPED, never
+published, and both are recorded in `DROPPED / DO NOT REDISCOVER` and in WATCHING, which is the
+correct home for a dropped key** · **the shared Bardstown link-out actually spent was the Robb Report
+one and it IS in the spent list; the FM fall-releases page was a lead source that never became a
+link-out, so it is not a spent link-out and does not belong in that list** · **its lessons are
+captured as numbered Lessons 15–18** in the PRIOR LESSONS blocks.
+**THE METHOD, CORRECTED: read the section, then confirm each key is protected in the right register —
+DEDUP for published/staged keys, `DROPPED / DO NOT REDISCOVER` for dropped ones — confirm URLs that
+were actually used as link-outs are in the spent list, and lessons are in the lessons blocks. THEN
+delete that one section.** A dropped key missing from DEDUP is not a gap; **a published key missing
+from DEDUP would be, and would block the prune.**
+**Next eligible section: `THURSDAY Aug 20` (21 days old on Sep 10). One per run, never blind.**
 **Never prune DEDUP, OPEN GAPS, COLLISION FLAGS, the boards or the LESSONS blocks.**
+
+---
+
+## WEDNESDAY Sep 9 — PREP RUN (posted 06:1x PT)
+
+**Calendar check ran first (Lesson 51) and every board heading is correct:** Sep 9 is a Wednesday;
+next Fri = **Sep 11**, next Tue = **Sep 15**, then Fri **Sep 18**, Tue **Sep 22**. All four confirmed
+with `date -d`. **No slot date was copied forward from this file.**
+
+### THE RUN'S LESSON — Lesson 52. A FACT RECORDED AS "DOES NOT EXIST" IS A CLAIM WITH A SHELF LIFE, AND THE PLACE TO RE-TEST IT IS THE COMMERCE PAGE, NOT THE NEWS PAGE.
+
+The file said, in bold, three times: **NO MEMBERSHIP PRICE EXISTS** for the New Era club — checked on
+TSB, on WKYT, and on the newerawhiskey.com homepage. **All three of those checks were correct when
+they were made, and all three were the wrong place to look.** A membership price does not appear in a
+trade report or on a marketing homepage; **it appears on the page where you buy the thing.** This run
+found it in one search and one fetch: New Era sells the membership through a Shopify storefront that
+the homepage links to directly, and that product page carries the price in its own structured data.
+**The generalisable rule: when an item's payoff is an action (join, book, buy, reserve), the
+re-confirm target is the commerce page, and "no price published" is only true once you have checked
+it.** This is Lesson 48 ("re-confirm the page where the action happens") pushed one step further —
+Lesson 48 said re-confirm the action; **Lesson 52 says the action page and the news page are different
+pages, and a missing commercial fact lives on the former.**
+**Second half of the same lesson, from the prune:** the prune method said "confirm keys in DEDUP," and
+two Aug 19 keys were not there. **The instinct was to treat that as a blocker; the correct reading was
+that DEDUP is the register for published and staged keys and `DROPPED / DO NOT REDISCOVER` is the
+register for dropped ones.** Both keys were properly protected, in the right place. **A verification
+step that does not know which register a fact belongs in produces false alarms — name the register,
+not just the file.**
+
+### THE SEP 11 PRE-EDITION PASS — all three link-outs re-fetched. TWO UNCHANGED, ONE MATERIALLY CHANGED.
+
+- **`whisky-advocate-grilling-with-whisky-2026` — UNCHANGED, and the price absence is now properly
+  verified.** `whiskyadvocate.com/grilling-with-whisky-recipes`, 200. Sept 3, **Aubrey Thompson**
+  byline, Elizabeth Karmel named as former executive chef of **New York City's Hill Country
+  Barbecue**, consultant, cookbook author. **Four recipes, cocktail to dessert, exactly as staged:**
+  Bourbon and Grilled Lemon Arnold Palmer · Whiskey Joe Steak Marinade · Whiskey Compound Butter ·
+  Whisky-Glazed Grilled Pineapple with Toasted Coconut and Whisky Caramel. **Named bottles throughout,
+  Karmel's sensory attributed to her:** 2XO American Oak, WhistlePig Piggyback, Kilbeggan, Indri
+  Trini, Maker's Mark, Laphroaig.
+  **NO PRICES — AND THIS TIME IT WAS TESTED PROPERLY, PER LESSON 50.** Long fetch, 77KB raw, the full
+  ~10.3KB of article text. **Zero `$` in the article body.** The 168 `$` hits in the raw HTML are all
+  inside scripts and JSON. **The absence is real. The item still cannot carry a price.**
+  **COMPLIANCE, unchanged and load-bearing: Karmel's guidance is measured in tablespoons of whisky as
+  a cooking ingredient. That is recipe volume, not drinking volume — but do not lift the quantities
+  into copy, because stripped of the cooking context they read as consumption cues.** Her flare-up
+  warning ("never pour whisky directly onto food over an open flame") is a safety line and is fine.
+  Beat `pair-it`, persona Social Drinker.
+- **`deanston-17-orange-wine-cask-2026` — UNCHANGED, and one new printable fact.**
+  `whiskyadvocate.com/deanston-17-orange-wine-cask-fnish-review`, 200. Sept 2, **Danny Brandon**.
+  **Re-confirmed exactly as staged: 92 points · SRP $132 · ABV 53.6% · available nationwide.**
+  **NEW AND PRINTABLE: 7,000 bottles globally.** Also supported: 15 years in bourbon barrels then 2
+  years in vino de naranja casks · vino de naranja is a flavored, fortified wine from Huelva and
+  Málaga, the only aromatized wine with a Spanish DO, macerated with Seville orange peels at least 6
+  months · master blender **Julieann Fernandez** chose the casks partly for family ties to Andalucía ·
+  **WA's own notes are printable** (honeydew, apricot, lemon sorbet, candle wax, grape jam, marmalade
+  on the nose; burnt orange, candied orange peel, Jaffa cakes, plum, honey, snickerdoodles on the
+  palate; orange spice tea on a medium-to-long finish). Beat `try-this-next`, persona Explorer.
+- **`new-era-kentucky-distillery-club-2026` — MATERIALLY CHANGED, TWICE, AND BOTH CHANGES ARE GOOD.**
+  TSB link-out re-fetched, 200, and **every staged fact still reads as staged** (ribbon cut by Zane
+  Brammell on 2 September, Jeff Noel / Linda Gorton / Martina Barksdale attending, the four bourbons
+  Stage Diver / Frankenfurt / Lefty / The Heart, all cask-strength single barrel, headline-style names,
+  the club's private tasting sessions, one bottle per month delivered, members-only perks, the
+  Covid-19 hobby origin). **Andy Beshear is also quoted on the page.**
+  **CHANGE 1 — THE PRICE EXISTS NOW. `$249`.** Source: **New Era's own Shopify storefront**,
+  `new-era-whiskey-2.myshopify.com/products/join-the-social-club`, 200 — **and newerawhiskey.com links
+  to that exact URL, which is what makes it the brand's own page and a Tier 1 primary, not a random
+  storefront.** The page states its own price in three independent places in its markup:
+  `og:price:amount` = **249.00 USD**, the product variant object = **249.0 USD** (SKU
+  `NewEra-Membership`, `available: true`), and the analytics payload = **"249.00"**.
+  **THE BILLING PERIOD IS ALSO SETTLED, and this matters more than the number: the store carries
+  exactly ONE subscription plan, named `"1 month subscription"`, at `planPrice: 24900`. So $249 is a
+  MONTHLY figure, not an annual one.** **Do not print "$249 a year" under any circumstance.**
+  **One honest caveat to carry forward: the widget also exposes a `One-time` purchase option
+  alongside the subscription, so a reader could buy once at $249 rather than subscribe.** **Safest
+  printable phrasing: "$249 a month." Do NOT write "$249 for a year of bottles."**
+  **What the store page supports beyond the price:** monthly members-only bottle shipped to the door ·
+  members-only single barrel picks · participation in barrel picks · private events at the distillery ·
+  **access to the private club space in downtown Lexington, stated in the present tense** · email
+  newsletters · members-only Facebook and Discord groups.
+  **THAT PRESENT TENSE IS ITSELF A FINDING: the homepage still says "upcoming private social club
+  space" and is copyrighted 2025; the store page says "Access to our private social club space" and is
+  copyrighted 2026.** **The store page is the fresher artefact — prefer it on any conflict.**
+  **CHANGE 2 — THE NAME COLLISION IS MUCH SMALLER THAN THE FILE THOUGHT, and Aaron needs to know
+  before he rules.** **The phrase "Whiskey Social Club" appears NOWHERE** — not on the Shopify store
+  page, not on newerawhiskey.com, not in the TSB piece. Grepped all three raw fetches: **zero hits.**
+  **The brand's own name for it is "NEW ERA SOCIAL CLUB MEMBERSHIP" / "Social Club."** **WKYT's
+  headline wording alone produced "Whiskey Social Club."** So the risk is not that a competitor has
+  taken our name — **it is that one regional TV station described somebody else's club using our
+  company name.** **The recommended default is therefore STRONGER than the Sep 6 default: run the
+  item, call it "a members-only club," and never print the phrase "Whiskey Social Club" — which is
+  now easy, because neither the link-out nor the brand uses it.**
+  **STILL NOT SUPPORTED ANYWHERE — do not print: NO TASTING NOTES EXIST.** Sensory stays blocked
+  outright; print the construction (cask strength, single barrel) and never the taste. **The street
+  address 333 E. Short Street still comes only from search summaries — it surfaced again in this
+  run's search and is still not printable. "East Short Street near Thoroughbred Park" is what WKYT
+  supports.**
+  **THE STORE PAGE IS THICK WITH UNUSABLE COPY — none of it may be lifted:** "you're joining a
+  movement" · "May your glass always be full and your problems empty" (**a volume cue — hard no**) ·
+  and the homepage's journey / premium / experience / craftsmanship / toast pile.
+  **THE LINK-OUT DECISION, AND IT IS A REAL ONE FOR THURSDAY OR FRIDAY.** One link per item, and every
+  printed claim must be traceable to it. **TSB supports the opening, the officials, the bourbons and
+  the club's shape but NOT the price. The store page supports the price and the join action but NOT
+  the Sept 2 opening.** So: **print the price → link the store page and drop the opening date.
+  Print the opening → link TSB and drop the price.** **RECOMMENDATION: keep TSB as the link-out and
+  drop the price from copy.** Reasons: TSB is the better read, it is the neutral wording on the name
+  question, a Last Call venue item wants the "it's open, officials came, here are the bottles" frame,
+  and **$249 a month is a steep number to put in front of a reader as a recommendation — printing it
+  against a storefront link makes the item read as a pitch for someone else's subscription.** **If
+  Aaron would rather the price ran, the link-out must move to the store page and the item becomes a
+  "here is what it costs" item, not a "here is a place that opened" item.**
+
+### `canada-spirits-import-ban-2026` — NEW KEY, VERIFIED ON A TIER 1 PRIMARY + TSB, STAGED Fri Sep 11 as the fourth item.
+
+**THIS IS A NEW ACTION ON A COVERED STORY, AND IT CLEARS THE DEDUP EXCEPTION CLEANLY.**
+`canada-50pct-tariff-2026` **PUBLISHED Sep 4 and stays closed.** This is not a restatement, a
+reminder or a countdown — **it is a new presidential proclamation, signed after that edition ran, that
+replaces a tariff with a prohibition and carries its own effective date.** That is precisely the
+"a rate changed / a government acted" case the exception exists for. **NEWLY KEYED rather than
+strengthened, because the instrument itself changed: Sep 4 covered a 50% duty; this is an import ban.**
+**Any copy must open with what is new and may reference the earlier coverage in one clause only.**
+
+**Link-out `thespiritsbusiness.com/2026/09/trump-bans-canadian-spirits-imports/` (TSB, 9 September,
+Joe Rogers).** 200. **Second source, and it is the primary: the White House proclamation itself**,
+`whitehouse.gov/presidential-actions/2026/09/excluding-certain-canadian-alcoholic-beverages-from-importation-into-the-united-states-...`,
+200. **Tier 1 primary plus one Tier 2 corroborating trade report is exactly what the two-source rule
+asks for — this is not two reprints of one release.**
+
+**Supported by BOTH:** the proclamation was signed/issued **Tuesday 8 September 2026** · it excludes
+certain Canadian alcoholic beverages from importation into the US · **effective 12:01 a.m. eastern
+time on 29 September 2026** · the affected goods were already subject to the 50% import tariff ·
+**goods imported before Sept 29 remain subject to the 50% duty rate** · the stated justification is
+"continued discrimination against the commerce of the United States with respect to alcoholic
+beverages."
+**Supported by TSB only:** the categories as **"spirits, wine, and malt beer"** · TSB's own
+characterisation "near-total ban" · **Chris Swonger, president and CEO of DISCUS**, on the record ·
+US spirits exports to Canada **fell by more than 70%** · eight of Canada's ten provinces removed US
+alcohol from sale in early 2025 · a July survey putting **69%** of Canadians in favour of the
+restrictions · Pernod Ricard (JP Wiser) and Diageo reporting increased Canadian sales.
+**Supported by the proclamation only — richer, and useful for accuracy rather than for copy:**
+Proclamation **11046** of July 20 2026 imposed the duties effective Aug 19 · Proclamation **11056** of
+Aug 18 suspended them 3 days · **Canada reneged Aug 21 and the duties took effect 12:01 a.m. Aug 22**
+(this confirms the file's "live since Saturday" note was right) · **Saskatchewan announced an
+additional 50% levy on US alcohol effective September 8** — which is what the file's earlier
+"Canada's answer has a date: September 8" actually turned out to be · the authority is section 338 of
+the Tariff Act of 1930 · the specific goods sit in an **Annex**.
+
+**THE QUOTE, IF ONE IS WANTED — one clean option, named, Tier 2, under the cap:** Swonger's
+**"For more than a year and a half, American distillers have shouldered the brunt of this trade
+dispute"** — **17 words**, counted. **Only usable if TSB is the link-out.** No quote is needed; the
+item works without one.
+**DO NOT PRINT: a bottle-level list of banned products.** TSB says spirits, wine and malt beer; **the
+detail sits in an Annex this run did not parse, so do not name specific brands or bottlings as banned.**
+**Do not print the search-summary line about "beer, wine, whisky, bourbon, rum, vodka" — that came
+from a search summary, not from either source.**
+**SLOT REASONING — Sep 11, and it satisfies the board's own gate.** The Sep 11 board's standing rule
+was "do NOT add a fourth unless it is neither WA nor a venue." **A TSB trade-policy item is neither.**
+It also **fixes the board's one recorded weakness**, outlet concentration. **Precedent for running it
+in a Last Call exists and should be followed exactly: the Sep 4 edition ran the tariff item LAST,
+factual, with no payoff line and no occasion framing.** **Beat `whats-dropping` is wrong for it; the
+Sep 4 precedent and the honest read is that this is a shelf-and-wallet item — `try-this-next` is also
+wrong. It has no clean beat slug, which is a real gap (see OPEN GAPS) — the closest is
+`allocation-watch` in the sense of "availability is about to change," and that is what to use.**
+Persona **Explorer**.
+**FALLBACK: Tue Sep 15 also works and is not stale** — the ban bites Sept 29, so a Sep 15 run is still
+two weeks ahead of it. **Sep 15 needs material more than Sep 11 does.** **But Sep 11 is the better
+reader service (18 days' notice beats 14) and it is the board that had the outlet problem.**
+
+### `whisky-advocate-new-zealand-single-malts-2026` — NEW, VERIFIED, STAGED Tue Sep 22. THIS CLOSES THE SEP 22 ASK EXACTLY.
+
+**The Sep 22 instruction was "find a third and fourth from a NON-RR outlet, ideally Explorer/value —
+do not add more Collector items and do not add more RR." This item is WA, Explorer, and carries a
+$75 bottle.** Off the WA RSS feed, first read of the run (Lesson 34 held again).
+
+**Link-out `whiskyadvocate.com/new-zealand-whisky-distilleries` (WA, September 8, Julia Higgins).**
+200. **VERIFIED, one source by design — WA reported it and WA tasted it, so WA is the primary.**
+Beat `try-this-next`, persona Explorer.
+
+**Supported, and printable:** New Zealand went from **zero single malt distilleries at the start of
+the millennium to 20 and counting** · total barrelage is still tiny and only a few distillers export ·
+**laureate barley is the shared grain**, and it grows sweeter in NZ than in Scotland · longer
+fermentations and slow distillations, what Cardrona's Elsom calls an "unhurried approach" (Cardrona
+around 115 hours historically, closer to 72 now; Pōkeno ~90 hours) · **angels' share runs 9.5% a year
+on North Island against 3.5% at Cardrona on South Island**, which is why South Island will reach older
+age statements · Pōkeno built **the country's only cooperage**, making barrels from native totara and
+kauri · **manuka wood is used to smoke malt** by Pōkeno and Scapegrace · The New Zealand Whisky
+Collection oxidised **local pinot noir casks** rather than importing sherry butts · **Scapegrace is
+distributed in a handful of US states through Sazerac's 375 Park Avenue arm** · Cardrona was bought by
+**International Beverage in 2023** · Pōkeno's capacity is 66,000 gallons against Buffalo Trace's
+estimated 2.65 million.
+**WA'S OWN SCORED NOTES — the whole reason this item is Explorer-grade:**
+**Pōkeno Discovery, 91 points, 43%, $75** — raisins, black cherry, orange peel, malt, vanilla, milk
+chocolate, toffee, black pepper. **THIS IS THE VALUE ANCHOR AND THE ONE TO LEAD THE BLURB ON.**
+**Cardrona The Falcon, 92 points, 52%, $285.** Vanilla pudding, orange zest, cinnamon, cardamom,
+clove, sweet custard, tannic oak.
+**Scapegrace Anthem, NR, 40%, $90 — "NR" means not rated and NO NOTES ARE PUBLISHED for it. Do not
+describe how Anthem tastes.**
+**NAMED SPEAKERS on the page:** Sarah Elsom (Cardrona head distiller) · Matt Johns (Pōkeno founder) ·
+Michael Byars (The New Zealand Whisky Collection GM and head distiller) · Mark Neal (Scapegrace
+co-founder). **Cleanest short quote if one is wanted: Elsom's "We have a fantastic climate and
+fertile soils for barley here" — 11 words, named, Tier 2.**
+**TERMS NEEDING A PLAIN-ENGLISH CLAUSE ON FIRST USE: "single malt" and "angels' share."**
+**DO NOT PRINT: any US availability claim beyond Scapegrace's "handful of states."** The three prices
+are in USD, which implies US pricing, **but the piece never says the other two are sold nationwide —
+do not upgrade that.** **Do not reuse the article's own "hunt for barrels" phrasing carelessly; "hunt"
+is capped at once per edition.**
+
+### `whisky-advocate-spas-2026` — NEW, VERIFIED, STAGED Fri Sep 18. The occasion anchor the empty board needed.
+
+**Link-out `whiskyadvocate.com/Spas-For-Whisky-Lovers` (WA, September 8, Sally Kral).** 200.
+**VERIFIED, one source by design.** Beat `on-the-calendar`, persona Social Drinker. **Note the
+capitalised path — it is `Spas-For-Whisky-Lovers`, and it matters for the re-fetch.**
+
+**NINE properties, counted from the full article** (the first fetch truncated mid-Philadelphia; a
+30KB re-fetch confirmed the list ends there): Áhsi' Day Spa at Turning Stone (Verona, NY) · Ama Spa at
+the Edwin Hotel (Chattanooga) · Bourbon & Blush Salon and Spa (Louisville) · The Edge Spa at the Lodge
+at Blue Sky (Wanship, UT) · Four Seasons New Orleans · The Kentucky Castle (Versailles, KY) · Spa Terra
+at the Meritage (Napa) · Seahill Spa at the Cavalier (Virginia Beach) · The Underground Spa at the
+Logan (Philadelphia).
+**Supported and printable:** **prices run $80 to $780** (Bluegrass Bourbon pedicure at Bourbon & Blush
+$80; Whiskey on the Rocks at Blue Sky $780 for up to 2 guests) · **two sit on distillery grounds —
+High West at the Lodge at Blue Sky, and Tarnished Truth at the Cavalier** · The Kentucky Castle is
+owned by **Angel's Envy co-founder Wes Henderson** and serves his new brand True Story while its
+distillery is built next door · Ama Spa's scrub uses locally made **Chattanooga Whiskey** ·
+**named, on-the-record staff: McKenna Lamons (Ama Spa concierge), Merrily Bell (Edwin Hotel GM),
+Kenna Trent (Kentucky Castle spa manager), Melissa Jacobi (Bourbon & Blush owner).**
+**THREE HARD COMPLIANCE BLOCKS ON THIS ITEM — read before drafting:**
+1. **THE HEALTH CLAIM IS UNPRINTABLE.** Lamons is quoted saying whiskey "is filled with phenolic
+   compounds like ellagic acid, which are believed to have potent antioxidant effects to cleanse the
+   body." **Do not print, paraphrase, gesture at, or attribute this.** An implied health benefit of
+   alcohol is a category red line regardless of whose mouth it is in and regardless of it being
+   topical. **This is the single biggest trap in the item.**
+2. **THE VOLUME CUE.** The Edwin's rooftop bar is described as offering "a dram or two from a
+   selection of more than 150 labels." **Do not print "a dram or two."** The 150 labels figure is fine
+   on its own.
+3. **THE GENDERED PACKAGE.** The Logan's "Beard & Bourbon Experience ($420)" is explicitly framed
+   "For men," and the Four Seasons' signature treatment is called "The Southern Gentleman."
+   **Do not build the blurb on either. The skill bans masculine-coded defaults, and a spa item is
+   exactly where the Social Drinker segment churns on that.** Lead on Louisville, Chattanooga or
+   Blue Sky instead.
+**Also unusable as lifted copy: "whiskey-fueled wellness journey" (banned word), and the article's
+own luxury/premium/experience register.**
+**WHY IT EARNS THE SLOT ANYWAY:** it is occasion-led, it blends whiskey with the outside world
+(travel and downtime), it clears the forward bar easily, **and it is a genuine "somewhere to go"
+Last Call item with real prices — which is what a Sep 18 board with nothing on it needed most.**
+
+### `fee-brothers-fat-wash-drops-2026` — NEW, VERIFIED, STAGED Fri Sep 18. The Easy Pour item.
+
+**Link-out `whiskyadvocate.com/fee-brothers-fat-wash-drops-review` (WA, September 2, Sean Evans).**
+200. **VERIFIED, one source by design — it is WA's own review with WA's own sensory.**
+Beat `easy-pour`, persona Social Drinker.
+
+**Supported and printable:** three new fat wash drops from Fee Brothers — **Browned Butter, Roasted
+Duck and Bacon** · fat washing conventionally means adding melted fat to a spirit, resting it, then
+freezing and straining the fat out · **the drops deliver that savoury depth in dashes instead**, with
+no freezer, cheesecloth or wait · **three recipes on the page, each built on a named whiskey:**
+Browned Butter Fat Washed Maple Old Fashioned (Evans used a 12 year old Peg Leg Porker, 93-proof
+Tennessee straight bourbon, hickory-charcoal filtered) · Roasted Duck Fat Boulevardier (High West
+Bourye, 46% ABV) · Bacon Vieux Carré (Red Top Rye, 100% Kentucky rye mashbill, 105 proof) · **Evans's
+practical note that you must properly scrub the mixing glass between varieties** · the drops make the
+drink visibly hazy, the same look a real fat wash gives.
+**SENSORY IS AVAILABLE AND ATTRIBUTABLE TO EVANS BY NAME** — brown butter and citrus on the Old
+Fashioned's nose, a velvety mouthfeel; the duck fat smoothing Campari's edge; a bacon thread on the
+Vieux Carré. **Attribute it to him or to Whisky Advocate; never state it flatly.**
+**NO PRICE IS PUBLISHED — checked, zero `$` in the article. The item cannot carry one.**
+**DO NOT PRINT: "My friends ask for thirds" — a volume-of-consumption cue, and the most quotable line
+in the piece, which is exactly why it is written down here.** Also skip Evans's "11 out of 10" and
+the article's "boozy."
+**ONE HONEST WEAKNESS, recorded so nobody discovers it at draft time: the product is a cocktail
+additive, not a whiskey.** It earns the slot because all three recipes are whiskey drinks and because
+`easy-pour` is a Social Drinker beat, **but if Sep 18 fills up with stronger whiskey items, this is
+the first one to yield.**
+
+### Assessed and NOT staged this run
+
+- **`joseph-magnus-10yr-cask-strength-rye-2026` — DROPPED, as scheduled. The recheck ran and failed
+  for the third time.** Instruction was one attempt then stop. **What came back was identical to the
+  two prior hunts:** Breaking Bourbon and PR Newswire on the **Seguin Moreau private-cask BOURBON**
+  (a different product), The Manual on that same bourbon, **The Whiskey Reviewer** (a reprint host,
+  never a second source), the brand's own page (same origin, already counted), and **De Wine Spot, a
+  retailer**. **No vetted Tier 1–2 outlet has picked up the rye. STOP LOOKING — this key is closed and
+  moved to DROPPED / DO NOT REDISCOVER.** The floating 113.44 proof / "10 years, 9 months" / CraftCo
+  Holland Michigan details remain unprintable forever.
+- **`ardnamurchan-pet-bottle-2026` — DROPPED. One fetch settled it, exactly as the bench note
+  predicted.** `thespiritsbusiness.com/2026/09/ardnamurchan-debuts-worlds-first-single-malt-in-pet-plastic/`,
+  200, TSB Sept 7. **It is NORWAY-ONLY: the AD/ in 500ml PET is sold through Vinmonopolet, Norway's
+  state alcohol monopoly, at Kr399 (US$43).** **A US reader cannot buy it — the same distribution test
+  that killed Bruichladdich and Hibiki 12.** Genuinely interesting otherwise (SWA requires single malt
+  to be bottled in Scotland but only specifies an "inert material"; Graeme Mackay and a Vinmonopolet
+  spokesperson both on the record). **Off the Sep 22 bench. Do not rediscover.**
+- **`detroit-city-distillery-bar-2026`** — surfaced again on the TSB index (Sept 7, 100-seat bar).
+  **Already assessed and closed Sep 7 on the Michigan constraint. Not re-scouted. The constraint holds
+  through September.**
+- **Glenlivet ad-backlash apology** (TSB Sept 7) — **not staged.** A brand-reputation story with no
+  reader action, no shelf consequence and a live grievance on both sides. **Not urgent, not useful.**
+- **`whisky-advocate-auction-hammer-prices-august-2026`** (WA Sept 4, top 20 hammer prices) — **not
+  staged. Collector material, and both boards that could take it already skew Collector.** Kept as a
+  pointer only.
+- **Skrewball PB&J whiskey cans** (TSB Sept 9) — **not assessed properly, logged as a lead.** An RTD
+  in a flavored-whiskey line; possible `easy-pour`, but Sep 18 just took two items and this needs a
+  second source and a US price. **Look at it Thu Sep 10 only if Sep 18 needs a third.**
+- **WA "Single Malts, Kiwi-Style" companion items on the RSS** — the Ardbeg Trudernish core release
+  and Baker's 13 sit inside the Sept 4 Whisky Watch page, **which is SPENT (one page, one item, ever).**
+  **Neither can use that URL. They need their own links before they can run.**
+- **GlenWyvis funding / UK forcing Cask Spirits Global to cease operations** (WA news roundup Sept 4) —
+  **not staged.** UK-only, no US reader action. **Noted because it is adjacent to the cask-investment
+  collapse beat, not because it is publishable.**
+
+### Urgent sweep — no override
+
+**Swept for the four triggers: product recall, safety issue, litigation or investigation naming a
+partner brand or venue, death in the industry. NONE FOUND.**
+- **No recall.** The only recall in the results is **Crown Royal Reserve glass contamination, and it
+  is September 2025** — a year old, already-known, and not a partner. **Do not resurface it.**
+- **The Canadian import ban is major but is NOT on the urgent list.** A trade action is not a recall,
+  a safety issue, litigation naming a partner, or a death. **It was staged to Sep 11, not force-posted
+  ahead of the slot. This is the correct reading and should be applied the same way next time.**
+- The proclamation and TSB both reference **congresswoman Claudia Tenney's investigation into the
+  Canadian boycott** — **an investigation, but it names Canadian provinces, not a partner brand or
+  venue, and it dates to 2025.** No override.
+- Bankruptcy/lawsuit results returned were all **late-2025 to May 2026** and previously known.
+
+### Coverage and shape
+
+**Three boards moved and every one of them moved in the direction its own note asked for.**
+- **Fri Sep 11: three → FOUR.** Social Drinker ×1, Venue Regular ×1, Explorer ×2. **Outlet mix now
+  WA ×2, TSB ×1, plus the New Era TSB item — the recorded outlet-concentration weakness is fixed by
+  the only kind of item that was allowed to fix it.**
+- **Fri Sep 18: zero → TWO.** Both Social Drinker, both WA, both occasion-shaped. **It clears the
+  two-item floor, so the empty-pipeline floor no longer applies. It still needs a third, and that
+  third should be NON-WA and ideally Explorer or Venue Regular.**
+- **Tue Sep 22: two → THREE.** Explorer ×2, Collector ×1. **The RR monoculture is broken (RR ×2,
+  WA ×1) and the Explorer/value ask is answered with a $75 bottle.**
+- **Tue Sep 15 is untouched at TWO and is now the thinnest forward board.** It was not raided and was
+  not worked this run, by design — Sep 11 and Sep 18 came first. **It is the Thu Sep 10 priority.**
+
+### The post
+
+**Posted.** Prep glyph 🔍, four newly staged candidates, raw links, **no UTMs** (prep briefs never
+carry them). **Notes carried four bullets — the New Era price, the softened name collision, the two
+scheduled drops, and the spa health-claim block — plus the compressed brand-skill line.**
+**The New Era name-collision question was raised because its FACTS CHANGED this run, which is the
+one thing that earns a re-raise of a pending decision.** The Sep 6 instruction was to raise it when
+the item runs; **a material change to the thing Aaron is deciding is a separate trigger, and the
+decision is now easier, not harder.**
 
 ---
 
@@ -3450,194 +3816,6 @@ residency, dropped Aug 19.
 
 ---
 
-## WEDNESDAY Aug 19 — PREP RUN (posted 06:20 PT)
-
-Three items staged, all newly found, all verified. **Two beat gaps closed and two open leads
-closed out.** The run's structural finding: **Robb Report's `/food-drink/spirits/` section index
-is a better discovery path than the author rail** — it returned nine article URLs including three
-the rail did not surface.
-
-**What was posted:** mango-aroma study (Tue Aug 25, Explorer) · Maker's Mark Cellar Aged 2026
-(Tue Sep 1, Collector) · Bardstown Lochs of Jura (Tue Sep 1, Collector). Notes carried the
-tariff decision, the beat-slug gap, the Moonshine University close-out, the Bardstown slotting,
-and the standing `_unchanged_` line.
-
-### `heriot-watt-kirin-mango-aroma-study-2026` — NEW, VERIFIED, the best find this run
-
-**Link-out: `https://robbreport.com/food-drink/spirits/scientific-study-mango-notes-in-whisky-1238553386/`
-— Robb Report, Aug 13, Jonah Flicker. Read in full.** Second source: the **peer-reviewed paper
-itself**, "Identification of Volatile Compounds Contributory to Mango and Tropical-Type Aroma in
-Whisky," *Journal of the American Society of Brewing Chemists*,
-`tandfonline.com/doi/full/10.1080/03610470.2024.2319929` — a primary source, which under the
-two-source rule clears the item on its own paired with the Robb Report piece. Also carried by
-The Drinks Business, The Spirits Business and BeverageDaily (all one press release between them).
-
-**What Robb Report supports:** study by **Heriot-Watt University, Edinburgh**, with Japanese
-drinks company **Kirin** · PhD student **Takehiko Hiura** analyzed **14 whiskies from Scotland
-and Ireland** · **aldehydes and acetals amplify tropical fruit notes** · three compounds found
-high in one sample — isobutyraldehyde, isovaleraldehyde, isovaleraldehyde diethyl acetal — and
-adding them to a low-fruit whisky raised mango aroma specifically · fruity notes like banana,
-apple and pear were already linked to **esters** formed during fermentation · tropical notes
-become more noticeable after several decades of aging · reported in JASBC last year, Heriot-Watt
-issued its release the week of Aug 10 · producers likely already hold the process tools to dial
-the trait up or down, with no additives (not permitted in scotch anyway).
-
-**THE BEST QUOTE ON THE BOARD. 15 words, named, in the link-out:** Annie Hill, professor at
-Heriot-Watt's International Center for Brewing and Distilling — *"But we didn't know where the
-mango flavor was coming from—and now we do."*
-
-**NAME CONFLICT — avoid the name.** Robb Report prints **"Dr. Calum Holmes"**; The Drinks
-Business prints **"Dr Callum Holmes."** One L versus two. Hill carries the quote; there is no
-reason to name Holmes. If he must be named, use the link-out's spelling.
-
-**Why it is the right Aug 25 item:** it closes the Explorer gap the Aug 18 file asked Wednesday to
-fill, it is a learning item rather than another bottle, it carries no price and no availability to
-get wrong, and it is the wider-culture angle the beats file says outperforms whiskeylore. **It is
-also the rare item where sensory language is fully sourced** — the study is *about* the aroma, so
-describing the finding is reporting, not an invented tasting note.
-
-**DRAFTING CAUTIONS.** "Aldehydes," "acetals" and "esters" are three insider terms in one item —
-**the intimidation pass will need plain English; do not print the compound names.** Skip
-Flicker's closing "Mango Madness Malt Whisky" joke. **No beat slug fits** — see OPEN GAPS.
-
-### `makers-mark-cellar-aged-2026` — NEW, VERIFIED, sourced sensory, Sept 1 peg
-
-**Link-out: `https://robbreport.com/food-drink/spirits/makers-mark-2026-cellar-aged-bourbon-1238564495/`
-— Robb Report, Aug 18, Jonah Flicker. Read in full.** Second source: Fred Minnick Aug 18
-(`/2026/08/18/makers-mark-to-release-2026-cellar-aged-bourbon/`, a press-release reprint) plus the
-**PR Newswire release itself** (Tier 1). Robb Report is independent reporting — Flicker interviewed
-master distiller **Dr. Blake Layfield** on a Zoom call and **sampled the whiskey**.
-
-**Facts all three sources agree on:** fourth annual edition · **49% 11-year-old, 33% 12-year-old,
-18% 14-year-old** · **112.1 proof / 56.05% ABV** · **SRP $175** · **available September 1 at select
-US retailers**, then UK, Germany, Korea, Japan, Australia and global travel retail · aged in the
-traditional rickhouses, then moved to a limestone cellar built into the shelf around Star Hill Farm
-· cellar runs about **50°F**, which slows wood extraction and makes oxidation the dominant reaction
-· Maker's Mark carried no age statements before Cellar Aged launched in **2023**; the core
-expression is six to seven years.
-**Last year's blend, for the comparison hook:** 74% 11-year-old, 10% 13-year-old, 16% 14-year-old.
-**The first two editions contained no 14-year-old bourbon.** So "more 14-year-old than last year"
-is 18% versus 16% — true, but a **two-point** difference. **Do not inflate it.** The stronger,
-cleaner hook is that this is the distillery's oldest blend to date.
-
-**SENSORY — Robb Report's own, and the ONLY printable version:** oak, dark chocolate, cherry syrup,
-bitter espresso, maple, vanilla and ripe stone fruit on the palate, then lingering spice and heat
-on the finish at that proof. **The release's own notes — dark cherry, clove, vanilla bean, orchard
-fruit / honey, brown sugar, ripe plum / almond, nutmeg, green apple — are brand copy. DO NOT
-PRINT.** Flicker's own framing that age does not indicate quality, and that six to seven years is
-widely considered a sweet spot, is his and is usable attributed.
-
-**NO USABLE QUOTE.** Layfield's two Robb Report quotes run 21 and 20 words. Rob Samuels' release
-quote is far longer. **Prefer none.**
-**BANNED-WORD TRAP IN THE PRODUCT NAME:** the bottle is called **Cellar Aged** and "cellar" is on
-the ban list. It is a proper noun, so it is permitted — but the blurb cannot avoid it, and the
-word must never appear in WS's own voice around it. Flagged in COLLISION FLAGS.
-**Do not re-define cask strength** — spent Aug 18 on Old Overholt.
-**Also in the release, for a September Friday:** a ticketed 21+ launch event at the distillery
-**Sept 10**, ahead of the Kentucky Bourbon Festival, and a Cellar Aged distillery tour from
-**Sept 14**. Not staged — `kentucky-bourbon-festival` is a standing blocked item.
-
-**Slot: Tue Sep 1, which IS the release date.** Held off Aug 25 deliberately: $175 is a Collector
-item and Aug 25 already carries two.
-
-### `bardstown-lochs-of-jura-2026` and `bardstown-discovery-2026` — NEW, VERIFIED on facts
-
-**Staged link-out: `https://www.fredminnick.com/2026/08/18/bardstown-bourbon-company-announces-new-fall-releases/`
-— Fred Minnick, Aug 18. It is a press-release reprint** (it says "in a news release" twice).
-Second source: the **Business Wire release**, Aug 18, read via Morningstar. The two together clear
-the facts; **an independent Tier 1–2 review would be a better link-out if one appears.**
-
-**Resolved by the wire release, which FM omits:** **nationwide in limited quantities from Friday
-Aug 21, 2026** · **$139.99 per 750ml.**
-**Lochs of Jura Barrel Finish:** bespoke blend of straight bourbon and rye, then **32 additional
-months** in ex-bourbon and ex-sherry casks from **Scotland's Isle of Jura** (238 residents) ·
-**104 proof / 52% ABV** · **99 points at the 2026 International Wine & Spirit Competition, the
-highest score in this year's North American judging** · the 59-gallon sherry casks were too large
-for the ricks and sat in warehouse aisles.
-**2026 Discovery:** blend of **7-, 10- and 11-year-old** bourbons from high rickhouse floors, then
-**four months** in custom **Garryana** (Oregon White Oak) barrels · **112.8 proof / 56.4% ABV** ·
-second Bardstown release to use that oak after Distillery Reserve Cascadia · Discovery moves from
-numbered to annual releases; the Finishing Series expands.
-Both bottles carry commissioned artwork by Louisville artist **Margaret Archambault**.
-
-**SOURCE CONTRADICTS ITSELF ON ABV — resolved.** FM prints "112.8 proof (66.4% alc. by vol.)."
-112.8 proof is **56.4%**, and the wire release says 56.4%. **FM has a typo. Print 56.4% or print
-proof only.** Lesson 11 in action a second time.
-**SENSORY BLOCKED, and it is the wood trap again.** "Ripe fruit, soft malt, subtle smoke, maritime
-character" describes what the Jura casks contribute; "clove and nutmeg" describes what Garryana
-lends. **Both are the release describing wood, not anyone tasting the whiskey. Nobody independent
-has tasted either bottle. DO NOT PRINT ANY OF IT.**
-**The honest hook is the 99 points** — a third-party competition result, verifiable, and the
-highest North American score of the year. That carries the item without any sensory claim.
-**NO USABLE QUOTE.** Dan Callaway's Jura line runs 22 words; "These releases started from two
-different questions" is seven words but says nothing.
-**The release uses "journey," "experience" and "collection." Never lift its phrasing.**
-
-**Slot: Tue Sep 1.** Aug 21 is an edition day but Last Call is occasion-led and already full at
-four; a $139.99 limited bottle is the wrong register for it. Aug 25 would be freshest but would
-make three Collector items. **Aaron can pull it forward to Aug 25 — surfaced in Notes.**
-**Run ONE of the two bottles, not both.** Lochs of Jura is the stronger item; Discovery is the
-alternate and shares the link, so it cannot run in the same edition.
-
-### Closed out this run
-
-- **`moonshine-university-closure-2026` — SOURCED, then DROPPED.** Flavorman will conclude
-  Moonshine University operations **Dec 31, 2026**; since 2013 it taught 337 courses to more than
-  15,000 attendees and supported the launch of nearly 300 distilleries; enrollment fell about
-  10–15%, then roughly halved over the past year; courses run through 2026. Carried by **The
-  Spirits Business (Jul 2026)**, WDRB, Spectrum News 1, The Lane Report, Kentucky New Era and
-  Distillery Trail. **Dropped for three reasons, not one:** no vetted Tier 1–2 outlet has it
-  (Whisky Advocate, Robb Report and Fred Minnick all silent), it is **four weeks old**, and it has
-  no consequence for a reader's shelf or weekend. **Do not rediscover. Do not re-search.**
-- **`jack-daniels-distillery-series-17-2026` — DROPPED, distribution blocker confirmed permanent.**
-  Robb Report's Taste Test ran **Aug 9** (Flicker) and supplies the sensory leg the item was
-  missing — big berry, vanilla, oak, and the signature banana note, with heat overshadowing at
-  138.4 proof. **But the same piece confirms it is a distillery-exclusive small-format bottle**, so
-  the forward bar still fails. **Two further reasons to leave it dead:** the review is
-  unfavourable, and **the article's framing is DISCUS-hostile throughout** — "drinks like a boozy
-  flamethrower," "making at least one angel very drunk," "a much more drinkable level." Unusable
-  even as paraphrase. Facts for the record: Distillery Series #17, distilled 2016, Coy Hill,
-  top floor of Barrelhouse 1-13, mashbill 80% corn / 12% malted barley / 8% rye, 138.4 proof.
-- **`garrisonbros.com/event-directory/` — FETCHED, works, low yield.** See HOSTS.
-
-### Not new, and correctly not chased
-
-Robb Report's spirits index also carried `wyoming-whiskey-state-of-the-union-bourbon-1238562857`
-(already in WATCHING, still blocked on Wyoming-only distribution — **not re-opened, and no cheap
-check will change the forward bar**), `garrison-brothers-cowboy-bourbon-hazmat-whiskey-1238550045`
-(**a third source for the staged Garrison item, and an alternate link-out if the brand event page
-ever fails** — the "hazmat" angle means over 140 proof, which the 141.0-proof bottle clears),
-`new-survey-canadians-support-ban-on-american-booze-1238546939` (see the tariff note below), and
-`1800-tequila-coleccion-tequila-friedeberg-1238551430` (not whiskey).
-
-### THE CANADA TARIFF — a real dedup exception, and a real risk. Aaron's call.
-
-**`canada-50pct-tariff-aug-19-2026` is in dedup, having run twice, and the tariff took effect at
-12:01 a.m. ET TODAY, Aug 19, 2026.** An additional **50% Section 338 duty on Canadian alcoholic
-beverages, whisky explicitly in scope**, applying regardless of USMCA preference. Trump signed
-three Section 338 proclamations **Jul 20**. Context: Canadian provinces pulled American spirits
-from shelves in March 2025 and only Alberta and Saskatchewan have lifted those bans.
-
-**This is a legitimate exception to the never-republish rule** — the date arrived, which the skill
-names explicitly as a material new development, not a countdown. **It is NOT an urgent override:**
-a tariff is not a recall, a safety issue, litigation naming a WS partner, or a death.
-
-**And it is exactly the story Adam complained about on Jul 27.** The tariff beat has run as
-`scotch-tariff-removal-2026-07-24` (4x), `canada-50pct-tariff-aug-19-2026` (2x) and
-`bushmills-ni-roi-tariff-split-2026`. A third Canada run is defensible on the rules and still
-risks reading as the same article again. **That is why it went to Aaron as a question rather than
-being staged.**
-
-**It also has no link-out yet.** Robb Report covered the announcement in July
-(`/trump-50-percent-tariff-canadian-whisky-1238490396/`, not in the spent list but the story it
-carries has run twice). **Forbes is a contributor column — Tier 4, do not link.** The law-firm and
-customs-broker alerts are not vetted. A Federal Register or White House proclamation would be
-Tier 1 but is a poor destination for a consumer. **If Aaron says run it, the item needs vetted
-Tier 1–2 pickup of the effective date first — Robb Report is the likely follow-up. Recheck
-Thursday and Friday.** The reader-facing hook is the price question, not the policy.
-
----
-
 ## THE WHISKY ADVOCATE RSS FEED — the primary discovery path
 
 **`https://whiskyadvocate.com/call/blogs/rss/` returns 200 with ten dated article links,
@@ -4191,7 +4369,33 @@ was assessed Sep 2 and NOT staged. Never run it on this board — same brand, sa
 
 ---
 
-## FRIDAY Sep 11 — THREE STAGED, ALL VERIFIED. Board created Sep 8 by re-slotting, not by research.
+## FRIDAY Sep 11 — FOUR STAGED, ALL VERIFIED. The outlet-concentration weakness is FIXED as of Sep 9.
+
+**SEP 9 UPDATE, and read this before the Sep 10 run touches anything.**
+**The pre-edition pass ran on all three original link-outs: all 200, two unchanged, New Era changed
+materially (price found, name collision shrank).** Full detail in the Sep 9 section.
+**A FOURTH ITEM WAS ADDED and it satisfies the board's own gate** — the gate was "neither WA nor a
+venue," and `canada-spirits-import-ban-2026` is a TSB trade-policy item.
+- `canada-spirits-import-ban-2026` — **NEW AND STAGED Sep 9. VERIFIED on a Tier 1 primary (the White
+  House proclamation) + TSB (9 September, Joe Rogers).** **A new action on the covered
+  `canada-50pct-tariff-2026` story — it clears the dedup exception and must open with what is new.**
+  **Proclamation signed 8 September; certain Canadian alcoholic beverages excluded from importation
+  effective 12:01 a.m. ET 29 September; goods imported before then stay at the 50% duty.** TSB gives
+  the categories as **spirits, wine and malt beer** and carries a usable 17-word Swonger quote.
+  Beat `allocation-watch`, persona Explorer. **RUN IT LAST, FACTUAL, NO PAYOFF LINE AND NO OCCASION
+  FRAMING — exactly as the Sep 4 edition ran the tariff item.** **Do not name specific banned brands;
+  the product detail is in an Annex nobody has parsed.** Full entry in the Sep 9 section.
+  Link: `https://www.thespiritsbusiness.com/2026/09/trump-bans-canadian-spirits-imports/`
+
+**Sep 11 shape now: FOUR — Social Drinker ×1, Venue Regular ×1, Explorer ×2. Four distinct beats
+(`pair-it`, `on-the-calendar`, `try-this-next`, `allocation-watch`). Outlet mix WA ×2, TSB ×2.**
+**THE BOARD IS CLOSED AT FOUR. Do not add a fifth.** **The only open question is Aaron's New Era
+call, and its facts improved this run — see the Sep 9 entry for the link-out fork (price → store
+page; opening date → TSB; you cannot print both against one link).**
+
+---
+
+## FRIDAY Sep 11 — the three-item board as it stood Sep 8 (superseded by the Sep 9 update above)
 
 **THIS BOARD EXISTS BECAUSE OF LESSON 51.** Until Sep 8 this file had **no Sep 11 board at all** —
 the Sep 6 run staged these three items to "Fri Sep 18" when the next Friday was Sep 11, and Sep 7
@@ -4230,15 +4434,34 @@ go there," so re-confirm it is open, and prefer the primary over the trade repor
 
 ---
 
-## FRIDAY Sep 18 — OPEN. Zero staged as of Sep 8.
+## FRIDAY Sep 18 — TWO STAGED as of Sep 9. Board opened by discovery, both items verified.
 
 **This board was emptied by the Lesson 51 correction** — its three items were never Sep 18 items, they
-were Sep 11 items with the wrong label. **Sep 18 now has nothing and is ten days out.**
-**It is not urgent yet and must NOT be filled by raiding Sep 11 or Sep 22.** The Wed Sep 9 and
-Thu Sep 10 prep runs should treat Sep 11 as re-confirm-only and spend their discovery on **Sep 18,
-which needs occasion, venue and pairing material — the Last Call shape.**
-**Known unassessed material that could feed it** is listed under SEPTEMBER POINTERS and in the
-Sep 2 and Sep 3 sections; **`cedar-ridge-anniversary-edition-2026` remains single-sourced and
+were Sep 11 items with the wrong label. **The Sep 9 run filled it from zero to two by discovery, not
+by raiding Sep 11 or Sep 22.**
+
+- `whisky-advocate-spas-2026` — **NEW AND STAGED Sep 9. VERIFIED, one source by design.** WA,
+  September 8, Sally Kral. **Nine properties, prices $80 to $780, two on distillery grounds (High West
+  at the Lodge at Blue Sky, Tarnished Truth at the Cavalier), four named staff on the record.**
+  Beat `on-the-calendar`, persona Social Drinker.
+  **THREE COMPLIANCE BLOCKS, all in the Sep 9 entry and all mandatory: the ellagic-acid/antioxidant
+  health claim is UNPRINTABLE · "a dram or two" is a volume cue · the "For men" Beard & Bourbon
+  package and "The Southern Gentleman" are gendered framings to build away from.**
+  Link: `https://whiskyadvocate.com/Spas-For-Whisky-Lovers` (**note the capitalised path**)
+- `fee-brothers-fat-wash-drops-2026` — **NEW AND STAGED Sep 9. VERIFIED, one source by design** — WA's
+  own review, September 2, Sean Evans. **Browned Butter, Roasted Duck and Bacon drops; three whiskey
+  recipes on the page with named bottles; Evans's sensory is attributable to him by name; NO PRICE
+  PUBLISHED.** Beat `easy-pour`, persona Social Drinker. **Do not print "my friends ask for thirds."**
+  **This is the first item to yield if a stronger whiskey item arrives.**
+  Link: `https://whiskyadvocate.com/fee-brothers-fat-wash-drops-review`
+
+**Sep 18 shape: TWO — Social Drinker ×2, both WA, both occasion-shaped. It clears the two-item floor,
+so the empty-pipeline floor no longer applies.**
+**WHAT IT NEEDS: a third item that is NON-WA and ideally Explorer or Venue Regular.** Both current
+items are the same outlet and the same persona — **that, not the count, is this board's weakness.**
+**Nine days out. Still must NOT be filled by raiding Sep 11 or Sep 22.**
+**Leads for it:** the Skrewball PB&J cans (TSB Sept 9, needs a second source and a US price) ·
+SEPTEMBER POINTERS · **`cedar-ridge-anniversary-edition-2026` remains single-sourced and
 sensory-blocked.**
 
 ---
@@ -4294,18 +4517,36 @@ theme, not a board.**
   Full entry in the Sep 7 section.
   Link: `https://robbreport.com/food-drink/spirits/woodford-reserve-super-seasoned-oak-bourbon-1238622306/`
 
-**Sep 22 shape: TWO — Explorer ×1 ($50, nationwide), Collector ×1 ($180, Kentucky-first).**
-**THE BOARD'S ONE REAL PROBLEM IS OUTLET CONCENTRATION: both items are Robb Report, both Flicker,
-and both depend on his sensory.** **The Sep 22 job from here is a third and fourth item from other
-outlets — not more RR.** **If both must run, the RR link-out stays with Basil Hayden (WA cannot
-carry its ABV) and Woodford is the one to re-source or drop.**
+- `whisky-advocate-new-zealand-single-malts-2026` — **NEW AND STAGED Sep 9. VERIFIED, one source by
+  design** (WA reported it and WA tasted it). WA, September 8, Julia Higgins. **THIS IS THE ITEM THE
+  BOARD'S OWN NOTE ASKED FOR: non-RR outlet, Explorer persona, and a $75 bottle.**
+  **Zero NZ single malt distilleries in 2000, 20 now · laureate barley is the shared grain · angels'
+  share 9.5%/yr on North Island vs 3.5% at Cardrona · Pōkeno runs the country's only cooperage ·
+  manuka-smoked malt · Scapegrace ships to a handful of US states via Sazerac's 375 Park Avenue.**
+  **WA's own scored notes: Pōkeno Discovery 91 pts, 43%, $75 (LEAD ON THIS ONE) · Cardrona The Falcon
+  92 pts, 52%, $285 · Scapegrace Anthem NR, 40%, $90 — "NR" means unrated and NO notes exist for it,
+  so never describe how Anthem tastes.** **Define "single malt" and "angels' share" in plain English.**
+  **Do not claim US availability beyond Scapegrace's "handful of states."** Beat `try-this-next`,
+  persona Explorer. Full entry in the Sep 9 section.
+  Link: `https://whiskyadvocate.com/new-zealand-whisky-distilleries`
+
+**Sep 22 shape: THREE — Explorer ×2 ($50 nationwide; $75 NZ pick), Collector ×1 ($180
+Kentucky-first). Outlet mix RR ×2, WA ×1.**
+**THE RR MONOCULTURE IS BROKEN AND THE EXPLORER/VALUE ASK IS ANSWERED, both as of Sep 9.**
+**What it still wants, in order: a fourth item from a THIRD outlet (neither RR nor WA), and ideally
+Social Drinker or Venue Regular, since all three items are Explorer/Collector.** **Do not add more
+RR and do not add more Collector.**
+**If all three run, the RR link-out stays with Basil Hayden (WA cannot carry its ABV) and Woodford is
+the one to re-source or drop.**
 **Overflow available if needed:** Sep 15's surplus Collector items (`whisky-advocate-1880-whiskey-tasting-2026`,
-`balvenie-88-year-old-2026` if it does not run Sep 15) — **but Sep 22 already skews Collector, so
-overflow makes the shape worse, not better.** **What it needs is Explorer/value and a non-RR outlet.**
-**Bench for this board:** `joseph-magnus-10yr-cask-strength-rye-2026` (**WA-only, runs flagged or
-holds — recheck once Wed Sep 9 then stop**) · `loch-lomond-waypoint-31yo-2026` (likely UK-first) ·
+`balvenie-88-year-old-2026` if it does not run Sep 15) — **but Sep 22 already carries a Collector item,
+so overflow makes the shape worse, not better.**
+**Bench for this board, PRUNED Sep 9:** `loch-lomond-waypoint-31yo-2026` (likely UK-first) ·
 `filliers-mizunara-2026` (likely non-US) · `american-whiskey-scholars-program-2026` (needs a
-price/date/way in) · `ardnamurchan-pet-bottle-2026` (**new Sep 7, likely UK-first, one fetch settles it**).
+price/date/way in) · `whisky-advocate-auction-hammer-prices-august-2026` (pointer only, Collector).
+**REMOVED FROM THE BENCH Sep 9: `joseph-magnus-10yr-cask-strength-rye-2026` (DROPPED — third
+second-source hunt failed, stop looking) and `ardnamurchan-pet-bottle-2026` (DROPPED — Norway-only,
+Vinmonopolet exclusive, no US reader action).** Both are in DROPPED / DO NOT REDISCOVER.
 
 ---
 
@@ -4371,8 +4612,27 @@ price/date/way in) · `ardnamurchan-pet-bottle-2026` (**new Sep 7, likely UK-fir
 
 ## OPEN GAPS
 
-- **TUE SEP 22 — OPENED AND HALF-FILLED IN ONE RUN, Sep 7. TWO STAGED, BOTH VERIFIED, and the gap
-  that remains is OUTLET, not count.** `basil-hayden-cognac-cask-reserve-2026` (`try-this-next`,
+- **SEP 9 STATUS SWEEP — three of the boards below moved, read these first:**
+  **TUE SEP 22 is now THREE (RR ×2, WA ×1) and the non-RR Explorer/value ask is ANSWERED** by
+  `whisky-advocate-new-zealand-single-malts-2026`. **The residual gap is a THIRD OUTLET (neither RR
+  nor WA) and a Social Drinker or Venue Regular item** — all three staged items are Explorer/Collector.
+  **FRI SEP 18 went zero → TWO**, so it clears the two-item floor. **Its gap is now OUTLET AND
+  PERSONA, not count: both items are WA and both are Social Drinker. It needs one non-WA item,
+  ideally Explorer or Venue Regular.**
+  **FRI SEP 11 is CLOSED AT FOUR and its outlet-concentration gap is CLOSED** by the TSB import-ban
+  item. **TUE SEP 15 is untouched at two and is now the thinnest forward board — it is the Sep 10
+  priority.**
+- **NEW GAP, Sep 9 — `canada-spirits-import-ban-2026` HAS NO CLEAN BEAT SLUG, and the approved list
+  cannot express it.** The item is a trade-policy action whose reader consequence is "this will be
+  harder to buy after Sept 29." **None of `whats-dropping` / `try-this-next` / `allocation-watch` /
+  `on-the-calendar` / `easy-pour` / `pair-it` is a real fit.** **DECISION TAKEN, not invented:
+  `allocation-watch` is the closest — availability is about to change — and it is being used rather
+  than minting a new slug, per the standing no-improvising rule on UTM values.**
+  **This is the same shape as the shelf-price and explainer slug gaps.** **Raise it in Notes at most
+  once, when the item is about to run, then treat it as spent.** **A policy/industry beat slug is the
+  structural fix if Aaron ever wants one.**
+- **TUE SEP 22 — OPENED AND HALF-FILLED IN ONE RUN, Sep 7 (superseded by the Sep 9 sweep above).
+  TWO STAGED, BOTH VERIFIED, and the gap that remains is OUTLET, not count.** `basil-hayden-cognac-cask-reserve-2026` (`try-this-next`,
   Explorer, **$50, nationwide, RR link-out, RR's own sensory, and a reported brand non-answer as the
   hook**) · `woodford-reserve-super-seasoned-oak-2026` (`allocation-watch`, Collector, **$180,
   Kentucky-first, RR's own tasting**). **BOTH ARE ROBB REPORT / FLICKER.** **The ask for Sep 22 is a
@@ -5271,6 +5531,32 @@ _Sep 8 spent four link-outs: `whiskyadvocate.com/chinquapin-oak-whiskies` ·
 Cask, Jack Daniel's American Single Malt, Jim Beam Ten Pin and Angel's Envy Distillery Series
 entries — **none of those can use this URL as a link-out any more. One page, one item, ever.**
 
+**Added Sep 9 (STAGED / ASSESSED — all closed to re-scouting, NOT to publication):**
+Fri Sep 11 — **`canada-spirits-import-ban-2026`** (**NEW KEY, staged, `allocation-watch` / Explorer,
+TSB link-out. A NEW ACTION on the covered `canada-50pct-tariff-2026` story, not a re-run of it: that
+key stays PUBLISHED and closed. Supports: proclamation signed Sept 8, exclusion effective 12:01 a.m.
+ET Sept 29, pre-Sept-29 imports stay at the 50% duty, categories spirits/wine/malt beer, Swonger's
+17-word quote, exports down 70%. Second source is the White House proclamation itself — Tier 1
+primary.**)
+Tue Sep 22 — **`whisky-advocate-new-zealand-single-malts-2026`** (**staged, `try-this-next` / Explorer,
+WA link-out, one source by design. Supports: 0→20 distilleries, laureate barley, 9.5% vs 3.5% angels'
+share, Pōkeno's cooperage, manuka smoke, Scapegrace in a handful of states, and WA's own scored notes
+for Pōkeno Discovery 91/$75 and Cardrona The Falcon 92/$285. Scapegrace Anthem is NR — no notes.**)
+Fri Sep 18 — **`whisky-advocate-spas-2026`** (**staged, `on-the-calendar` / Social Drinker, WA
+link-out, one source by design. Supports: nine properties, $80–$780, two on distillery grounds, four
+named staff. THE ANTIOXIDANT HEALTH CLAIM IS UNPRINTABLE.**) · **`fee-brothers-fat-wash-drops-2026`**
+(**staged, `easy-pour` / Social Drinker, WA link-out, one source by design. Supports: three drop
+flavours, three whiskey recipes with named bottles, Evans's attributable sensory. No price exists.**)
+**Assessed and closed to re-scouting this run:** `detroit-city-distillery-bar-2026` (already closed
+Sep 7, Michigan constraint) · `glenlivet-ad-backlash-2026` (no reader action) ·
+`whisky-advocate-auction-hammer-prices-august-2026` (pointer only) · `skrewball-pbj-cans-2026`
+(**lead only — needs a second source and a US price before it is a candidate**) ·
+`glenwyvis-cask-spirits-global-2026` (UK-only, no US reader action).
+_Sep 9 spent no link-outs — prep runs do not spend them._
+**NEW SPENT-PAGE NOTE: `whiskyadvocate.com/four-roses-honey-cask-jim-beam-ten-pin-and-more-new-whiskey`
+was spent Sep 8, and the Ardbeg Trudernish and Baker's 13 entries live on it. Neither can use that
+URL. They need their own links before they can run.**
+
 **Added Sep 7 (STAGED / ASSESSED — all closed to re-scouting):**
 Tue Sep 22 — **`basil-hayden-cognac-cask-reserve-2026`** (**CONVERTED off the bench to STAGED,
 VERIFIED on RR Sept 3 + WA Sept 4. LINK-OUT IS RR, NOT WA — WA's "ABV: $40" is corrupt and RR states
@@ -5803,6 +6089,20 @@ and no longer reserved.** Every item that was queued behind it now has its own l
 
 ## DROPPED / DO NOT REDISCOVER
 
+**Added Sep 9:** **`joseph-magnus-10yr-cask-strength-rye-2026`** (**THE SCHEDULED LAST RECHECK RAN AND
+FAILED. Three second-source hunts, three identical results: Breaking Bourbon / PR Newswire / The
+Manual all cover the Seguin Moreau private-cask BOURBON, a different product; The Whiskey Reviewer is
+a reprint host and never a second source; the brand page is same-origin; De Wine Spot is a retailer.
+No vetted Tier 1–2 pickup exists. WA's Sept 4 Whisky Watch stays the sole source, so the item can
+never clear two. STOP LOOKING — this is closed, not paused.** **The floating 113.44 proof, "10 years,
+9 months" and CraftCo Distillery & Social House, Holland Michigan details are unsourced on any vetted
+page and must never be printed.**) · **`ardnamurchan-pet-bottle-2026`** (**one fetch settled it, as
+the bench note predicted: the AD/ in 500ml PET is a NORWAY-ONLY bottling, sold through Vinmonopolet,
+Norway's state alcohol monopoly, at Kr399 / US$43. A US reader cannot buy it — the same distribution
+test that killed Bruichladdich and Hibiki 12. TSB Sept 7, Joe Rogers, with Graeme Mackay and a
+Vinmonopolet spokesperson on the record; the SWA "inert material" detail is genuinely interesting and
+still not a reason to run an unbuyable bottle.**)
+
 **Added Aug 30:** **`larrikin-australia-series-2026`** (**unblock test run and failed on both halves:
 every pickup is one news release, and KBF is waitlisted except Sunday Samplers, so two of the three
 release days are unreachable. Keeley's 13-word quote is on file in the Aug 27 section if Larrikin
@@ -5892,58 +6192,104 @@ and the fifth coconut item) · `discus-congressional-fly-in-2026`.
 
 ---
 
-## NEXT RUN (Wed Sep 9 — PREP RUN)
+## NEXT RUN (Thu Sep 10 — PREP RUN)
 
 **PREP. No consumer edition. Internal register, raw links, NO UTMs.**
-**The Fri Sep 11 board is CLOSED AT THREE and must be treated as re-confirm-only. Discovery this run
-belongs to Fri Sep 18, which is empty.**
+**The Fri Sep 11 board is CLOSED AT FOUR and is re-confirm-only. Discovery this run belongs to
+Tue Sep 15, which is the thinnest forward board at two, and secondarily to Fri Sep 18's third item.**
 
-0. **STEP ZERO IS NOW THE CALENDAR CHECK — Lesson 51, added because it cost a near-missed edition.**
-   Compute today's date and weekday in America/Los_Angeles, derive the next Tuesday and next Friday,
-   and **confirm every open board heading matches a real forward date.** One shell call:
-   `for d in <dates>; do date -d $d +%A; done`. **Do this before reading anything else. Never copy a
-   slot date forward from this file.** Expected on Sep 9: next Fri = **Sep 11**, next Tue = **Sep 15**,
-   then Fri **Sep 18**, Tue **Sep 22**.
+0. **STEP ZERO IS THE CALENDAR CHECK — Lesson 51.** Compute today's date and weekday in
+   America/Los_Angeles, derive the next Tuesday and next Friday, and **confirm every open board
+   heading matches a real forward date.** One shell call: `for d in <dates>; do date -d $d +%A; done`.
+   **Do this before reading anything else. Never copy a slot date forward from this file.**
+   Expected on Sep 10: next Fri = **Sep 11**, next Tue = **Sep 15**, then Fri **Sep 18**, Tue **Sep 22**.
 1. **BROWSER-UA FETCH.** curl with a Chrome UA, `-L`, **and `--compressed`**, strip
    `<script>`/`<style>`/`<svg>`, strip tags, unescape, collapse whitespace.
-   **RE-CONFIRMED Sep 8: the default WebFetch tool 503s on every whiskyadvocate.com path and curl+UA
-   returns 200 on all of them. Do not read a 503 as a dead host.**
+   **Re-confirmed Sep 9: WebFetch 503s on whiskyadvocate.com; curl+UA returns 200 on every path
+   tried. Do not read a 403/503/307 as a dead host.** **whitehouse.gov fetches fine with the same UA.**
    **Discovery order:** WA RSS `whiskyadvocate.com/call/blogs/rss/` → Robb Report spirits index →
-   TSB news index → FM rail. **Read the RSS feed even though this run is scoped to Sep 18 — Lesson 34.**
-   **FETCH LONG. 12,000+ chars on WA pages, reviews AND features** (Lesson 50).
-2. **THE FRI SEP 11 PRE-EDITION PASS. This is the run's first job and it is not optional.**
-   Re-fetch all three link-outs: `whiskyadvocate.com/grilling-with-whisky-recipes` ·
+   TSB news index → FM rail. **Read the RSS feed every run — it produced three of this run's four
+   new items (Lesson 34).**
+   **FETCH LONG. 12,000+ chars on WA pages, and 30,000 on a listicle** — the spa piece truncated at
+   16,000 and the ninth property was in the tail (Lesson 50).
+2. **THE FRI SEP 11 FINAL PASS. Four link-outs, and the New Era one is the only live question.**
+   `whiskyadvocate.com/grilling-with-whisky-recipes` ·
    `thespiritsbusiness.com/2026/09/new-era-opens-distillery-and-club-in-kentucky/` ·
-   `whiskyadvocate.com/deanston-17-orange-wine-cask-fnish-review`.
-   **Apply Lesson 48 to New Era: its payoff is "you can go there," so re-confirm it is OPEN, and
-   prefer a primary source over the trade report if one exists.** **Confirm Deanston's $132 and
-   "nationwide" still read as staged.** **Confirm the grilling piece still carries no prices** — and
-   per Lesson 50, **do not trust that absence without a long fetch.**
-3. **DISCOVERY GOES TO FRI SEP 18, and only there.** It needs occasion, venue and pairing material —
-   the Last Call shape. **Do NOT raid Sep 11 or Sep 22 to fill it.** Ten days out; not urgent.
-   **Do not add a fourth Sep 11 item unless it is neither WA nor a venue** (the board is WA ×2 already).
-4. **JOSEPH MAGNUS — THE LAST RECHECK, AS SCHEDULED.** `joseph-magnus-10yr-cask-strength-rye-2026`
-   gets **one** second-source attempt this run. **If nothing vetted has picked it up, DROP IT and stop
-   looking.** Do not confuse Breaking Bourbon's other Magnus pages for this rye. Never print the
-   floating 113.44 proof / "10 years, 9 months" / CraftCo Holland Michigan details.
-5. **TUE SEP 22 — the ask is OUTLET, not count.** Two staged, **both Robb Report, both Flicker, both
-   dependent on his sensory.** **Find a third and fourth from a NON-RR outlet, ideally Explorer/value.**
-   **Do not add more Collector items and do not add more RR.** Two weeks out; lowest priority.
-6. **THE PRUNE — one section, never blind.** Next eligible: **`WEDNESDAY Aug 19`** (21 days old on
-   Sep 9). **Method, proven on Aug 18 this run: read the section, confirm its keys are in DEDUP, its
-   URLs in the spent-links list, and its lessons captured in the PRIOR LESSONS blocks — THEN delete
-   that one section.** **Never prune DEDUP, OPEN GAPS, COLLISION FLAGS, the boards or the LESSONS.**
+   `whiskyadvocate.com/deanston-17-orange-wine-cask-fnish-review` ·
+   `thespiritsbusiness.com/2026/09/trump-bans-canadian-spirits-imports/`.
+   **Grilling and Deanston re-read clean on Sep 9 — a light re-check is enough.**
+   **NEW ERA: re-check the STORE page, not just TSB** —
+   `new-era-whiskey-2.myshopify.com/products/join-the-social-club` — **confirm $249 and the
+   "1 month subscription" plan still stand, and whether the plan name or price moved.** This is
+   Lesson 52: the commerce page is where the commercial facts live.
+   **THE LINK-OUT FORK IS AARON'S TO SETTLE AND IT MUST BE SETTLED BEFORE FRIDAY: you cannot print
+   both the $249 and the Sept 2 opening against one link.** Default if he is silent: **TSB link-out,
+   no price, "a members-only club," never the phrase "Whiskey Social Club."**
+3. **DISCOVERY GOES TO TUE SEP 15 FIRST.** It has been untouched since Sep 2 and sits at two
+   candidates, one of which (`sagamore-bottled-in-bond-rye-2026`) still needs a second source.
+   **Five days out and it is now the weakest board — this is the priority, ahead of Sep 18.**
+   **`balvenie-88-year-old-2026` still carries a live forward-bar question that is Aaron's call:
+   private clients only, undisclosed price, mostly sold. Recommendation stands — `allocation-watch` /
+   Collector, framed as a record not a purchase, never leading.** **Do NOT pair it with the 1880
+   tasting.** Unassessed material for it is listed in the Sep 2 section: the WA High West cask-strength
+   review, the WA 1880 tasting, Ardbeg, the American Whiskey Scholars programme.
+4. **SEP 18 NEEDS A THIRD ITEM, AND THE ASK IS OUTLET AND PERSONA, NOT COUNT.** Two staged, **both WA,
+   both Social Drinker.** **Find one NON-WA item, ideally Explorer or Venue Regular.** The Skrewball
+   PB&J cans (TSB Sept 9) are the only live lead and **need a second source and a US price** before
+   they are a candidate. **Do NOT raid Sep 11 or Sep 22.**
+5. **SEP 22 — the remaining ask is a THIRD OUTLET.** Three staged (RR ×2, WA ×1). **A fourth item must
+   be neither RR nor WA, and ideally Social Drinker or Venue Regular — all three current items are
+   Explorer/Collector.** **Do not add more RR and do not add more Collector.** Two weeks out; lowest
+   priority. **The bench lost Magnus and Ardnamurchan on Sep 9 — do not rediscover either.**
+6. **THE PRUNE — one section, never blind.** Next eligible: **`THURSDAY Aug 20`** (21 days old on
+   Sep 10). **Method, CORRECTED on Sep 9 (Lesson 52): read the section, then confirm each key is
+   protected in the RIGHT REGISTER — DEDUP for published/staged keys, `DROPPED / DO NOT REDISCOVER`
+   for dropped ones — confirm any URL actually used as a link-out is in the spent list, and confirm
+   its lessons are in the PRIOR LESSONS blocks. THEN delete that one section.** **A dropped key absent
+   from DEDUP is NOT a blocker; a published key absent from DEDUP is.**
+   **Never prune DEDUP, OPEN GAPS, COLLISION FLAGS, the boards or the LESSONS.**
 7. **URGENT SWEEP.** Recall, safety, litigation or investigation naming a partner brand or venue, or a
    death in the industry. **These override the slot and post the same run, factual and quiet, first in
-   the post, with Aaron flagged in the aside.** Ordinary new-release traffic is not urgent.
-8. **NOTES DISCIPLINE.** **The New Era "Whiskey Social Club" name collision is still Aaron's call and
-   still unanswered — raise it once, when the item is about to run (Sep 11), not before.**
+   the post, with Aaron flagged in the aside.** **Sep 9 set the precedent to reuse: a trade action —
+   even a presidential import ban — is NOT on the urgent list. Stage it, do not force-post it.**
+   Ordinary new-release traffic is not urgent.
+8. **NOTES DISCIPLINE.** **The New Era question is now a LINK-OUT FORK plus the name call, and its
+   facts changed Sep 9 — raise it once more on Sep 10 or Friday, because it must be settled before the
+   item runs.** **The `canada-spirits-import-ban-2026` beat-slug gap is logged in OPEN GAPS — raise it
+   at most once, when the item is about to run, and use `allocation-watch` meanwhile.**
    **SPENT AND NOT TO BE RE-RAISED:** the shelf-price slug, the sub-$30 gap, the explainer slug, the
    September third-edition cadence bump, the Balvenie 88 forward-bar call, the outdoors byline call.
    **The brand-skill-absent note stays compressed as `_unchanged:_`.**
 9. **POST ONLY IF THERE IS SOMETHING.** New pipeline material, a gap update, or urgent news.
    **Otherwise post nothing.** A prep run with no movement is a legitimate silent run.
    **PERSIST STATE EITHER WAY.**
+
+---
+
+## LESSON 52 (added Sep 9) — "no price published" is a claim about a page you checked, not about the world
+
+**The file asserted three times, in bold, that no New Era membership price existed.** It had been
+checked on TSB, on WKYT, and on the newerawhiskey.com homepage. **All three checks were honest and
+all three were aimed at the wrong page.** A trade report covers an opening; a marketing homepage sells
+a mood. **Neither is where a subscription price lives. The price lives on the page that takes the
+money** — in this case a Shopify storefront the homepage links to directly, carrying $249 and a
+"1 month subscription" plan in its own markup. One search and one fetch found it.
+
+**The rule: when an item's payoff is an ACTION — join, book, buy, reserve, enter — the re-confirm
+target is the commerce page, and "no price published" is only true once you have checked that page.**
+This extends Lesson 48. **Lesson 48 said re-confirm the page where the action happens. Lesson 52 adds
+that the action page and the news page are different pages, and a missing commercial fact almost
+always sits on the former.** **Record a negative finding with the page you checked attached to it** —
+"no price on TSB, WKYT or the homepage" would have been an honest note; "NO MEMBERSHIP PRICE EXISTS"
+was an overreach that survived three runs.
+
+**COROLLARY, FROM THE SAME RUN'S PRUNE, and it is the second half of the lesson: a verification step
+must name the REGISTER a fact should live in, not just the file.** The prune method said "confirm keys
+in DEDUP." Two Aug 19 keys were absent, which read as a blocker. **They were absent because they were
+DROPPED, never published — and dropped keys belong in `DROPPED / DO NOT REDISCOVER`, where both duly
+were.** Nothing was unprotected. **A check that does not distinguish "missing" from "filed elsewhere
+on purpose" manufactures blockers.** Same for URLs: **the FM Bardstown page was a lead source that
+never became a link-out, so its absence from the spent-link-outs list was correct, not a gap.**
 
 ---
 
