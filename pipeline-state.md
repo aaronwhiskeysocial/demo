@@ -344,6 +344,15 @@ edition day does not have to rediscover it (Lesson 54):** **"8th year"** · **"1
 **"5 stages"**. **All three are absent from the festival's own `/bourbon/` page.** If any of them is
 wanted in copy, the link-out has to change — and WSLM is Tier 3, so it should not.
 
+**AND A FOURTH, WHICH IS LESSON 58's OWN SHAPE ONE PAGE OVER — CATCH IT NOW, NOT ON EDITION MORNING:
+THE PASS PRICES ARE ON `/passes/`, NOT ON `/bourbon/`.** `$519.00`, `$225.00`, `$946.00` and the
+week-of-show numbers are all on the passes page. **The link-out is `/bourbon/` and it carries NO
+price at all.** **So: either print no price against `/bourbon/`, or move the link-out to
+`/passes/` — which would cost the item its hook, since the published pour list IS the story.**
+**THE RECOMMENDATION IS: LINK `/bourbon/`, PRINT NO PRICE.** "Passes are on sale" is supportable
+from the site's own GET PASSES call to action; a dollar figure is not supportable from that page.
+**Same class of error as `111 proof` — true, on the site, and not on the page the reader lands on.**
+
 **THREE COMPLIANCE BLOCKS, ALL BINDING:**
 **(a) DISCUS 73.8 — THE POUR LIST IS A VOLUME HAZARD IF IT IS COUNTED.** The page lists several
 hundred bottles. **Never state or imply a count of pours, never "unlimited", never "all you can".**
@@ -4968,7 +4977,10 @@ national trade rails failed this same ask five days running. See Lesson 58.**
   Danny Wimmer Presents · the bourbon pour list is PUBLISHED IN ADVANCE, split into house single
   barrels and an allocated tier · named on it: Old Rip Van Winkle 10yr, Van Winkle 12yr, Elmer T
   Lee, King of Kentucky 2022, Parker Heritage 11yr single barrel, Russell's Reserve 15yr, plus
-  vintage pours dated 1960–1976 · 4-Day GA from `$519.00` all-in, single-day GA `$225.00` all-in.**
+  vintage pours dated 1960–1976.**
+  **PASSES ARE ON SALE, BUT THE PRICES LIVE ON `/passes/`, NOT ON THE `/bourbon/` LINK-OUT — so
+  print "passes are on sale" and NO dollar figure. See the Sep 16 entry.** (For the record, off
+  `/passes/`: 4-Day GA from `$519.00` all-in, single-day GA `$225.00` all-in.)
   **THE HOOK IS THAT THE LIST IS PUBLIC BEFORE YOU BUY — which bottles, not how many pours.**
   **SEPT 24 IS TWO DAYS AFTER THIS EDITION. Tightest live peg on the board.**
   **THREE BINDING BLOCKS: (a) never count pours, never "unlimited" — DISCUS 73.8; (b) the `$130`
