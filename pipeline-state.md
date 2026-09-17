@@ -3,7 +3,35 @@
 Durable memory for the Whiskey Social whiskey-news pipeline. Authoritative over Slack
 thread copies. Human feedback in #whiskey-news overrides this file.
 
-**Last run:** 2026-09-16 (Wed), **PREP — THE SEVEN-DAY ASK CLOSED OFF THE FIRST UNTRIED RAIL, THE
+**Last run:** 2026-09-17 (Thu), **PREP — A BENCH ITEM THIS FILE RECOMMENDED AS FORWARD MATERIAL
+TURNED OUT TO BE A STORY WE ALREADY PUBLISHED IN JULY, UNDER A SECOND KEY.**
+**Six things happened:** (1) **`bulleit-87-nationwide-2026` IS NOT NEW MATERIAL. IT IS
+`bulleit-87-bourbon-rye-2026`, FIRST COVERED JUL 25 AND PRUNED FROM DEDUP AUG 21.** The Sep 16 NEXT
+RUN block named it as a candidate for the empty Sep 25 / Sep 29 boards. **A prune is hygiene, not
+permission to republish. THE TWO KEYS ARE NOW MERGED AND THE STORY IS RESTORED TO DEDUP AS COVERED.**
+**Every source on it — TSB Jul 24, the Diageo release, FM, Breaking Bourbon, StockTitan — is the same
+July press release. No September source reports it actually reaching shelves, and no tour date is
+published anywhere. The "release actually shipped" exception is UNSOURCED, so it stays covered.**
+(2) **`elmer-t-lee-40th-anniversary-2026` IS STAGED Tue Sep 29 — the first item on that board.**
+**VERIFIED on the primary-source clause: Buffalo Trace's own Sept 14 release + WA's Sept 14 dedicated
+piece by Sean Evans. NOT flagged.** $99.99 · barrels 124.8–138.6 proof · first ETL bottled uncut and
+unfiltered.
+(3) **ITS READER ACTION EXPIRED INSIDE A GAP BETWEEN EDITIONS AND NO EDITION COULD HAVE SERVED IT.**
+Entry ran **Sept 15 10:00 ET to Sept 17 23:59 ET**. Sep 15's Shortlist published the morning it
+opened; Sep 18 is after it shuts. **The durable hook is the Bottle Draw itself — Buffalo Trace
+replaced its first-come gift-shop line after visitor complaints — NOT "go enter." See Lesson 59.**
+(4) **THREE CLAIMS THAT ARRIVED VIA SEARCH SUMMARIES ARE ON NO PAGE AND ARE UNPRINTABLE:**
+**"Mash Bill #2, the same recipe as Blanton's" returns ZERO on both ETL sources** · the
+apricot/almond/honeysuckle string is **Buffalo Trace's own release copy, ZERO on WA** · TSB's Bulleit
+page carries neither **"nationwide"** nor **"more than 20 events."** **Lesson 59.**
+(5) **PRUNE RAN — `TUESDAY Aug 25 — WHAT SHIPPED` deleted (109 lines). All four arms passed clean:**
+every key, figure, URL and name in it lives elsewhere in the file, and it carried no `lesson NN`
+reference at all.
+(6) **NO URGENT OVERRIDE.** Sazerac v. RNDC ($38.6m distributor suit), the RNDC Chapter 11 fallout,
+the Fresh Bourbon appeal and a further bankruptcy wave are **commercial litigation and market
+contraction, not recall/safety/death. Precedent applied an eighth time.**
+
+**Prior run:** 2026-09-16 (Wed), **PREP — THE SEVEN-DAY ASK CLOSED OFF THE FIRST UNTRIED RAIL, THE
 SEP 18 PASS CAUGHT A CLAIM THIS FILE INVENTED BY ARITHMETIC, AND A DECISION WAS TAKEN ON DEADLINE.**
 **Six things happened:** (1) **`bourbon-and-beyond-2026` IS STAGED Tue Sep 22 AND SEP 22'S PERSONA
 ASK IS CLOSED AFTER SEVEN DAYS.** Sept 24–27, Louisville, Venue Regular, a fourth distinct outlet,
@@ -28,7 +56,7 @@ key, and two "missing" spent link-outs were lead sources for items that were nev
 (6) **NO URGENT OVERRIDE.** A $250m receivership, a $28m closure, Jim Beam's 2026 pause and MGP's
 own 42% sales drop are **market contraction, not recall/safety/litigation/death. Precedent applied
 a seventh time.** **The FSS Kimbland warning is DECEMBER 2025 — a year stale and not a partner.**
-**Prior run:** 2026-09-15 (Tue), **THE SHORTLIST SHIPPED AT SIX. ALL SIX RE-CONFIRMED ON EDITION
+**Earlier run:** 2026-09-15 (Tue), **THE SHORTLIST SHIPPED AT SIX. ALL SIX RE-CONFIRMED ON EDITION
 MORNING, THE THREE KNOWN CUTS WERE MADE, AND THE HIGH WEST LINK-OUT TURNED OUT NEVER TO HAVE BEEN
 RECORDED IN THIS FILE AT ALL.**
 **Five things happened:** (1) **THE EDITION PUBLISHED — six items, the top of the 4–6 range, no cut
@@ -258,6 +286,111 @@ from DEDUP would be, and would block the prune.**
 **ITS LESSONS ARE ALREADY SAFE — Lesson 22 was consolidated Sep 10 ahead of schedule, exactly so
 this prune is unblocked.** Re-grep anyway.
 **Never prune DEDUP, OPEN GAPS, COLLISION FLAGS, the boards or the LESSONS blocks.**
+
+---
+
+## THURSDAY Sep 17 — PREP RUN (posted 06:4x PT)
+
+**THE RUN'S REAL WORK WAS A DEDUP CATCH, NOT A DISCOVERY.** Both live boards were closed going in
+and neither moved. The instruction was to spend the run on the empty Sep 25 / Sep 29 boards, using
+the bench the Sep 16 block had already surfaced. **One of the two bench items recommended there was
+a story this file published in July.**
+
+### SEP 18 RE-CONFIRM — all three 200, nothing moved
+
+`whiskyadvocate.com/Spas-For-Whisky-Lovers` 76,644 bytes · the TSB MGP page 147,520 ·
+`whiskyadvocate.com/2026-parkers-heritage-kentucky-boy-and-more-new-whiskey` 81,010. **Browser UA
+via curl, per Lesson 57.** **No Notes bullet — nothing failed.** The one owed copy cut is unchanged:
+**MGP prints `55.5% ABV`, never `111 proof`.**
+
+### THE BULLEIT CATCH — a forked key nearly republished a covered story
+
+**`bulleit-87-nationwide-2026` sat on the Sep 16 bench described as "permanent nationwide from
+September plus a 15-city tasting tour — the only source seen so far is a Substack, so it needs a
+Tier 1–2 pickup before it is anything."** **The Tier 1–2 pickup was found immediately** — TSB,
+24 July 2026, Lauren Bowes, plus the Diageo release on PR Newswire. **It looked like a bench item
+graduating. It was not.**
+
+**`bulleit-87-bourbon-rye-2026` is in this file's Aug 21 PRUNE LIST table: first covered Jul 25,
+eligible Aug 24, PRUNED ✓.** **The story ran in The Pour in July.** The prune removed the key from
+dedup at thirty days, and the file's own note beside that table says why that is not a licence:
+*"A pruned key is re-scoutable by design... but check this section before staging it."*
+
+**THE TWO KEYS ARE THE SAME STORY AND ARE NOW MERGED under `bulleit-87-bourbon-rye-2026`.** The file
+already has the governing precedent, written for the Canada tariff: **do not fork dedup by re-keying
+a story you have covered — "that would fork dedup and let the original run again."** That is exactly
+what a second Bulleit key was about to do.
+
+**COULD IT RUN ON THE "RELEASE ACTUALLY SHIPPED" EXCEPTION? NO — THAT EXCEPTION IS UNSOURCED.**
+Every source is the same July press release: TSB 24 Jul · the Diageo/PR Newswire release ·
+Fred Minnick 23 Jul · Breaking Bourbon's press-release repost · StockTitan · Bourbon Obsessed ·
+Northwest Beer Guide · a Forbes contributor column (Tier 4). **Eight pickups, one release.**
+**Nothing dated September reports the bottle on a shelf, and no tour date or venue is published
+anywhere — the release points readers at an Instagram account instead.**
+**WHAT WOULD MAKE IT PUBLISHABLE AGAIN: a September-or-later Tier 1–2 piece reporting actual retail
+availability, or published tour dates and cities. Then it is a genuine new development and the
+blurb must open with what is new.** Until then it is covered, not benched.
+
+**A TRAP INSIDE THE TRAP, had it run:** TSB's page carries **neither "nationwide" nor "more than 20
+events"** — both live only on the company release. The bench entry had printed "permanent
+nationwide," which is the release's word against a TSB link. **Lesson 58's shape again: a conversion
+of a board entry is not a sourced claim.**
+
+### ELMER T. LEE 40TH ANNIVERSARY — STAGED Tue Sep 29, and its reader action expired today
+
+Full entry on the Sep 29 board below. **Verified on the primary-source clause and NOT flagged.**
+
+**THE TIMING FINDING IS THE REUSABLE PART.** Entry opened **10:00 a.m. ET Sept 15** and closed
+**11:59 p.m. ET Sept 17 — tonight.** The Sep 15 Shortlist published the morning registration opened
+and could not have carried it (it was not sourced until Sept 14 and the board was closed at six).
+The next edition is Fri Sep 18, after the window shuts. **A two-day action window opened and closed
+entirely between two editions. No cadence change would have caught it; a Tuesday/Friday product
+cannot serve a Tue–Thu window.** **Recorded as a structural fact, not a failure.**
+
+**WHAT SURVIVES FOR SEP 29:** the Bottle Draw system itself. Buffalo Trace built it after visitor
+complaints about its previous first-come gift-shop line, and that is a durable, sourced change for
+any reader who visits Frankfort. **Plus the first-ever uncut, non-chill-filtered Elmer T. Lee.**
+**NOT "go enter" — that is gone.**
+
+### THREE SEARCH-SUMMARY CLAIMS PROVED FALSE AGAINST THE PAGES
+
+**This run's claims all arrived first as web-search summaries, and three did not survive a grep:**
+- **"made from Buffalo Trace's Mash Bill #2, the same recipe used for Blanton's"** — `Mash Bill`
+  returns **ZERO on WA and ZERO on the Buffalo Trace release.** It is on neither source.
+- **"apricot, almond, vanilla, toasted coconut and honeysuckle"** — **ZERO on WA.** It appears
+  **once on the Buffalo Trace release, which is the brand describing its own whiskey.** Nobody
+  independent has tasted it. **SENSORY BLOCKED, fourth consecutive staged item.**
+- **"more than 20 events" / "nationwide"** for Bulleit — **ZERO on TSB**, both on the release only.
+
+**See Lesson 59.** A search summary blends the article, the press release and the aggregators into
+one confident paragraph with a single voice. **It reads like reporting and is not one.**
+
+### SEP 25 GOT NOTHING, AND BOTH REJECTIONS ARE RECORDED SO THEY ARE NOT RE-WALKED
+
+- **`whisky-advocate-seasonal-cocktails-2026` — ASSESSED AND BENCHED ON SEASON, not quality.**
+  It is `whiskyadvocate.com/summer-whiskey-cocktails-recipes`, **WA Sept 9, Aubrey Thompson, 200.**
+  The standfirst reads **"In these waning days of summer"** and the body says **"warm-weather
+  cocktails"**; **`fall` and `autumn` both return ZERO.** **Sep 25 is five days into autumn.**
+  **Same call as the spring-framed honey cocktails and the August beach bars — a seasonal piece
+  running past its season reads as filler.** **Restage never; it dies with September.**
+  **Minor collision noted: its first recipe calls for Fee Brothers lime bitters, and Fee Brothers is
+  the Sep 18 first alternate.**
+- **`bulleit-87-nationwide-2026`** — dissolved into the covered key, above.
+
+**Bench still holding for Sep 25 / Sep 29, unchanged and NOT re-scoutable:**
+`chicken-cock-170th-rooster-decanter-2026` (TSB, Collector, needs a second source — **wrong shape
+for a Friday**) · `jeptha-creed-solera-2026` (**$80, 50% ABV, distillery and online only — benched
+on distribution, and "solera" needs a plain-English definition if it ever runs**).
+
+### URGENT SWEEP — nothing fires, eighth application of the precedent
+
+**Window Sep 16–17.** Names assessed and closed: **Sazerac v. Republic National Distributing Co.**
+(a $38.6m unpaid-bills suit — commercial contract litigation, no WS partner, no consumer hazard) ·
+**the RNDC Chapter 11 delivery backlog** · **the Fresh Bourbon LLC appellate ruling** (a
+first-Black-owned-distillery naming dispute, resolved, no hazard) · **a further bankruptcy wave
+including an Ohio distillery.** **All are commercial or market stories. None is a recall, a safety
+issue, litigation naming a WS partner brand or venue, or a death in the industry.**
+**Stop re-arguing this class — record and move on, per the Sep 16 instruction.**
 
 ---
 
@@ -4007,115 +4140,6 @@ remains the only live thread and still has no vetted spirits pickup** — if one
 
 ---
 
-## TUESDAY Aug 25 — WHAT SHIPPED (The Shortlist, posted 06:15 PT)
-
-**Four items, exactly as staged since Aug 19. Nothing added, nothing cut, no fifth item.** The
-board was closed going in and stayed closed — the second consecutive edition to run that way, and
-the shape an edition day is supposed to have. Order shipped: Jameson Distiller's Batch (What's
-Dropping, Explorer) · Redemption Single Barrel Bonded (What's Dropping, Collector) · the
-Heriot-Watt/Kirin mango study (**Try This Next, Explorer — the pipeline's first science item**) ·
-Garrison Brothers Cowboy Bourbon (On the Calendar, Collector). **No send-off — Shortlist correctly
-carries none.**
-
-**The tariff stayed out, as instructed four runs running.** No reader-facing mention. It carried
-one Notes bullet stating the Sep 1 default explicitly, which is the escalation the Aug 24 file
-asked for and is the correct place for it.
-
-### Link re-confirmation — all four 200 with real body text
-
-Fetched to disk with a browser UA, scripts and styles stripped with a DOTALL regex before slicing.
-Robb Report Jameson 9,951 stripped chars · Robb Report mango 8,589 · Robb Report Redemption 9,286 ·
-`garrisonbros.com` Cowboy Bourbon event page 6,217. **No Notes bullet — nothing failed.** Sixth
-consecutive edition where every staged link re-confirmed clean. Both hosts behaved exactly as HOSTS
-records them; no host note changes this run.
-
-### Every printed claim, against its source
-
-- **Jameson.** Printed: single pot still = one distillery, one pot still, malted and unmalted
-  barley (**Robb Report's own definition, lifted as a definition not as prose**) · Distiller's
-  Batch is a single pot still whiskey, not the blend · **score 88** · Flicker's notes — dark and
-  milk chocolate, nutmeg, maple, ripe stone fruit. All four from the linked Robb Report piece.
-  **Price $50 and "nationwide from September" are Whisky Advocate's figures and were printed
-  attributed in-copy** — "Whisky Advocate puts it at $50, nationwide from September" — because the
-  linked page carries neither. **This is the pattern to reuse when a claim's home is the second
-  source: attribute it in the sentence, never against the link.** Pernod Ricard's release notes
-  and the Forbes contributor column were both excluded, as instructed.
-  **NOT printed:** the five cask types, the three-year legal minimum, Kevin O'Gorman, Midleton,
-  the Bow Street/1826 origin. All available, all cut for length; none needed.
-- **Redemption.** Printed: bonded requires four years, this is six (**the honest hook, and the
-  four-year floor appears as a comparison clause, not as a re-teach**) · first bonded release from
-  the brand · drawn from one barrel (**"single barrel" self-defined in plain English rather than
-  taught**) · Ross & Squibb, Lawrenceburg · 100 proof, no chill filtration, bottled in Frankfort ·
-  **$50, "in stores and at ReserveBar now"** — verbatim availability framing, no footprint, never
-  "nationwide." All from the linked Robb Report piece.
-  **SENSORY: none printed, and the edition says so out loud** — "No independent tasting exists yet,
-  so judge it yourself." **That line is the model for every future no-sensory item.** It turns the
-  gap into reader-facing honesty instead of a silent omission. The brand's vanilla/leather/raspberry
-  copy never entered the draft. Alan Kennedy's quote was available and deliberately unspent — the
-  edition's one quote went to the mango study.
-  **NOT printed:** the Diageo/Bulleit trade-dress suit, Higher Marques ("Collection" is a banned
-  word even as part of the proper noun and was avoided entirely), the 18-Year-Old at $400, Bib &
-  Tucker. The 18-Year is the article's actual headline subject and was correctly left alone —
-  `redemption-ancients-18yr-2026` is a separate key and is still only an alternate.
-- **Mango study.** Printed: Heriot-Watt, run with Kirin · 14 Scotch and Irish whiskies · aldehydes
-  and acetals amplify the mango note · **Annie Hill quote, 15 words, verbatim, named, from the
-  linked page** — "But we didn't know where the mango flavor was coming from—and now we do."
-  **The edition's single quote, spent here as instructed.** Robb Report named in-copy.
-  **NOT printed:** Takehiko Hiura, the three named compounds, JASBC, Dr. Calum Holmes, the
-  additives-illegal-in-scotch aside, the press-release-versus-publication timing gap. The item is a
-  learning item; the compound names would have made it a lecture.
-- **Garrison.** Printed: **Sat Sept 12** · 8 a.m. to 4 p.m. · Hye, Texas · **$249.99** ·
-  **141.0 proof** · uncut and unfiltered · live music, Whiskey Shack serving neat pours and
-  cocktails. All from the linked Tier 1 event page. **16,000 bottles / 1,000 held for the day
-  attributed in-copy to Whisky Advocate**, as required — the event page states no counts. The 279
-  online-store figure was cut for length, not for sourcing.
-  **NO AGE PRINTED.** The WA "at least 8 years" versus brand "six scorching Texas summers" conflict
-  is unresolved and was not split, not hedged, not alluded to. **Third edition-day instance of
-  printing around an age conflict; this is now settled practice.**
-  **NO SENSORY PRINTED.** The event page's notes are marketing copy and the page also uses
-  "experience" and "toasted" — two banned words in one sentence, never near the draft.
-  Street address cut for length. `garrisonbros.com/cowboy-bourbon/` never fetched.
-
-### Voice and compliance, checked before send
-
-Every blurb 57–68 words, inside the 40–70 band. Every non-quote sentence 3–15 words. Sentence-case
-bold headlines, no exclamation points. **Banned-word sweep clean** — no log, collection, premium,
-journey, experience, handcrafted, world-class, finest, whale, vault, cellar, bunker, toast.
-**"Hunt" used zero times** (budget is one). **DISCUS 73.8 clean** — "neat pours and cocktails" is a
-service description, not a consumption cue; no volume, rate or intoxication framing anywhere.
-Insider terms: **one per item, maximum** — single pot still defined on Jameson (**the definition
-deliberately held back on Aug 21 and spent here, as planned**); bottled-in-bond assumed and not
-re-taught for the fifth instance; "single barrel" and "single malt scotch" carried in plain English
-without a definition clause. **Reader is the subject in every payoff line.**
-
-### Coverage floor and the byline collision
-
-**Explorer ×2, Collector ×2**, as staged. Social Drinker is served by Jameson ($50, nationwide, a
-brand the reader already knows) and by the mango item, which is the edition's no-intimidation
-piece — it points the reader at a glass they already own. Venue Regular is served by Garrison.
-**Cigar-Whiskey Crossover: not served, and correctly not forced** — it is a Friday floor, not a
-Tuesday mandate, and Tuesday carries the Explorer/Collector weight by design.
-
-**The Flicker byline concentration shipped at three of four** — Jameson, Redemption and the mango
-study are all his. It was surfaced Aug 18, compressed to nothing in the Aug 25 Notes as instructed,
-and **no verified item was dropped to fix a byline count.** That was the right call and it should
-stay the standing rule. **But it is now a shipped fact, not a forecast: an edition has run with 75%
-of its items from one critic.** The structural answer is not to cut items — it is a fourth outlet
-or a second Robb Report byline. **`whiskyadvocate.com/tag/sevans` (a Sean Evans author index, in
-HOSTS, still unfetched) is the cheapest experiment available and is worth one fetch on a prep run.**
-
-### What this edition proves about the sourced-claims rule
-
-Three of four items had a sourcing edge to handle, and all three were handled the same way: **name
-the outlet inside the sentence that carries the claim.** Jameson's price went to Whisky Advocate in
-copy. Garrison's bottle counts went to Whisky Advocate in copy. Redemption's absent sensory was
-declared to the reader rather than quietly skipped. **None of the three cost a word of clarity, and
-the edition reads more trustworthy for all three.** This is the reusable technique — it is cheaper
-than dropping an item and it is honest in a way silence is not. **Fold it into the next edition
-without re-deriving it.**
-
----
-
 ## FRIDAY Aug 21 — STAGING RECORD (all four PUBLISHED Aug 21) *(its WHAT SHIPPED companion was PRUNED Sep 13 — this is now the only Aug 21 record, do not prune it next)*
 
 **Retained as the record of what was staged and why, and of which cautions proved real when the
@@ -4283,7 +4307,7 @@ cross-checked against the real Aug 14 and Aug 21 posts.
 
 ---
 
-## TUESDAY Aug 25 — ALL FOUR PUBLISHED Aug 25 (staging record; see WHAT SHIPPED above)
+## TUESDAY Aug 25 — ALL FOUR PUBLISHED Aug 25 (staging record) *(its WHAT SHIPPED companion was PRUNED Sep 17 — this is now the only Aug 25 record, do not prune it next)*
 
 - `jameson-distillers-batch-single-pot-still-2026` — **VERIFIED. Link-out UPGRADED this run to
   Robb Report Aug 16, which brings sourced sensory and a score of 88.** Second source: WA Whisky
@@ -5201,6 +5225,74 @@ Vinmonopolet exclusive, no US reader action).** Both are in DROPPED / DO NOT RED
 
 ---
 
+## TUESDAY Sep 29 — ONE STAGED. FIRST ITEM ON THIS BOARD. *(heading last rewritten Sep 17)*
+
+- `elmer-t-lee-40th-anniversary-2026` — **NEW AND STAGED Sep 17. VERIFIED on the primary-source
+  clause: Buffalo Trace's own release (Tier 1 primary, FRANKFORT KY, September 14 2026) + Whisky
+  Advocate's dedicated piece (Tier 2, September 14 2026, Sean Evans). NOT FLAGGED.**
+  **THE LINK-OUT IS WA** — it is the better read and it carries original reporting, not the release.
+  Link: `https://whiskyadvocate.com/elmer-t-lee-40th-anniversary-edition-bourbon-lottery`
+  Corroborating primary: `https://www.breakingbourbon.com/bourbon-whiskey-press-releases/buffalo-trace-distillery-honors-40-years-of-elmer-t-lee-bourbon-with-first-ever-uncut-and-unfiltered-offering`
+
+  **SUPPORTED AND PRINTABLE AGAINST THE WA LINK-OUT:** first Elmer T. Lee bottled without dilution
+  or chill filtration · **SRP `$99.99`** · **barrels run `124.8` to `138.6` proof** · sold only
+  through Buffalo Trace's **Bottle Draw**, which the gift shop **built after visitor complaints
+  about its previous first-come system** · registration **Sept 15 10:00 a.m. ET to Sept 17
+  11:59 p.m. ET**, one entry per person, **no advantage to entering early** · an **independent
+  partner draws names Sept 22** and everyone who enters is notified either way · winners buy
+  **in person in Frankfort, Sept 28 through Oct 11**, during visitor hours · regular Elmer T. Lee is
+  **90 proof**, the 15 year old Single Barrel Reserve **93**, the 100 Year Tribute **100** ·
+  Lee joined the then-George T. Stagg Distillery in **1949** as a maintenance engineer, after WWII
+  and a University of Kentucky degree, and rose to **master distiller** · in **1984** he introduced
+  **Blanton's, the first commercially marketed single barrel bourbon** · the distillery put his name
+  on a single barrel bourbon **two years later** · prior commemoratives: 90th Birthday **2009**,
+  Commemorative Bottle **2013** (the year Lee died, aged **93**), 100 Year Tribute **2019**.
+  **QUOTES AVAILABLE, both named and both on the link-out:** master distiller **Harlen Wheatley**
+  was "fortunate to learn from Elmer" · senior brand director for American whiskey **Erica Bovard**
+  says the uncut format keeps it "true to the standards Elmer set" (**8 words — the cleaner of the
+  two if one is used at all; budget is ONE per edition**).
+
+  **SENSORY IS BLOCKED, AND THE PROOF IS BY ABSENCE.** The **apricot / almond / vanilla / toasted
+  coconut / honeysuckle** string returns **ZERO on WA** and appears **once on Buffalo Trace's own
+  release**. **It is the brand describing its own whiskey. Nobody independent has tasted it.
+  DO NOT PRINT IT.**
+  **`Mash Bill #2` AND `mash bill` BOTH RETURN ZERO ON BOTH PAGES.** The widely repeated
+  "same recipe as Blanton's" line came from a **search summary, not from either source.**
+  **DO NOT PRINT IT** — and note it is a plausible claim, which is exactly what makes it dangerous.
+  **ALSO DO NOT PRINT:** WA's own market commentary — "**is a steal**" and "**will trade for several
+  multiples of that figure**". **Secondary-market price talk is investment framing and is off-brand.**
+  The Sprite aside is WA's parenthetical and is a consumption-style cue — leave it.
+
+  **THE PEG HAS ALREADY TURNED AND THE BLURB MUST REFLECT THAT.** By Sep 29 the draw is **seven days
+  past** and winners are **mid-pickup**. **THE ITEM IS NOT "ENTER THE DRAW" — that window closed
+  Sept 17.** **THE HOOK IS THE MECHANISM: Buffalo Trace replaced its first-come gift-shop line with
+  a draw, and said it will collect participant feedback and adjust the format for future drawings.**
+  That is a real, sourced change for anyone who plans a Frankfort trip, and it outlives this bottle.
+  Beat `allocation-watch`, persona `collector`.
+  **BRAND RECENCY, not a bar: Buffalo Trace On Tour ran in the Sep 4 Last Call** (`on-the-calendar`,
+  Venue Regular). **Different story, different beat, twenty-five days apart. Not a repeat** — but if
+  a second Buffalo Trace item ever reaches this board, that becomes a shape problem.
+
+**SEP 29 SHAPE: ONE.** Collector ×1, WA ×1. **It needs two more to clear a Shortlist floor and it
+must NOT be filled from Sep 22.** **Twelve days out — there is time, and no ask is urgent yet.**
+
+---
+
+## FRIDAY Sep 25 — EMPTY. NOTHING STAGED. *(heading last rewritten Sep 17)*
+
+**Sep 17 ran discovery against this board and staged nothing. Both candidates were rejected for
+recorded reasons — see the Sep 17 section. Neither is to be re-walked.**
+**WHAT IT NEEDS: it is a Last Call, so occasion-led, Social Drinker or Venue Regular, 3–4 items.**
+**The Sep 18 alternates are the obvious first call once Sep 18 has run and released them:**
+**`fee-brothers-fat-wash-drops-2026`** (first alternate, WA, `easy-pour`, Social Drinker — **no
+price exists on the page**) and **`whisky-advocate-victoria-bc-travel-2026`** (second alternate, WA,
+`on-the-calendar`, Venue Regular — **the Canada conditions in the Sep 18 board are binding if it
+runs**). **Both are WA, so a non-WA occasion item is the real target.**
+**Eight days out. Empty is honest at eight days out — the empty-pipeline floor is an edition-day
+rule, not a staging one.**
+
+---
+
 ## SEPTEMBER POINTERS
 
 - `hard-truth-dark-roast-rye-2026` — FM Aug 11. Third 2026 Master Distiller's Reserve · 25-barrel
@@ -5262,6 +5354,28 @@ Vinmonopolet exclusive, no US reader action).** Both are in DROPPED / DO NOT RED
 ---
 
 ## OPEN GAPS
+
+**SEP 17 STATUS — READ THIS FIRST. IT SUPERSEDES THE SEP 16 BLOCK BELOW.**
+- **NO SUPPLY GAP IS OPEN ON EITHER LIVE BOARD, unchanged from Sep 16.** **Sep 18 re-confirmed at
+  three, all links 200, one one-word copy cut owed (`55.5% ABV`). Sep 22 holds six and still faces
+  a CUT, not a fill — Woodford is the board's own named candidate.**
+- **A NEW GAP, AND IT IS THE FORWARD ONE: Fri Sep 25 IS EMPTY and Tue Sep 29 HOLDS ONE.**
+  **Sep 25 is eight days out and Sep 29 is twelve — neither is urgent yet, and both become urgent
+  fast if the next two prep runs also stage nothing.** **Sep 25 needs occasion-led, non-WA,
+  Social Drinker or Venue Regular. Sep 29 needs two more, and must not be filled from Sep 22.**
+- **A DEDUP INTEGRITY GAP WAS FOUND AND CLOSED THIS RUN, and it is the one worth remembering.**
+  **`bulleit-87-nationwide-2026` was a SECOND KEY for `bulleit-87-bourbon-rye-2026`, a story covered
+  Jul 25.** It reached the bench because the original key had been **pruned from dedup at thirty
+  days**, leaving nothing for a later run to collide with. **The keys are merged and the story is
+  restored to DEDUP as covered.**
+  **STANDING CHECK, NEW: before staging any bench item, grep its BRAND and PRODUCT against the
+  PRUNE LIST tables, not just against DEDUP.** A pruned key is invisible to a dedup grep by design,
+  **and the prune list is the only surviving record that the story ever ran.**
+- **NOT A GAP, RECORDED SO IT IS NOT MISREAD AS ONE: The Pour cannot serve a mid-week action
+  window.** Elmer T. Lee's entry ran Tue 10:00 ET to Thu 23:59 ET and **no Tuesday/Friday edition
+  could have reached it.** **This is a structural property of a 2x/week cadence, not a miss.** **If
+  these start clustering, that is a cadence signal for Aaron — one instance is not.**
+
 
 **SEP 16 STATUS — READ THIS FIRST. IT SUPERSEDES EVERY SWEEP BELOW, INCLUDING SEP 15's.**
 - **NO SUPPLY GAP IS OPEN ON EITHER LIVE BOARD. This is the first run in this file's recorded
@@ -5721,6 +5835,16 @@ Vinmonopolet exclusive, no US reader action).** Both are in DROPPED / DO NOT RED
 ---
 
 ## URGENT SWEEP — no override
+
+**Current window is Sep 16–17 — see the THURSDAY Sep 17 section above for the full sweep. Nothing
+fires. EIGHTH consecutive application of the precedent.** Assessed and closed this run: **Sazerac v.
+Republic National Distributing Co.** ($38.6m unpaid-bills suit — commercial contract litigation, no
+WS partner, no consumer hazard) · **the RNDC Chapter 11 delivery backlog** · **the Fresh Bourbon LLC
+appellate ruling** (a naming dispute, resolved, no hazard) · **a further bankruptcy wave including
+an Ohio distillery.** **All commercial or market stories. Record and move on.**
+
+**Prior window (Aug 25–27), retained**
+
 
 **Current window is Aug 25–27 — see the THURSDAY Aug 27 section above for the full sweep. Nothing
 fires. One candidate was chased down and closed on its date: the FSS Kimbland whisky safety warning
@@ -6265,6 +6389,31 @@ and nothing is lost.** 22 and 23 are captured here early so their source section
 ---
 
 ## DEDUP — closed to re-use
+
+**RESTORED TO DEDUP Sep 17 — A PRUNED KEY THAT WAS NEVER CLEAR FOR REPUBLICATION:**
+**`bulleit-87-bourbon-rye-2026`** — **COVERED Jul 25 2026.** Pruned from the Carried list Aug 21 at
+thirty days (see the Aug 21 PRUNE LIST table). **It resurfaced Sep 17 under the forked key
+`bulleit-87-nationwide-2026`, which is now DEAD — do not use it, do not re-mint it.**
+**ONE KEY, and it is `bulleit-87-bourbon-rye-2026`.** Bulleit '87, $29.99, 45% ABV, bourbon-and-rye
+blend, select US retail from September. **Every source is the July release: TSB 24 Jul (Lauren
+Bowes) · the Diageo release on PR Newswire · FM 23 Jul · Breaking Bourbon · StockTitan · Bourbon
+Obsessed · Northwest Beer Guide · a Forbes contributor column (Tier 4, do not cite).**
+**IT MAY RUN AGAIN ONLY ON A SOURCED NEW DEVELOPMENT** — a September-or-later Tier 1–2 report of
+actual retail availability, or published tour dates and cities. **The tour currently has no date,
+no venue and no city schedule anywhere; the release points at an Instagram account.**
+**The blurb would then have to OPEN with what is new.**
+
+**STAGED Tue Sep 29 (added Sep 17) — closed to re-scouting, NOT yet published:**
+**`elmer-t-lee-40th-anniversary-2026`** — Buffalo Trace, WA link-out, `allocation-watch`, Collector.
+**VERIFIED on the primary-source clause, NOT flagged. SENSORY BLOCKED — the apricot/honeysuckle
+string is the brand's own release copy and is ZERO on WA. `Mash Bill #2` is on NEITHER source.**
+**Its entry window closed Sept 17; it runs on the Bottle Draw mechanism, never on "go enter."**
+
+**ASSESSED AND BENCHED Sep 17 — do not rediscover, and read the reason before restaging:**
+**`whisky-advocate-seasonal-cocktails-2026`** (`whiskyadvocate.com/summer-whiskey-cocktails-recipes`,
+WA Sept 9, Aubrey Thompson — **explicitly summer-framed, `fall` and `autumn` both ZERO. It dies with
+September. Do not restage for an autumn edition.**)
+
 
 **PUBLISHED Tue Sep 15 (The Shortlist) — CLOSED TO RE-USE, ALL SIX:**
 `old-forester-birthday-bourbon-2026` · `sagamore-bottled-in-bond-rye-2026` ·
@@ -7126,82 +7275,126 @@ and the fifth coconut item) · `discus-congressional-fly-in-2026`.
 
 ---
 
-## NEXT RUN (Thu Sep 17 — PREP RUN. Fri Sep 18 is Last Call, one day out.)
+## NEXT RUN (Fri Sep 18 — LAST CALL. EDITION DAY. Then Sun Sep 20 prep; no Saturday run.)
 
-**THIS IS A PREP RUN. Internal register, plain operator language, NO UTMs, raw links, glyph :mag:.**
-**Post only if there is new pipeline material, a gap update, or urgent news. Otherwise post nothing.**
-**BOTH LIVE BOARDS ARE CLOSED AND NEITHER HAS A SUPPLY GAP. A SILENT RUN IS A LEGITIMATE AND LIKELY
-OUTCOME ON Sep 17 — do not manufacture a post to have one.**
+**THIS IS AN EDITION DAY. Consumer register, full brand voice, UTMs on EVERY link, glyph :tumbler_glass:.**
+**Campaign `lastcall-2026-09-18`. Masthead: `THE POUR · Last Call · Friday, September 18`.**
 Load `whiskey-social-news-roundup` (present) and `whiskey-social-brand` **if it has appeared — still
-absent Sep 16, and absent for every run this file records.**
+absent Sep 17, and absent for every run this file records.**
 
 0. **CALENDAR CHECK FIRST — Lesson 51.** Compute date and weekday in America/Los_Angeles.
-   **Expected: today = Thursday Sep 17 (PREP), then Fri Sep 18 (LAST CALL), then Tue Sep 22.**
-0b. **Lesson 53.** Board headings now read: Sep 18 → Sep 16 · Sep 22 → Sep 16. **Both were rewritten
-   this run and both match the run log. Reconcile anyway before trusting either.**
-0c. **Lesson 54. Never draft a claim from a board entry. Grep each claim string against the page.**
-   **Lesson 58 extends it: never draft a claim from a CONVERSION of a board entry either.**
-0d. **LESSON 57 — WebFetch is blocked by Whisky Advocate (503) and Robb Report (307 to a dead
-   `tollbit.` host). THE SITES ARE FINE. Use curl with a browser user-agent; the command is in
-   LESSON 57.** **Never record a page as unloadable on a WebFetch failure alone.** **Re-confirmed
-   working Sep 16 on three fetches.**
+   **Expected: today = Friday Sep 18 (LAST CALL), then Sun Sep 20 (PREP), then Tue Sep 22.**
+0b. **Lesson 53.** Board headings read: Sep 18 → Sep 16 · Sep 22 → Sep 16 · Sep 25 → Sep 17 ·
+   Sep 29 → Sep 17. **Reconcile against the run log before trusting any of them.**
+0c. **Lesson 54 / 58 / 59. NEVER draft a claim from a board entry, from a CONVERSION of one, or
+   from a SEARCH SUMMARY. Grep every claim string against the page you are linking.**
+0d. **LESSON 57 — use curl with a browser user-agent, not WebFetch, on whiskyadvocate.com and
+   robbreport.com. Re-confirmed working Sep 16 and Sep 17.**
 
-1. **SEP 18 IS TOMORROW AND IT IS CLOSED AT THREE. IT OWES NOTHING BUT A FINAL RE-CONFIRM.**
-   The full pre-edition pass ran Sep 16 and all three link-outs were 200. **Re-fetch all three once
-   more on Sep 17 or on edition morning — that is a re-confirm, not research.**
-   **THE ONE COPY CUT IS KNOWN AND IS A ONE-WORD EDIT: MGP prints `55.5% ABV`, NEVER `111 proof`.**
-   **Do NOT go looking for a fourth item. Three clears a Last Call. Alternates, in order, are Fee
-   Brothers then Victoria BC, and Victoria BC costs an outlet (WA ×3 of four).**
-2. **THERE IS NO OPEN DISCOVERY TARGET. THIS IS NEW AND IT SHOULD CHANGE HOW THE RUN SPENDS ITSELF.**
-   **Sep 22 is at SIX, the top of the range, with four distinct outlets and the Venue Regular zero
-   closed.** **DO NOT ADD TO IT. The next question that board faces is a CUT, not a fill, and its
-   own note names Woodford.**
-   **If discovery runs at all, it is for the Fri Sep 25 / Tue Sep 29 boards, which are empty and are
-   the first genuinely forward-looking slots this file has had breathing room for.**
-   **BENCH ITEMS WORTH A LOOK FOR THOSE, already surfaced and NOT re-scoutable from scratch:**
-   `elmer-t-lee-40th-anniversary-2026` (Buffalo Trace, Sept 14, barrel-strength, surfaced on the
-   Sep 16 urgent sweep and on TSB's related-news rail — **Collector, needs a second source**) ·
-   `chicken-cock-170th-rooster-decanter-2026` (TSB, Collector) · `whisky-advocate-seasonal-cocktails-2026`
-   (WA, Social Drinker) · `jeptha-creed-solera-2026` (**$80, 50% ABV, distillery and online only —
-   on the Sep 11 WA Whisky Watch; "solera" is a term the brief must define in plain English**) ·
-   `bulleit-87-nationwide-2026` (**permanent nationwide from September plus a 15-city tasting tour —
-   the tour is a Venue Regular angle, but the only source seen so far is a Substack, so it needs a
-   Tier 1–2 pickup before it is anything**).
-3. **NO DECISION IS PENDING AND NONE IS GOING STALE.** The 1880 item was decided and dropped Sep 16.
-   **Do not re-raise it, and do not put the Sep 22 fallback choice to Aaron — that ask closed.**
-4. **URGENT SWEEP, every run.** Recall, safety, litigation or investigation naming a partner brand
-   or venue, death in the industry. **Precedent now SEVEN times applied: trade actions, strikes,
+1. **THE BOARD IS CLOSED AT THREE AND THREE CLEARS A LAST CALL (3–4). DO NOT GO LOOKING FOR A
+   FOURTH.** Spas (Social Drinker, `on-the-calendar`) · MGP (Explorer, `whats-dropping`, **flagged**) ·
+   Penelope (Cigar Crossover, `pair-it`, **flagged**). **All three re-confirmed 200 on Sep 17.**
+   **Re-fetch all three once more this morning — that is a re-confirm, not research.**
+2. **THE ONE KNOWN COPY CUT IS A ONE-WORD EDIT: MGP prints `55.5% ABV`. NEVER `111 proof`.**
+   `proof` and `111` both return ZERO on the TSB page. **This is the third run carrying this
+   instruction. Make the edit and stop.**
+3. **SENSORY IS BLOCKED ON MGP AND ON PENELOPE. Both carry reprint strings that look like reporting
+   and are the brands' own copy.** **A blurb with no sensory detail is correct and publishable.**
+   **Spas carries THREE compliance blocks, all mandatory — the antioxidant health claim is
+   UNPRINTABLE · "a dram or two" is a volume cue · the "For men" and "Southern Gentleman" packages
+   are gendered framings to build away from.**
+4. **PENELOPE'S LINK-OUT IS A ROUNDUP PAGE carrying nine releases.** The blurb must make clear the
+   reader lands on WA's Whisky Watch, **not a dedicated review.**
+5. **SIGNATURE SEND-OFF REQUIRED — Last Call closes with it. Watch "Last Call" in body copy: it is
+   a weekend cue, NEVER a drink-up cue. DISCUS 73.8.**
+6. **AFTER PUBLISH: move all three keys to DEDUP as COVERED, and record the SPENT LINK-OUT URLs
+   (Lesson 55). Rewrite the Sep 18 board heading to PUBLISHED.** **Sep 18's two alternates —
+   Fee Brothers, then Victoria BC — are RELEASED to the Sep 25 board the moment this edition ships.**
+7. **URGENT SWEEP, every run.** **Precedent now EIGHT times applied: trade actions, strikes,
    bankruptcy waves, receiverships, distillery closures, production pauses, a distributor bribery
-   settlement and a non-industry celebrity death are NOT urgent.** **Stop re-arguing it each run —
-   record the sweep and move on unless something genuinely new in kind appears.**
-5. **PRUNE — DUE. `TUESDAY Aug 25 — WHAT SHIPPED` is 23 days old on Sep 17.** Run all four arms
-   (Lesson 55): keys in the right register · spent link-out URLs present · every `lesson NN`
-   reference alive OUTSIDE the section · THEN delete, one section only.
-   **TWO FALSE-ALARM SHAPES ARE NOW DOCUMENTED AND WILL RECUR — read them before calling a failure:
-   (a) a bare lowercase `lesson NN` may be a NUMBERED ITEM inside a `PRIOR LESSONS` block, not a
-   heading — a regex for "LESSON NN" returns zero and that is NOT a broken reference; (b) a URL or
-   key that appears nowhere else may belong to an item that was ASSESSED AND REJECTED — a page read
-   only to reject an item is a lead source, not a spent link-out, and a rejected headline slug is
-   not a story key.** **Verify which case it is; do not auto-write it into a register.**
+   settlement, commercial contract litigation and a non-industry celebrity death are NOT urgent.**
+   **Record the sweep and move on.**
+8. **PRUNE — NOT DUE.** The Aug 25 WHAT SHIPPED section was deleted Sep 17. **Nothing else crosses
+   thirty days before Sep 27** (`FRIDAY Aug 28 — WHAT SHIPPED`). **Do not re-derive the list.**
    **DO NOT prune `FRIDAY Aug 21 — STAGING RECORD` — it is the only Aug 21 record.**
    **Never prune DEDUP, OPEN GAPS, COLLISION FLAGS, boards or LESSONS.**
-6. **STAGING DISCIPLINE (Lesson 57), NOW EXTENDED: an item is not staged until its FULL URL is in
-   this file — and that applies to BENCH entries too.** The Sep 16 audit found both boards clean and
-   gave the one bare bench entry a `Link:` line. **Re-audit whenever an item is added.**
-7. **NOTES DISCIPLINE — max 5 bullets, 15 words each, Notes+Pipeline under 120 words.**
+9. **NEW STANDING CHECK, from this run: before staging ANY bench item, grep its BRAND and PRODUCT
+   against the PRUNE LIST tables as well as DEDUP.** **A pruned key is invisible to a dedup grep,
+   and the prune table is the only surviving record that the story ever ran.** **This caught
+   Bulleit '87 one step before it republished a July story.**
+10. **NOTES DISCIPLINE — max 5 bullets, 15 words each, Notes+Pipeline under 120 words.**
    **SPENT AND NEVER TO BE RE-RAISED:** the `allocation-watch` beat-slug gap, the New Era name
    collision, the Four Roses conflict, the shelf-price slug, the sub-$30 gap, the explainer slug,
    the September third-edition cadence bump, the Balvenie 88 forward-bar call, the outdoors byline
    call, the Victoria BC Canada hazard, the Parker's Heritage shared-roundup collision, the Tuesday
-   no-Social-Drinker shape, **and as of Sep 16 the Sep 22 persona ask and the 1880 decision — both
-   CLOSED, neither to be reported again.**
+   no-Social-Drinker shape, the Sep 22 persona ask, the 1880 decision, **and as of Sep 17 the Elmer
+   T. Lee entry-window note — REPORTED ONCE, now CLOSED.**
    **The brand-skill-absent note stays compressed as `_unchanged:_`.**
    **NEVER a bullet for this file's own machinery** — board-heading dates, the prune, lessons blocks,
-   the spent-link register, the URL audit, the WebFetch user-agent workaround. **NEVER a bullet for
+   the spent-link register, the URL audit, the curl workaround, the key merge. **NEVER a bullet for
    anything that worked.**
-8. **PERSIST STATE AND PUSH, whatever happens.**
+11. **PERSIST STATE AND PUSH, whatever happens.**
 
 ---
+
+## LESSON 59 (added Sep 17) — a pruned key is not a cleared story, and a search summary is not a source
+
+**What happened, part one.** The Sep 16 NEXT RUN block recommended `bulleit-87-nationwide-2026` as
+forward material for the empty Sep 25 / Sep 29 boards, noting it only needed "a Tier 1–2 pickup
+before it is anything." **The pickup was found in one search. The story had run in The Pour on
+July 25, under the key `bulleit-87-bourbon-rye-2026`.**
+
+**Why dedup did not catch it.** That key was **pruned from the Carried list on Aug 21**, exactly as
+the thirty-day hygiene rule requires. **After a prune, a covered story has NO entry in DEDUP.** A
+future run greps dedup, finds nothing, and correctly concludes the key is free — **and the grep is
+working as designed while the answer is wrong.** The prune table's own note says a pruned key is
+"re-scoutable by design... but check this section before staging it." **Nothing in the staging
+workflow made anyone check it.**
+
+**The deeper shape: the file already knew this.** Written months earlier, about the Canada tariff:
+*"Do not re-key it... that would fork dedup and let the original run again."* **A forked key is how
+a covered story comes back, and a prune manufactures the conditions for a fork** — the old key
+disappears, so a rediscovery invents a new one and nothing collides.
+
+**STANDING FIX, now instruction 9 of NEXT RUN: grep a bench item's BRAND and PRODUCT against the
+PRUNE LIST tables, not just DEDUP, before staging it.** **The prune table is the only surviving
+record that the story ever ran.** **And when a rediscovery matches a pruned key, MERGE — never keep
+both.**
+
+**The secondary trap, which is subtler.** `bulleit-87-nationwide-2026` was not merely a duplicate —
+it carried a claim (**"permanent nationwide"**) that is on the company release but **NOT on the TSB
+page that would have been its link-out.** **A forked key does not just duplicate a story; it
+duplicates it with the sourcing discipline stripped off,** because the second entry was built from
+search results rather than from a page.
+
+**What happened, part two, and it is the same failure in a different register.** Every claim this
+run started as a web-search summary. **Three did not survive a grep against the actual pages:**
+**"Mash Bill #2, the same recipe used for Blanton's"** — ZERO on Whisky Advocate, ZERO on Buffalo
+Trace's release. **On neither source.** · **"apricot, almond, vanilla, toasted coconut and
+honeysuckle"** — ZERO on WA, **once on the brand's own release**, which is the brand describing its
+own whiskey. · **"more than 20 events" and "nationwide"** for Bulleit — ZERO on TSB.
+
+**Why a search summary is the most dangerous input this pipeline takes.** A board entry is at least
+something this file wrote. **A search summary is a synthesis of the article, the press release and
+the aggregators, flattened into one confident paragraph in a single voice, with every attribution
+boundary erased.** The Mash Bill #2 claim is the proof: **it is plausible, specific, checkable and
+on no page either source published.** **Lesson 54 said never draft from a board entry. Lesson 58
+extended it to conversions. Lesson 59 extends it to search summaries — and search summaries are
+worse, because they arrive already sounding sourced.**
+
+**STANDING FIX: a search result is a LEAD. The page is the source. Fetch the page and grep the
+string, every claim, every time — including the ones that sound too ordinary to check.**
+
+**What happened, part three — a timing property worth naming before it is mistaken for a failure.**
+Elmer T. Lee's entry window opened **10:00 a.m. ET Tuesday Sept 15** and closed **11:59 p.m. ET
+Thursday Sept 17.** **It opened after Tuesday's edition shipped and closed before Friday's.** No
+schedule change reaches it: **a Tuesday/Friday product structurally cannot serve a Tue–Thu window.**
+**STANDING CHECK: when staging an item with a window, write down the window's CLOSE date and test it
+against the EDITION date, not against today.** **One instance is a structural fact. A cluster is a
+cadence signal for Aaron.**
+
+---
+
 
 ## LESSON 58 (added Sep 16) — the rails that fail an ask are usually the wrong KIND of rail, and a number you computed is not a number you sourced
 
