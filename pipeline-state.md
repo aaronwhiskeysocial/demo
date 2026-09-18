@@ -3,7 +3,27 @@
 Durable memory for the Whiskey Social whiskey-news pipeline. Authoritative over Slack
 thread copies. Human feedback in #whiskey-news overrides this file.
 
-**Last run:** 2026-09-17 (Thu), **PREP — A BENCH ITEM THIS FILE RECOMMENDED AS FORWARD MATERIAL
+**Last run:** 2026-09-18 (Fri), **EDITION — LAST CALL SHIPPED AT THREE. THE BOARD WAS CLOSED SINCE
+SEP 13 AND FINAL-PASSED TWICE, SO EDITION MORNING COST ONE RE-CONFIRM AND ONE ONE-WORD EDIT.**
+**Six things happened:** (1) **THE EDITION SHIPPED AT THREE, which CLEARS a Last Call (3–4).**
+Spas (`on-the-calendar`/social-drinker) · Penelope Cigar Sessions 2 (`pair-it`/social-drinker) ·
+MGP Chapter One (`whats-dropping`/explorer). **Campaign `lastcall-2026-09-18`. No fourth item was
+sought, exactly as instruction 1 required.**
+(2) **ALL THREE LINK-OUTS RE-FETCHED ON EDITION MORNING, ALL THREE 200, EVERY PRINTED CLAIM
+RE-GREPPED AGAINST THE LIVE PAGE. NOTHING MOVED.** Byte counts drifted a few dozen bytes on each
+(ad/tracking noise); no claim string changed.
+(3) **THE ONE OWED COPY CUT WAS MADE: MGP printed `55.5% ABV` and the string `111 proof` never
+appeared.** Third run carrying that instruction, now discharged and closed.
+(4) **SENSORY WAS PRINTED ON NOTHING.** MGP's butterscotch/cherry-cola string is on the TSB page in
+TSB's own voice but is the brand's release copy verbatim; Penelope's WA entry carries no notes at
+all. **Both blurbs ran without a single sensory word and both read fine. The rule cost nothing.**
+(5) **THE EDITION'S ONE QUOTE CAME FROM MGP** — master distiller Ian Stirsman, "It's exciting to
+finally share a bottle under the MGP name", eleven words, verbatim on the linked TSB page.
+(6) **NO URGENT OVERRIDE. PRECEDENT APPLIED A NINTH TIME** — the Uncle Nearest / Humble Baron
+Chapter 7 conversion and the receivership behind it are **bankruptcy and commercial litigation, not
+recall, safety, a partner-naming action or a death in the industry.** No recall exists in the window.
+
+**Prior run:** 2026-09-17 (Thu), **PREP — A BENCH ITEM THIS FILE RECOMMENDED AS FORWARD MATERIAL
 TURNED OUT TO BE A STORY WE ALREADY PUBLISHED IN JULY, UNDER A SECOND KEY.**
 **Six things happened:** (1) **`bulleit-87-nationwide-2026` IS NOT NEW MATERIAL. IT IS
 `bulleit-87-bourbon-rye-2026`, FIRST COVERED JUL 25 AND PRUNED FROM DEDUP AUG 21.** The Sep 16 NEXT
@@ -31,7 +51,7 @@ reference at all.
 the Fresh Bourbon appeal and a further bankruptcy wave are **commercial litigation and market
 contraction, not recall/safety/death. Precedent applied an eighth time.**
 
-**Prior run:** 2026-09-16 (Wed), **PREP — THE SEVEN-DAY ASK CLOSED OFF THE FIRST UNTRIED RAIL, THE
+**Earlier run:** 2026-09-16 (Wed), **PREP — THE SEVEN-DAY ASK CLOSED OFF THE FIRST UNTRIED RAIL, THE
 SEP 18 PASS CAUGHT A CLAIM THIS FILE INVENTED BY ARITHMETIC, AND A DECISION WAS TAKEN ON DEADLINE.**
 **Six things happened:** (1) **`bourbon-and-beyond-2026` IS STAGED Tue Sep 22 AND SEP 22'S PERSONA
 ASK IS CLOSED AFTER SEVEN DAYS.** Sept 24–27, Louisville, Venue Regular, a fourth distinct outlet,
@@ -178,27 +198,28 @@ partner, and no death in the industry.
 **Earlier runs:** 2026-09-07 (Mon), **PREP — the Sep 8 pre-edition pass corrected the chinquapin board
 note (the WA page DOES carry prices) and Tue Sep 22 opened with two verified Robb Report items.**
 Lesson 50 was added that run.
-**Prior editions:** Sep 11 (Fri, Last Call) · Sep 8 (Tue, The Shortlist) · Sep 4 (Fri) · Sep 1 (Tue).
-**Next edition:** 2026-09-18 (Fri, Last Call) — **TWO DAYS OUT. CLOSED AT THREE, PRE-EDITION PASS
-DONE Sep 16, NO RESEARCH OWED.** A Last Call runs 3–4, so three CLEARS.
-**ONE DRAFT-TIME CUT IS KNOWN AND IT IS AN EDIT, NOT RESEARCH: MGP prints `55.5% ABV` and NEVER
-`111 proof` — that number is not on the TSB page in any form.**
-**Alternates in order if a fourth is wanted: Fee Brothers, then Victoria BC (and Victoria BC would
-make the board WA ×3 of four, which is why it is second).**
-**Then:** 2026-09-22 (Tue, The Shortlist) — **SIX STAGED, the top of the 4–6 range. It faces a
-CUTTING problem, not a filling one. The board's own note names the cut: Woodford.**
-**Next prep:** 2026-09-17 (Thu).
-**Search window this run:** the Sep 18 pre-edition pass on three link-outs (curl, not WebFetch), the
-Lesson 57 board audit, festival calendars and regional event listings, the urgent sweep, and the
-Aug 24 prune. **Discovery WAS this run's job, it ran, AND IT LANDED.**
+**Prior editions:** Sep 18 (Fri, Last Call) · Sep 15 (Tue, The Shortlist) · Sep 11 (Fri) · Sep 8 (Tue).
+**Next edition:** 2026-09-22 (Tue, The Shortlist) — **FOUR DAYS OUT. SIX STAGED, the top of the
+4–6 range. IT FACES A CUTTING PROBLEM, NOT A FILLING ONE, and the board's own note names the cut:
+Woodford — $180, Kentucky-first, never leads, and the second RR link-out.**
+**Then:** 2026-09-25 (Fri, Last Call) — **EMPTY NO LONGER BY DEFAULT: Sep 18 has published, so its
+two alternates are RELEASED to this board.** `fee-brothers-fat-wash-drops-2026` (WA, `easy-pour`,
+Social Drinker, **no price on the page**) and `whisky-advocate-victoria-bc-travel-2026` (WA,
+`on-the-calendar`, Venue Regular, **the Canada conditions are binding**). **Both are WA, so a
+non-WA occasion item is the real target for Sun/Mon/Wed discovery.**
+**Next prep:** 2026-09-20 (Sun) — **no Saturday run, so its window covers back through Friday.**
+**Search window this run:** the edition-morning re-confirm on three link-outs (curl, browser UA) and
+the urgent sweep. **NO DISCOVERY WAS OWED AND NONE WAS DONE — instruction 1 forbade hunting a
+fourth item, and the board cleared at three.**
 
-Thirty-second consecutive run with a successful push. Write access stable.
+Thirty-third consecutive run with a successful push. Write access stable.
 
-**Channel check:** last 14 days read (Sep 2 – Sep 16), **30 messages, every one this pipeline's own
-post.** **No human replies from Aaron or Adam in the window — and none at any point in the recorded
-history of this channel.** **Nothing overrode this file.**
-**NOTHING HAD BEEN POSTED SEP 16 BEFORE THIS RUN** (newest channel message was the Sep 15 edition),
-**so idempotency was not in play.** This brief is the day's only post.
+**Channel check:** last 14 days read (Sep 4 – Sep 18), **30 messages, every one this pipeline's own
+post** — verified by the masthead-glyph test, not by authorship. **No human replies from Aaron or
+Adam in the window, and none at any point in this channel's recorded history. Nothing overrode this
+file.**
+**NOTHING HAD BEEN POSTED SEP 18 BEFORE THIS RUN** (newest channel message was the Sep 17 prep
+brief), **so idempotency was not in play.** This edition is the day's only post.
 **The parser held exactly as Sep 13 recorded it** — `=== Message from` header form, sliced to the
 next header, masthead glyph on the first line of every body. **No change to the method note.**
 **Method note — THE Sep 10 METHOD NOTE WAS WRONG ABOUT THE FORMAT AND COST A WASTED PARSE.** The
@@ -286,6 +307,140 @@ from DEDUP would be, and would block the prune.**
 **ITS LESSONS ARE ALREADY SAFE — Lesson 22 was consolidated Sep 10 ahead of schedule, exactly so
 this prune is unblocked.** Re-grep anyway.
 **Never prune DEDUP, OPEN GAPS, COLLISION FLAGS, the boards or the LESSONS blocks.**
+
+---
+
+## FRIDAY Sep 18 — WHAT SHIPPED (Last Call, posted 06:13 PT)
+
+**Calendar check ran first (Lesson 51): `date` in America/Los_Angeles returned Friday 2026-09-18.
+The sandbox clock is UTC and read 13:08 — the run fired at 06:08 PT and did NOT roll forward.
+Next Tue = Sep 22, next prep = Sun Sep 20, no Saturday run.**
+**Step Zero-B ran (Lesson 53): the Sep 18 board heading said THREE STAGED and the run log agrees;
+Sep 22 six, Sep 25 empty, Sep 29 one. No heading was stale.**
+
+**THREE ITEMS, and three clears a Last Call (3–4). No fourth was sought — instruction 1 forbade it.**
+Order as published: **ON THE CALENDAR** — WA spas · **PAIR IT** — Penelope Cigar Sessions 2 ·
+**WHAT'S DROPPING** — MGP Chapter One. **The edition was occasion-led, as a Last Call must be, and
+the release item ran last rather than first.** Send-off: "Worth the pour. See you Tuesday."
+
+### THE EDITION-DAY RE-CONFIRM — all three link-outs re-fetched, ALL THREE 200, NOTHING MOVED
+
+Browser-UA curl per Lesson 57; WebFetch was not used on either WA page.
+`whiskyadvocate.com/Spas-For-Whisky-Lovers` 76,691 bytes (Sep 17: 76,644) ·
+`whiskyadvocate.com/2026-parkers-heritage-kentucky-boy-and-more-new-whiskey` 80,881 (Sep 17: 81,010) ·
+`thespiritsbusiness.com/2026/09/mgp-bottles-first-namesake-bourbon/` 147,539 (Sep 17: 147,520).
+**The byte drift is ad and consent-script noise. Every claim string was re-greped against the
+stripped page text and every one held. Size is not the check; the grep is.**
+
+### WHAT EACH LINK-OUT ACTUALLY SUPPORTS — written from this run's own fetches
+
+- **Spas / Whisky Advocate**, Sept 8, Sally Kral. **NINE properties, counted off the page:** Áhsi'
+  Day Spa at Turning Stone (Verona NY) · Ama Spa at the Edwin (Chattanooga) · Bourbon & Blush
+  (Louisville) · The Edge Spa at the Lodge at Blue Sky (Wanship UT) · Four Seasons New Orleans ·
+  The Kentucky Castle (Versailles) · Spa Terra at the Meritage (Napa) · Seahill Spa at the Cavalier
+  (Virginia Beach) · The Underground Spa at the Logan (Philadelphia).
+  **PRICE FLOOR AND CEILING BOTH ON THE PAGE: $80 is the Bluegrass Bourbon pedicure, $780 is
+  Whiskey on the Rocks for up to two guests. "$80 to $780" is traceable, not a range this file
+  computed.** **Distillery grounds ×2 confirmed:** High West Distillery sits on the Lodge at Blue
+  Sky's 4,000 acres; the Cavalier Hotel houses Tarnished Truth Distillery.
+  **ALL THREE COMPLIANCE BLOCKS HELD: the ellagic-acid/antioxidant line was not printed · "a dram
+  or two" was not printed · neither the "For men" Beard & Bourbon package nor "The Southern
+  Gentleman" was named.** **The Cavalier's adjacent "Hunt Room" was deliberately not named — it
+  would have spent the edition's one "hunt" on a proper noun.**
+- **Penelope / Whisky Advocate Whisky Watch**, Sept 11, Higgins / Brandon / Thompson.
+  **58.7% ABV · $80 · Availability: Nationwide · 6 year old American whiskey · 69% corn, 19% rye,
+  12% malt · second release in the annual Cigar Sessions series · Alec Bradley's cigar blenders ·
+  built to stand up to medium and full-bodied cigars · Chapter 1 blended bourbon, American single
+  malt and American light whiskey after testing 19 mashbills.** **"Last year's edition blended
+  three whiskeys" is that sentence counted, and the count is on the page.**
+  **THE PAGE CARRIES NO TASTING NOTES FOR IT. None printed.** **The roundup disclosure ran as
+  instruction 4 required: "The link lands on Whisky Advocate's Whisky Watch roundup."**
+  Ran **FLAGGED** (single source).
+- **MGP / The Spirits Business**, 10 September, Miona Madsen. **10-year-old straight Bourbon ·
+  55.5% ABV · US$69.99 for 750ml · limited quantities nationwide in the US this autumn · high-rye
+  LBSV mash 60/36/4 · Rickhouse G · master distiller Ian Stirsman · Julie Francis president and CEO
+  · the Indiana facility renamed MGP Distillery, previously Rossville, Seagrams, Ross & Squibb ·
+  "crafted spirits for hundreds of brands as a third-party producer."**
+  **THE OWED CUT WAS MADE AND RE-PROVED BY ABSENCE: `proof` ZERO, `111` ZERO. `55.5% ABV` printed,
+  `111 proof` never. That instruction is now DISCHARGED and must not ride another run.**
+  **SENSORY BLOCKED AND HONOURED** — TSB states butterscotch/burnt sugar/molasses/cherry and cherry
+  cola/raspberries/chocolate/sassafras/leather in its own voice, but the identical string is the
+  company's release copy carried by eight outlets. **Nobody independent tasted it. Nothing printed.**
+  Ran **FLAGGED** (single source). **The FM "debuts at Kentucky Bourbon Festival" line stayed out —
+  TSB is the link-out and TSB lacks it.**
+
+### The edition's one quote
+
+**Ian Stirsman, master distiller, on the TSB page verbatim: "It's exciting to finally share a bottle
+under the MGP name."** **Eleven words, named speaker, Tier 1–2 linked source, and the only quote in
+the edition.** The longer Julie Francis line (16 words) was the alternative and was dropped for
+sentence length, not sourcing.
+
+### Voice and compliance, checked before send
+
+**Banned words: zero.** log · collection · premium · journey · experience · handcrafted ·
+world-class · finest · whale · vault · cellar · bunker · toast all return zero in the copy.
+**"hunt" ZERO — under the one-per-edition ceiling, and the Cavalier's Hunt Room was the temptation.**
+**DISCUS 73.8 clean:** "Last Call" appears only in the masthead, never in body copy. The spa line
+reads "A few include a pour with the treatment" — an inclusion, not a quantity. **No volume cue, no
+intoxication cue, no rate-of-consumption framing.**
+**Sentences 3–15 words throughout; longest is 15 (the mash bill line and the Stirsman line).**
+**"Mash bill" was defined in-line on first use — "its grain recipe" — per the intimidation pass.**
+**No gendered framing, no gatekeeping, no exclamation points, sentence-case headlines, all bolded.**
+**Blurbs 64 / 66 / 69 words — all inside 40–70.**
+
+### UTMs — all three verified against the scheme
+
+`?utm_source=whiskeysocial&utm_medium=pour&utm_campaign=lastcall-2026-09-18&utm_content=<beat>&utm_term=<persona>`
+`on-the-calendar`/`social-drinker` · `pair-it`/`social-drinker` · `whats-dropping`/`explorer`.
+**All lowercase, hyphenated, one link per item, no improvised slug.**
+**THE ONE IMPERFECT FIT IS THE PERSONA, NOT THE BEAT: the Cigar-Whiskey Crossover has NO slug in the
+scheme, which lists only explorer / collector / social-drinker / venue-regular.** `social-drinker`
+is the closest and was used on Penelope. **RAISED IN NOTES ONCE, AS THE RULE REQUIRES. It is NOT
+spent — it is an open ask for Aaron, because this beat has a coverage floor and will recur.**
+**Nothing was invented silently.**
+
+### Coverage and shape
+
+**Three items. Social Drinker ×2, Explorer ×1. Outlets WA ×2, TSB ×1.**
+**No Collector item and no Venue Regular item, and that is correct for this Last Call** — Sep 15's
+Shortlist carried Collector ×2 and the floor is spread across the week. **Do not log either as a
+gap and do not "fix" it on Sep 22, which already carries Collector ×2 and Venue Regular ×1.**
+**THE CIGAR-WHISKEY CROSSOVER BEAT WAS SERVED FOR THE FIRST TIME IN THIS FILE'S RECORDED HISTORY.**
+That floor had never once been cleared. **It is cleared now, and Sep 25 does not owe a repeat.**
+**Two alternates went unused and are released to Sep 25: Fee Brothers, then Victoria BC.**
+
+### Urgent sweep — no override, and the precedent is now NINE deep
+
+Recall, safety issue, litigation or investigation naming a partner brand or venue, death in the
+industry: **NONE in the Sep 16–18 window.** **The live story is Uncle Nearest** — a judge moved
+Humble Baron, the entertainment venue owned through a blind trust by co-founder Keith Weaver, into
+**Chapter 7** on Sept 14–17, with Uncle Nearest itself already under receivership over a roughly
+$108m loan dispute. **That is bankruptcy and commercial litigation, and neither company is a WS
+partner brand or venue. NOT URGENT.** **A recall search returned nothing at all for September 2026.**
+**PRECEDENT APPLIED A NINTH TIME: trade actions, strikes, bankruptcy waves, receiverships, closures,
+production pauses, a distributor bribery settlement, commercial contract litigation and a
+non-industry celebrity death are NOT urgent. Stage them; never force-post them.**
+
+### The post
+
+**One message, three items above the heavy rule, aside below it and fully blockquoted.**
+**Aside: 3 Notes bullets + 3 Pipeline lines = 51 words, well under the 120 cap, every line ≤15 words.**
+Notes carried only **the flagged-items disclosure**, **the Cigar-Crossover persona-slug gap** and
+**the compressed brand-skill line.** **Nothing was written about this file's own machinery, and
+nothing was written about anything that worked.**
+**WHAT WAS DELIBERATELY NOT IN NOTES, and stays out:** the curl/user-agent workaround · the byte
+drift on the three pages · the discharged MGP copy cut · the Slack bold-vs-italic fix (Lesson 60) ·
+everything on the instruction-10 spent list.
+**Idempotency: nothing had been posted Sep 18 before this run** — the channel's newest message was
+the Sep 17 prep brief. **This edition is the day's only post.**
+**Channel check: last 14 days read, 30 messages, EVERY ONE this pipeline's own post**, verified by
+the masthead-glyph test rather than by authorship. **No human replies from Aaron or Adam, in the
+window or anywhere in this channel's recorded history. Nothing overrode this file.**
+
+### THE RUN'S LESSON — Lesson 60. The channel has been rendering our headlines in ITALIC, not bold, and the fix is one character.
+
+Full text in its own block at the foot of this file.
 
 ---
 
@@ -4669,7 +4824,12 @@ go there," so re-confirm it is open, and prefer the primary over the trade repor
 
 ---
 
-## FRIDAY Sep 18 — THREE STAGED, PRE-EDITION PASS DONE, ONE COPY CUT OWED. *(heading last rewritten Sep 16)*
+## FRIDAY Sep 18 — PUBLISHED. ALL THREE SHIPPED. THIS BOARD IS CLOSED. *(heading rewritten Sep 18, on publish)*
+
+**All three ran: spas (`on-the-calendar`/social-drinker) · Penelope (`pair-it`/social-drinker,
+FLAGGED) · MGP (`whats-dropping`/explorer, FLAGGED). The owed MGP copy cut was made.**
+**Both alternates went unused and are RELEASED to Fri Sep 25: Fee Brothers first, Victoria BC
+second. See the Sep 25 board.** **Staging text below is retained as the record.**
 
 **SEP 16 — THE PRE-EDITION PASS RAN TWO DAYS OUT, AS INSTRUCTED. All three link-outs re-fetched,
 ALL THREE 200. Spas and Penelope are CLEAN. MGP carries ONE unprintable claim — `111 proof` is not
@@ -5278,18 +5438,33 @@ must NOT be filled from Sep 22.** **Twelve days out — there is time, and no as
 
 ---
 
-## FRIDAY Sep 25 — EMPTY. NOTHING STAGED. *(heading last rewritten Sep 17)*
+## FRIDAY Sep 25 — TWO ALTERNATES RELEASED TO IT. NOTHING STAGED ON ITS OWN MERITS. *(heading rewritten Sep 18)*
 
-**Sep 17 ran discovery against this board and staged nothing. Both candidates were rejected for
-recorded reasons — see the Sep 17 section. Neither is to be re-walked.**
-**WHAT IT NEEDS: it is a Last Call, so occasion-led, Social Drinker or Venue Regular, 3–4 items.**
-**The Sep 18 alternates are the obvious first call once Sep 18 has run and released them:**
-**`fee-brothers-fat-wash-drops-2026`** (first alternate, WA, `easy-pour`, Social Drinker — **no
-price exists on the page**) and **`whisky-advocate-victoria-bc-travel-2026`** (second alternate, WA,
-`on-the-calendar`, Venue Regular — **the Canada conditions in the Sep 18 board are binding if it
-runs**). **Both are WA, so a non-WA occasion item is the real target.**
-**Eight days out. Empty is honest at eight days out — the empty-pipeline floor is an edition-day
-rule, not a staging one.**
+**SEP 18 HAS PUBLISHED, SO ITS TWO ALTERNATES ARE RELEASED HERE, EXACTLY AS INSTRUCTION 6 REQUIRED.**
+They are released, not staged: **each needs a re-fetch and a re-grep before it counts, because both
+have sat unverified since Sep 13** (Lesson 54 — a board entry decays against its source).
+
+- `fee-brothers-fat-wash-drops-2026` — **FIRST ALTERNATE, RELEASED Sep 18.** WA's own review,
+  September 2, Sean Evans. Browned Butter, Roasted Duck and Bacon drops; three whiskey recipes on
+  the page with named bottles. **Evans's sensory IS attributable to him by name — this is one of the
+  rare items where sensory is printable.** **NO PRICE PUBLISHED — do not supply one.**
+  **Do not print "my friends ask for thirds" — it is a volume cue.**
+  Beat `easy-pour`, persona Social Drinker.
+  Link: `https://whiskyadvocate.com/fee-brothers-fat-wash-drops-review`
+- `whisky-advocate-victoria-bc-travel-2026` — **SECOND ALTERNATE, RELEASED Sep 18.** WA,
+  September 10, Stephen Beaumont. **THE THREE CANADA CONDITIONS FROM THE SEP 18 BOARD REMAIN
+  BINDING AND ARE NOT RE-LITIGATED: (a) no reference to the ban, the tariff or any trade action;
+  (b) no cross-border purchase framing and no "stock up" of any kind; (c) frame it as a place to
+  go, never as a way to get bottles.** **CAUTION: the piece is beer-forward in its first half, and
+  Spinnakers' Knot is 18 months old and legally not whisky.** Supported claims are listed in full
+  in the Sep 18 board entry above. Beat `on-the-calendar`, persona Venue Regular.
+  Link: `https://whiskyadvocate.com/whisky-lovers-travel-guide-to-british-columbia`
+
+**SHAPE IF BOTH RAN: WA ×2, Social Drinker ×1, Venue Regular ×1. That is two items, which is BELOW
+the 3–4 floor, and both are the same outlet.**
+**WHAT THIS BOARD ACTUALLY NEEDS: a NON-WA occasion item, ideally Social Drinker or Venue Regular.**
+**Seven days out, four prep runs to find it — Sun Sep 20, Mon 21, Wed 23, Thu 24.**
+**The Sep 17 rejections are recorded in that section and are NOT to be re-walked.**
 
 ---
 
@@ -5355,7 +5530,29 @@ rule, not a staging one.**
 
 ## OPEN GAPS
 
-**SEP 17 STATUS — READ THIS FIRST. IT SUPERSEDES THE SEP 16 BLOCK BELOW.**
+**SEP 18 STATUS — READ THIS FIRST. IT SUPERSEDES THE SEP 17 BLOCK BELOW.**
+- **SEP 18 IS PUBLISHED AND CLOSED. THE ONLY LIVE EDITION BOARD IS TUE SEP 22, AND IT STILL FACES A
+  CUT, NOT A FILL** — six staged, top of the 4–6 range, Woodford is the board's own named candidate.
+- **THE FORWARD GAP IS NOW THE WHOLE PROBLEM, AND IT GREW BY ONE BOARD.**
+  **Fri Sep 25 holds two RELEASED alternates and nothing staged on its own merits — both are WA,
+  which is two items of the same outlet, BELOW the 3–4 floor.** **Tue Sep 29 holds one.**
+  **Sep 25 is seven days out, Sep 29 eleven. Four prep runs stand between now and Sep 25
+  (Sun 20, Mon 21, Wed 23, Thu 24). If two of them stage nothing, this is a supply signal for
+  Aaron, not a scheduling note.**
+  **Sep 25 needs a NON-WA occasion item, Social Drinker or Venue Regular. Sep 29 needs two more and
+  must not be filled by raiding Sep 22.**
+- **A NEW SCHEME GAP, OPEN AND OWNED BY AARON: the UTM persona list has no slug for the
+  Cigar-Whiskey Crossover.** The list is explorer / collector / social-drinker / venue-regular.
+  **Penelope ran on `social-drinker` as the closest fit and it was raised in Notes once, per the
+  rule.** **THIS IS NOT SPENT.** The crossover beat carries a coverage floor, it was served for the
+  first time in this file's history this edition, and it will recur — **so the imperfect fit will
+  recur with it and PostHog will read cigar clicks as Social Drinker clicks.** **If Aaron adds a
+  slug, record it here and in the NEXT RUN block. If he declines, THEN mark it spent.**
+- **NOT A GAP, RECORDED SO IT IS NOT MISREAD AS ONE: this Last Call carried no Collector and no
+  Venue Regular item.** **That is correct — Sep 15 carried Collector ×2 and the floor is spread
+  across the week, not crammed into every send.** **Do not "fix" it on Sep 22.**
+
+**SEP 17 STATUS — SUPERSEDED BY THE BLOCK ABOVE; retained for its dedup-integrity finding.**
 - **NO SUPPLY GAP IS OPEN ON EITHER LIVE BOARD, unchanged from Sep 16.** **Sep 18 re-confirmed at
   three, all links 200, one one-word copy cut owed (`55.5% ABV`). Sep 22 holds six and still faces
   a CUT, not a fill — Woodford is the board's own named candidate.**
@@ -6390,6 +6587,16 @@ and nothing is lost.** 22 and 23 are captured here early so their source section
 
 ## DEDUP — closed to re-use
 
+**PUBLISHED Fri Sep 18 (Last Call) — CLOSED TO RE-USE, ALL THREE:**
+`whisky-advocate-spas-2026` · `penelope-cigar-sessions-chapter-2-2026` ·
+`mgp-chapter-one-out-of-the-shadows-2026`.
+**The two flagged ones stay closed exactly like the verified one — a single source is a sourcing
+note, not a lesser form of coverage.**
+**NO NEW-DEVELOPMENT EXCEPTION IS OPEN ON ANY OF THE THREE.** For MGP it would take a Tier 1–2
+report of actual retail arrival or an independent tasting; for Penelope, an independent review
+(Breaking Bourbon's Chapter 2 URL still 404s); for the spa list, nothing — a list does not develop.
+**The blurb would then have to OPEN with what is new.**
+
 **RESTORED TO DEDUP Sep 17 — A PRUNED KEY THAT WAS NEVER CLEAR FOR REPUBLICATION:**
 **`bulleit-87-bourbon-rye-2026`** — **COVERED Jul 25 2026.** Pruned from the Carried list Aug 21 at
 thirty days (see the Aug 21 PRUNE LIST table). **It resurfaced Sep 17 under the forked key
@@ -6948,6 +7155,16 @@ edition came to reading repetitive.**
 
 **Spent link-outs — do not re-mine:**
 
+**SEP 18 SPENT THREE — WRITTEN IN THE SAME RUN THAT PUBLISHED THEM, AS LESSON 55 REQUIRES.**
+Full URLs, not citations. **Query strings are the UTMs and are NOT part of the identity — a
+re-mine is the bare path.**
+`https://whiskyadvocate.com/Spas-For-Whisky-Lovers` **(capitalised path — do not lowercase it)** ·
+`https://whiskyadvocate.com/2026-parkers-heritage-kentucky-boy-and-more-new-whiskey` **(ROUNDUP
+PAGE, NOW SPENT: one page, one item, ever. Parker's Heritage 20th is staged Tue Sep 22 and must be
+re-sourced onto the Heaven Hill primary — it was, on Sep 14. Middle West, Jeptha Creed, Neeley,
+Chicken Cock, Kentucky Boy and Boss Hog 13 all sit on this page and are now UNREACHABLE through it.)** ·
+`https://www.thespiritsbusiness.com/2026/09/mgp-bottles-first-namesake-bourbon/`
+
 **SEP 15 SPENT SIX — WRITTEN IN THE SAME RUN THAT PUBLISHED THEM, AS LESSON 55 REQUIRES.**
 Full URLs, not citations. **Query strings are the UTMs and are NOT part of the identity — a
 re-mine is the bare path.**
@@ -7275,65 +7492,106 @@ and the fifth coconut item) · `discus-congressional-fly-in-2026`.
 
 ---
 
-## NEXT RUN (Fri Sep 18 — LAST CALL. EDITION DAY. Then Sun Sep 20 prep; no Saturday run.)
+## NEXT RUN (Sun Sep 20 — PREP. No Saturday run. Then Mon Sep 21 prep, then Tue Sep 22 THE SHORTLIST.)
 
-**THIS IS AN EDITION DAY. Consumer register, full brand voice, UTMs on EVERY link, glyph :tumbler_glass:.**
-**Campaign `lastcall-2026-09-18`. Masthead: `THE POUR · Last Call · Friday, September 18`.**
+**THIS IS A PREP RUN. Internal register, addressed to Adam and Aaron, raw links, NO UTMs, glyph
+:mag:.** **No consumer edition. Post only if there is new pipeline material, a gap update, or
+urgent news — otherwise post nothing.**
 Load `whiskey-social-news-roundup` (present) and `whiskey-social-brand` **if it has appeared — still
-absent Sep 17, and absent for every run this file records.**
+absent Sep 18, and absent for every run this file records.**
 
-0. **CALENDAR CHECK FIRST — Lesson 51.** Compute date and weekday in America/Los_Angeles.
-   **Expected: today = Friday Sep 18 (LAST CALL), then Sun Sep 20 (PREP), then Tue Sep 22.**
-0b. **Lesson 53.** Board headings read: Sep 18 → Sep 16 · Sep 22 → Sep 16 · Sep 25 → Sep 17 ·
-   Sep 29 → Sep 17. **Reconcile against the run log before trusting any of them.**
-0c. **Lesson 54 / 58 / 59. NEVER draft a claim from a board entry, from a CONVERSION of one, or
-   from a SEARCH SUMMARY. Grep every claim string against the page you are linking.**
-0d. **LESSON 57 — use curl with a browser user-agent, not WebFetch, on whiskyadvocate.com and
-   robbreport.com. Re-confirmed working Sep 16 and Sep 17.**
+0. **CALENDAR CHECK FIRST — Lesson 51.** Compute date and weekday in America/Los_Angeles; the
+   sandbox clock is UTC and runs ~7 hours ahead of a 6am PT firing.
+   **Expected: today = Sunday Sep 20 (PREP), then Mon Sep 21 (PREP), then Tue Sep 22 (THE SHORTLIST).**
+0b. **SEARCH WINDOW IS WIDER TODAY: cover back through FRIDAY Sep 18, because there is no Saturday
+   run.** That is a 72-hour window, not 24.
+0c. **Lesson 53.** Board headings read: Sep 18 → PUBLISHED Sep 18 · Sep 22 → Sep 16 · Sep 25 →
+   Sep 18 · Sep 29 → Sep 17. **Reconcile against the run log before trusting any of them.**
+0d. **Lesson 54 / 58 / 59. NEVER draft or stage a claim from a board entry, from a CONVERSION of
+   one, or from a SEARCH SUMMARY. Grep every claim string against the page itself.**
+0e. **LESSON 57 — use curl with a browser user-agent, not WebFetch, on whiskyadvocate.com and
+   robbreport.com. Re-confirmed working Sep 16, 17 and 18.**
 
-1. **THE BOARD IS CLOSED AT THREE AND THREE CLEARS A LAST CALL (3–4). DO NOT GO LOOKING FOR A
-   FOURTH.** Spas (Social Drinker, `on-the-calendar`) · MGP (Explorer, `whats-dropping`, **flagged**) ·
-   Penelope (Cigar Crossover, `pair-it`, **flagged**). **All three re-confirmed 200 on Sep 17.**
-   **Re-fetch all three once more this morning — that is a re-confirm, not research.**
-2. **THE ONE KNOWN COPY CUT IS A ONE-WORD EDIT: MGP prints `55.5% ABV`. NEVER `111 proof`.**
-   `proof` and `111` both return ZERO on the TSB page. **This is the third run carrying this
-   instruction. Make the edit and stop.**
-3. **SENSORY IS BLOCKED ON MGP AND ON PENELOPE. Both carry reprint strings that look like reporting
-   and are the brands' own copy.** **A blurb with no sensory detail is correct and publishable.**
-   **Spas carries THREE compliance blocks, all mandatory — the antioxidant health claim is
-   UNPRINTABLE · "a dram or two" is a volume cue · the "For men" and "Southern Gentleman" packages
-   are gendered framings to build away from.**
-4. **PENELOPE'S LINK-OUT IS A ROUNDUP PAGE carrying nine releases.** The blurb must make clear the
-   reader lands on WA's Whisky Watch, **not a dedicated review.**
-5. **SIGNATURE SEND-OFF REQUIRED — Last Call closes with it. Watch "Last Call" in body copy: it is
-   a weekend cue, NEVER a drink-up cue. DISCUS 73.8.**
-6. **AFTER PUBLISH: move all three keys to DEDUP as COVERED, and record the SPENT LINK-OUT URLs
-   (Lesson 55). Rewrite the Sep 18 board heading to PUBLISHED.** **Sep 18's two alternates —
-   Fee Brothers, then Victoria BC — are RELEASED to the Sep 25 board the moment this edition ships.**
-7. **URGENT SWEEP, every run.** **Precedent now EIGHT times applied: trade actions, strikes,
-   bankruptcy waves, receiverships, distillery closures, production pauses, a distributor bribery
-   settlement, commercial contract litigation and a non-industry celebrity death are NOT urgent.**
-   **Record the sweep and move on.**
-8. **PRUNE — NOT DUE.** The Aug 25 WHAT SHIPPED section was deleted Sep 17. **Nothing else crosses
+1. **DISCOVERY IS THIS RUN'S WHOLE JOB, AND THE TARGET IS FRI SEP 25.** It holds two RELEASED
+   alternates, both WA, which is below the 3–4 floor and single-outlet.
+   **WHAT IT NEEDS: a NON-WA occasion item, Social Drinker or Venue Regular.**
+   **Sep 22 needs NOTHING — six staged. Do not spend the budget there. Do not raid it for Sep 25.**
+2. **RE-VERIFY THE TWO RELEASED ALTERNATES BEFORE COUNTING THEM.** Both have sat since Sep 13.
+   Re-fetch, re-grep, and only then call them staged. **Fee Brothers has NO price on its page —
+   do not supply one. Victoria BC's three Canada conditions are binding and settled; do not
+   re-litigate them, just apply them.**
+3. **THE SEP 22 PRE-EDITION PASS IS DUE THIS RUN OR MONDAY'S — two days out is the standing
+   practice, so Sun Sep 20 is early and Mon Sep 21 is the deadline.** Six link-outs. **Run it
+   Monday if the Sunday discovery budget is spent; do not skip it.**
+4. **THE SEP 22 CUT IS STILL OWED AND IS STILL WOODFORD** — $180, Kentucky-first, never leads, and
+   the second RR link-out. **Six clears 4–6, so the cut is a quality call, not a capacity one.**
+5. **STANDING CHECK: before staging ANY bench item, grep its BRAND and PRODUCT against the PRUNE
+   LIST tables as well as DEDUP.** A pruned key is invisible to a dedup grep. **This caught
+   Bulleit '87 one step before it republished a July story.**
+6. **THE WA WHISKY WATCH ROUNDUP PAGE `2026-parkers-heritage-kentucky-boy-and-more-new-whiskey` IS
+   NOW SPENT** — one page, one item, ever. **Parker's Heritage 20th (staged Sep 22) was re-sourced
+   onto the Heaven Hill primary on Sep 14, so it is unaffected. Middle West, Jeptha Creed, Neeley,
+   Chicken Cock, Kentucky Boy and Boss Hog 13 are UNREACHABLE through that page.**
+7. **URGENT SWEEP, every run.** **Precedent now NINE times applied: trade actions, strikes,
+   bankruptcy waves, receiverships, closures, production pauses, a distributor bribery settlement,
+   commercial contract litigation and a non-industry celebrity death are NOT urgent.**
+   **Uncle Nearest / Humble Baron Chapter 7 is the current live one and it is NOT urgent — neither
+   is a WS partner.** **Record the sweep and move on.**
+8. **PRUNE — NOT DUE.** The Aug 25 WHAT SHIPPED section was deleted Sep 17. **Nothing crosses
    thirty days before Sep 27** (`FRIDAY Aug 28 — WHAT SHIPPED`). **Do not re-derive the list.**
    **DO NOT prune `FRIDAY Aug 21 — STAGING RECORD` — it is the only Aug 21 record.**
    **Never prune DEDUP, OPEN GAPS, COLLISION FLAGS, boards or LESSONS.**
-9. **NEW STANDING CHECK, from this run: before staging ANY bench item, grep its BRAND and PRODUCT
-   against the PRUNE LIST tables as well as DEDUP.** **A pruned key is invisible to a dedup grep,
-   and the prune table is the only surviving record that the story ever ran.** **This caught
-   Bulleit '87 one step before it republished a July story.**
-10. **NOTES DISCIPLINE — max 5 bullets, 15 words each, Notes+Pipeline under 120 words.**
+9. **NOTES DISCIPLINE — max 5 bullets, 15 words each, Notes+Pipeline under 120 words.**
+   **THE ONE OPEN ASK FOR AARON IS THE CIGAR-CROSSOVER PERSONA SLUG. It was raised Sep 18 and is
+   NOT spent. Carry it only if it is still unanswered AND an item needs it — otherwise leave it in
+   OPEN GAPS, not in Notes.**
    **SPENT AND NEVER TO BE RE-RAISED:** the `allocation-watch` beat-slug gap, the New Era name
    collision, the Four Roses conflict, the shelf-price slug, the sub-$30 gap, the explainer slug,
    the September third-edition cadence bump, the Balvenie 88 forward-bar call, the outdoors byline
    call, the Victoria BC Canada hazard, the Parker's Heritage shared-roundup collision, the Tuesday
-   no-Social-Drinker shape, the Sep 22 persona ask, the 1880 decision, **and as of Sep 17 the Elmer
-   T. Lee entry-window note — REPORTED ONCE, now CLOSED.**
+   no-Social-Drinker shape, the Sep 22 persona ask, the 1880 decision, the Elmer T. Lee entry
+   window, **and as of Sep 18 the MGP `111 proof` copy cut — DISCHARGED, do not carry it again.**
    **The brand-skill-absent note stays compressed as `_unchanged:_`.**
-   **NEVER a bullet for this file's own machinery** — board-heading dates, the prune, lessons blocks,
-   the spent-link register, the URL audit, the curl workaround, the key merge. **NEVER a bullet for
-   anything that worked.**
-11. **PERSIST STATE AND PUSH, whatever happens.**
+   **NEVER a bullet for this file's own machinery** — board-heading dates, the prune, lessons
+   blocks, the spent-link register, the URL audit, the curl workaround, the key merge, **the Slack
+   bold-vs-italic fix.** **NEVER a bullet for anything that worked.**
+10. **PERSIST STATE AND PUSH, whatever happens.**
+
+---
+
+## LESSON 60 (added Sep 18) — the channel had been rendering our headlines in italic, and nobody was reading the rendered output back
+
+**What happened.** The brand rule says headlines are **sentence-case and bolded**. Every edition this
+file records was drafted with single-asterisk `*Headline*` — correct Slack mrkdwn, and what the
+output spec literally shows. **But the Slack tool takes STANDARD MARKDOWN and converts it.** In
+standard markdown a single asterisk is ITALIC, so `*Headline*` was converted to `_Headline_` and
+**shipped as italic.** The Sep 11 edition, read back verbatim from the channel, shows
+`_THE POUR_` and `_Cook with the whisky, not just alongside it_` — **every masthead and every
+headline in that edition rendered italic, not bold.**
+
+**Why it survived so long.** The file's own record of each edition says "bolded headlines" because
+that is what the DRAFT contained. **Nobody ever read the POSTED message back and compared it to the
+draft.** The pre-post check verifies the copy; it never verified the RENDER. A formatting rule was
+being checked against the input instead of the output.
+
+**The detector, and it is cheap.** The Sep 16 post shows `*THE POUR*` — BOLD — while Sep 17 shows
+`_THE POUR_`. **Two adjacent runs, two different renders, from a file that believed it was doing the
+same thing both times.** That inconsistency was sitting in the channel history the whole time and was
+read past on every idempotency check, because the parser only ever looked at the first ~110 characters
+to decide "ours or a human's."
+
+**THE FIX, VERIFIED THIS RUN: send `**double asterisk**`.** The tool converts it to Slack's single-
+asterisk bold. **Sep 18 was sent with `**bold**` and read back from the channel as `*bold*` — bold
+masthead, bold segment headers, bold headlines.** Links (`<url|Outlet>`), blockquotes, `_italic_`
+and emoji shortcodes all pass through unchanged, so nothing else needs to move.
+
+**THE STANDING RULE: after sending any edition or brief, READ IT BACK from the channel and check the
+render, not the draft.** One extra call. It also re-proves the post landed, which the idempotency
+check would otherwise not learn until the next day's run.
+**And the general form, which is the part worth keeping: a formatting rule verified against what you
+SENT is not verified. Verify it against what the reader SEES.** That is Lesson 54's family again —
+Lesson 54 said a board entry decays against its source; **Lesson 60 says a draft decays against its
+renderer.**
 
 ---
 
