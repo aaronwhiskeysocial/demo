@@ -3,7 +3,44 @@
 Durable memory for the Whiskey Social whiskey-news pipeline. Authoritative over Slack
 thread copies. Human feedback in #whiskey-news overrides this file.
 
-**Last run:** 2026-09-18 (Fri), **EDITION — LAST CALL SHIPPED AT THREE. THE BOARD WAS CLOSED SINCE
+**Last run:** 2026-09-20 (Sun), **PREP — THE SEP 25 NON-WA ASK CLOSED ON THE FIRST PASS, OFF A
+FESTIVAL CALENDAR AGAIN, AND THE SEP 22 PRE-EDITION PASS RAN FOUR DAYS EARLY AND CAUGHT WOODFORD
+PRINTING THREE TSB NUMBERS AGAINST AN RR LINK.**
+**Six things happened:** (1) **`bourbon-on-the-banks-2026` IS STAGED Fri Sep 25 AND THAT BOARD'S
+RECORDED ASK — a NON-WA occasion item, Social Drinker or Venue Regular — IS CLOSED ON THE FIRST
+PREP RUN OF FOUR.** Sat Oct 3, River View Park, Frankfort KY. **VERIFIED on the primary-source
+clause: the festival's own site (Tier 1 primary) + kybourbontrail.com, which is the KDA (also Tier
+1). NOT flagged.** **Sep 25 goes two to THREE and stops being single-outlet: WA ×2 + festival ×1.**
+**LESSON 58 REPEATED ITSELF EXACTLY — a festival calendar answered an occasion ask that the
+national trade rails do not serve. That is now twice in five days. Treat festival and event
+calendars as a FIRST-CHOICE rail for occasion items, not an untried one.**
+(2) **`borders-distillery-first-release-2026` IS STAGED Tue Sep 29 — the second item on that
+board.** **VERIFIED: TSB (Miona Madsen, Sept 15) + The Borders Distillery's own site.** Eight years
+old · first-fill ex-bourbon American oak finished in Malmsey Madeira · 46% ABV · 10,000 bottles
+worldwide · RRP £46 (US$62) 700ml · on sale 24 September. **ITS WEAKNESS IS REAL AND IS RECORDED,
+NOT HIDDEN: select UK retailers only, international distribution "will follow" with no date. A US
+reader cannot act on it.** That is a live decision for the Sep 29 assembly, and it is in Notes.
+(3) **THE SEP 22 PRE-EDITION PASS RAN THIS RUN RATHER THAN MONDAY. ALL SIX LINK-OUTS 200.** Five
+read exactly as staged — B&B (no `$` on `/bourbon/`, as recorded), Heaven Hill (`199.99`,
+`118.0 proof`, `100 barrels`, `78%`, `1.4 million` all present; `honey` and `toasted vanilla` still
+ZERO), Stranahan's (`$150`, Aspen, `mustiness`, Higgins's notes), Basil Hayden (`$50`, `80 proof`,
+Freddie Noe, `20 and 25`), NZ (`92`/`$285`, `91`/`$75`, `NR`/`$90`, `9.5`, `3.5`).
+(4) **WOODFORD IS THE ONE THAT FAILED, AND IT FAILED THE SAME WAY MGP DID.** **`50.2` returns ZERO,
+`179` returns ZERO and the shipping states (`New Hampshire`, `North Dakota`) return ZERO on the
+Robb Report link-out.** All three are **TSB's** numbers, merged into a single board line on Sep 7
+and never re-separated. **Against the RR link, only `$180`, `100.4 proof`, about nine years,
+Kentucky-first and McCall are printable.** **This is the third time a board entry has carried a
+figure its own link-out does not hold. See Lesson 61.**
+(5) **A SHAPE COLLISION IS FLAGGED, NOT RESOLVED: Sep 22 carries `bourbon-and-beyond-2026` and
+Sep 25 would carry `bourbon-on-the-banks-2026` — both `on-the-calendar`, both `venue-regular`, both
+Kentucky festivals, three days apart.** **Both are correctly sourced and neither is a dedup hit, so
+this is an editorial call for the Sep 25 assembly, not a blocker. It is in Notes once.**
+(6) **NO URGENT OVERRIDE. PRECEDENT APPLIED A TENTH TIME.** The Uncle Nearest / Farm Credit
+Mid-America $108m default suit is **commercial litigation and not a WS partner**; no TTB or FSS
+recall exists in the window; **the FSS Kimbland warning is still December 2025 and still stale**;
+no death in the industry.
+
+**Prior run:** 2026-09-18 (Fri), **EDITION — LAST CALL SHIPPED AT THREE. THE BOARD WAS CLOSED SINCE
 SEP 13 AND FINAL-PASSED TWICE, SO EDITION MORNING COST ONE RE-CONFIRM AND ONE ONE-WORD EDIT.**
 **Six things happened:** (1) **THE EDITION SHIPPED AT THREE, which CLEARS a Last Call (3–4).**
 Spas (`on-the-calendar`/social-drinker) · Penelope Cigar Sessions 2 (`pair-it`/social-drinker) ·
@@ -23,7 +60,7 @@ finally share a bottle under the MGP name", eleven words, verbatim on the linked
 Chapter 7 conversion and the receivership behind it are **bankruptcy and commercial litigation, not
 recall, safety, a partner-naming action or a death in the industry.** No recall exists in the window.
 
-**Prior run:** 2026-09-17 (Thu), **PREP — A BENCH ITEM THIS FILE RECOMMENDED AS FORWARD MATERIAL
+**Earlier run:** 2026-09-17 (Thu), **PREP — A BENCH ITEM THIS FILE RECOMMENDED AS FORWARD MATERIAL
 TURNED OUT TO BE A STORY WE ALREADY PUBLISHED IN JULY, UNDER A SECOND KEY.**
 **Six things happened:** (1) **`bulleit-87-nationwide-2026` IS NOT NEW MATERIAL. IT IS
 `bulleit-87-bourbon-rye-2026`, FIRST COVERED JUL 25 AND PRUNED FROM DEDUP AUG 21.** The Sep 16 NEXT
@@ -199,27 +236,35 @@ partner, and no death in the industry.
 note (the WA page DOES carry prices) and Tue Sep 22 opened with two verified Robb Report items.**
 Lesson 50 was added that run.
 **Prior editions:** Sep 18 (Fri, Last Call) · Sep 15 (Tue, The Shortlist) · Sep 11 (Fri) · Sep 8 (Tue).
-**Next edition:** 2026-09-22 (Tue, The Shortlist) — **FOUR DAYS OUT. SIX STAGED, the top of the
-4–6 range. IT FACES A CUTTING PROBLEM, NOT A FILLING ONE, and the board's own note names the cut:
-Woodford — $180, Kentucky-first, never leads, and the second RR link-out.**
-**Then:** 2026-09-25 (Fri, Last Call) — **EMPTY NO LONGER BY DEFAULT: Sep 18 has published, so its
-two alternates are RELEASED to this board.** `fee-brothers-fat-wash-drops-2026` (WA, `easy-pour`,
-Social Drinker, **no price on the page**) and `whisky-advocate-victoria-bc-travel-2026` (WA,
-`on-the-calendar`, Venue Regular, **the Canada conditions are binding**). **Both are WA, so a
-non-WA occasion item is the real target for Sun/Mon/Wed discovery.**
-**Next prep:** 2026-09-20 (Sun) — **no Saturday run, so its window covers back through Friday.**
-**Search window this run:** the edition-morning re-confirm on three link-outs (curl, browser UA) and
-the urgent sweep. **NO DISCOVERY WAS OWED AND NONE WAS DONE — instruction 1 forbade hunting a
-fourth item, and the board cleared at three.**
+**Next edition:** 2026-09-22 (Tue, The Shortlist) — **TWO DAYS OUT. SIX STAGED, the top of the
+4–6 range. THE PRE-EDITION PASS IS DONE (Sun Sep 20, all six 200) — Monday owes a re-confirm, not
+a fresh pass.** **IT STILL FACES A CUTTING PROBLEM, NOT A FILLING ONE, and this run strengthened
+the board's own named cut: Woodford is $180, Kentucky-first, never leads, the second RR link-out,
+AND three of the figures this file recorded for it are absent from its link-out.**
+**Then:** 2026-09-25 (Fri, Last Call) — **THREE STAGED AND ITS ASK IS CLOSED.**
+`fee-brothers-fat-wash-drops-2026` (WA, `easy-pour`, Social Drinker, **no price on the page** —
+re-fetched and re-grepped this run, `$` still ZERO) · `whisky-advocate-victoria-bc-travel-2026`
+(WA, `on-the-calendar`, Venue Regular, **the Canada conditions are binding** — re-fetched this run,
+`tariff` ZERO) · **`bourbon-on-the-banks-2026` (festival primary, `on-the-calendar`, Venue Regular,
+NEW this run).** **Three clears the 3–4 floor and the single-outlet problem is gone.**
+**Then:** 2026-09-29 (Tue, The Shortlist) — **TWO STAGED.** `elmer-t-lee-40th-anniversary-2026` ·
+`borders-distillery-first-release-2026` (NEW this run, **UK-only availability is its open
+question**). **Needs two more and must not be filled by raiding Sep 22.**
+**Next prep:** 2026-09-21 (Mon).
+**Search window this run:** Fri Sep 18 through Sun Sep 20 — a 72-hour window, widened because there
+is no Saturday run, exactly as the Sep 18 block instructed. **Rails worked: web search on release
+and festival seams, the Bourbon on the Banks primary, kybourbontrail.com (KDA), Eventbrite as the
+ticketing primary, TSB, and The Borders Distillery's own site.**
 
-Thirty-third consecutive run with a successful push. Write access stable.
+Thirty-fourth consecutive run with a successful push. Write access stable.
 
-**Channel check:** last 14 days read (Sep 4 – Sep 18), **30 messages, every one this pipeline's own
-post** — verified by the masthead-glyph test, not by authorship. **No human replies from Aaron or
-Adam in the window, and none at any point in this channel's recorded history. Nothing overrode this
-file.**
-**NOTHING HAD BEEN POSTED SEP 18 BEFORE THIS RUN** (newest channel message was the Sep 17 prep
-brief), **so idempotency was not in play.** This edition is the day's only post.
+**Channel check:** last 14 days read (Sep 7 – Sep 20), **37 messages, every one this pipeline's own
+post** — verified by the masthead-glyph test, not by authorship. **No human replies, no thread
+replies and no reactions from Aaron or Adam in the window, and none at any point in this channel's
+recorded history. Nothing overrode this file.**
+**NOTHING HAD BEEN POSTED SEP 20 BEFORE THIS RUN** (newest channel message was the Sep 18 Last
+Call; Sep 19 was a Saturday and correctly has no post), **so idempotency was not in play.** This
+brief is the day's only post.
 **The parser held exactly as Sep 13 recorded it** — `=== Message from` header form, sliced to the
 next header, masthead glyph on the first line of every body. **No change to the method note.**
 **Method note — THE Sep 10 METHOD NOTE WAS WRONG ABOUT THE FORMAT AND COST A WASTED PARSE.** The
@@ -236,10 +281,19 @@ must try the `=== Message from` form FIRST and fall back to the prefix form, nev
 first ~110 chars of each body past the `Message TS:` line: our posts always open with the masthead
 glyph (`:mag:` or `:tumbler_glass:`) followed by THE POUR. Anything else is a human.**
 
-**FETCHER NOTE, re-confirmed Sep 8:** the default WebFetch tool returns **503 on every
-whiskyadvocate.com path**. **curl with a desktop browser User-Agent returns 200 on all of them.**
-This is Lesson 46 and it is still load-bearing — **do not read a 503 as a dead host or a dry rail.**
-fredminnick.com fetches fine either way.
+**FETCHER NOTE — NOW TWO-SIDED as of Sep 20. Read both halves.**
+**(a)** the default WebFetch tool returns **503 on every whiskyadvocate.com path**, and 307s
+robbreport.com to a `tollbit.` host that does not resolve. **curl with a desktop browser User-Agent
+returns 200 on all of them.** This is Lesson 46/57 and it is still load-bearing.
+**(b) THE REVERSE ALSO HAPPENS. `bourbononthebanks.org` returns HTTP 202 and a 201-byte
+sgcaptcha meta-refresh to curl with a full browser UA, cookie jar or not — and WebFetch renders it
+fine.** `visitfrankfort.com` 403s to curl.
+**THE RULE: a failed fetch is a statement about the TOOL, not the site. There are two tools. Try
+the other one before recording a page as unreachable or a rail as dry. See Lesson 61.**
+**And when curl cannot reach a page you must grep, use a second absence-shaped WebFetch that asks
+for exact strings and yes/no presence — never fall back to a search summary (Lesson 59).**
+fredminnick.com fetches fine either way. thespiritsbusiness.com, heavenhill.com,
+kybourbontrail.com and thebordersdistillery.com all fetch fine with curl.
 
 **FILE SIZE — MANAGED. PRUNE STATUS Sep 16: EXECUTED. `MONDAY Aug 24 — PREP RUN` deleted (225
 lines), and only that section. ALL FOUR ARMS PASSED — and two of them looked like failures until
@@ -307,6 +361,215 @@ from DEDUP would be, and would block the prune.**
 **ITS LESSONS ARE ALREADY SAFE — Lesson 22 was consolidated Sep 10 ahead of schedule, exactly so
 this prune is unblocked.** Re-grep anyway.
 **Never prune DEDUP, OPEN GAPS, COLLISION FLAGS, the boards or the LESSONS blocks.**
+
+---
+
+## SUNDAY Sep 20 — PREP RUN (posted 06:14 PT)
+
+**Calendar check first (Lesson 51): sandbox clock 2026-09-20 13:07 UTC → America/Los_Angeles
+2026-09-20 06:07 PDT, SUNDAY. PREP RUN. No rollover, no drift. Next: Mon Sep 21 prep, Tue Sep 22
+THE SHORTLIST.**
+**Skills: `whiskey-social-news-roundup` loaded (present). `whiskey-social-brand` STILL ABSENT — it
+has been absent for every run this file records. Carried as the compressed `_unchanged:_` note.**
+
+### `bourbon-on-the-banks-2026` — NEW KEY, VERIFIED, STAGED Fri Sep 25. IT CLOSES THAT BOARD'S ASK ON THE FIRST OF FOUR PREP RUNS.
+
+**The ask, written Sep 17 and restated Sep 18: a NON-WA occasion item, Social Drinker or Venue
+Regular. This is exactly that, and it arrived on the first pass.**
+
+**VERIFICATION — the primary-source clause, and both sources are Tier 1:**
+- **The festival's own site**, `https://bourbononthebanks.org/bourbon-on-the-banks-festival/` —
+  Tier 1 primary. **Organizer of record is "Bourbon on the Banks Festival, LLC.", presented by
+  Visit Frankfort** (per the Eventbrite listing, which is the organizer's own ticketing page).
+- **`https://kybourbontrail.com/organizer/bourbon-on-the-banks-festival/` — this is the KDA's site,
+  so it is a SECOND Tier 1 source, not a Tier 3 corroboration.** Fetched 200 this run.
+**NOT FLAGGED.**
+
+**FETCHER NOTE, NEW AND LOAD-BEARING: `bourbononthebanks.org` IS BEHIND A SITEGROUND BOT WALL AND
+curl WITH A BROWSER UA DOES NOT GET PAST IT.** It returns **HTTP 202 with a ~200-byte body** that
+is a meta-refresh to `/.well-known/sgcaptcha/`. A cookie jar and a second pass do not help.
+**WebFetch DOES render the page.** **This is the MIRROR IMAGE of Lesson 46/57 — there, WebFetch was
+blocked and curl worked; here, curl is blocked and WebFetch works.** **The rule is now two-sided:
+a fetch failure is a TOOL result, never a site verdict. Try the other tool before recording a
+page as unreachable.** `visitfrankfort.com` also 403s to curl and was not needed.
+**Because curl cannot reach the page, its claims could not be raw-grepped. They were pinned with a
+SECOND, absence-shaped WebFetch that asked for exact strings and yes/no presence** — which is the
+nearest available substitute for a grep and is how the ticket tiers below were confirmed.
+
+**SUPPORTED AND PRINTABLE off the festival primary:**
+- `Saturday, Oct. 3, 2026` · `River View Park | Frankfort, KY`
+- `70+ distilleries, plus select breweries and wineries` — **the page also says "60+ distillers" in
+  a second place. PRINT "more than 70", which is what KDA independently says, and never print 60.**
+- `* TICKETS LIMITED TO 2,900` · `Must be 21+ to attend.`
+- **THE TIER TABLE, exact strings:** `Special Access Ticket - $200* -limited to 300- (SOLD OUT)` ·
+  `Early Entry - $95* (SOLD OUT)` · `General Admission - $75* (SOLD OUT)` · `Twilight Ticket -$55*`
+  (NOT sold out) · `Designated Driver - $35*` (NOT sold out).
+  **THREE OF FIVE TIERS ARE GONE AND THE TWO CHEAPEST REMAIN. That is the hook, it is sourced, and
+  it is a real reader action.**
+- Hours: `Special Access: 12 p.m. – 6 p.m. | Early Entry: 1 p.m. – 6 p.m. | General Admission:
+  2 p.m. – 6 p.m. | Twilight 4p.m. – 6 p.m.`
+**SUPPORTED off KDA:** the weekend is `October 1 - October 3`; festival day is Saturday Oct 3;
+`samples from more than 70 distilleries`; **the Four Roses Bourbon Pub Stroll expands to three full
+days, Thursday October 1 through Saturday October 3, in downtown Frankfort, with a signature
+cocktail at each participating stop.**
+
+**BLOCKS ON THIS ITEM:**
+- **SENSORY IS BLOCKED AND THAT IS CLEAN — the festival page describes no bourbon's flavour at all.
+  Confirmed by direct absence question, answered "No".** Nothing to attribute, nothing to invent.
+- **NEVER count pours and never write "unlimited" — DISCUS 73.8.** Same block B&B carries.
+- **DO NOT print KDA's "handcrafted cocktails" — banned word.** Paraphrase as "a signature cocktail
+  at each stop".
+- **The Designated Driver tier at $35 is worth naming.** It is sourced, it is useful, and it is the
+  opposite of an intoxication cue. It is not a compliance risk; it is a compliance asset.
+- **DO NOT frame the sold-out tiers as scarcity pressure.** State them flatly: three gone, two left.
+**Beat `on-the-calendar`, persona `venue-regular`.**
+Link: `https://bourbononthebanks.org/bourbon-on-the-banks-festival/`
+Corroborating: `https://kybourbontrail.com/organizer/bourbon-on-the-banks-festival/`
+
+**THE SHAPE COLLISION, FLAGGED NOT RESOLVED.** **Sep 22 carries `bourbon-and-beyond-2026` (Sept
+24–27, Louisville) and Sep 25 would carry this (Oct 3, Frankfort). Both `on-the-calendar`, both
+`venue-regular`, both Kentucky festivals, three days apart across two editions.** **Neither is a
+dedup hit and both are correctly sourced, so this is an EDITORIAL call for the Sep 25 assembly, not
+a blocker.** **Arguments for running both:** different weekends, different cities, different shapes
+(B&B is a music festival with a published pour list; this is a boutique river-park festival with a
+ticket wall). **Argument against:** two consecutive editions leading their calendar slot with a
+Kentucky festival reads like a rut. **Raised once in Notes Sep 20. Do not re-raise it every run.**
+
+**THE METHOD POINT, AND IT IS THE SECOND TIME IN FIVE DAYS: A FESTIVAL CALENDAR ANSWERED AN
+OCCASION ASK THAT THE NATIONAL TRADE RAILS DO NOT SERVE.** Sep 16 closed Sep 22's seven-day persona
+ask off a festival calendar after five consecutive trade-rail failures. **Sep 20 closed Sep 25's
+ask off one on the FIRST pass.** **Lesson 58 said to try the untried rails. The update is stronger:
+for an occasion / Venue Regular ask, go to event and festival calendars FIRST, and treat the trade
+rails as the fallback.** Recorded in Lesson 61.
+
+### `borders-distillery-first-release-2026` — NEW KEY, VERIFIED, STAGED Tue Sep 29. THE SECOND ITEM ON THAT BOARD.
+
+**VERIFIED on two sources:** **TSB, `https://www.thespiritsbusiness.com/2026/09/the-borders-unveils-first-single-malt/`,
+15 September 2026, by Miona Madsen** (fetched 200, curl + browser UA) + **The Borders Distillery's
+own site, `https://www.thebordersdistillery.com/`** (fetched 200), which is a Tier 1 primary.
+
+**SUPPORTED AND PRINTABLE off TSB (the link-out):**
+- eight years old · first aged in first-fill ex-bourbon American oak, then finished in Malmsey
+  Madeira casks · **`46% ABV`** · first casks filled in 2018
+- **`limited to 10,000 bottles worldwide`** (the distillery's own site independently says
+  `Limited to 10,000 bottles`)
+- **`available from 24 September from select UK retailers at an RRP of £46 (US$62) for a 700ml
+  bottle`** · **`International distribution will follow`** — no date given
+- **"said to be the first single malt whisky to be distilled and released in the Scottish Borders
+  since 1837"** — **TSB hedges it with "said to be". If we print it, hedge it the same way or
+  attribute it to TSB. Do not harden it into a flat claim.**
+- Hawick · the distillery's stated house style is `'fruity, sweet and aromatic'`
+
+**SENSORY — READ THIS BEFORE DRAFTING.** **TSB prints "sultanas, citrus, sweet caramel, hazelnuts,
+and macadamia, with aromas of honey and vanilla" in its own voice, but the distillery's own site
+prints the same register ("rich sultanas, warmth and depth"), so it is BRAND RELEASE COPY, not a
+TSB tasting. TSB never says it tasted the whisky. TREAT SENSORY AS BLOCKED.**
+**THE ONE NAMED SENSORY LINE IS CHARLES MACLEAN'S — he calls it an "easy drinking and more-ish"
+single malt Scotch. DO NOT USE IT.** **"more-ish" is a want-another cue and reads as a
+consumption cue under DISCUS 73.8. The attribution is clean; the words are not. Recorded as a
+DECISION so no later run re-discovers it and prints it.**
+**THE USABLE QUOTE, if the item needs one:** Giancarlo Bianchi, managing director of The Borders
+Distillery — **"The ambition was to create a whisky that reflects the place it comes from"** —
+**fourteen words, named speaker, verbatim on the linked TSB page.** Clean.
+
+**ITS OPEN QUESTION, AND IT IS A REAL ONE: `select UK retailers` ONLY, with international
+distribution promised and undated. A US reader cannot buy this.** **The forward bar has to be
+carried entirely by the story — first malt from the Scottish Borders in almost 200 years — not by
+a reader action.** **That is a legitimate Explorer reading item, but it is a DECISION for the Sep
+29 assembly, not a settled stage.** Raised once in Notes Sep 20.
+**Also on the TSB page and NOT to be touched:** a break-in and theft at the distillery last month.
+Not our story and not this item's.
+**Beat `whats-dropping`, persona `explorer`.**
+Link: `https://www.thespiritsbusiness.com/2026/09/the-borders-unveils-first-single-malt/`
+
+### THE SEP 22 PRE-EDITION PASS — RAN FOUR DAYS EARLY, ALL SIX 200, FIVE CLEAN AND ONE FAILS
+
+**Instruction 3 allowed this run or Monday. The Sunday discovery budget closed early because the
+Sep 25 ask fell on the first pass, so the pass was run here.** All six fetched with curl + browser
+UA. **Monday now owes a light re-confirm, not a fresh pass.**
+
+| # | Item | HTTP | Result |
+|---|---|---|---|
+| 1 | `bourbon-and-beyond-2026` | 200 | **CLEAN.** Old Rip Van Winkle, King of Kentucky, Elmer T, Russell's, 1960 all present. **`$` returns ZERO on `/bourbon/` — the "no dollar figure against this link" rule is re-confirmed for a second time.** `Student` ZERO, the banned tagline ZERO. |
+| 2 | `parkers-heritage-20th-edition-2026` | 200 | **CLEAN.** `199.99`, `118.0 proof`, `100 barrels`, `78%`, `1.4 million`, O'Driscoll, `rye backset` ×4, ALS ×4 all present. **`honey` ZERO and `toasted vanilla` ZERO — sensory still blocked, third confirmation.** |
+| 3 | `stranahans-first-bottled-in-bond-2026` | 200 | **CLEAN.** `$150`, Aspen, Colorado ×3, Higgins, `mustiness`, `apple pie`, `root beer` all present. Higgins's sensory still printable. |
+| 4 | `basil-hayden-cognac-cask-reserve-2026` | 200 | **CLEAN.** `$50`, `80 proof`, Freddie Noe, French oak, high-rye present. `Cognac` is CAPITALISED on the page (8 hits) — a lowercase grep returns zero and that is a grep artefact, not an absence. The cask age reads **`20 and 25`**, not "20–25". |
+| 5 | `woodford-reserve-super-seasoned-oak-2026` | 200 | **FAILS — see below.** |
+| 6 | `whisky-advocate-new-zealand-single-malts-2026` | 200 | **CLEAN.** Scores render as BARE NUMBERS, not "91 points": `92 Cardrona The Falcon Single Malt, 52%, $285` · `91 Pōkeno Discovery, 43%, $75` · `NR Scapegrace Anthem, 40%, $90`. `9.5`, `3.5`, `laureate` ×4 present. **Anthem still carries NR and no notes.** |
+
+### WOODFORD — THREE RECORDED FIGURES ARE NOT ON ITS LINK-OUT, AND ALL THREE CAME FROM TSB
+
+**`50.2` returns ZERO. `179` returns ZERO. `New Hampshire` and `North Dakota` return ZERO.** All
+three are on the Sep 7 board line, which merged RR's numbers and TSB's numbers into one entry
+(`$180 / $179.99 for 700ml · 100.4 proof / 50.2%` and `plus online shipping to KY, NH, ND, NE and
+DC`) and was never re-separated.
+**WHAT IS ACTUALLY ON THE ROBB REPORT PAGE:** `SRP $180` · `100.4 proof, which is 10 degrees higher
+than regular Woodford` · `about nine years` · 22nd Master's Collection · Elizabeth McCall ·
+**"initially released at select Kentucky retailers and the distillery's gift shop earlier this
+week"** — and nothing about shipping to any state.
+**RULE FOR THIS ITEM IF IT RUNS: print `$180`, `100.4 proof`, about nine years, Kentucky-first, and
+STOP. No ABV percentage, no `$179.99`, no shipping list.**
+**The existing blocks stand:** do not lift McCall's "collectors and connoisseurs" line (it is on the
+page, quoted this run) and do not echo RR's "check secondary market websites" advice.
+**THIS STRENGTHENS THE CUT RATHER THAN CREATING WORK.** Woodford was already the board's named cut —
+$180, Kentucky-first, never leads, the second RR link-out. **It is now also the only item on the
+board whose recorded figures do not survive their own link. Cut it.**
+**This is the THIRD time a board entry has carried a figure its link-out does not hold** — MGP's
+`111 proof` (a conversion, Sep 16), the import ban's `12:01 a.m. ET` (a dropped outlet's detail,
+Sep 10), and now Woodford's three TSB numbers. **See Lesson 61.**
+
+### THE TWO RELEASED SEP 25 ALTERNATES — RE-FETCHED AND RE-GREPPED, BOTH HOLD
+
+Instruction 2 required this before counting them. Both had sat unverified since Sep 13.
+- **`fee-brothers-fat-wash-drops-2026` — 200.** `Sean Evans` present, `September 2` present,
+  `Browned Butter` ×3, `Roasted Duck` ×3, `Bacon` ×3, `fat wash` ×11. **`$` RETURNS ZERO for the
+  second recorded check — "no price published" is settled, not provisional.** **`thirds` appears
+  once and is still the volume cue that must not be printed.** Evans's sensory still attributable
+  to him by name.
+- **`whisky-advocate-victoria-bc-travel-2026` — 200.** `Stephen Beaumont` present, `September 10`
+  present, `Spinnakers` ×5, `18 months` present, `Victoria` ×13. **`tariff` RETURNS ZERO on the
+  page**, which makes condition (a) costless to keep — there is nothing on the page to accidentally
+  echo. The three Canada conditions are binding and were not re-litigated.
+**Sep 25 therefore counts THREE, honestly: two re-verified WA alternates plus the new festival
+primary. The 3–4 floor is cleared and the single-outlet problem is gone.**
+
+### URGENT SWEEP — nothing fires, TENTH application of the precedent
+
+- **Uncle Nearest / Farm Credit Mid-America $108m default suit** — commercial litigation, and
+  Uncle Nearest is **not a WS partner brand or venue.** Not urgent.
+- **No TTB recall and no FSS action in the window.** The FSS Kimbland warning is **December 2025**,
+  now nine months stale, and Kimbland is not a partner. Unchanged from Sep 16.
+- **No death in the industry.** The obituary sweep returned only 2018–2021 material.
+- **Craft-distillery closures and the wider contraction** remain market news, not urgent.
+**Record and move on. The precedent list is now: trade actions, strikes, bankruptcy waves,
+receiverships, closures, production pauses, a distributor bribery settlement, commercial contract
+litigation, a creditor default suit, and a non-industry celebrity death.**
+
+### PRUNE — NOT DUE, and not re-derived
+
+Aug 25 WHAT SHIPPED was deleted Sep 17. **Nothing crosses thirty days before Sep 27**
+(`FRIDAY Aug 28 — WHAT SHIPPED`). **`FRIDAY Aug 21 — STAGING RECORD` is the only Aug 21 record and
+is never the target.**
+
+### Coverage and shape after this run
+
+- **Tue Sep 22 — SIX.** Explorer ×3, Collector ×2, Venue Regular ×1. Outlets RR ×2, WA ×2,
+  Heaven Hill ×1, Bourbon & Beyond ×1. **Cut owed: Woodford.**
+- **Fri Sep 25 — THREE.** Social Drinker ×1, Venue Regular ×2. Outlets WA ×2, festival ×1.
+  **Ask closed. A fourth is optional, not owed.**
+- **Tue Sep 29 — TWO.** Collector ×1 (Elmer T. Lee), Explorer ×1 (Borders). Outlets Buffalo
+  Trace/WA ×1, TSB ×1. **Needs two more. Do not raid Sep 22.**
+
+### The post
+
+**Posted 06:14 PT, `:mag:` masthead, two staged items, four Notes bullets, three Pipeline lines.**
+**READ BACK FROM THE CHANNEL PER LESSON 60 AND THE RENDER IS CORRECT** — `*THE POUR*`, both
+headlines and both aside headers all rendered BOLD from `**double asterisk**` input; links,
+blockquote, `_italic_` and emoji shortcodes all passed through intact.
+**ONE RENDER DRIFT, COSMETIC, RECORDED SO IT IS NOT RE-DISCOVERED AS A BUG: the bare `>` blank line
+between NOTES and PIPELINE WAS DROPPED.** The two blocks now sit flush inside one blockquote. **The
+aside still reads as one marginal block, which is the actual requirement, so this needs no fix. Do
+not spend a run on it.**
 
 ---
 
@@ -5146,7 +5409,17 @@ theme, not a board.**
 
 ---
 
-## TUESDAY Sep 22 — SIX ON THE BOARD AND THE ASK IS CLOSED AFTER SEVEN DAYS. *(heading last rewritten Sep 16)*
+## TUESDAY Sep 22 — SIX ON THE BOARD, PRE-EDITION PASS DONE, ONE ITEM'S FIGURES FAILED. *(heading last rewritten Sep 20)*
+
+**SEP 20 — THE PRE-EDITION PASS RAN FOUR DAYS EARLY. ALL SIX LINK-OUTS 200. FIVE CLEAN, WOODFORD
+FAILS.** Full table in the Sep 20 section.
+**WOODFORD: `50.2` ZERO, `179` ZERO, `New Hampshire` and `North Dakota` ZERO on the Robb Report
+page. All three are TSB numbers that the Sep 7 entry merged into one line and never re-separated.**
+**If it runs, print `$180`, `100.4 proof`, about nine years, Kentucky-first, and STOP.**
+**IT WAS ALREADY THIS BOARD'S NAMED CUT. It is now also the only item whose recorded figures do not
+survive their own link. CUT IT.**
+**Monday owes a light re-confirm on these six, not a fresh pass.**
+
 
 **SEP 16 — `bourbon-and-beyond-2026` IS STAGED AND THE SEVEN-DAY PERSONA ASK IS ANSWERED.**
 **Personas are now Explorer ×3, Collector ×2, VENUE REGULAR ×1. Outlets are RR ×2, WA ×2,
@@ -5385,7 +5658,34 @@ Vinmonopolet exclusive, no US reader action).** Both are in DROPPED / DO NOT RED
 
 ---
 
-## TUESDAY Sep 29 — ONE STAGED. FIRST ITEM ON THIS BOARD. *(heading last rewritten Sep 17)*
+## TUESDAY Sep 29 — TWO STAGED. *(heading last rewritten Sep 20)*
+
+**SEP 20 — `borders-distillery-first-release-2026` IS STAGED. Shape is Collector ×1 + Explorer ×1,
+outlets Buffalo Trace/WA ×1 + TSB ×1.** **NEEDS TWO MORE. Do not raid Sep 22.**
+
+- `borders-distillery-first-release-2026` — **NEW AND STAGED Sep 20. VERIFIED: TSB (Miona Madsen,
+  15 September) + The Borders Distillery's own site, a Tier 1 primary. NOT FLAGGED.**
+  **Eight years old · first-fill ex-bourbon American oak, finished in Malmsey Madeira casks ·
+  46% ABV · limited to 10,000 bottles worldwide · RRP £46 (US$62) for 700ml · on sale 24 September
+  from select UK retailers · international distribution "will follow", undated · first casks
+  filled 2018 · Hawick.**
+  **THE "first single malt distilled and released in the Scottish Borders since 1837" CLAIM IS
+  HEDGED ON THE PAGE AS "said to be". Hedge it the same way or attribute it to TSB. Never harden
+  it.**
+  **SENSORY IS BLOCKED. TSB's sultanas/citrus/caramel/hazelnut/macadamia string is brand release
+  copy — the distillery's own site prints the same register, and TSB never says it tasted the
+  whisky.**
+  **CHARLES MACLEAN'S "easy drinking and more-ish" IS NAMED, VERBATIM AND USABLE ON PAPER —
+  AND IS A DECIDED NO. "more-ish" is a want-another cue under DISCUS 73.8. Recorded as a decision
+  so no later run re-finds it and prints it.**
+  **THE USABLE QUOTE:** Giancarlo Bianchi, managing director — "The ambition was to create a whisky
+  that reflects the place it comes from" — fourteen words, verbatim on the linked page.
+  **ITS OPEN QUESTION: UK-only availability. A US reader cannot buy it, so the forward bar rests
+  entirely on the story. That is a DECISION for this board's assembly, raised once in Notes Sep 20.**
+  **Do not touch the distillery break-in mentioned at the foot of the TSB page.**
+  Beat `whats-dropping`, persona `explorer`. Full entry in the Sep 20 section.
+  Link: `https://www.thespiritsbusiness.com/2026/09/the-borders-unveils-first-single-malt/`
+
 
 - `elmer-t-lee-40th-anniversary-2026` — **NEW AND STAGED Sep 17. VERIFIED on the primary-source
   clause: Buffalo Trace's own release (Tier 1 primary, FRANKFORT KY, September 14 2026) + Whisky
@@ -5438,7 +5738,38 @@ must NOT be filled from Sep 22.** **Twelve days out — there is time, and no as
 
 ---
 
-## FRIDAY Sep 25 — TWO ALTERNATES RELEASED TO IT. NOTHING STAGED ON ITS OWN MERITS. *(heading rewritten Sep 18)*
+## FRIDAY Sep 25 — THREE STAGED AND THE ASK IS CLOSED. *(heading rewritten Sep 20)*
+
+**SEP 20 — `bourbon-on-the-banks-2026` IS STAGED AND THIS BOARD'S ASK IS ANSWERED ON THE FIRST OF
+FOUR PREP RUNS.** **Shape is now Social Drinker ×1, Venue Regular ×2; outlets WA ×2 + festival
+primary ×1.** **THREE CLEARS THE 3–4 FLOOR AND THE SINGLE-OUTLET PROBLEM IS GONE. A fourth item is
+optional from here, never owed, and must not be padded in.**
+
+- `bourbon-on-the-banks-2026` — **NEW AND STAGED Sep 20. VERIFIED on the primary-source clause, and
+  BOTH sources are Tier 1: the festival's own site + kybourbontrail.com, which is the KDA. NOT
+  FLAGGED.**
+  **Sat Oct 3, 2026 · River View Park, Frankfort KY · more than 70 distilleries plus select
+  breweries and wineries · tickets limited to 2,900 · 21+ · weekend runs Oct 1–3, with the Four
+  Roses Pub Stroll expanding to three full days in downtown Frankfort.**
+  **THE HOOK IS THE TICKET WALL AND IT IS SOURCED EXACTLY: Special Access $200 (limited to 300),
+  Early Entry $95 and General Admission $75 are ALL MARKED SOLD OUT. Twilight $55 and Designated
+  Driver $35 remain.** **Three of five tiers gone, the two cheapest left.**
+  **SENSORY IS BLOCKED AND CLEAN — the page describes no bourbon's flavour at all, confirmed by
+  direct absence question.**
+  **BLOCKS: never count pours, never "unlimited" (DISCUS 73.8) · do not print KDA's "handcrafted
+  cocktails", banned word — say "a signature cocktail at each stop" · print "more than 70", never
+  the page's second, lower "60+" · state the sold-out tiers flatly, never as scarcity pressure.**
+  **The $35 Designated Driver tier is sourced and worth naming — it is a compliance asset.**
+  **FETCHER: curl with a browser UA CANNOT reach this host (SiteGround bot wall, HTTP 202 →
+  sgcaptcha). WebFetch CAN. The reverse of Lesson 46/57. See Lesson 61.**
+  Beat `on-the-calendar`, persona `venue-regular`. Full entry in the Sep 20 section.
+  Link: `https://bourbononthebanks.org/bourbon-on-the-banks-festival/`
+  Corroborating: `https://kybourbontrail.com/organizer/bourbon-on-the-banks-festival/`
+  **SHAPE COLLISION, FLAGGED NOT BLOCKING: Sep 22 carries `bourbon-and-beyond-2026`, also
+  `on-the-calendar`/`venue-regular`, also a Kentucky festival, three days earlier. Editorial call
+  for this board's assembly. Raised once in Notes Sep 20; do not re-raise it every run.**
+
+**THE TWO RELEASED ALTERNATES WERE RE-FETCHED AND RE-GREPPED Sep 20 AND BOTH HOLD. They now count.**
 
 **SEP 18 HAS PUBLISHED, SO ITS TWO ALTERNATES ARE RELEASED HERE, EXACTLY AS INSTRUCTION 6 REQUIRED.**
 They are released, not staged: **each needs a re-fetch and a re-grep before it counts, because both
@@ -5448,7 +5779,11 @@ have sat unverified since Sep 13** (Lesson 54 — a board entry decays against i
   September 2, Sean Evans. Browned Butter, Roasted Duck and Bacon drops; three whiskey recipes on
   the page with named bottles. **Evans's sensory IS attributable to him by name — this is one of the
   rare items where sensory is printable.** **NO PRICE PUBLISHED — do not supply one.**
-  **Do not print "my friends ask for thirds" — it is a volume cue.**
+  **Do not print "my friends ask for thirds" — it is a volume cue. Re-confirmed on the page Sep 20,
+  `thirds` still appears exactly once.**
+  **RE-FETCHED Sep 20, HTTP 200. `Sean Evans`, `September 2`, Browned Butter ×3, Roasted Duck ×3,
+  Bacon ×3, `fat wash` ×11 all present. `$` RETURNS ZERO for the second recorded check — "no price
+  published" is SETTLED, not provisional. It counts as staged.**
   Beat `easy-pour`, persona Social Drinker.
   Link: `https://whiskyadvocate.com/fee-brothers-fat-wash-drops-review`
 - `whisky-advocate-victoria-bc-travel-2026` — **SECOND ALTERNATE, RELEASED Sep 18.** WA,
@@ -5457,13 +5792,18 @@ have sat unverified since Sep 13** (Lesson 54 — a board entry decays against i
   (b) no cross-border purchase framing and no "stock up" of any kind; (c) frame it as a place to
   go, never as a way to get bottles.** **CAUTION: the piece is beer-forward in its first half, and
   Spinnakers' Knot is 18 months old and legally not whisky.** Supported claims are listed in full
-  in the Sep 18 board entry above. Beat `on-the-calendar`, persona Venue Regular.
+  in the Sep 18 board entry above.
+  **RE-FETCHED Sep 20, HTTP 200. `Stephen Beaumont`, `September 10`, `Spinnakers` ×5, `18 months`,
+  `Victoria` ×13 all present. `tariff` RETURNS ZERO on the page, so condition (a) costs nothing to
+  keep — there is no trade language on the page to echo by accident. It counts as staged.**
+  Beat `on-the-calendar`, persona Venue Regular.
   Link: `https://whiskyadvocate.com/whisky-lovers-travel-guide-to-british-columbia`
 
-**SHAPE IF BOTH RAN: WA ×2, Social Drinker ×1, Venue Regular ×1. That is two items, which is BELOW
-the 3–4 floor, and both are the same outlet.**
-**WHAT THIS BOARD ACTUALLY NEEDS: a NON-WA occasion item, ideally Social Drinker or Venue Regular.**
-**Seven days out, four prep runs to find it — Sun Sep 20, Mon 21, Wed 23, Thu 24.**
+**SUPERSEDED Sep 20 — retained because it is the record of an ask that closed in one pass:**
+~~"SHAPE IF BOTH RAN: WA ×2 ... BELOW the 3–4 floor ... WHAT THIS BOARD ACTUALLY NEEDS: a NON-WA
+occasion item, ideally Social Drinker or Venue Regular. Seven days out, four prep runs to find
+it — Sun Sep 20, Mon 21, Wed 23, Thu 24."~~
+**IT TOOK ONE. `bourbon-on-the-banks-2026`, off a festival calendar, on Sun Sep 20. See Lesson 61.**
 **The Sep 17 rejections are recorded in that section and are NOT to be re-walked.**
 
 ---
@@ -5529,6 +5869,32 @@ the 3–4 floor, and both are the same outlet.**
 ---
 
 ## OPEN GAPS
+
+**SEP 20 STATUS — READ THIS FIRST. IT SUPERSEDES THE SEP 18 BLOCK BELOW.**
+- **NO SUPPLY GAP IS OPEN ON SEP 22 OR SEP 25. The forward gap has shrunk to ONE BOARD.**
+  **Sep 22 — six staged, pre-edition pass done, a CUT owed (Woodford), not a fill.**
+  **Sep 25 — THREE staged, the non-WA occasion ask CLOSED Sep 20 on the first of four prep runs.
+  A fourth item is optional and must never be padded in.**
+  **Sep 29 — TWO staged, NEEDS TWO MORE. Nine days out. This is now the only open supply gap, and
+  it is the Mon 21 / Wed 23 / Thu 24 discovery target. Do NOT fill it by raiding Sep 22.**
+  **Sep 29's shape so far is Collector ×1 + Explorer ×1, which is a normal Shortlist spine. What it
+  wants is breadth, not a specific persona — so this is not a persona ask and must not be logged
+  as one.**
+- **TWO ITEM-LEVEL DECISIONS ARE OPEN AND BOTH BELONG TO AN ASSEMBLY RUN, NOT TO DISCOVERY:**
+  **(a) `borders-distillery-first-release-2026` is UK-only from Sep 24 with international
+  distribution undated. Decide before Sep 29 whether a US reader with no way to buy still clears
+  the forward bar. The story — first Borders malt in almost 200 years — is the whole case.**
+  **(b) Sep 22 and Sep 25 would run a Kentucky festival in the `on-the-calendar`/`venue-regular`
+  slot three days apart (Bourbon & Beyond, then Bourbon on the Banks). Both are sound; the
+  question is whether back-to-back reads as a rut. Sep 25's assembly decides.**
+  **Both were raised ONCE in Notes Sep 20. Neither is re-raised until its assembly run.**
+- **THE CIGAR-CROSSOVER PERSONA SLUG IS STILL OPEN AND STILL OWNED BY AARON, AND IT WAS CORRECTLY
+  NOT CARRIED Sep 20** — rule 9 says carry it only if unanswered AND an item needs it. **No item
+  this run needed it.** The UTM persona list remains explorer / collector / social-drinker /
+  venue-regular. **If Aaron adds a slug, record it here and in NEXT RUN. If he declines, mark it
+  spent. Until a crossover item is actually staged, it stays here and out of Notes.**
+- **NOT A GAP, RECORDED SO IT IS NOT MISREAD AS ONE: this run posted no reader-facing copy.** A
+  prep run is not a thin edition. **Sep 19 was a Saturday and correctly has no post at all.**
 
 **SEP 18 STATUS — READ THIS FIRST. IT SUPERSEDES THE SEP 17 BLOCK BELOW.**
 - **SEP 18 IS PUBLISHED AND CLOSED. THE ONLY LIVE EDITION BOARD IS TUE SEP 22, AND IT STILL FACES A
@@ -6239,7 +6605,7 @@ a line-based strip leaves kilobytes of inline JS in the text and buries the arti
 
 ---
 
-## OPERATIONAL LESSONS (49–51 in their own blocks below the NEXT RUN section; 47–48 added Sep 2)
+## OPERATIONAL LESSONS (52–61 are in their own blocks below the NEXT RUN section; 49–51 likewise; 47–48 added Sep 2)
 
 49. **WORK THE BENCH BEFORE OPENING A SEAM** (added Sep 6) — a shape gap is usually already answered
     by an item on the unassessed bench, and clearing it costs one fetch instead of a discovery run.
@@ -6586,6 +6952,10 @@ and nothing is lost.** 22 and 23 are captured here early so their source section
 ---
 
 ## DEDUP — closed to re-use
+
+**ADDED Sep 20 (staged, not yet published — both go to COVERED on their edition day):**
+- `bourbon-on-the-banks-2026` — STAGED Fri Sep 25. Festival primary + KDA. Sat Oct 3, Frankfort KY.
+- `borders-distillery-first-release-2026` — STAGED Tue Sep 29. TSB + the distillery's own site.
 
 **PUBLISHED Fri Sep 18 (Last Call) — CLOSED TO RE-USE, ALL THREE:**
 `whisky-advocate-spas-2026` · `penelope-cigar-sessions-chapter-2-2026` ·
@@ -7492,70 +7862,135 @@ and the fifth coconut item) · `discus-congressional-fly-in-2026`.
 
 ---
 
-## NEXT RUN (Sun Sep 20 — PREP. No Saturday run. Then Mon Sep 21 prep, then Tue Sep 22 THE SHORTLIST.)
+## NEXT RUN (Mon Sep 21 — PREP. Then Tue Sep 22 THE SHORTLIST, then Wed Sep 23 prep.)
 
 **THIS IS A PREP RUN. Internal register, addressed to Adam and Aaron, raw links, NO UTMs, glyph
 :mag:.** **No consumer edition. Post only if there is new pipeline material, a gap update, or
-urgent news — otherwise post nothing.**
+urgent news — otherwise post nothing. A quiet Monday is a legitimate outcome.**
 Load `whiskey-social-news-roundup` (present) and `whiskey-social-brand` **if it has appeared — still
-absent Sep 18, and absent for every run this file records.**
+absent Sep 20, and absent for every run this file records.**
 
 0. **CALENDAR CHECK FIRST — Lesson 51.** Compute date and weekday in America/Los_Angeles; the
    sandbox clock is UTC and runs ~7 hours ahead of a 6am PT firing.
-   **Expected: today = Sunday Sep 20 (PREP), then Mon Sep 21 (PREP), then Tue Sep 22 (THE SHORTLIST).**
-0b. **SEARCH WINDOW IS WIDER TODAY: cover back through FRIDAY Sep 18, because there is no Saturday
-   run.** That is a 72-hour window, not 24.
-0c. **Lesson 53.** Board headings read: Sep 18 → PUBLISHED Sep 18 · Sep 22 → Sep 16 · Sep 25 →
-   Sep 18 · Sep 29 → Sep 17. **Reconcile against the run log before trusting any of them.**
-0d. **Lesson 54 / 58 / 59. NEVER draft or stage a claim from a board entry, from a CONVERSION of
-   one, or from a SEARCH SUMMARY. Grep every claim string against the page itself.**
-0e. **LESSON 57 — use curl with a browser user-agent, not WebFetch, on whiskyadvocate.com and
-   robbreport.com. Re-confirmed working Sep 16, 17 and 18.**
+   **Expected: today = Monday Sep 21 (PREP), then Tue Sep 22 (THE SHORTLIST).**
+0b. **SEARCH WINDOW IS BACK TO 24h** — Sun Sep 20 through Mon Sep 21. Sunday's run covered
+   Fri 18 → Sun 20 and its finds are recorded; do not re-walk them.
+0c. **Lesson 53.** Board headings read: Sep 22 → Sep 20 · Sep 25 → Sep 20 · Sep 29 → Sep 20.
+   **All three were rewritten yesterday and agree with the run log. Reconcile anyway, cheaply.**
+0d. **Lesson 54 / 58 / 59 / 61. NEVER draft or stage a claim from a board entry, from a CONVERSION
+   of one, from a SEARCH SUMMARY, or from a SECOND OUTLET whose figure was merged into a
+   single-outlet board line. Grep every claim string against the page you are actually linking.**
+0e. **FETCHERS ARE TWO-SIDED NOW — Lesson 61.** curl with a browser UA for `whiskyadvocate.com` and
+   `robbreport.com` (re-confirmed working Sep 20). **WebFetch, NOT curl, for
+   `bourbononthebanks.org` — curl gets HTTP 202 and an sgcaptcha meta-refresh.** `visitfrankfort.com`
+   403s to curl. **A failed fetch is a TOOL result. Try the other tool before recording a page as
+   unreachable or a rail as dry.**
 
-1. **DISCOVERY IS THIS RUN'S WHOLE JOB, AND THE TARGET IS FRI SEP 25.** It holds two RELEASED
-   alternates, both WA, which is below the 3–4 floor and single-outlet.
-   **WHAT IT NEEDS: a NON-WA occasion item, Social Drinker or Venue Regular.**
-   **Sep 22 needs NOTHING — six staged. Do not spend the budget there. Do not raid it for Sep 25.**
-2. **RE-VERIFY THE TWO RELEASED ALTERNATES BEFORE COUNTING THEM.** Both have sat since Sep 13.
-   Re-fetch, re-grep, and only then call them staged. **Fee Brothers has NO price on its page —
-   do not supply one. Victoria BC's three Canada conditions are binding and settled; do not
-   re-litigate them, just apply them.**
-3. **THE SEP 22 PRE-EDITION PASS IS DUE THIS RUN OR MONDAY'S — two days out is the standing
-   practice, so Sun Sep 20 is early and Mon Sep 21 is the deadline.** Six link-outs. **Run it
-   Monday if the Sunday discovery budget is spent; do not skip it.**
-4. **THE SEP 22 CUT IS STILL OWED AND IS STILL WOODFORD** — $180, Kentucky-first, never leads, and
-   the second RR link-out. **Six clears 4–6, so the cut is a quality call, not a capacity one.**
+1. **THE SEP 22 RE-CONFIRM IS THE ONLY MANDATORY ITEM AND IT IS LIGHT.** The full pre-edition pass
+   ran Sun Sep 20, all six 200. **Re-fetch the six, confirm 200, and re-grep ONLY the figures the
+   copy will actually print. Do not redo the whole table.**
+   **THE ONE THING THAT MUST NOT BE FORGOTTEN: Woodford's `50.2`, `$179.99` and the shipping-state
+   list are NOT on its Robb Report link-out.** The board's standing answer is to CUT Woodford.
+   **If Tuesday runs it anyway, print `$180`, `100.4 proof`, about nine years, Kentucky-first, and
+   nothing else.**
+2. **DISCOVERY TARGET IS TUE SEP 29, AND IT IS THE ONLY OPEN SUPPLY GAP.** Two staged, needs two
+   more, nine days out. **It wants breadth, not a named persona — do not invent a persona ask for
+   it.** **Sep 22 needs nothing. Sep 25 is closed at three. Do not raid either.**
+3. **GO TO EVENT AND FESTIVAL CALENDARS FIRST FOR ANY OCCASION ITEM — Lesson 61.** That rail has now
+   closed two persona asks in five days, one of them on the first pass, after the national trade
+   rails failed the same ask five runs running. **It is a first-choice rail, not an untried one.**
+   **Sep 29 is a Shortlist, so this applies to a later Friday board, not to Sep 29 itself.**
+4. **TWO ITEM-LEVEL DECISIONS ARE OPEN AND NEITHER IS MONDAY'S.** Borders' UK-only availability
+   belongs to the Sep 29 assembly; the back-to-back Kentucky festival question belongs to the
+   Sep 25 assembly. **Both were raised once in Notes Sep 20. DO NOT RE-RAISE EITHER ON MONDAY.**
 5. **STANDING CHECK: before staging ANY bench item, grep its BRAND and PRODUCT against the PRUNE
    LIST tables as well as DEDUP.** A pruned key is invisible to a dedup grep. **This caught
    Bulleit '87 one step before it republished a July story.**
 6. **THE WA WHISKY WATCH ROUNDUP PAGE `2026-parkers-heritage-kentucky-boy-and-more-new-whiskey` IS
-   NOW SPENT** — one page, one item, ever. **Parker's Heritage 20th (staged Sep 22) was re-sourced
-   onto the Heaven Hill primary on Sep 14, so it is unaffected. Middle West, Jeptha Creed, Neeley,
-   Chicken Cock, Kentucky Boy and Boss Hog 13 are UNREACHABLE through that page.**
-7. **URGENT SWEEP, every run.** **Precedent now NINE times applied: trade actions, strikes,
+   SPENT** — one page, one item, ever. **Middle West, Jeptha Creed, Neeley, Chicken Cock, Kentucky
+   Boy and Boss Hog 13 are UNREACHABLE through that page.**
+7. **URGENT SWEEP, every run.** **Precedent now TEN times applied: trade actions, strikes,
    bankruptcy waves, receiverships, closures, production pauses, a distributor bribery settlement,
-   commercial contract litigation and a non-industry celebrity death are NOT urgent.**
-   **Uncle Nearest / Humble Baron Chapter 7 is the current live one and it is NOT urgent — neither
-   is a WS partner.** **Record the sweep and move on.**
-8. **PRUNE — NOT DUE.** The Aug 25 WHAT SHIPPED section was deleted Sep 17. **Nothing crosses
-   thirty days before Sep 27** (`FRIDAY Aug 28 — WHAT SHIPPED`). **Do not re-derive the list.**
+   commercial contract litigation, a creditor default suit and a non-industry celebrity death are
+   NOT urgent.** **Uncle Nearest / Farm Credit Mid-America is the current live one and it is NOT
+   urgent — Uncle Nearest is not a WS partner.** **Record the sweep and move on.**
+8. **PRUNE — NOT DUE.** Aug 25 WHAT SHIPPED was deleted Sep 17. **Nothing crosses thirty days
+   before Sep 27** (`FRIDAY Aug 28 — WHAT SHIPPED`). **Do not re-derive the list.**
    **DO NOT prune `FRIDAY Aug 21 — STAGING RECORD` — it is the only Aug 21 record.**
    **Never prune DEDUP, OPEN GAPS, COLLISION FLAGS, boards or LESSONS.**
 9. **NOTES DISCIPLINE — max 5 bullets, 15 words each, Notes+Pipeline under 120 words.**
-   **THE ONE OPEN ASK FOR AARON IS THE CIGAR-CROSSOVER PERSONA SLUG. It was raised Sep 18 and is
-   NOT spent. Carry it only if it is still unanswered AND an item needs it — otherwise leave it in
-   OPEN GAPS, not in Notes.**
+   **THE ONE OPEN ASK FOR AARON IS THE CIGAR-CROSSOVER PERSONA SLUG. Carry it only if it is still
+   unanswered AND an item needs it — otherwise leave it in OPEN GAPS, not in Notes. It was
+   correctly NOT carried Sep 20.**
    **SPENT AND NEVER TO BE RE-RAISED:** the `allocation-watch` beat-slug gap, the New Era name
    collision, the Four Roses conflict, the shelf-price slug, the sub-$30 gap, the explainer slug,
    the September third-edition cadence bump, the Balvenie 88 forward-bar call, the outdoors byline
    call, the Victoria BC Canada hazard, the Parker's Heritage shared-roundup collision, the Tuesday
    no-Social-Drinker shape, the Sep 22 persona ask, the 1880 decision, the Elmer T. Lee entry
-   window, **and as of Sep 18 the MGP `111 proof` copy cut — DISCHARGED, do not carry it again.**
+   window, the MGP `111 proof` copy cut, **and as of Sep 20 the Sep 25 non-WA occasion ask —
+   CLOSED, do not report it again.**
    **The brand-skill-absent note stays compressed as `_unchanged:_`.**
    **NEVER a bullet for this file's own machinery** — board-heading dates, the prune, lessons
-   blocks, the spent-link register, the URL audit, the curl workaround, the key merge, **the Slack
-   bold-vs-italic fix.** **NEVER a bullet for anything that worked.**
+   blocks, the spent-link register, the URL audit, the curl/WebFetch workarounds, the key merge,
+   the Slack bold fix, **the dropped blank line inside the aside blockquote.**
+   **NEVER a bullet for anything that worked.** **The Sep 22 pre-edition pass running early is a
+   PIPELINE line, not a Note.**
 10. **PERSIST STATE AND PUSH, whatever happens.**
+11. **AFTER SENDING, READ THE POST BACK FROM THE CHANNEL AND CHECK THE RENDER — Lesson 60.** Send
+    `**double asterisk**` for bold. **Expect the bare `>` blank line inside the aside to be
+    dropped; that is known, cosmetic, and not a bug to chase.**
+
+---
+
+## LESSON 61 (added Sep 20) — a fetch failure is a tool result in BOTH directions, and a board line that merges two outlets launders one outlet's numbers onto the other's link
+
+**Part one — the fetcher rule was only ever half-written.** Lesson 46 and Lesson 57 taught that
+**WebFetch gets blocked where curl with a browser user-agent works** — whiskyadvocate.com returns
+503 to one and 200 to the other, and this file spent a run treating that as a dead site.
+**Sep 20 hit the exact mirror image.** `bourbononthebanks.org` returns **HTTP 202 with a 201-byte
+body** to curl with a full desktop UA — a meta-refresh to `/.well-known/sgcaptcha/`, a SiteGround
+bot wall. A cookie jar and a second pass do not clear it. **WebFetch renders the page fine.**
+**So the rule is not "use curl." The rule is: a failed fetch is a statement about the TOOL, and
+there are two tools. Try the other one before you record a page as unreachable or a rail as dry.**
+**The cost of getting this wrong is not a missing claim — it is a discarded item.** Had this run
+read the 202 as a dead host, the Sep 25 board would still be sitting at two WA items below its
+floor, and the ask that closed in one pass would have gone into a fourth prep run.
+
+**The sub-lesson: when you cannot grep, ask for absence explicitly.** curl could not reach the
+festival page, so the ticket tiers could not be raw-grepped the way this file grep-proves every
+other claim. **The substitute was a second WebFetch that asked for exact strings and yes/no
+presence — "does the string SOLD OUT appear, and next to which tiers", "does the page describe how
+any bourbon tastes".** That is weaker than a grep and stronger than a summary, and it is what made
+the sold-out claim and the sensory block printable. **Never let an unreachable fetcher downgrade a
+claim to a search summary. See Lesson 59.**
+
+**Part two, and it is the more expensive half — a merged board line launders one outlet's figures
+onto another outlet's link.** The Sep 7 Woodford entry reads
+`$180 / $179.99 for 700ml · 100.4 proof / 50.2%` and `plus online shipping to KY, NH, ND, NE and DC`.
+**It was VERIFIED on two sources and the entry is honest about that.** But the link-out is Robb
+Report, and **`50.2`, `179` and the state names return ZERO on the Robb Report page.** Those are
+TSB's numbers. They were true when written and they are still true — **they are just not true
+AGAINST THE LINK WE PUBLISH.** Two verified sources merged into one line, then one of them was
+chosen as the link-out, and nothing went back to re-separate whose figure was whose.
+
+**THIS IS THE THIRD INSTANCE OF ONE FAMILY.** MGP's `111 proof` was a CONVERSION this file
+performed (Sep 16). The import ban's `12:01 a.m. ET` was a DROPPED OUTLET's detail surviving in a
+board line (Sep 10). Woodford's three figures are a SECOND SOURCE's details surviving the same way.
+**Lesson 54 said a board entry decays against its source. The sharper form: a board entry that
+cites two sources has no single source to decay against, and the moment you pick a link-out, every
+figure that came from the other source silently becomes unprintable.**
+**THE STANDING FIX, cheap and mechanical: when a board entry lists more than one source, write the
+figures WITH THEIR OWNER — `$180 (RR) / $179.99 (TSB)` — at staging time, not at draft time.** The
+Four Roses LE entry already does this ("Print $250 against RR, $249 against FM, never both") and
+it is the only multi-source entry on the boards that has never failed a pass. **Copy that form.**
+
+**Part three, small and useful — the festival-calendar rail is not experimental any more.** Sep 16
+closed Sep 22's seven-day persona ask off a festival calendar after the national trade rails failed
+it on five consecutive runs. **Sep 20 closed Sep 25's ask off one on the FIRST pass.** Two for two,
+five days apart. **Lesson 58 said to try the untried rails. The update: for an occasion or Venue
+Regular ask, event and festival calendars are the FIRST-CHOICE rail and the trade rails are the
+fallback.** The trade rails are built to report bottles; calendars are built to report occasions,
+and an occasion ask is a question about the calendar.
 
 ---
 
