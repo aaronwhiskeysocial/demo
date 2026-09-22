@@ -3,7 +3,39 @@
 Durable memory for the Whiskey Social whiskey-news pipeline. Authoritative over Slack
 thread copies. Human feedback in #whiskey-news overrides this file.
 
-**Last run:** 2026-09-20 (Sun), **PREP — THE SEP 25 NON-WA ASK CLOSED ON THE FIRST PASS, OFF A
+**Last run:** 2026-09-22 (Tue), **EDITION — THE SHORTLIST SHIPPED AT FIVE. THE PLANNED WOODFORD CUT
+WAS EXECUTED, AND A SIXTH CLAIM DIED ON EDITION MORNING BECAUSE MONDAY'S RUN NEVER FIRED AND THIS
+FILE HAD TO DO ITS OWN FULL PASS.**
+**Six things happened:** (1) **THE EDITION PUBLISHED AT FIVE, mid-range for a 4–6 Shortlist.**
+Basil Hayden (`whats-dropping`/explorer) · Parker's Heritage (`allocation-watch`/collector) ·
+Stranahan's (`try-this-next`/explorer) · New Zealand single malts (`try-this-next`/explorer) ·
+Bourbon & Beyond (`on-the-calendar`/venue-regular). **Campaign `shortlist-2026-09-22`. Outlets RR ×1,
+Heaven Hill ×1, WA ×2, Bourbon & Beyond ×1 — four distinct outlets. It leads with What's Dropping.**
+(2) **MONDAY SEP 21 NEVER RAN. There is no Sep 21 post in the channel and no Sep 21 entry in this
+file.** The Sep 20 block had left Monday a "light re-confirm"; **that re-confirm did not happen, so
+edition morning ran the FULL pass on all five link-outs instead of the light one.** **This is the
+first missed scheduled run this file records, and it is the one Note that went to Aaron.**
+(3) **ALL FIVE LINK-OUTS RE-FETCHED ON EDITION MORNING, ALL FIVE 200, EVERY PRINTED CLAIM RE-GREPPED
+AGAINST THE LIVE PAGE.** Basil Hayden (`$50`, `80 proof`, `high-rye`, `age statement`, `20 and 25`,
+`Freddie Noe` all present) · Heaven Hill (`199.99`, `118.0`, `100 barrels`, `78%`, `1.4 million`,
+`backset` all present; `honey` and `toasted vanilla` still ZERO) · Stranahan's (`150`, `Aden`, `212`,
+`mustiness`, `Aspen`, `oldest unfinished` all present) · NZ (`91`, `$75`, `9.5`, `3.5`, `zero single
+malt distilleries to 20` all present) · Bourbon & Beyond (`September 24-27`, `Highland Festival
+Grounds`, `Old Rip Van Winkle`, `Elmer T`, `King of Kentucky` present; **`$` still ZERO**).
+(4) **ONE RECORDED CLAIM DIED ON THE GREP AND IT WAS NOT WOODFORD'S. `first international finish`
+IS NOT ON THE ROBB REPORT PAGE.** The only `international` hit on that page is the PMC footer nav.
+**It has sat in the Sep 7 DEDUP entry and on the Sep 22 board since Sep 7 and was never re-grepped
+until this morning. IT WAS CUT FROM THE COPY. See Lesson 62.**
+(5) **THE WOODFORD CUT WAS EXECUTED AS THE BOARD INSTRUCTED.** `woodford-reserve-super-seasoned-oak-2026`
+did NOT run and is NOT published. **It is UNSTAGED, not dropped, and it may not be restaged against
+the Robb Report link until `50.2`, `179` and the shipping states are re-sourced onto whatever page
+carries them (they are TSB's).**
+(6) **NO URGENT OVERRIDE. PRECEDENT APPLIED AN ELEVENTH TIME.** The sweep returned the Southern
+Glazer's $12.5m trade-practice settlement (a distributor, already recorded as not urgent), the
+Fresh Bourbon appeal, and a February 2026 Bardstown Bourbon Company employment suit. **None is a
+recall, a safety issue, litigation naming a WS partner brand or venue, or a death in the industry.**
+
+**Prior run:** 2026-09-20 (Sun), **PREP — THE SEP 25 NON-WA ASK CLOSED ON THE FIRST PASS, OFF A
 FESTIVAL CALENDAR AGAIN, AND THE SEP 22 PRE-EDITION PASS RAN FOUR DAYS EARLY AND CAUGHT WOODFORD
 PRINTING THREE TSB NUMBERS AGAINST AN RR LINK.**
 **Six things happened:** (1) **`bourbon-on-the-banks-2026` IS STAGED Fri Sep 25 AND THAT BOARD'S
@@ -361,6 +393,243 @@ from DEDUP would be, and would block the prune.**
 **ITS LESSONS ARE ALREADY SAFE — Lesson 22 was consolidated Sep 10 ahead of schedule, exactly so
 this prune is unblocked.** Re-grep anyway.
 **Never prune DEDUP, OPEN GAPS, COLLISION FLAGS, the boards or the LESSONS blocks.**
+
+---
+
+## TUESDAY Sep 22 — WHAT SHIPPED (The Shortlist, posted 06:16 PT)
+
+**Calendar check first (Lesson 51): sandbox clock 2026-09-22 13:08 UTC → America/Los_Angeles
+2026-09-22 06:08 PDT, TUESDAY. THE SHORTLIST. No rollover, no drift. Next: Wed Sep 23 prep.**
+**Skills: `whiskey-social-news-roundup` loaded (present, SKILL.md + three references).
+`whiskey-social-brand` STILL ABSENT — checked the synced skills directory directly, 44 skills
+present, no brand skill among them. Compressed `_unchanged:_` in Notes, as instructed.**
+**Channel read: 25 messages across the 14-day window, EVERY ONE this pipeline's own post. No reply
+from Aaron or Adam. No instruction overrides this file.**
+**Idempotency: no Sep 22 post existed before this one, and no Sep 21 post exists at all.**
+
+### MONDAY SEP 21 DID NOT RUN — and that is the fact this run had to absorb
+
+**There is no Monday Sep 21 post in #whiskey-news and no Monday Sep 21 section in this file.** The
+channel's newest message before today was Sunday Sep 20. **The Sep 20 NEXT RUN block was written for
+a Monday run and assigned it a light re-confirm on the six Sep 22 link-outs; that never happened.**
+
+**THE COST WAS PAID IN FULL THIS MORNING AND IT WAS AFFORDABLE:** edition morning ran the whole pass
+— five fetches, every printable claim re-grepped — instead of the light confirm. **It also caught the
+Basil Hayden failure in (4) below, which a light re-confirm would have been unlikely to catch,
+because a light pass only re-greps figures and `first international finish` is not a figure.**
+
+**IT IS A NOTE, NOT A PIPELINE LINE, AND THAT IS DELIBERATE.** A missed scheduled run is not this
+file's own machinery — it is the schedule failing, and only Aaron can check the schedule.
+**The roundup skill's own cadence governance is explicit: "Skipped or missed edition days → cut
+cadence before missing more."** **This was a PREP day, not an edition day, so no cadence change is
+recommended and none was suggested.** **If a second run misses inside a rolling two weeks, that
+stops being an ops note and becomes a cadence signal for Aaron.**
+
+### THE EDITION-MORNING PASS — all five link-outs re-fetched, ALL FIVE 200, and one claim died
+
+All five fetched with curl and a browser user-agent (Lesson 57 / 61), all HTTP 200 with real body
+text. Byte counts: RR 399,522 · Heaven Hill 91,800 · WA Stranahan's 70,239 · WA NZ 79,093 ·
+Bourbon & Beyond 182,144.
+
+| item | page | printed claims re-grepped | result |
+|---|---|---|---|
+| Basil Hayden | RR | `$50` `80 proof` `high-rye` `age statement` `20 and 25` `Freddie Noe` | all present |
+| Basil Hayden | RR | **`first international finish`** | **ZERO — CUT** |
+| Parker's Heritage | Heaven Hill | `199.99` `118.0` `100 barrels` `78%` `1.4 million` `backset` `14 year` `ALS` | all present |
+| Parker's Heritage | Heaven Hill | `honey` `toasted vanilla` | **ZERO, as recorded — sensory stays blocked** |
+| Stranahan's | WA | `150` `Aden` `212` `35` `mustiness` `Aspen` `oldest unfinished` `single distilling season` | all present |
+| New Zealand | WA | `91` `$75` `9.5` `3.5` `Pōkeno Discovery` `zero single malt distilleries to 20` | all present |
+| Bourbon & Beyond | festival | `September 24-27` `Highland Festival Grounds` `Old Rip Van Winkle` `Elmer T` `King of Kentucky` `allocated` | all present |
+| Bourbon & Beyond | festival | **`$`** | **ZERO for the second consecutive check — the no-price rule is settled** |
+
+### THE BASIL HAYDEN CLAIM THAT DIED — `first international finish` is not on its own link-out
+
+**The Sep 7 DEDUP entry and the Sep 22 board both list "first international finish for the brand"
+as printable off Robb Report. It is not on that page.** The string `international` returns exactly
+one hit on the fetched page and it is **`Robb Report down caret About Us Accessibility Advertise
+Careers Contact Us International PMC Fashion & Luxury Legal`** — the PMC corporate footer navigation.
+
+**IT WAS CUT AND THE BLURB IS BETTER WITHOUT IT.** The item's hook was never the "first" claim; it
+was always the reported non-answer — RR asked how long the secondary maturation lasted and the brand
+would not say. **That survived intact, and the cut freed the words for a fact the page DOES carry and
+this file had never noticed: RR says Basil Hayden is "always bottled at 80 proof, the minimum level
+legally required for American whiskey."** **A claim that dies can be replaced from the same page.**
+
+**WHAT ALSO CHANGED, SMALLER BUT REAL: the board recorded `nationwide` for this item as WA's word.
+The RR page says `available starting this month from select retailers (SRP $50)`.** Since RR is the
+link-out, **no distribution claim was printed at all.** Neither outlet's word went in.
+
+### WHAT EACH LINK-OUT ACTUALLY SUPPORTS — written from this run's own fetches
+
+**1. `basil-hayden-cognac-cask-reserve-2026` — Robb Report (Jonah Flicker), `whats-dropping`, explorer.**
+SUPPORTED AND PRINTED: French oak casks that previously held cognac · those casks matured cognac
+`between 20 and 25 years` · `does not carry an age statement` · `high-rye recipe` · `always bottled
+at 80 proof, the minimum level legally required for American whiskey` · `SRP $50` · RR asked the
+brand how long the secondary maturation lasted and it was `pretty tight-lipped`.
+**NOT PRINTED AND WHY:** `first international finish` (ZERO on page — see above) · RR's
+six-to-eight-year maturation inference (RR's guess, not a fact) · `nationwide` (WA's word, wrong
+link) · RR's vanilla/caramel/spiced-fruit/apple-cinnamon notes (printable with attribution, but the
+non-answer hook was stronger and the blurb was already at 58 words) · Freddie Noe (dropped for space).
+
+**2. `parkers-heritage-20th-edition-2026` — Heaven Hill primary, `allocation-watch`, collector.**
+**THE BEAT MOVED NOWHERE. The board assigned `allocation-watch` and it ran `allocation-watch`.**
+SUPPORTED AND PRINTED: `100 barrels` · 20th edition · `14-Year-Old` · `Bottled at barrel proof at
+118.0 proof` · rye backset, in Heaven Hill's own plain-English gloss `a portion of the liquid left
+after distillation that is reused in the next batch` · `available nationally in limited quantities
+beginning this September` · `$199.99 for a 750ml bottle` · `more than $1.4 million` donated to the
+ALS Association · Parker Beam named.
+**NOT PRINTED AND WHY:** the mashbill percentages, the four rickhouse floors and the Oct 2011–Jan
+2012 distillation window (all present on the page, all cut for length — a 64-word blurb cannot carry
+them) · `ultra-premium`, which is on the page and is a **banned word** · O'Driscoll's
+"remarkable depth, balance and spice" (his claim about his own product, not a tasting note) ·
+**the word "Collection" — the proper noun is permitted by the skill but the task's banned list has
+no exception, so the item ran as "Parker's Heritage" and "the 20th edition" throughout.**
+**DISCUS: the donation is stated once, flatly. Nothing implies that buying more gives more.**
+
+**3. `stranahans-first-bottled-in-bond-2026` — WA (Julia Higgins), `try-this-next`, explorer.**
+SUPPORTED AND PRINTED: `bonded whiskeys are made in a single distilling season` (WA's own words,
+attributed to WA in the copy) · `11 year old` · `American single malt` · `the oldest unfinished
+whiskey from Stranahan's hitherto` · `master blender Justin Aden` · `He tasted about 212 of them; of
+those, he selected just 35 barrels` · `$150` · `a bit scarce outside of Colorado`.
+**CONSTRAINT 14 WAS HONOURED WITHOUT BREAKING THE VOICE RULE, AND THIS IS THE METHOD TO REUSE.**
+The task voice rule requires defining an insider term on first use; Constraint 14 forbids
+re-teaching bottled-in-bond. **Both were satisfied by printing WA's OWN one-clause gloss — "bonded
+whiskey comes from one distilling season" — instead of the full four-part federal definition.**
+**That is a sourced partial definition, not a re-teach, and it cost seven words.** **Do this again.**
+**NOT PRINTED AND WHY:** Higgins's apple pie / vanilla soft serve / root beer notes (printable and
+attributable — cut only because the edition's one quote was better) · her `a crack of black pepper`
+(**"crack" is reserved for a first opening — crack discipline**) · the Aspen Whiskey Lodge and the
+FL/TX/CA distribution (cut for length; `scarce outside Colorado` carries the honest warning) ·
+the Aug 1 Colorado-statehood debut date.
+
+**4. `whisky-advocate-new-zealand-single-malts-2026` — WA (Julia Higgins), `try-this-next`, explorer.**
+SUPPORTED AND PRINTED: `Since the start of the millennium, the country has gone from zero single
+malt distilleries to 20 and counting` · `an angels' share of 9.5% per year` on North Island vs
+`a 3.5% angels' share` at Cardrona (Pōkeno's Johns, in WA's piece) · `91 Pōkeno Discovery, 43%, $75`
+· `Pōkeno, imported by ImpEx Beverages since 2022, is among the most available`.
+**NOT PRINTED AND WHY:** Cardrona The Falcon 92/$285 and Scapegrace Anthem NR/$90 (the board's own
+instruction is to LEAD on the $75 Pōkeno; a three-bottle list does not fit 63 words) · laureate
+barley, the Pōkeno cooperage, manuka smoke (all sourced, all cut for length) · **WA's scored notes
+for Pōkeno Discovery — raisins, black cherry, orange peel and so on — are printable with attribution
+and were cut only for space. Sensory was NOT blocked on this item; it was declined.**
+**"single malt" was defined once, in item 3, and deliberately NOT redefined here.**
+
+**5. `bourbon-and-beyond-2026` — the festival's own site, `on-the-calendar`, venue-regular.**
+SUPPORTED AND PRINTED: `Bourbon & Beyond 2026 | September 24-27 | Highland Festival Grounds at KY
+Expo Center` · the pour list is published on the page in advance, split into house single barrels,
+an allocated tier, vintage and daily drinkers · named and verified on the page: `Pappy Van Winkle
+15yr 2025`, `Old Rip Van Winkle 10yr 2025`, `Elmer T. Lee`, `King of Kentucky *131.7 proof 2022` ·
+passes are on sale.
+**ALL THREE BINDING BLOCKS HELD:** no pour count and no "unlimited" anywhere (DISCUS 73.8) · the
+`$130` Student Pass was not printed · the festival's own "World's Largest Bourbon Experience"
+tagline was not used (**"experience" is a banned word**).
+**TWO MORE PAGE PHRASES WERE AVOIDED ON PURPOSE:** the section label `ALLOCATED & PREMIUM`
+(**"premium" is banned**) and `The Hunter's Club` (**"hunt" is capped at once per edition and this
+edition spent it ZERO times — but the club name is the festival's, not ours, and reads as gatekeeping**).
+**`$` RETURNS ZERO ON `/bourbon/` FOR THE SECOND CONSECUTIVE CHECK. The no-price rule on this
+link-out is settled, not provisional.**
+**`Russell's Reserve` RETURNS ZERO on the page and was NOT named**, though the Sep 16 board entry
+lists it. **Lesson 62 again, on the same morning — a board's list of names decays like any other claim.**
+**`allocated` was defined in plain English on first use: the distillery makes few and shops ration them.**
+
+### The edition's one quote
+
+**Justin Aden, master blender, Stranahan's, on the linked Whisky Advocate page:**
+`"this mustiness—I say that with love"` — **eight words, verbatim, named real speaker, Tier 1–2
+source, and it is the linked page.** **One quote, and only one, in the whole edition.**
+**The alternative was Pōkeno's Johns on the angels' share; it is 20+ words in any usable form and
+was not needed once the 9.5% / 3.5% pair was paraphrased.**
+
+### Voice and compliance, checked before send
+
+- **Banned words: ZERO.** No log, collection, premium, journey, experience, handcrafted, world-class,
+  finest, whale, vault, cellar, bunker, toast. **Three near-misses were live and all three were
+  page text, not ours: `ultra-premium` (Heaven Hill), `ALLOCATED & PREMIUM` and "World's Largest
+  Bourbon Experience" (Bourbon & Beyond).**
+- **"Hunt": used ZERO times.** The cap is one; the edition did not need it.
+- **"Crack": used ZERO times.** WA's `a crack of black pepper` was available and was declined —
+  crack is reserved for a first opening.
+- **Sentence lengths: every sentence 3–15 words.** Three drafts were split to get there — the Basil
+  Hayden cognac clause, the Parker's barrel-proof clause, and the Bourbon & Beyond name list (27
+  words in draft, broken into three sentences).
+- **No exclamation points. Sentence-case bolded headlines. The reader is the subject wherever the
+  fact allowed it.**
+- **DISCUS 73.8 CLEAN:** no volume, no consumption rate, no intoxication cue, nothing under-21
+  directed. **The festival item is where this was live and it held — no pour counts, no "unlimited",
+  no Student Pass.**
+- **Insider terms defined on first use, once each, never twice:** barrel proof (item 2), rye backset
+  (item 2, Heaven Hill's own gloss), bonded / single distilling season (item 3, WA's own gloss),
+  single malt (item 3), angels' share (item 4), allocated (item 5).
+- **Blurb lengths: 58 / 64 / 60 / 63 / 68 words. All inside 40–70.**
+- **Hook → why it matters → payoff on all five. One link-out each, each naming its outlet.**
+
+### UTMs — all five verified against the scheme before send
+
+Campaign `shortlist-2026-09-22` on all five. Every value lowercase and hyphenated, every one drawn
+from the permitted lists, **no slug invented and no gap to report.**
+
+| item | utm_content | utm_term |
+|---|---|---|
+| Basil Hayden | `whats-dropping` | `explorer` |
+| Parker's Heritage | `allocation-watch` | `collector` |
+| Stranahan's | `try-this-next` | `explorer` |
+| New Zealand | `try-this-next` | `explorer` |
+| Bourbon & Beyond | `on-the-calendar` | `venue-regular` |
+
+**All four base URLs were query-free, so every one took `?` and not `&`. Checked, not assumed.**
+
+### Coverage and shape
+
+**FIVE items. Beats: `whats-dropping` ×1, `allocation-watch` ×1, `try-this-next` ×2,
+`on-the-calendar` ×1. IT LEADS WITH WHAT'S DROPPING, as the day model requires.**
+**Personas: Explorer ×3, Collector ×1, Venue Regular ×1. ZERO Social Drinker.**
+**That is correct and must not be "fixed" on Friday by force — Sep 25 is an occasion-led Last Call
+and skews Social Drinker / Venue Regular by design. The floor spreads across the week.**
+**Outlets: RR ×1, Heaven Hill ×1, WA ×2, Bourbon & Beyond ×1 — four distinct outlets. The RR
+monoculture that dogged this board in early September ended when Woodford was cut.**
+**Price spread: $50 · $75 · $150 · $199.99 · free-to-read festival item. A genuine ladder.**
+**THE TWO WA ITEMS USE TWO DIFFERENT PAGES. The one-page-one-item rule is intact.**
+
+### Spent link-outs — added to the register this run (Lesson 55)
+
+- `https://robbreport.com/food-drink/spirits/basil-hayden-cognac-cask-reserve-bourbon-1238621307/`
+- `https://heavenhill.com/news-and-notes/heaven-hill-distillery-announces-2026-parkers-heritage-collection-limited-edition-bottling/`
+- `https://whiskyadvocate.com/stranahans-first-bottled-in-bond-american-single-malt`
+- `https://whiskyadvocate.com/new-zealand-whisky-distilleries`
+- `https://bourbonandbeyond.com/bourbon/`
+
+### Urgent sweep — no override, and the precedent is now ELEVEN deep
+
+Swept this run. **Returned: the Southern Glazer's $12.5m federal trade-practice settlement (Sep 18
+— a DISTRIBUTOR, already recorded as not urgent on Sep 13), the Fresh Bourbon appellate ruling
+(already recorded), and a February 2026 gender-discrimination suit by a former Bardstown Bourbon
+Company HR chief (seven months stale, and Bardstown Bourbon Company is not a WS partner).**
+**No recall. No safety issue. No litigation naming a WS partner brand or venue. No death in the
+industry.** **The FSS Kimbland warning is still December 2025 and still stale.**
+
+### Prune — NOT DUE, and not re-derived
+
+**`FRIDAY Aug 28 — WHAT SHIPPED` crosses thirty days on Sep 27.** Nothing is eligible today.
+**DO NOT prune `FRIDAY Aug 21 — STAGING RECORD` or `TUESDAY Aug 25 — ALL FOUR PUBLISHED` — each is
+now the only surviving record of its edition.**
+
+### The post
+
+Masthead 🥃, `The Shortlist`, `Tuesday, September 22`. Five items under four beat headers, heavy
+rule, aside entirely inside a blockquote.
+**Notes ran TWO bullets: the missed Monday run, and the brand skill compressed to
+`_unchanged: brand skill still absent_`.** **Pipeline ran three lines. Notes + Pipeline = 53 words,
+well under 120.**
+**NOTHING ELSE EARNED A BULLET, and the omissions were deliberate:** the Woodford cut was a planned
+execution (a Pipeline line, not a Note) · the Basil Hayden claim death is this file's own machinery
+(Lesson 62, not a Note) · the back-to-back Kentucky festival question belongs to the Sep 25 assembly
+and was raised once on Sep 20 · the cigar-crossover persona slug was not carried because no item
+this edition needed it.
+**POST READ BACK FROM THE CHANNEL AFTER SENDING (Lesson 60). RENDER IS CORRECT:** every `**bold**`
+came back as Slack `*bold*`, all five `<url|Outlet>` links intact with their full query strings, the
+heavy rule and the blockquote both correct. **The bare `>` blank line between NOTES and PIPELINE was
+dropped, exactly as predicted — known, cosmetic, not chased.**
+Message: `https://whiskeysocial.slack.com/archives/C0BKL9FB2CV/p1790082964311189`
 
 ---
 
@@ -5409,7 +5678,20 @@ theme, not a board.**
 
 ---
 
-## TUESDAY Sep 22 — SIX ON THE BOARD, PRE-EDITION PASS DONE, ONE ITEM'S FIGURES FAILED. *(heading last rewritten Sep 20)*
+## TUESDAY Sep 22 — PUBLISHED. FIVE SHIPPED, WOODFORD CUT. THIS BOARD IS CLOSED. *(heading rewritten Sep 22, on publish)*
+
+**SEP 22 — PUBLISHED AT FIVE.** Basil Hayden (`whats-dropping`/explorer) · Parker's Heritage
+(`allocation-watch`/collector) · Stranahan's (`try-this-next`/explorer) · New Zealand
+(`try-this-next`/explorer) · Bourbon & Beyond (`on-the-calendar`/venue-regular).
+**`woodford-reserve-super-seasoned-oak-2026` WAS CUT AND DID NOT RUN. It is UNSTAGED, NOT DROPPED,
+and NOT in DEDUP as covered — see the WOODFORD entry in DEDUP for the re-sourcing condition.**
+**One further claim died on the edition-morning grep: Basil Hayden's `first international finish`
+is ZERO on the Robb Report page and was cut from copy. Lesson 62. The board text below still
+carries that claim; it is left in place as the evidence, not as an instruction.**
+**Everything this board records below is now HISTORY. Read the Sep 22 WHAT SHIPPED section at the
+top of this file for what was actually printed and what was not.**
+
+
 
 **SEP 20 — THE PRE-EDITION PASS RAN FOUR DAYS EARLY. ALL SIX LINK-OUTS 200. FIVE CLEAN, WOODFORD
 FAILS.** Full table in the Sep 20 section.
@@ -5869,6 +6151,46 @@ it — Sun Sep 20, Mon 21, Wed 23, Thu 24."~~
 ---
 
 ## OPEN GAPS
+
+**SEP 22 STATUS — READ THIS FIRST. IT SUPERSEDES THE SEP 20 BLOCK BELOW.**
+- **SEP 22 IS PUBLISHED AND CLOSED. TUE SEP 29 IS THE ONLY OPEN SUPPLY GAP IN THE FILE.**
+  **Fri Sep 25 — THREE staged, ask closed Sep 20, a fourth item is optional and must never be
+  padded in. Three days out. It needs an assembly, not discovery.**
+  **Tue Sep 29 — TWO staged, NEEDS TWO MORE. Seven days out. Three prep runs stand between now and
+  then (Wed 23, Thu 24, Sun 28) plus Fri 25's edition run. It wants BREADTH, not a named persona —
+  do not invent a persona ask for it.**
+  **Sep 29's shape is Collector ×1 (Elmer T. Lee) + Explorer ×1 (Borders). A normal Shortlist spine.**
+- **A NEW SHAPE CONSTRAINT ON SEP 29, CREATED BY WHAT SHIPPED TODAY AND EASY TO MISS:**
+  **Sep 22 spent `whats-dropping` ×1, `allocation-watch` ×1, `try-this-next` ×2, `on-the-calendar`
+  ×1, and it spent Explorer ×3.** **Sep 29 already holds an `allocation-watch`/Collector item
+  (Elmer T. Lee). It does NOT need another Collector allocation story, and it should not become a
+  third consecutive Explorer-heavy Shortlist.** **Prefer a `whats-dropping` lead and a value item.**
+- **THE SCHEDULE ITSELF IS THE ONE THING OPEN WITH AARON, AND IT IS NEW:**
+  **Monday Sep 21 never fired. One missed PREP run, reported once in Notes Sep 22.**
+  **DO NOT re-raise it on Wed Sep 23 if nothing further has missed — a single miss reported once is
+  reported.** **IF A SECOND RUN MISSES INSIDE A ROLLING TWO WEEKS, that stops being an ops note and
+  becomes a cadence signal for Aaron under the roundup skill's own cadence governance. Report it
+  then, once, as a cadence signal and not as a second ops note.**
+- **ONE ITEM-LEVEL DECISION REMAINS OPEN AND IT BELONGS TO THE SEP 29 ASSEMBLY:**
+  **`borders-distillery-first-release-2026` is UK-only from Sep 24 with international distribution
+  undated. Decide before Sep 29 whether a US reader with no way to buy still clears the forward
+  bar. The story — first Borders malt in almost 200 years — is the whole case.**
+  **The back-to-back Kentucky festival question is now HALF SPENT: Bourbon & Beyond RAN today in
+  `on-the-calendar`/venue-regular, and Bourbon on the Banks would run the same beat and persona on
+  Friday, three days later. THE SEP 25 ASSEMBLY DECIDES. Raised once on Sep 20; do not raise it
+  again until Friday.**
+- **THE CIGAR-CROSSOVER PERSONA SLUG IS STILL OPEN AND STILL OWNED BY AARON, AND IT WAS CORRECTLY
+  NOT CARRIED Sep 22** — no item this edition needed it. The UTM persona list remains
+  explorer / collector / social-drinker / venue-regular. **If Aaron adds a slug, record it here and
+  in NEXT RUN. If he declines, mark it spent. Until a crossover item is actually staged, it stays
+  here and out of Notes.**
+- **NOT A GAP, RECORDED SO IT IS NOT MISREAD AS ONE: this Shortlist carried ZERO Social Drinker
+  items.** **That is correct. Sep 25 is an occasion-led Last Call that skews Social Drinker and
+  Venue Regular by design, and the coverage floor spreads across the week, not across every send.**
+  **Do not "fix" it by forcing a Social Drinker item onto Sep 29.**
+- **NOT A GAP: no verification flag ran on any of the five items.** First flag-free edition in this
+  file. **That is an outcome, not a standard to defend — a flagged item is still publishable.**
+
 
 **SEP 20 STATUS — READ THIS FIRST. IT SUPERSEDES THE SEP 18 BLOCK BELOW.**
 - **NO SUPPLY GAP IS OPEN ON SEP 22 OR SEP 25. The forward gap has shrunk to ONE BOARD.**
@@ -6605,7 +6927,7 @@ a line-based strip leaves kilobytes of inline JS in the text and buries the arti
 
 ---
 
-## OPERATIONAL LESSONS (52–61 are in their own blocks below the NEXT RUN section; 49–51 likewise; 47–48 added Sep 2)
+## OPERATIONAL LESSONS (52–62 are in their own blocks below the NEXT RUN section; 49–51 likewise; 47–48 added Sep 2)
 
 49. **WORK THE BENCH BEFORE OPENING A SEAM** (added Sep 6) — a shape gap is usually already answered
     by an item on the unassessed bench, and clearing it costs one fetch instead of a discovery run.
@@ -6952,6 +7274,33 @@ and nothing is lost.** 22 and 23 are captured here early so their source section
 ---
 
 ## DEDUP — closed to re-use
+
+**PUBLISHED Tue Sep 22 (The Shortlist) — CLOSED TO RE-USE, ALL FIVE:**
+`basil-hayden-cognac-cask-reserve-2026` · `parkers-heritage-20th-edition-2026` ·
+`stranahans-first-bottled-in-bond-2026` · `whisky-advocate-new-zealand-single-malts-2026` ·
+`bourbon-and-beyond-2026`.
+**All five ran VERIFIED and NONE ran flagged — the first edition this file records with no
+verification flag on any item.**
+**NO NEW-DEVELOPMENT EXCEPTION IS OPEN ON ANY OF THE FIVE.** For Basil Hayden it would take a
+Tier 1–2 answer to the question RR could not get answered (how long the cognac finish ran); for
+Parker's Heritage, an independent tasting by someone who drank it, or a sourced retail-arrival
+report; for Stranahan's, distribution beyond Colorado/FL/TX/CA; for New Zealand, a new import
+route or a new WA scored review; **for Bourbon & Beyond, nothing — the festival runs Sept 24–27
+and is past by the next edition. Do not restage it.**
+**The blurb would then have to OPEN with what is new.**
+
+**UNSTAGED Tue Sep 22, NOT PUBLISHED AND NOT DROPPED — `woodford-reserve-super-seasoned-oak-2026`:**
+**It was the Sep 22 board's own named cut and it was cut. It is NOT covered, so it is NOT closed to
+re-use — but it may NOT be restaged against the Robb Report link-out as recorded.**
+**THREE OF ITS RECORDED FIGURES ARE TSB'S AND RETURN ZERO ON THE RR PAGE: `50.2`, `179`, and the
+shipping states (`New Hampshire`, `North Dakota`).** Confirmed ZERO twice, Sep 20 and again by the
+Sep 20 pass this file records. **Against the RR link only `$180`, `100.4 proof`, about nine years,
+Kentucky-first and Elizabeth McCall are printable.**
+**TO RESTAGE IT, ONE OF TWO THINGS MUST HAPPEN: link out to the TSB page that actually carries
+those numbers, or run it off RR with the RR-only facts and no TSB figures.** **Never merge the two
+again — that is exactly what Lesson 61 is about.**
+**Its distribution weakness is unchanged and is the other reason it keeps losing slots: Kentucky
+retailers and the distillery first. It never leads.**
 
 **ADDED Sep 20 (staged, not yet published — both go to COVERED on their edition day):**
 - `bourbon-on-the-banks-2026` — STAGED Fri Sep 25. Festival primary + KDA. Sat Oct 3, Frankfort KY.
@@ -7862,85 +8211,153 @@ and the fifth coconut item) · `discus-congressional-fly-in-2026`.
 
 ---
 
-## NEXT RUN (Mon Sep 21 — PREP. Then Tue Sep 22 THE SHORTLIST, then Wed Sep 23 prep.)
+## NEXT RUN (Wed Sep 23 — PREP. Then Thu Sep 24 prep, then Fri Sep 25 LAST CALL.)
 
 **THIS IS A PREP RUN. Internal register, addressed to Adam and Aaron, raw links, NO UTMs, glyph
 :mag:.** **No consumer edition. Post only if there is new pipeline material, a gap update, or
-urgent news — otherwise post nothing. A quiet Monday is a legitimate outcome.**
-Load `whiskey-social-news-roundup` (present) and `whiskey-social-brand` **if it has appeared — still
-absent Sep 20, and absent for every run this file records.**
+urgent news — otherwise post nothing. A quiet Wednesday is a legitimate outcome.**
+Load `whiskey-social-news-roundup` (present). **`whiskey-social-brand` is STILL ABSENT — verified
+Sep 22 by listing the synced skills directory directly, 44 skills, no brand skill. Absent for every
+run this file records. It stays compressed as `_unchanged:_` and never gets a fresh bullet.**
 
 0. **CALENDAR CHECK FIRST — Lesson 51.** Compute date and weekday in America/Los_Angeles; the
    sandbox clock is UTC and runs ~7 hours ahead of a 6am PT firing.
-   **Expected: today = Monday Sep 21 (PREP), then Tue Sep 22 (THE SHORTLIST).**
-0b. **SEARCH WINDOW IS BACK TO 24h** — Sun Sep 20 through Mon Sep 21. Sunday's run covered
-   Fri 18 → Sun 20 and its finds are recorded; do not re-walk them.
-0c. **Lesson 53.** Board headings read: Sep 22 → Sep 20 · Sep 25 → Sep 20 · Sep 29 → Sep 20.
-   **All three were rewritten yesterday and agree with the run log. Reconcile anyway, cheaply.**
-0d. **Lesson 54 / 58 / 59 / 61. NEVER draft or stage a claim from a board entry, from a CONVERSION
-   of one, from a SEARCH SUMMARY, or from a SECOND OUTLET whose figure was merged into a
+   **Expected: today = Wednesday Sep 23 (PREP). Then Thu Sep 24 prep, Fri Sep 25 LAST CALL.**
+0a. **CHECK WHETHER TUESDAY SEP 22 IS THE LAST POST IN THE CHANNEL.** **Monday Sep 21 did not fire.**
+   If Wed Sep 23 finds that Tue Sep 22 published and nothing since, the schedule recovered and
+   **the miss is NOT re-raised.** **If another run has missed, that is a CADENCE SIGNAL for Aaron,
+   reported once — not a second ops note.** See OPEN GAPS.
+0b. **SEARCH WINDOW IS 24–48h** — Tue Sep 22 through Wed Sep 23. **Sep 22's own urgent sweep and
+   top-up search are recorded in the Sep 22 section; do not re-walk them.**
+0c. **Lesson 53.** Board headings read: Sep 22 → CLOSED, rewritten Sep 22 on publish · Sep 25 →
+   Sep 20 · Sep 29 → Sep 20. **Reconcile Sep 25 and Sep 29 against the run log, cheaply.**
+0d. **Lesson 54 / 58 / 59 / 61 / 62. NEVER draft or stage a claim from a board entry, from a
+   CONVERSION of one, from a SEARCH SUMMARY, or from a SECOND OUTLET whose figure was merged into a
    single-outlet board line. Grep every claim string against the page you are actually linking.**
-0e. **FETCHERS ARE TWO-SIDED NOW — Lesson 61.** curl with a browser UA for `whiskyadvocate.com` and
-   `robbreport.com` (re-confirmed working Sep 20). **WebFetch, NOT curl, for
-   `bourbononthebanks.org` — curl gets HTTP 202 and an sgcaptcha meta-refresh.** `visitfrankfort.com`
-   403s to curl. **A failed fetch is a TOOL result. Try the other tool before recording a page as
-   unreachable or a rail as dry.**
+   **LESSON 62 IS NEW AND IT WIDENS THIS: grep the NON-NUMERIC claims too — the "first ever", the
+   "only", the "nationwide", the list of names. Two died on Sep 22 (`first international finish`
+   on Basil Hayden's RR page, `Russell's Reserve` on the Bourbon & Beyond page) and neither was a
+   figure, so neither would have survived a figures-only pass.**
+0e. **FETCHERS ARE TWO-SIDED — Lesson 61.** curl with a browser UA for `whiskyadvocate.com`,
+   `robbreport.com`, `heavenhill.com` and `bourbonandbeyond.com` (all four re-confirmed 200 on
+   Sep 22). **WebFetch, NOT curl, for `bourbononthebanks.org` — curl gets HTTP 202 and an
+   sgcaptcha meta-refresh.** `visitfrankfort.com` 403s to curl. **A failed fetch is a TOOL result.**
 
-1. **THE SEP 22 RE-CONFIRM IS THE ONLY MANDATORY ITEM AND IT IS LIGHT.** The full pre-edition pass
-   ran Sun Sep 20, all six 200. **Re-fetch the six, confirm 200, and re-grep ONLY the figures the
-   copy will actually print. Do not redo the whole table.**
-   **THE ONE THING THAT MUST NOT BE FORGOTTEN: Woodford's `50.2`, `$179.99` and the shipping-state
-   list are NOT on its Robb Report link-out.** The board's standing answer is to CUT Woodford.
-   **If Tuesday runs it anyway, print `$180`, `100.4 proof`, about nine years, Kentucky-first, and
-   nothing else.**
+1. **THE MANDATORY ITEM IS THE FRI SEP 25 PRE-EDITION PASS, AND IT IS THE FULL ONE.** Three staged,
+   two days out, and **Monday Sep 21 proved that a pass deferred to "the next run" can simply not
+   happen.** **Run all three link-outs now: re-fetch, confirm 200, and grep every claim the copy
+   will print — figures AND non-figures (0d).** Do not defer it to Thursday.
+   **The three are `bourbon-on-the-banks-2026` (festival primary, WebFetch not curl) plus the
+   board's two released WA alternates. Read the Sep 25 board for which claims each supports.**
 2. **DISCOVERY TARGET IS TUE SEP 29, AND IT IS THE ONLY OPEN SUPPLY GAP.** Two staged, needs two
-   more, nine days out. **It wants breadth, not a named persona — do not invent a persona ask for
-   it.** **Sep 22 needs nothing. Sep 25 is closed at three. Do not raid either.**
-3. **GO TO EVENT AND FESTIVAL CALENDARS FIRST FOR ANY OCCASION ITEM — Lesson 61.** That rail has now
-   closed two persona asks in five days, one of them on the first pass, after the national trade
-   rails failed the same ask five runs running. **It is a first-choice rail, not an untried one.**
-   **Sep 29 is a Shortlist, so this applies to a later Friday board, not to Sep 29 itself.**
-4. **TWO ITEM-LEVEL DECISIONS ARE OPEN AND NEITHER IS MONDAY'S.** Borders' UK-only availability
-   belongs to the Sep 29 assembly; the back-to-back Kentucky festival question belongs to the
-   Sep 25 assembly. **Both were raised once in Notes Sep 20. DO NOT RE-RAISE EITHER ON MONDAY.**
+   more, seven days out. **It wants BREADTH, not a named persona — do not invent a persona ask.**
+   **BUT READ THE NEW SHAPE CONSTRAINT IN OPEN GAPS: Sep 29 already holds an
+   `allocation-watch`/Collector item, and Sep 22 spent Explorer ×3. Prefer a `whats-dropping` lead
+   and a value item. Do not raid Sep 25.**
+3. **GO TO EVENT AND FESTIVAL CALENDARS FIRST FOR ANY OCCASION ITEM — Lesson 58 / 61.** That rail
+   has closed two persona asks in five days. **It is a first-choice rail.** **Sep 29 is a Shortlist,
+   so this applies to a later Friday board, not to Sep 29 itself.**
+4. **TWO DECISIONS ARE OPEN AND NEITHER IS WEDNESDAY'S.** Borders' UK-only availability belongs to
+   the Sep 29 assembly; the back-to-back Kentucky festival question belongs to the Sep 25 assembly
+   **and is now half spent, because Bourbon & Beyond actually ran Sep 22.** **DO NOT RE-RAISE
+   EITHER ON WEDNESDAY.**
 5. **STANDING CHECK: before staging ANY bench item, grep its BRAND and PRODUCT against the PRUNE
-   LIST tables as well as DEDUP.** A pruned key is invisible to a dedup grep. **This caught
-   Bulleit '87 one step before it republished a July story.**
-6. **THE WA WHISKY WATCH ROUNDUP PAGE `2026-parkers-heritage-kentucky-boy-and-more-new-whiskey` IS
-   SPENT** — one page, one item, ever. **Middle West, Jeptha Creed, Neeley, Chicken Cock, Kentucky
-   Boy and Boss Hog 13 are UNREACHABLE through that page.**
-7. **URGENT SWEEP, every run.** **Precedent now TEN times applied: trade actions, strikes,
+   LIST tables as well as DEDUP.** A pruned key is invisible to a dedup grep.
+6. **SPENT PAGES — one page, one item, ever. FIVE WERE SPENT SEP 22 and are now closed:** the RR
+   Basil Hayden page · the Heaven Hill Parker's Heritage release · `whiskyadvocate.com/stranahans-first-bottled-in-bond-american-single-malt`
+   · `whiskyadvocate.com/new-zealand-whisky-distilleries` · `bourbonandbeyond.com/bourbon/`.
+   **The WA roundup `2026-parkers-heritage-kentucky-boy-and-more-new-whiskey` remains spent —
+   Middle West, Jeptha Creed, Neeley, Chicken Cock, Kentucky Boy and Boss Hog 13 are UNREACHABLE
+   through it.**
+7. **WOODFORD IS UNSTAGED, NOT DROPPED.** It may be restaged **only** on a TSB link-out that
+   actually carries `50.2` / `179` / the shipping states, **or** off RR with RR-only facts and no
+   TSB figures. **Never merge the two again.** **It never leads, and Kentucky-first distribution is
+   its standing weakness.**
+8. **URGENT SWEEP, every run.** **Precedent now ELEVEN times applied: trade actions, strikes,
    bankruptcy waves, receiverships, closures, production pauses, a distributor bribery settlement,
-   commercial contract litigation, a creditor default suit and a non-industry celebrity death are
-   NOT urgent.** **Uncle Nearest / Farm Credit Mid-America is the current live one and it is NOT
-   urgent — Uncle Nearest is not a WS partner.** **Record the sweep and move on.**
-8. **PRUNE — NOT DUE.** Aug 25 WHAT SHIPPED was deleted Sep 17. **Nothing crosses thirty days
-   before Sep 27** (`FRIDAY Aug 28 — WHAT SHIPPED`). **Do not re-derive the list.**
-   **DO NOT prune `FRIDAY Aug 21 — STAGING RECORD` — it is the only Aug 21 record.**
+   a distributor trade-practice settlement, commercial contract litigation, a creditor default
+   suit, a stale employment suit against a non-partner, and a non-industry celebrity death are NOT
+   urgent.** **Record the sweep and move on.**
+9. **PRUNE — NOT DUE.** **`FRIDAY Aug 28 — WHAT SHIPPED` crosses thirty days on Sep 27**, which is
+   a Sunday run. **Nothing is eligible Wed 23 or Thu 24. Do not re-derive the list.**
+   **DO NOT prune `FRIDAY Aug 21 — STAGING RECORD` or `TUESDAY Aug 25 — ALL FOUR PUBLISHED` — each
+   is the only surviving record of its edition.**
    **Never prune DEDUP, OPEN GAPS, COLLISION FLAGS, boards or LESSONS.**
-9. **NOTES DISCIPLINE — max 5 bullets, 15 words each, Notes+Pipeline under 120 words.**
-   **THE ONE OPEN ASK FOR AARON IS THE CIGAR-CROSSOVER PERSONA SLUG. Carry it only if it is still
-   unanswered AND an item needs it — otherwise leave it in OPEN GAPS, not in Notes. It was
-   correctly NOT carried Sep 20.**
+10. **NOTES DISCIPLINE — max 5 bullets, 15 words each, Notes+Pipeline under 120 words.**
+   **THE MISSED-MONDAY NOTE IS SPENT UNLESS ANOTHER RUN MISSES. See 0a.**
+   **THE CIGAR-CROSSOVER PERSONA SLUG: carry only if still unanswered AND an item needs it.
+   Correctly not carried Sep 20 or Sep 22.**
    **SPENT AND NEVER TO BE RE-RAISED:** the `allocation-watch` beat-slug gap, the New Era name
    collision, the Four Roses conflict, the shelf-price slug, the sub-$30 gap, the explainer slug,
    the September third-edition cadence bump, the Balvenie 88 forward-bar call, the outdoors byline
    call, the Victoria BC Canada hazard, the Parker's Heritage shared-roundup collision, the Tuesday
    no-Social-Drinker shape, the Sep 22 persona ask, the 1880 decision, the Elmer T. Lee entry
-   window, the MGP `111 proof` copy cut, **and as of Sep 20 the Sep 25 non-WA occasion ask —
-   CLOSED, do not report it again.**
+   window, the MGP `111 proof` copy cut, the Sep 25 non-WA occasion ask, **and as of Sep 22 the
+   Woodford cut — IT IS EXECUTED, do not report it again.**
    **The brand-skill-absent note stays compressed as `_unchanged:_`.**
    **NEVER a bullet for this file's own machinery** — board-heading dates, the prune, lessons
    blocks, the spent-link register, the URL audit, the curl/WebFetch workarounds, the key merge,
-   the Slack bold fix, **the dropped blank line inside the aside blockquote.**
-   **NEVER a bullet for anything that worked.** **The Sep 22 pre-edition pass running early is a
-   PIPELINE line, not a Note.**
-10. **PERSIST STATE AND PUSH, whatever happens.**
-11. **AFTER SENDING, READ THE POST BACK FROM THE CHANNEL AND CHECK THE RENDER — Lesson 60.** Send
-    `**double asterisk**` for bold. **Expect the bare `>` blank line inside the aside to be
-    dropped; that is known, cosmetic, and not a bug to chase.**
+   the Slack bold fix, the dropped blank line inside the aside blockquote, **and the Sep 22
+   claim deaths (Lesson 62 — machinery, not news).**
+   **NEVER a bullet for anything that worked.**
+11. **PERSIST STATE AND PUSH, whatever happens.**
+12. **AFTER SENDING, READ THE POST BACK FROM THE CHANNEL AND CHECK THE RENDER — Lesson 60.** Send
+    `**double asterisk**` for bold; it came back as Slack `*bold*` correctly on Sep 22.
+    **Expect the bare `>` blank line inside the aside to be dropped; known, cosmetic, not a bug.**
 
 ---
+
+## LESSON 62 (added Sep 22) — the claims that die quietly are the ones that are not numbers, and a "light re-confirm" is a pass that can simply never happen
+
+**Part one — this file had built a figures-shaped verification habit, and two non-figures walked
+straight through it.**
+
+Lessons 54, 58, 59 and 61 all taught the same discipline from different angles: grep the claim
+against the page you are actually linking. **In practice that discipline had narrowed to NUMBERS.**
+Every pre-edition table this file has written is a table of figures — `50.2`, `$179.99`, `118.0`,
+`$75`, `9.5`. **The Sep 20 pass explicitly framed Monday's job as re-grepping "ONLY the figures the
+copy will actually print."**
+
+**Two claims died on Sep 22 and NEITHER was a figure.**
+- **`first international finish` — Basil Hayden, Robb Report.** Recorded as printable in the Sep 7
+  DEDUP entry and carried on the Sep 22 board for fifteen days. **The string `international` appears
+  exactly once on that page, in the PMC corporate footer navigation.** The claim was never on the
+  page at all. **A figures-only pass would have passed this item clean.**
+- **`Russell's Reserve` — Bourbon & Beyond, the festival's own site.** Listed among the named pours
+  in the Sep 16 board entry. **Returns ZERO on the page as fetched Sep 22.** The other five names on
+  that board line all verified. **A list of names decays one entry at a time, and the four that
+  survive make the fifth look safe.**
+
+**THE RULE THIS ADDS:** a claim is anything a reader could check, not anything with a digit in it.
+**Grep the superlatives ("first", "only", "oldest"), the distribution words ("nationwide", "select
+retailers"), and EVERY name in a list of names — each one separately.** **The Sep 22 pass did
+exactly this and that is the only reason both were caught.**
+
+**Part two — and this is the more expensive half — "the next run will do it" is a plan with no
+owner, and Monday proved it.**
+
+The Sep 20 block deferred the Sep 22 re-confirm to Monday Sep 21 and called it light. **Monday never
+fired.** There is no Sep 21 post and no Sep 21 section. **The work did not move to Monday; it moved
+to edition morning, where there is no slack.**
+
+**It happened to be affordable — five fetches, twenty minutes, and it caught more than the light
+pass would have. That is luck, not design.** Had two link-outs 404'd or three claims died, the
+edition would have been assembled and cut in the same hour it shipped.
+
+**THE RULE THIS ADDS:** **never defer a pre-edition pass to the last prep run before the edition.**
+Run the full pass on the FIRST prep run that is two or more days out, and treat any later run as a
+re-confirm of a pass that already exists. **A pass that exists can be cheaply re-checked. A pass
+that is scheduled can simply not happen.**
+**Instruction 1 of the Wed Sep 23 block applies this immediately: Sep 25's full pass runs Wednesday,
+two days out, not Thursday.**
+
+**Part three — a missed run is the one piece of machinery that IS a Note.**
+This file's standing rule is that its own machinery never earns a Notes bullet. **A missed scheduled
+run is the exception, and the distinction is who can act:** nobody but Aaron can look at the
+schedule. **It went to Notes once, as one bullet, with no recommendation attached — because a single
+missed PREP day does not justify a cadence change and the roundup skill reserves that response for
+missed EDITION days.** **A second miss inside a rolling two weeks is a cadence signal, reported once
+as such, not a second ops note.**
 
 ## LESSON 61 (added Sep 20) — a fetch failure is a tool result in BOTH directions, and a board line that merges two outlets launders one outlet's numbers onto the other's link
 
