@@ -3,7 +3,66 @@
 Durable memory for the Whiskey Social whiskey-news pipeline. Authoritative over Slack
 thread copies. Human feedback in #whiskey-news overrides this file.
 
-**Last run:** 2026-09-30 (Wed), **PREP — THE OCT 6 TIER 4 BLOCKER IS CLOSED ON A CLEAN TIER 2 PICKUP,
+**Last run:** 2026-10-01 (Thu), **PREP — THE NASHVILLE SECOND SOURCE LANDED, FRI OCT 2 IS NOW THREE
+VERIFIED AND ASSEMBLY-READY, AND THE RE-FETCH KILLED TWO CLAIMS THE Sep 30 ENTRY HAD RECORDED.**
+**Six things happened:** (1) **INSTRUCTION 2 DISCHARGED ON BRANCH (a), AND THE BOT WALL SIMPLY CAME DOWN.**
+`nashvilleguru.com/37327/nashville-whiskey-festival` returned a 73-char bot wall to curl on Sep 30.
+**This run curl returned HTTP 200, 103,618b raw → 2,793 stripped, WITH THE SAME BROWSER UA.** **Nothing
+about our method changed. The wall was transient.** **See Lesson 68 — a failed fetch is not only "try
+the other tool", it is "try the same tool again on the next run".**
+(2) **BUT NASHVILLE GURU IS NOT THE SECOND SOURCE, AND THE REASON IS A CONFLICT FLAG ON ITS OWN PAGE.**
+The page carries **"Advertising Disclosure | Our Partners may be mentioned in this article"** and a
+stated comment policy of **"We believe in shedding a positive light on Nashville."** **That is declared
+sponsored-placement risk plus a no-negative-coverage posture — the Tier 4 conflict definition in the
+verification protocol, in the outlet's own words.** **Recorded as corroboration only. NOT the second
+source, NOT a link-out candidate, ever.**
+(3) **THE SECOND SOURCE IS VISIT MUSIC CITY, AND IT IS THE KDA PRECEDENT REPEATING EXACTLY.**
+`visitmusiccity.com/nashville-trip-ideas/15-fall-festivals`, published by the **Nashville Convention &
+Visitors Corp** — the city's official tourism body, **a genuinely different party from Corkdorks**,
+which is precisely why the Sep 20 Bourbon on the Banks item cleared on the KDA. **It carries
+`Nashville Whiskey Festival` and `October 10, 2026` and calls it "a one-day celebration of whiskey
+culture, craftsmanship, and community."** **`nashville-whiskey-festival-2026` IS NOW VERIFIED AND NOT
+FLAGGED.** **FRI OCT 2 CLEARS AT THREE VERIFIED ITEMS AND THE INSTRUCTION-2 FALLBACK NEVER FIRES — no
+flagged ship, no empty-pipeline floor, no Friday decision owed.**
+(4) **LESSON 65 FIRED ON THE VERY PAGE THAT CLEARED THE ITEM, AND THE PROBE IS WHAT CAUGHT IT.**
+`unlimited` ×1 and `200` ×1 BOTH APPEAR ON VISIT MUSIC CITY — and **neither belongs to our festival**:
+the `unlimited` is the Nashville Zoo's "unlimited BOOze samples" and the `200` is the Southern Festival
+of Books' author count. **A presence finding on a multi-event page is worth nothing until you read
+WHICH event owns it.** `Corkdorks`, `Cambria`, `Rux`, `1612 Church` and `100` all ×0 — **VMC confirms
+the EVENT and its DATE and nothing else. That is all a second source has to do.**
+(5) **THE OFFICIAL SITE WAS RE-FETCHED AND TWO Sep 30 CLAIMS DIED — ON A PAGE THAT DID NOT CHANGE.**
+curl 200, **126,363b raw → 2,323 stripped, byte-identical to Sep 30**, and the home page 155,132b →
+2,656, also identical. **`14 years` RETURNS ZERO ON BOTH PAGES — the Sep 30 entry's "14 years running"
+is sourced to nothing and is STRUCK.** **`cigar` RETURNS ZERO ON THE TICKETS PAGE AND ×1 ON THE HOME
+PAGE — the cigar-lounge line is the HOME page's and is NOT printable against the `/tickets` link-out.**
+**A third string, `ID's will be checked`, returned ZERO and SURVIVED: the page writes `ID’s` with a
+curly apostrophe. Lesson 64 in punctuation.** **Three recorded strings, one struck, one re-homed, one
+rescued — and the page never moved.**
+(6) **NO URGENT OVERRIDE. PRECEDENT APPLIED A SEVENTEENTH TIME.** The sweep returned the continuing
+bankruptcy and receivership wave, the Bardstown employment suits (**February 2026, seven months stale,
+not a partner — already-applied precedent**), and **ONE GENUINELY NEW ITEM: Washtucky is suing
+Wilderness Trail Distillery over 12,500 undelivered barrels, claiming $21.7m in lost profits.**
+**A commercial barrel-supply contract dispute between two companies is not a recall, not a safety
+issue, not a death, and Wilderness Trail is not a WS partner brand or venue. NO OVERRIDE. Recorded so
+it is not re-walked as fresh.** **No recall in window. The Aug 2025 Crown Royal recall was NOT
+re-walked, exactly as instruction 7 required.**
+**THE OPTIONAL FOURTH WAS SOUGHT AND NOT FOUND, AND THE BOARD STAYS AT THREE.** Instruction 3's
+non-WA fourth was searched on the Friday shape that was actually missing — **a non-calendar,
+occasion-led item, because the board already runs `on-the-calendar` ×2 and a third would make it three
+calendar items out of four.** **The search returned a TSB agave cocktail feature and an unvetted
+recipe aggregator. Nothing whiskey-shaped, dated and vetted. NOTHING WAS PADDED.** **The late-October
+festival bench was deliberately NOT thinned into a fourth — all of it sits two to four weeks past
+Oct 2 and none of it beats what is already staged.**
+**CADENCE: NOTHING OPEN, AND THE 0a CONDITION DID NOT FIRE.** Sep 30 was the newest post — and Oct 1
+is the very next scheduled day, so **no scheduled day sat between them.** **NO CADENCE BULLET.**
+**CHANNEL: NO HUMAN REPLIES IN 14 DAYS.** **The window Sep 17–Oct 1 holds NINE messages, every one
+this pipeline's own post by the masthead-glyph test.** **THE PARSER NOTE IS NOW MOOT FOR THIS READ:
+`concise` format returned the whole 14-day window in one call, well under the token cap, so neither
+prefix form had to be counted.** **The Canada-ban decision raised Sep 30 is UNANSWERED — compressed to
+`_unchanged:_`, NOT re-raised, exactly as instruction 10 required.**
+**Oct 1 was EMPTY before this run, so idempotency was not in play and this brief is the day's only post.**
+
+**Prior run:** 2026-09-30 (Wed), **PREP — THE OCT 6 TIER 4 BLOCKER IS CLOSED ON A CLEAN TIER 2 PICKUP,
 AND FRI OCT 2 WENT FROM EMPTY TO THREE IN ONE RUN.**
 **Six things happened:** (1) **ARM ZERO RAN FIRST AND IT PAID OUT IMMEDIATELY.**
 `willett-pot-still-reserve-cask-strength-2026` was staged Sep 24 against The Whiskey Wash, which is
@@ -61,7 +120,7 @@ instruction 0b. The channel genuinely alternates. Never assume last run's form.*
 blockquote intact. The `:spiral_calendar_pad:` PIPELINE line lost its `>` and sits outside the quote —
 IDENTICAL to Sep 24 and every prior prep post. Known, cosmetic, not a bug, never a bullet.**
 
-**Prior run:** 2026-09-29 (Tue), **EDITION — THE SHORTLIST SHIPPED AT FOUR, AND THE PRE-EDITION PASS
+**Earlier run:** 2026-09-29 (Tue), **EDITION — THE SHORTLIST SHIPPED AT FOUR, AND THE PRE-EDITION PASS
 CAUGHT A TIER 4 OUTLET SITTING IN A LINK-OUT SLOT THAT TWO PRIOR RUNS HAD SIGNED OFF.**
 **Six things happened:** (1) **THE EDITION SHIPPED AT FOUR, which CLEARS a Shortlist (4-6).**
 Jefferson's (`whats-dropping`/social-drinker, FM, LEAD) · Borders (`whats-dropping`/explorer, TSB) ·
@@ -602,6 +661,218 @@ from DEDUP would be, and would block the prune.**
 **ITS LESSONS ARE ALREADY SAFE — Lesson 22 was consolidated Sep 10 ahead of schedule, exactly so
 this prune is unblocked.** Re-grep anyway.
 **Never prune DEDUP, OPEN GAPS, COLLISION FLAGS, the boards or the LESSONS blocks.**
+
+---
+
+## THURSDAY Oct 1 — PREP RUN (posted 06:3x PT)
+
+**Window Sep 28–Oct 1 inclusive.** The run had three assigned tasks — the Nashville second source
+(instruction 2), the urgent sweep (instruction 7) and the prune (instruction 8) — plus one optional
+(instruction 3). **All four were worked. Three changed the file; the optional one correctly changed
+nothing.**
+
+### THE RUN'S LESSON — Lesson 68. A bot wall is a weather report, not a property of the page; and the body that clears a local event is the city, not the press. Full text in its own block below.
+
+### INSTRUCTION 2 — DISCHARGED. THE SECOND SOURCE EXISTS AND IT IS NOT THE ONE THE INSTRUCTION EXPECTED
+
+**BRANCH (a) WAS TRIED FIRST, AS WRITTEN, AND IT SUCCEEDED ON A TECHNICALITY WORTH RECORDING.**
+Sep 30 recorded `nashvilleguru.com/37327/nashville-whiskey-festival` as a 73-char bot wall to curl and
+told this run to try WebFetch. **WebFetch rendered it. Then curl rendered it too — HTTP 200,
+103,618b raw → 2,793 stripped, same browser UA as Sep 30.** **The wall was transient. Our method did
+not change.** See Lesson 68.
+
+**AND THEN THE PAGE DISQUALIFIED ITSELF.** The stripped text carries, in this order: a byline of
+**September 28, 2026**, no named author (**"Written by Nashville Guru"**), and
+**`Advertising Disclosure | Our Partners may be mentioned in this article`**. Its comment policy reads
+**"We believe in shedding a positive light on Nashville. We don't approve self-promoting, hateful,
+distasteful, or overly negative comments."**
+**THAT IS A DECLARED SPONSORED-PLACEMENT RISK PLUS A DECLARED NO-NEGATIVE-COVERAGE POSTURE.** The
+verification protocol's Tier 4 definition is "Known conflicts (retailer self-interest, sponsored
+placement, unvetted contributor pieces)". **This page meets it in its own words.**
+**RECORDED AS CORROBORATION ONLY. NEVER A LINK-OUT. NEVER THE SECOND SOURCE.**
+
+**IT ALSO CONTRADICTS THE ORGANISER, WHICH IS THE SECOND REASON NOT TO LEAN ON IT.**
+**Guru says `over 200 spirits`. The official site says `100+ whiskeys`.** A 2× disagreement on the
+headline number. **The disagreement does prove Guru is not a verbatim reprint of the organiser's
+release — but a source that is independent AND wrong is not an upgrade.**
+**GURU'S PRICES — `General Admission | $123.67` and `VIP | $175.44` — ARE NOT PRINTABLE.** They appear
+on no other page we have fetched, the official site names no price, and the Sep 30 search summary gave
+a different range entirely ($42.33–$175.44). **A single conflicted regional listing is not a price
+source. THE "DO NOT PRINT A PRICE" RULING FROM Sep 30 STANDS, now for a better reason than absence.**
+**WHAT GURU DOES CORROBORATE, for the record and nothing more:** `October 10` ×1, `Cambria` ×1,
+`Rux` ×1, `21 and over` ×1, `Masterclass` ×2, GA entry 6:00pm and VIP entry 5:30pm.
+**ZERO ON GURU: `Corkdorks`, `1612`, `Church`, `9:30`, `Glencairn`, `100+`, `refund`.**
+
+### THE SECOND SOURCE: VISIT MUSIC CITY. THE KDA PRECEDENT, REPEATING EXACTLY
+
+**`https://www.visitmusiccity.com/nashville-trip-ideas/15-fall-festivals`** — published by the
+**Nashville Convention & Visitors Corp**, the city's official destination-marketing body.
+**THIS IS THE SAME SHAPE AS THE Sep 20 BOURBON ON THE BANKS CLEARANCE: the organiser's own site is the
+Tier 1 primary, and the second source is an official body that is categorically not the organiser.**
+Corkdorks runs the festival; the Convention & Visitors Corp does not. **Two parties, not one.**
+**FETCHER STATUS, BOTH DIRECTIONS (Lesson 61):** **curl returns HTTP 403 with a browser UA — a blocked
+UA, which is Lesson 57's signature and NOT a dead page. WebFetch rendered it fine, twice.**
+**So this page is READ BUT NOT GREPPABLE by us. The probes below are WebFetch's, run as an explicit
+string-by-string verification pass, not as a summary request.**
+**WHAT IT CARRIES:** `Nashville Whiskey Festival` — FOUND. `October 10, 2026` — FOUND. Description:
+**"The Nashville Whiskey Festival is a one-day celebration of whiskey culture, craftsmanship, and
+community."**
+**WHAT IT DOES NOT CARRY — all probed explicitly, all ZERO:** `Corkdorks` · `Cambria` · `Rux` ·
+`1612 Church` · `100` · venue · times · prices · age policy.
+**LESSON 65 FIRED HERE AND THE PROBE IS THE ONLY REASON IT WAS CAUGHT.** `unlimited` and `200` BOTH
+return hits on this page — **and NEITHER is ours.** The `unlimited` is the Nashville Zoo's
+*"unlimited BOOze samples"*; the `200` is the Southern Festival of Books' *"more than 200 of the
+nation's and region's most prominent authors"*. **A fifteen-festival listicle is a page full of other
+events' numbers. Never read a hit off a multi-event page without reading which event owns it.**
+**VERDICT: `nashville-whiskey-festival-2026` IS VERIFIED AND NOT FLAGGED.** The two-source rule is
+satisfied on the protocol's primary-source clause — a Tier 1 primary paired with an independent
+corroborating mention. **VMC confirms the event and the date. The link-out stays the festival's own
+site, which is where every printable specific lives.**
+
+### THE INSTRUCTION-2 FALLBACK IS DEAD AND NO FRIDAY DECISION IS OWED
+
+Instruction 2 said: if no independent second source exists by Friday, decide between shipping the
+festival FLAGGED and running the empty-pipeline floor. **NEITHER IS NEEDED. Fri Oct 2 holds THREE
+VERIFIED ITEMS, which is a Last Call's floor met cleanly.** **Do not re-open this. Do not ship it
+flagged. Do not mention a second-source question in Friday's aside — there isn't one.**
+
+### THE OFFICIAL SITE RE-FETCH — THE PAGE DID NOT MOVE AND TWO CLAIMS DIED ANYWAY
+
+**`https://www.nashvillewhiskeyfestival.com/tickets`** — curl 200, **126,363b raw → 2,323 stripped.**
+**Home page** — curl 200, 155,132b → **2,656 stripped.** **BOTH BYTE-IDENTICAL TO Sep 30. The site is
+unchanged.** **And three recorded strings still had to be re-adjudicated, which is the whole argument
+for re-grepping a page you have already read.**
+
+1. **`14 years` RETURNS ZERO ON BOTH PAGES. STRUCK.** The Sep 30 entry recorded "**14 years** running".
+   **It is on neither the tickets page nor the home page.** **It is not printable Friday and it should
+   never have been recorded. Do not reach for a "fourteenth annual" line.**
+2. **`cigar` IS ZERO ON `/tickets` AND ×1 ON THE HOME PAGE. RE-HOMED, NOT STRUCK.** The home page reads
+   *"From intimate VIP gatherings and cigar lounges to lively grand tastings and barrel-aged spirit
+   explorations…"* **The link-out is `/tickets`. THE CIGAR LINE IS NOT PRINTABLE AGAINST IT.** **This
+   is the merge hazard inside a single domain — two pages of one site are still two pages.**
+3. **`ID's will be checked` RETURNED ZERO AND THE CLAIM SURVIVES.** The page writes **`ID’s`** with a
+   curly apostrophe (U+2019). Verbatim: *"Must be 21+ to attend all events- ID’s will be checked at the
+   door!"* **Lesson 64 in punctuation rather than arithmetic. Grep the character the page uses.**
+
+**PRINTABLE FRIDAY AGAINST `/tickets`, re-greped this run:** `October 10, 2026` · **VIP Ticket:
+5:30pm – 9:30pm, GA Ticket: 6:00pm – 9:30pm** · **1612 Church Street, Nashville, TN 37203** ·
+**`Corkdorks`** ×1 · **21+, ID’s checked at the door** · **a commemorative Glencairn Glass upon
+arrival**, a tasting guide, specialty cocktail samples, very light bites, free live music, **access to
+limited Masterclasses** · **no refunds** (`refund` ×2) · **rain or shine** ×1 (it is indoors).
+**THE CLEAN GRAND-TASTING SENTENCE, AND IT IS THE ONE TO WRITE FROM:** *"Our signature event featuring
+100+ whiskeys, food pairings, exclusive brand activations, signature cocktails, and live music."*
+**THIS SENTENCE CARRIES NO VOLUME CUE. It is the compliant way to get the 100+ figure into copy.**
+
+**THE COMPLIANCE LANDMINE IS UNCHANGED AND IS NOW SHARPER, BECAUSE THE SAFE ALTERNATIVE IS IDENTIFIED.**
+The tickets page also reads *"…a tasting guide, **unlimited tasting of over 100+ spirits**, specialty
+cocktail samples…"* **`unlimited tasting` IS A VOLUME-OF-CONSUMPTION CUE, BANNED UNDER DISCUS 73.8.**
+**Do not quote it, do not paraphrase it, do not soften it.** **Use the Grand Tasting sentence above
+instead — it delivers the same 100+ figure with no consumption framing.** **The 21+ line is a
+compliance asset. Print it.**
+**NOT PRINTABLE AGAINST THE LINK-OUT, each for its own reason:** `Cambria` / `Rux Rooftop` (Eventbrite
+and Guru only, ×0 on the official site) · cigar lounges (home page only) · `14 years` (nowhere) ·
+any price (nowhere citable) · `200 spirits` (Guru only, and it contradicts the organiser).
+
+### URGENT SWEEP — nothing fires, SEVENTEENTH application, and one genuinely new suit
+
+- **NEW THIS RUN: Washtucky v. Wilderness Trail Distillery** — suing over **12,500 barrels** of whiskey
+  not delivered, claiming **$21.7m** in lost profits. **A commercial barrel-supply contract dispute
+  between two companies.** **Not a recall, not a safety issue, not a death, and Wilderness Trail is not
+  a WS partner brand or venue. NO OVERRIDE.** Recorded so no future run walks it as fresh.
+- **Bardstown Bourbon Company employment suits** (sexism, retaliation) — **returned again. February
+  2026, seven months stale, and Bardstown is not a WS partner. Already-applied precedent.**
+- **The continuing bankruptcy / receivership / closure wave** — Uncle Nearest, Garrard County, A.M.
+  Scott, the one-quarter-of-craft-distilleries-closed figure, the Jim Beam production pause.
+  **Already-applied precedent, non-urgent.**
+- **NO RECALL IN WINDOW. The Aug 19 2025 Crown Royal glass recall was NOT re-walked**, exactly as
+  instruction 7 required. **It remains thirteen-plus months stale.**
+
+### INSTRUCTION 3 — THE OPTIONAL FOURTH WAS SOUGHT ON THE RIGHT SHAPE AND CORRECTLY NOT FOUND
+
+**THE SHAPE ANALYSIS CAME FIRST, AND IT CHANGED WHAT WAS SEARCHED FOR.** The Oct 2 board runs
+`on-the-calendar` ×2 (Dram Central, Nashville) and `easy-pour` ×1. **A fourth calendar item would make
+it three calendar items out of four — a worse edition than three.** **So the late-October festival
+bench was NOT the right place to look, and was deliberately left untouched.**
+**WHAT WAS SEARCHED: a non-calendar, occasion-led, non-WA item** — `pair-it` or `try-this-next` shape.
+**WHAT CAME BACK: a TSB "Cocktail stories: Mayan's Punch, Barro Negro" feature (Sept 23 — agave, not
+whiskey) and acouplecooks.com (unvetted aggregator).** **Nothing whiskey-shaped, dated and vetted.**
+**NOTHING WAS STAGED. THE BOARD STAYS AT THREE, WHICH CLEARS A LAST CALL. This is instruction 3
+working as written — "NEVER pad to fix outlet shape."**
+
+### Oct 6 — NOT RAIDED, AND THE ONE CHEAP THING INSTRUCTION 4 ASKED FOR IS DONE
+
+**Instruction 4 reserved the Oct 6 board for Sun Oct 4 and that was honoured — no discovery was spent
+on it.** **The one task it did name — the Angel's Envy key-collision check — costs a grep and is now
+answered, so Sunday does not have to spend a run on it.**
+**THE COLLISION CHECK, RESOLVED:** the two keys in DEDUP are **`angels-envy-amburana-2026`** and
+**`angels-envy-distillery-series-imperial-stout-2026`**. **A peach-brandy-cask rye is a THIRD, distinct
+product and would key cleanly as `angels-envy-peach-brandy-cask-rye-2026`. THERE IS NO KEY COLLISION.**
+**BUT THE REAL HAZARD IS NOT THE KEY — IT IS THE DISTRIBUTION CLOSE THAT KILLED BOTH PRIORS.**
+`angels-envy-amburana-2026` was **CLOSED on distribution** and the imperial stout was **dropped Aug 30
+for being visitors-center-only.** **BOTH died because the Distillery Series does not get retail
+distribution.** **SUNDAY'S FIRST QUESTION IS THEREFORE NOT "is the key free" BUT "is the peach-brandy
+rye a Distillery Series bottling, and does it ship to retail?" If it is visitors-center-only, it dies
+the same death and should not be staged.**
+**Oct 6 STANDS AT ONE AGAINST A FLOOR OF FOUR, with Sun Oct 4 the only prep run before it. That is the
+file's only supply gap and it is real.**
+
+### PRUNE — EXECUTED. `MONDAY Aug 31 — PREP RUN` deleted (120 lines), and only that section. ONE FINDING WAS MIGRATED FIRST.
+
+**THE ARITHMETIC WAS CHECKED FIRST AND THE FORECAST WAS RIGHT THIS TIME.** Aug 31 → Oct 1 is **31 days**.
+**DUE.** **Three runs of wrong-by-a-day forecasts end here; the forecast said "DUE Oct 1 at 31 days"
+and it was exactly that.**
+**ALL FOUR ARMS RUN BEFORE THE DELETE. THREE PASSED CLEAN; ONE FOUND A REAL ORPHAN AND IT WAS MIGRATED,
+NOT OVERRIDDEN.**
+**ARM 1 — all story keys survive elsewhere:** `brough-brothers-river-road-distillery-2026` ×6 ·
+`michters-toasted-barrel-finish-rye-2026` ×11 · `uncle-boojies-gatsby-research-2026` ×5 ·
+`whisky-advocate-outdoor-excursions-2026` ×5. **A fifth hit,
+`michters-us-1-toasted-barrel-finish-straight-rye-2023`, looked like an orphaned key and is NOT one —
+it is a Breaking Bourbon URL PATH FRAGMENT quoted as the evidence behind Lesson 44.** **The pattern
+match was right and the classification was wrong; checking the context is what separated them.**
+**ARM 2/4 — no full URLs in the section at all, and seven of eight bare domains survive elsewhere**
+(`michters.com` ×4, `punchdrink.com/whiskey/` ×1, `robbreport.com` ×32,
+`thespiritsbusiness.com/category/news/` ×10, `whiskyadvocate.com/` ×102, the WA RSS path ×6,
+`whiskyglass.com` ×2).
+**THE ORPHAN: `whiskeymuseum.com` EXISTED ONLY INSIDE THE DOOMED SECTION**, inside a
+"filed here so no future run re-discovers and re-litigates them" note. **A do-not-rediscover record is
+exactly the thing a prune must not destroy.** **THE DURABLE HALF WAS MIGRATED INTO
+`DROPPED / DO NOT REDISCOVER` BEFORE THE DELETE.** The perishable half — Rock N Rye (Sept 5–6) and the
+Oregon Whiskey Festival (Sept 18–19) — **is both events now weeks past and unstageable by date, so it
+needed no preservation.**
+**ARM 3 — Lessons 34, 41, 42, 43 and 44 are referenced in the section and ALL FIVE survive outside it**,
+as numbered items in `PRIOR LESSONS (34–37 added Aug 27)`, `(41–43 added Aug 30)` and
+`(44–45 added Aug 31)`. **BOTH forms were checked, per the Sep 30 clause. The standalone
+`## LESSON NN` heading grep returned ZERO for all five — a false blocker again, and the second run
+running that it would have stopped a valid prune if read alone.**
+**Next eligible: `THURSDAY Aug 27 — PREP RUN` — 35 days old today, so it is ALREADY PAST 30 and is DUE
+on the NEXT prep run (Sun Oct 4). One section per run, never blind.**
+**DO NOT prune `FRIDAY Aug 21 — STAGING RECORD`, `TUESDAY Aug 25 — ALL FOUR PUBLISHED`, or
+`FRIDAY Aug 28 — ALL FOUR PUBLISHED` — each is the only surviving record of its edition.**
+**DEDUP PRUNE: NOT DUE. Oldest block is `PUBLISHED Tue Sep 15`, sixteen days old.**
+
+### CHANNEL READ — nine messages, no humans, and the parser question did not arise
+
+**Window Sep 17–Oct 1.** **`slack_read_channel` with `response_format: concise` returned the ENTIRE
+14-day window in a single call — nine messages, "no more messages available" — comfortably inside the
+token cap.** **Neither prefix parser had to be counted, so instruction 0b's flip-flopping question
+simply did not arise this run.** **Recorded as method, not as a finding: the concise format is the
+cheaper read and should be tried first.**
+**ALL NINE ARE THIS PIPELINE'S OWN POSTS** by the masthead-glyph test — Sep 17, 18, 20, 22, 23, 24, 25,
+29 and 30, each opening `:mag:` or `:tumbler_glass:` + `*THE POUR*`. **ZERO human replies. The
+Canada-ban question put to Aaron on Sep 30 is UNANSWERED.**
+**Oct 1 was empty before this run. Idempotency not in play.**
+
+### SPENT PAGES — nothing spent, as on any prep run
+**A prep run stages; it does not spend.** The three Oct 2 link-outs and the Oct 6 FM link-out become
+spent only when their editions ship. **Sep 29's four, Sep 25's three and Sep 22's five remain closed.**
+**UNSPENT AND LIVE, unchanged from Sep 30:** the WA Sept 18 Whisky Watch and the newer WA Whisky Watch
+(Highland Park, Macallan, Willett, Widow Jane). **Both roundups. Spending one closes every brand on it.**
+
+### The post
+Posted as a one-item prep brief — **the Nashville resolution is the only new pipeline material, and the
+other two Oct 2 items were already posted Sep 30 and were NOT reposted.** Notes ran three lines, two of
+them compressed `_unchanged:_`. **The Canada-ban decision was NOT re-raised as a fresh bullet**, per
+instruction 10.
 
 ---
 
@@ -5037,126 +5308,6 @@ discrimination suit · Sazerac v. RNDC · the lapsed EU retaliatory-tariff suspe
 
 ---
 
-## MONDAY Aug 31 — PREP RUN (posted 06:36 PT)
-
-**Window Aug 30–31. The whole job was Fri Sep 4, per the Aug 30 file. It did not move.** Discovery
-order run exactly as instructed: FM rail (twice) → WA RSS → Robb Report by BEAT slug → TSB index →
-urgent sweep. **Zero candidates staged. Zero new keys. The boards are byte-for-byte unchanged.**
-
-### THE RAILS WERE DOWN, AND THAT — NOT THE EMPTY BOARD — IS THIS RUN'S LESSON
-
-**Three of the four discovery rails produced nothing, and only one of those three was a real
-editorial drought.** This distinction matters for how Wed Sep 2 should read today's result:
-
-1. **WA RSS (`whiskyadvocate.com/call/blogs/rss/`) — 503 Service Unavailable on FOUR attempts**,
-   including the trailing-slash-free variant `.../call/blogs/rss` and the site root
-   `whiskyadvocate.com/`, which **also 503'd.** This is not the client-rendering problem that killed
-   `/news` and `/Tag/Cocktails` — **the whole origin was down for this run.** **Lesson 34 says read
-   the RSS every run regardless; that instruction stands. The feed is not retired, it was
-   unreachable.** **Wed Sep 2 must try it FIRST and must not treat today's failure as evidence the
-   feed is dead.**
-2. **The Spirits Business (`thespiritsbusiness.com/category/news/`) — 403 Forbidden.** Add it to the
-   fetch-failure record for this run only. Not yet a do-not-retry entry — one 403 is not a pattern.
-3. **The FM recent-articles rail — reachable, read TWICE as instructed, and genuinely stale.** Its
-   four current posts are Larrikin (Aug 27, **dropped Aug 30**), Four Roses honey cask (Aug 26,
-   **closed twice**), Jack Daniel's American Single Malt (Aug 26, **already on the Sep 1 board**) and
-   Uncle Boojie's Gatsby (Aug 26, **already a beat file**). **Nothing has posted to FM since Aug 27.**
-   **This one IS a real drought, not an outage.**
-
-**The honest read: today produced no evidence about supply, because the primary rail never
-answered.** Do not let Wed Sep 2 conclude "the Friday seam is dry" off this run. **It concluded
-nothing.**
-
-### `michters-toasted-barrel-finish-rye-2026` — SECOND SOURCE ATTEMPTED AND CLOSED. It ships flagged or holds.
-
-**Breaking Bourbon was the instructed avenue and it FAILS, for the most dangerous possible reason.**
-- **BB's release calendar (`/release-calendar`) has NO entry for the Toasted Barrel Finish Rye.**
-  Its September 2026 list runs Bardstown Discovery #14, Bib & Tucker 8yr BiB, Blue Note Honey Cask
-  Rye, Booker's 2026-03, Booker's Reserves, Elijah Craig Barrel Proof A126, Four Roses LE Small
-  Batch, Four Roses Experimental 002, Garrison Brothers ×3, Larceny A126, Larrikin, Maker's Mark
-  Cellar Aged, Old Forester Birthday Bourbon, Still Austin BiB, Woodford Master's Collection.
-  **Michter's rye is absent.**
-- **BB DOES carry `/review/michters-us-1-toasted-barrel-finish-straight-rye-2023-release` — and it is
-  the 2023 release.** **This is Lesson 43 reappearing in a second outlet.** The tell is the proof:
-  **BB's 2023 page says average barrel proof 108.9; the 2026 release is 109.1 / 54.55% ABV.**
-  **NEW LESSON 44: the stale-year trap is not unique to michters.com. Any Michter's toasted-rye page
-  must be proof-checked against 109.1 before it counts. 108.9 means 2023.**
-- **The rest of the search return is the Lesson 42 reprint ring, all correctly refused:** The Whiskey
-  Wash (**Tier 4, hard avoid**), The Bourbon Flight, The Whiskey Reviewer. **Barrel Banter is new to
-  this pipeline and is NOT on the vetted directory — not used, not counted.**
-
-**STATUS: single-sourced on the WA Whisky Watch page, and that is now final unless a Tier 1–2 outlet
-files independently before Sep 8.** **Decision for the Sep 8 edition: run it with an explicit
-verification flag, or hold it.** **Do not spend another prep run hunting this — the two obvious
-avenues are both exhausted.**
-
-### Fri Sep 4 — EVERY REMAINING SEAM TRIED. Nothing stageable exists as of this morning.
-
-**The Aug 30 file set the constraint as SHAPE, not count: a third item should be neither Whisky
-Advocate nor `on-the-calendar`.** Everything below was tried against that constraint.
-
-- **Robb Report by BEAT slug — the Aug 30 experiment, run properly and it came back empty.** Searched
-  `bar`, `lounge`, `distillery`, `taste test` and `whiskey review` against `robbreport.com`.
-  **The bar/lounge beat returns only archive** — the Vault at Bellagio, Fleur Room, Stranahan's Aspen
-  lodge, the Maybourne cigar bar, Pinky Ring — **newest is 2024. Nothing from 2026.**
-  **The taste-test beat is live but is entirely Jonah Flicker**, and its newest item is the Angel's
-  Envy Distillery Series pan — **a key dropped Aug 30.** **So the RR beat rail is real (Lesson 41
-  holds) but it produced no Friday-shaped item today.** Do not retire it; it is one dry run.
-- **PUNCH — TRIED FOR THE FIRST TIME, and this is the one genuinely new finding.** `punchdrink.com/whiskey/`
-  fetched 200. **It is Tier 2 on the vetted directory and it is exactly the non-WA occasion seam the
-  Friday board has been missing on paper.** **But its listing page carries NO publication dates**, and
-  its current whiskey surface is a Colombian refajo piece and a Whiskey Sour variation recipe from
-  Meaghan Dorman at Dear Irving. **Undated cocktail service journalism cannot clear a recency check
-  and cannot anchor a dated Friday item.** **Verdict: PUNCH is a real seam but needs a dated entry
-  path — try an article URL or a search-by-date next time, not the category listing.** **Do not
-  re-fetch the bare category page; it will not date itself.**
-- **Whiskey festivals — searched and REFUSED on sourcing, not on merit.** Rock N Rye (Mammoth Lakes,
-  **Sept 5–6**, welcome party Sept 4) and the Oregon Whiskey Festival (Bend, **Sept 18–19**) both have
-  hard dates. **Neither has any vetted-outlet pickup — the only coverage is whiskyglass.com,
-  whiskeymuseum.com and the festivals' own sites, all Tier 3-or-below aggregators.** No Tier 1–2
-  source, so no link-out, so not stageable. **And Rock N Rye's own copy — "unlimited access to 30+
-  whiskey brands" — is a DISCUS 73.8 volume framing that could not be printed even with a good
-  source.** **Filed here so no future run re-discovers and re-litigates them.**
-- **`brough-brothers-river-road-distillery-2026` — NOT hunted today, by instruction.** The Aug 30
-  file scheduled the re-hunt for **Wed Sep 2.** Unchanged.
-- **`whisky-advocate-outdoor-excursions-2026` — still the fastest path to a second Sep 4 item and
-  still blocked on Aaron.** **Raised once more in Notes this run, which the Aug 30 file authorised
-  explicitly and conditionally: "raise it once more only if Sep 4 is still short." It is short.**
-  **That authorisation is now SPENT — do not raise it a third time. If he is silent, hold the item
-  past mid-September as the constraint requires. Do NOT self-authorise.**
-
-### Assessed and NOT staged this run
-
-- **Cedar Ridge 2026 Anniversary Edition** — surfaced again via an Alcohol Professor August roundup.
-  **Already assessed and on file (see the Aug 26 section).** **Alcohol Professor is NOT on the vetted
-  directory — not usable as a source.** No change.
-- **Silverthorn Reserve** — bourbon and rye from **Drew Thorn, former Sagamore Spirit CEO.** New name
-  to this pipeline. **Surfaced only inside an Alcohol Professor roundup — no vetted-outlet coverage
-  found, no date, no price, no distribution.** **Not staged, not keyed. If a Tier 1–2 outlet files,
-  it is a legitimate Tuesday item under a new key.**
-- **`uncle-boojies-gatsby-research-2026`** — re-read off the FM rail. **UNCHANGED and still correctly
-  a beat file, and the reason is now firmer than before: the September Kentucky Bourbon Festival
-  event is INVITATION-ONLY and carries no published date.** **A reader cannot act on it, so it fails
-  the Friday bar outright.** Its tasting is described only as "a curated tasting experience inspired
-  by the project's themes" — **no sensory, and the phrase itself is a banned word.** Three named
-  speakers are available (Stephen A. Smith, Cassie Tatum, David Mandell) if it ever becomes runnable.
-- **Breaking Bourbon's September calendar** — read for the Michter's check and mined for nothing
-  else, deliberately. **It is a listings table, not reporting: no bylines, no sourcing, no sensory.**
-  **It is a useful CROSS-CHECK instrument and a poor discovery rail. Do not stage off it.**
-
-### Urgent sweep — no override
-
-Swept back through **Sat Aug 29**, per the standing window. **Nothing new.** The one result that
-looked like a genuine override — **a Crown Royal Reserve 12-year glass-contamination recall** —
-**is from August 19, 2025 and is already on file in the urgent-sweep record. It is a year old. NOT
-an override.** **Recorded explicitly because it will resurface on any recall search and should be
-dismissed in seconds next time, not re-investigated.** Everything else returned was already closed:
-Blue Spirits Chapter 7, A.M. Scott bankruptcy, Sazerac v. RNDC, the Fireball distributor suit.
-**The EU retaliatory-tariff lapse (Aug 6) remains the only live thread and still has no vetted
-pickup.**
-
----
-
 ## THURSDAY Aug 27 — PREP RUN (posted 06:2x PT)
 
 **The assigned job was the Aug 28 second-source attempt, and it FAILED on both items — which is the
@@ -6911,43 +7062,141 @@ is FOUR, the ask closed in one prep run, and nothing was raided from another boa
 
 ---
 
-## TUESDAY Oct 6 — OPENED Sep 24. ONE STAGED. *(new board)*
+## TUESDAY Oct 6 — OPENED Sep 24. ONE STAGED, FLOOR IS FOUR. THE FILE'S ONLY SUPPLY GAP. *(link-out resolved Sep 30; entry rewritten Oct 1)*
 
-**FIRST ENTRY ON THIS BOARD. It exists because Sep 25 and Sep 29 both clear their floors and
-instruction 2 forbade crowding a closed board — NOT because Oct 6 was short.**
-
-- `willett-pot-still-reserve-cask-strength-2026` — **NEW AND STAGED Sep 24. VERIFIED on the
-  primary-source clause: TWW (Sept 23, Beth Squires) + Willett's own product page. NOT FLAGGED.**
-  Wheated Kentucky straight bourbon at cask strength · `65%` corn / `20%` wheat / `15%` barley ·
-  barrel entry `115 proof` · batch proof printed on each bottle · released twice yearly on the
-  equinoxes · `$67` (£50), `nationally` · Even Kulsveen's pot still bottle, built by Vendome Copper
-  and Brass · Drew Kulsveen, master distiller · est. 1936 by Thompson Willett.
-  **SENSORY BLOCKED, four-way proved. NOT an allocation item (`allocat` ×0, `limited` ×0).**
-  **Full entry, the printable/unprintable split, the `65 %` whitespace trap and the reprint handling
-  are all in the Sep 24 section.**
+- `willett-pot-still-reserve-cask-strength-2026` — **STAGED Sep 24. VERIFIED, NOT FLAGGED. THE TIER 4
+  BLOCKER IS CLOSED.**
+  **LINK-OUT (resolved Sep 30, replacing the blocked Whiskey Wash URL):**
+  `https://www.fredminnick.com/2026/09/25/willett-releases-pot-still-reserve-cask-strength/`
+  — **Fred Minnick, Tier 2, byline-dated September 25, 2026.** curl 200, 111,293b → 4,826 stripped.
+  **SECOND SOURCE (Tier 1 primary):**
+  `https://www.kentuckybourbonwhiskey.com/whiskey/willett-pot-still-reserve-3/` — curl 200, 1,182
+  stripped. **Breaking Bourbon carries the identical release with identical counts — a reprint, ONE
+  source with FM, corroboration only.**
+  **PRINTABLE AGAINST FM, every string re-greped Sep 30:** mash bill `65%` corn / `20%` wheat /
+  `15%` barley · enters the barrel at `115 proof` · `$67` · `nationally` · released `twice each year`
+  on the Spring and Fall `Equinox` · each release identified by its `batch-specific` proof · pot
+  still-shaped bottle conceived by the late `Even Kulsveen`, an exact replica of the patented Willett
+  pot still built by `Vendome` Copper and Brass · Drew Kulsveen, Master Distiller · Willett
+  established `1936`.
+  **NOT PRINTABLE AGAINST FM — all three were the Whiskey Wash's and return ZERO on FM:** `2008` ·
+  `Bardstown` · `Thompson Willett`.
+  **DO NOT PRINT A BATCH PROOF.** `120 proof` ×0 and `60%` ×0 on both pages — the 120-proof figure is
+  a retailer's post on X and is not citable. **The page's own "batch-specific proof" line is the
+  honest form.**
+  **SENSORY BLOCKED, SIX-WAY PROVED on FM and the brand page:** `nose`, `palate`, `finish`, `tasting`,
+  `vanilla`, `caramel`, `oak`, `spice`, `notes` ALL ZERO. **No tasting note exists for this bottle
+  anywhere. Do not generate one from the wheated mash bill, the proof or the price.**
+  **THE ONE ATTRIBUTABLE LINE:** Drew Kulsveen calls it *"full proof, full bodied"* — four words,
+  named speaker, on FM, inside the one-quote rule. **His words, never ours. Optional.**
+  **DO NOT LIFT FM'S SEASONAL PARAGRAPH** (*"fresh mint and juleps as spring returns…"*) **as flavour.
+  It frames the release CADENCE and reads like sensory copy. It is not.**
+  **THE `65 %` WHITESPACE TRAP, confirmed twice:** the brand page renders `65 %` WITH A SPACE and
+  `65%` ×0. **Do not grep the brand page with FM's string.**
+  **COMPLIANCE: `allocat` ×0, `limited` ×0. NOT an allocation item — do not frame it as scarce.**
   Beat `whats-dropping`, persona `explorer`.
-  Link: ~~`https://thewhiskeywash.com/whiskey-news/willett-pot-still-reserve-cask-strength-bourbon-debuts/`~~
-  **LINK-OUT BLOCKED Sep 29 — THE WHISKEY WASH IS TIER 4 AND MAY NOT BE LINKED. This entry was staged
-  Sep 24 on the same wrong tier reading that put Glenlivet on TWW. It is NOT a fetch problem and NOT a
-  claims problem: the page is reachable and the facts are fine. The OUTLET is the blocker.**
-  **THIS ITEM CANNOT RUN AS STAGED. Before Oct 6 it needs ONE of: (a) a Tier 1-2 editorial pickup to
-  link instead — try TSB, WA, Breaking Bourbon, Bourbon Review; (b) a decision to link the Willett
-  primary below and accept that a product page is a thin read; or (c) a drop.**
-  **WHAT SURVIVES THE MOVE IS UNKNOWN — the recorded figures were greped against TWW, so EVERY claim
-  must be re-greped against whatever page replaces it. Lesson 61 / 63.**
-  Corroborating primary (Tier 1, reachable, linkable): `https://www.kentuckybourbonwhiskey.com/whiskey/willett-pot-still-reserve-3/`
-  **NOTE FOR A LATER RUN: Willett ships this on a fixed twice-yearly calendar, so the item does not
-  decay the way a one-off drop does. It can hold to Oct 6 or beyond without going stale.**
+  **NOTE: Willett ships this on a fixed twice-yearly calendar, so the item does not decay the way a
+  one-off drop does. It can hold to Oct 6 or beyond without going stale.**
 
+**THE GAP, STATED PLAINLY: ONE STAGED AGAINST A SHORTLIST FLOOR OF FOUR, AND SUN OCT 4 IS THE ONLY
+PREP RUN LEFT BEFORE IT.** **Oct 1 deliberately did not raid this board (instruction 4) and did not
+spend discovery on it.**
+**THE BENCH, AND THE ONE CHECK ALREADY DONE FOR SUNDAY:**
+- **Angel's Envy rye finished in peach brandy casks (TSB Sept 30) — the best candidate on the bench.**
+  **KEY COLLISION CHECK IS DONE AND IT IS CLEAN:** `angels-envy-amburana-2026` and
+  `angels-envy-distillery-series-imperial-stout-2026` are both in DEDUP, but a peach-brandy rye is a
+  THIRD distinct product and keys cleanly as `angels-envy-peach-brandy-cask-rye-2026`.
+  **THE REAL HAZARD IS DISTRIBUTION, NOT THE KEY.** Both priors died visitors-center-only.
+  **SUNDAY'S FIRST QUESTION: is this a Distillery Series bottling, and does it reach retail? If it is
+  visitors-center-only, it dies the same death. Do not stage it before answering that.**
+- **World's "most valuable" whisky to headline a Macallan auction (TSB Sept 30)** — Collector shape,
+  Tuesday material, unwalked.
+- **The WA Whisky Watch roundup (Highland Park, Macallan, Willett, Widow Jane)** is live and UNSPENT.
+  **Spending it closes every brand on it. Deliberate or not at all.**
 ---
 
-## FRIDAY Oct 2 — EMPTY. Opened Sep 24 as a placeholder only.
+## FRIDAY Oct 2 — THREE STAGED, ALL THREE VERIFIED. FLOOR MET. ASSEMBLY-READY. *(opened Sep 24; filled Sep 30; Nashville cleared Oct 1)*
 
-**Nothing staged, and nothing is owed yet.** It is a Last Call, so it wants an occasion-led item
-skewing Social Drinker / Venue Regular. **GO TO EVENT AND FESTIVAL CALENDARS FIRST — Lesson 58 / 61,
-still a first-choice rail.** **Sun Sep 28 and the runs after Sep 29 stand between now and then. Do NOT
-raid Sep 25 or Sep 29 to fill it.**
+**A Last Call runs 3–4 and this board clears at three.** **A fourth was sought Oct 1 on the shape the
+board actually lacked and was not found — see the Oct 1 section. NOTHING WAS PADDED.**
+**SHAPE: `on-the-calendar` ×2, `easy-pour` ×1 · Venue Regular ×2, Social Drinker ×1 — correct for a
+Last Call.** **NON-KENTUCKY ON ALL THREE: New York, a national retail column, Tennessee. The
+back-to-back-Kentucky-festival question is CLOSED and is not to be re-raised.**
+**OUTLET SHAPE IS WA ×2 + the festival's own site. Recorded as machinery. NOT a Slack bullet.**
 
+- `dram-central-spirits-lounge-2026` — **VERIFIED, NOT FLAGGED.** Beat `on-the-calendar`, persona
+  `venue-regular`.
+  **Link-out:** `https://whiskyadvocate.com/dram-central-spirits-lounge` — WA, Tier 2, Julia Higgins,
+  September 17, 2026.
+  **Second source:** `https://www.theinfatuation.com/new-york/reviews/dram-central` — The Infatuation,
+  Bryan Kim, August 13, 2026. **Independent NYC press, different month, different byline.**
+  **PRINTABLE AGAINST WA:** `14 E 44th Street` · *"just a few blocks from Grand Central Station"* ·
+  opened in August · owner **Flavien Desoblin**, who also owns **Brandy Library** (Tribeca, 2004) and
+  **Copper & Oak** · twice the size of Brandy Library · *"The whisky list alone fills 200 pages"* ·
+  spans the major whisky countries as well as New Zealand and Denmark · focus on single malt scotch
+  and American whiskey · a full kitchen and multiple private event spaces.
+  **MERGE HAZARD — WA'S ALONE, ×0 ON THE INFATUATION:** `Desoblin`, `200`, `Grand Central`, the
+  twice-the-size line. **Print the link-out's own form.**
+  **SENSORY: WA describes the ROOM — copper accents, dark wood, warm orange-hued backlighting. Decor
+  is safe to describe because the source describes it. IT IS NOT A TASTING NOTE. The Infatuation says
+  it has not visited and carries no verdict.**
+  **QUOTE: Desoblin's Ardbeg/Octomore line runs well over 20 words. Trim or skip. No quote is correct.**
+
+- `whisky-advocate-bottom-shelf-shopping-2026` — **VERIFIED. DO NOT FLAG IT.** Beat `easy-pour`,
+  persona `social-drinker`.
+  **Link-out:** `https://whiskyadvocate.com/how-to-shop-for-bottom-shelf-whiskey` — WA, Tier 2,
+  Charles K. Cowdery, September 25, 2026.
+  **WHY SINGLE-OUTLET IS NOT A FLAG: the two-source rule exists to confirm an asserted EVENT. This
+  item asserts no event — the item IS the column, and the column's contents are verified on the page
+  we link.** **Recording it as "single-sourced" would invent a weakness.**
+  **PRINTABLE AGAINST WA:** blended bourbon is half bourbon and half neutral spirit · American blended
+  whiskey is typically only 20% whiskey and 80% neutral spirit, plus coloring and flavoring · spirit
+  whiskey is only 5% whiskey · straight bourbon with no age statement means at least 4 years old · the
+  age statement required under 4 years is usually not displayed prominently, and Suntory's Old Crow is
+  3 years old · most of the bottom shelf will be 40% ABV, so higher is worth a look — Heaven Hill's
+  J.T.S. Brown and MGP/Luxco's Rebel at 50% ABV · American straight whiskeys can't include caramel
+  coloring, so color means something, unlike scotch · Sazerac's Benchmark is *"the king of the bottom
+  shelf"*, with Very Old Barton less widely distributed · American whiskey stocks have moved from
+  shortage to surplus.
+  **STRING FORM: the page writes `color`, US spelling. `colour` ×0.**
+  **LEXICON TRAP IN THE SOURCE: it opens "Everybody's been reaching for premium, allocated, and single
+  barrel bottlings." `premium` IS BANNED IN OUR COPY EVEN WHEN THE SOURCE USES IT. Paraphrase around
+  it. `allocated` must be defined on first use.**
+  **IT NAMES NO PRICE. The sub-$30 gap is NOT closed by a column about how to shop.**
+
+- `nashville-whiskey-festival-2026` — **VERIFIED Oct 1, NOT FLAGGED. The second-source question is
+  CLOSED.** Beat `on-the-calendar`, persona `venue-regular`.
+  **Link-out:** `https://www.nashvillewhiskeyfestival.com/tickets` — the festival's own site, **Tier 1
+  primary.** Re-fetched Oct 1: curl 200, 126,363b → 2,323 stripped, **byte-identical to Sep 30.**
+  **Second source:** `https://www.visitmusiccity.com/nashville-trip-ideas/15-fall-festivals` —
+  **Nashville Convention & Visitors Corp, the city's official tourism body, categorically not the
+  organiser.** **The KDA precedent repeating.** **It carries the festival name, `October 10, 2026`, and
+  "a one-day celebration of whiskey culture, craftsmanship, and community" — the EVENT and the DATE,
+  which is all a second source must do.** **curl 403s on it (blocked UA, Lesson 57); WebFetch renders
+  it. Read but not greppable by us.**
+  **PRINTABLE AGAINST THE LINK-OUT, re-greped Oct 1:** `October 10, 2026` · **VIP 5:30pm–9:30pm, GA
+  6:00pm–9:30pm** · **1612 Church Street, Nashville, TN 37203** · organiser `Corkdorks` · *"Must be
+  21+ to attend all events- ID’s will be checked at the door!"* · a commemorative **Glencairn Glass**
+  upon arrival, a tasting guide, specialty cocktail samples, very light bites, free live music,
+  access to limited **Masterclasses** · **no refunds** · **rain or shine** (it is indoors).
+  **WRITE THE GRAND TASTING FROM THIS SENTENCE:** *"Our signature event featuring 100+ whiskeys, food
+  pairings, exclusive brand activations, signature cocktails, and live music."* **It carries the 100+
+  figure with NO volume cue.**
+  **COMPLIANCE — THE SHARPEST ON THE BOARD. The same page reads "unlimited tasting of over 100+
+  spirits". `unlimited tasting` IS A VOLUME-OF-CONSUMPTION CUE, BANNED UNDER DISCUS 73.8. Not quoted,
+  not paraphrased as "all you can taste", not softened to "pours included". Use the Grand Tasting
+  sentence instead.** **The 21+ line is a compliance ASSET — print it.**
+  **NOT PRINTABLE, each for its own reason:** `14 years` — **STRUCK Oct 1, it is on NEITHER page and
+  the Sep 30 record was wrong** · cigar lounges — **HOME PAGE ONLY, `cigar` ×0 on `/tickets`** ·
+  `Cambria Hotel` / `The Rux Rooftop` — **Eventbrite and Nashville Guru only, ×0 on the official
+  site** · any price — **no citable source** · `200 spirits` — **Nashville Guru only, and it
+  contradicts the organiser's own 100+**.
+  **STRING FORM: the page writes `ID’s` with a CURLY apostrophe. `ID's` straight returns ZERO.**
+  **NASHVILLE GURU (`nashvilleguru.com/37327/nashville-whiskey-festival`) IS CORROBORATION ONLY AND
+  MUST NEVER BE THE LINK-OUT:** it carries `Advertising Disclosure | Our Partners may be mentioned in
+  this article` and a stated no-negative-coverage comment policy. **Declared conflict. Tier 4
+  treatment.** **Eventbrite is the ORGANISER's own ticketing page — one party with Corkdorks, never a
+  second source.** **whiskyglass.com is WRONG on the date (Oct 11 BST) — do not use it.**
 ---
 
 ## FRIDAY Sep 25 — PUBLISHED. ALL THREE SHIPPED. THIS BOARD IS CLOSED. *(heading rewritten Sep 25, on publish)*
@@ -9400,123 +9649,172 @@ and the fifth coconut item) · `discus-congressional-fly-in-2026`.
 - `robb-report-gabriella-pisco-sour-2026` — Robb Report Aug window. **Pisco, not whiskey.** Recorded
   only so the Robb Report index sweep does not re-surface it as an Easy Pour candidate.
 
+**Migrated Oct 1 from `MONDAY Aug 31 — PREP RUN` on its prune, so the finding survives the section.**
+- **`whiskeymuseum.com` is a Tier-3-or-below aggregator and is not a vetted outlet.** Recorded Aug 31
+  alongside `whiskyglass.com` and festivals' own sites as the ONLY coverage carried by two festivals
+  that were therefore refused on sourcing rather than merit. **The outlet judgement is the durable
+  half and is kept here; the two events it attached to (Rock N Rye, Sept 5–6, and the Oregon Whiskey
+  Festival, Sept 18–19) are both weeks past and unstageable by date, so they needed no preservation.**
+  **Standing use: if a festival's only pickup is whiskyglass.com or whiskeymuseum.com, there is no
+  Tier 1–2 source, so there is no link-out, so it is not stageable.**
+
 ---
 
-## NEXT RUN (Thu Oct 1 — PREP, AND IT IS THE LAST RUN BEFORE FRIDAY. Then Fri Oct 2 LAST CALL, Sun Oct 4 prep, Tue Oct 6 SHORTLIST.)
+## NEXT RUN (Fri Oct 2 — LAST CALL, AN EDITION DAY. Then Sun Oct 4 prep, Tue Oct 6 SHORTLIST.)
 
-**THIS IS A PREP RUN — no consumer edition, glyph `:mag:`, staged candidates in plain internal
-language, no reader copy, no send-off, no CTA.** **Post only if there is new pipeline material, a gap
-update, or urgent news.**
-Load `whiskey-social-news-roundup` (present, re-verified Sep 30). **`whiskey-social-brand` is STILL
-ABSENT — re-verified Sep 30. It stays compressed as `_unchanged:_` and never gets a fresh bullet.**
+**THIS IS AN EDITION DAY — consumer copy, glyph `:tumbler_glass:`, masthead `THE POUR · Last Call`,
+full brand voice above the rule, the signature send-off, UTMs on every link.** **A Last Call runs 3–4
+items. THE BOARD IS AT THREE AND ALL THREE ARE VERIFIED. DO NOT SEEK A FOURTH AND DO NOT PAD.**
+Load `whiskey-social-news-roundup` (present, re-verified Oct 1). **`whiskey-social-brand` is STILL
+ABSENT — re-verified Oct 1 against the synced skills directory. It stays compressed as `_unchanged:_`
+and never gets a fresh bullet.**
 
 0. **CALENDAR CHECK FIRST — Lesson 51.** Compute date and weekday in America/Los_Angeles; the sandbox
-   clock is UTC and runs ~7 hours ahead of a 6am PT firing.
-   **Expected: today = Thursday Oct 1 (PREP). Then Fri Oct 2 LAST CALL.**
-0a. **CADENCE: NOTHING IS OPEN. The Sep 27/28 double miss was reported once (Sep 29) and is CLOSED.**
-   **Sep 29 and Sep 30 both fired.** **Raise cadence again ONLY if Oct 1 finds Sep 30 was the newest
-   post AND a scheduled day sat between them. Do not re-run the Sep 29 forecast's arithmetic — it was
-   wrong twice (the miss count, and the prune date by one day).**
-0b. **THE CHANNEL PARSER — IT FLIPPED AGAIN.** **Sep 30 found `=== Message from` returns 38 and the
-   `Name <email>: ` prefix form returns ZERO — the exact reverse of Sep 29.** **Try BOTH, every run,
-   count the matches, and use whichever is non-zero. Never assume last run's form.** **The read
-   exceeds the tool's token cap (~97KB), so read it from the saved file and split it; do not
-   re-request it smaller.** **Authorship cannot distinguish a human from us — every post shows as
-   Aaron. Use the MASTHEAD-GLYPH TEST on the first ~110 chars of each body.**
+   clock is UTC and runs ~7 hours ahead of a 6am PT firing. **Expected: today = Friday Oct 2 (LAST
+   CALL). Then Sun Oct 4 PREP, Tue Oct 6 SHORTLIST.**
+0a. **CADENCE: NOTHING IS OPEN.** Sep 29, Sep 30 and Oct 1 all fired. **Raise cadence ONLY if Oct 2
+   finds Oct 1 was NOT the newest post, or a scheduled day sat between them. Do not re-derive old
+   arithmetic.**
+0b. **CHANNEL READ — USE `response_format: concise` FIRST.** It returned the whole 14-day window in
+   ONE call on Oct 1 (nine messages, no pagination, no token-cap problem), so **neither the
+   `=== Message from` nor the `Name <email>: ` prefix form had to be counted.** **If concise ever
+   overflows, fall back to the saved-file split and try BOTH prefix forms — the channel has
+   alternated before. Never assume last run's form.** **Authorship cannot distinguish a human from us
+   — every post shows as Aaron. Use the MASTHEAD-GLYPH TEST on the first ~110 chars of each body.**
 
-1. **ARM ZERO, NON-OPTIONAL — Lesson 66. BEFORE ANY CLAIM CHECK, RE-READ EVERY STAGED LINK-OUT'S
-   DOMAIN AGAINST THE TIER DIRECTORY.** **Tier first, claims second.**
-   **THE Oct 2 BOARD IS CLEAN ON THIS AS OF Sep 30: WA ×2 (Tier 2) and the festival's own site
-   (Tier 1). The Oct 6 Willett link-out is now Fred Minnick (Tier 2) and the Tier 4 problem is GONE.**
+1. **ARM ZERO, NON-OPTIONAL — Lesson 66. BEFORE ANY CLAIM CHECK, RE-READ EVERY LINK-OUT'S DOMAIN
+   AGAINST THE TIER DIRECTORY. Tier first, claims second.**
+   **THE OCT 2 BOARD IS CLEAN AS OF Oct 1: whiskyadvocate.com ×2 (Tier 2) and
+   nashvillewhiskeyfestival.com (Tier 1 primary).**
    **THE KNOWN TIER 4 LIST, DO NOT LINK: The Whiskey Wash, Whiskey Raiders, The Whisky Exchange,
    Forbes contributor columns, The Bourbon Flight, The Whiskey Reviewer, WikiliQ, Boozemakers,
-   Bourbon Inspector.**
-2. **THIS RUN'S FIRST CONCRETE TASK: THE NASHVILLE SECOND SOURCE.**
-   `nashville-whiskey-festival-2026` is staged Fri Oct 2 and **cannot ship verified without a source
-   independent of Corkdorks.** **Eventbrite does NOT count — same organiser.** **whiskyglass.com is
-   WRONG on the date (Oct 11 BST vs the official Oct 10) — do not use it.**
-   **TRY, IN THIS ORDER: (a) WebFetch on `nashvilleguru.com/37327/nashville-whiskey-festival` — curl
-   hit a bot wall and returned 73 chars, which is a FAILED FETCH, not an absence (Lesson 61);
-   (b) Nashville regional press and the Nashville Scene; (c) a Tier 1-2 trade pickup.**
-   **IF NO INDEPENDENT SECOND SOURCE EXISTS BY FRIDAY: the board still clears at two verified items,
-   which is BELOW a Last Call's floor of three. Decide then between shipping the festival FLAGGED
-   (an event's own site is a Tier 1 primary and the flag goes in the aside, never silent) and running
-   the empty-pipeline floor. Put the decision in the board entry, not in Slack.**
-3. **THEN, ONLY IF TIME REMAINS: a non-WA fourth for Oct 2.** **The board clears at three and a
-   fourth is OPTIONAL — a Last Call runs 3-4. NEVER pad to fix outlet shape.**
-   **The Friday bench is deep and already scouted, all NON-KENTUCKY:** Whiskey Washback NY (Oct 30,
-   Bowery Hotel) · Silicon Valley Whisk(e)y Festival (Oct 24, Palo Alto Elks Lodge) · Fresno Whiskey
-   Festival (Oct 17) · Champaign Whiskey Fest (Oct 16–17) · Whiskey & Wine Festival, Fredericksburg
-   VA (Oct 31). **Verify ONE properly rather than three thinly.**
-4. **DO NOT RAID Oct 6 TO FILL Oct 2.** **Oct 6 has ONE item against a floor of four and is now the
-   file's only supply gap.** **Its best bench candidate is Angel's Envy peach-brandy-cask rye
-   (TSB Sept 30) — CHECK FOR A KEY COLLISION FIRST: `angels-envy-amburana-2026` and
-   `angels-envy-distillery-series-imperial-stout-2026` are both already in DEDUP.** Sun Oct 4 owns
-   that board; do not spend Thursday on it.
-5. **Lessons 54/58/59/61/62/63/64/65/66. NEVER draft or stage a claim from a board entry, from a
-   CONVERSION of one, from a SEARCH SUMMARY, or from a SECOND OUTLET. Grep every claim string —
-   NUMERIC AND NON-NUMERIC — against the page you will actually link. STRIP HTML TO TEXT BEFORE
-   COUNTING. Grep the string the PAGE uses.** **Sep 30 added two more: the Willett brand page renders
-   `65 %` with a space where FM writes `65%`, and the WA bottom-shelf column writes `color`, not
-   `colour`.**
-6. **THE OCT 2 COMPLIANCE LANDMINE, AND IT IS THE THING MOST LIKELY TO GET THROUGH.** The Nashville
-   festival's own site AND its Eventbrite listing both say **"unlimited tasting of over 100+
-   spirits"**. **`unlimited tasting` IS A VOLUME-OF-CONSUMPTION CUE, BANNED UNDER DISCUS 73.8.** **It
-   must not appear quoted, paraphrased, or softened.** **Print the occasion instead: one evening, food
-   pairings, live music, masterclasses, 21+.** **The 21+ line is a compliance asset — print it.**
-   **The WA bottom-shelf column opens with `premium`, which is BANNED in our copy even when the source
-   uses it. Paraphrase around it, and define `allocated` on first use.**
-7. **URGENT SWEEP, every run.** **Precedent now SIXTEEN times applied.** **Sep 30 added the sharpest
-   near-miss yet: a genuine Crown Royal glass-contamination recall (CFIA Class 2) that is dated
-   AUGUST 19, 2025 — thirteen months stale. DATE A SAFETY ITEM BEFORE WEIGHING IT (Lesson 35). Do not
-   re-walk it as fresh.**
-8. **PRUNE — `MONDAY Aug 31 — PREP RUN` is 30 days old on Sep 30 and DUE Oct 1 at 31 days. CHECK THE
-   ARITHMETIC YOURSELF; this file's prune forecasts have now been wrong by a day twice running.**
-   **Run all four arms BEFORE deleting.** **ARM 3 GOT A NEW CLAUSE ON Sep 30: check BOTH the
-   standalone `## LESSON NN` heading form AND the consolidated `## PRIOR LESSONS (range)` blocks. The
-   heading grep alone returned ZERO for four lessons that were all safely present as numbered items —
-   a false blocker that would have stopped a valid prune.**
+   Bourbon Inspector — and, ADDED Oct 1, `nashvilleguru.com`, which carries its own advertising
+   disclosure and a no-negative-coverage comment policy.**
+2. **THE EDITION-MORNING RE-FETCH IS MANDATORY AND IT IS THE WHOLE JOB. Re-fetch ALL THREE link-outs,
+   strip HTML to text BEFORE counting, and re-grep EVERY claim you intend to print — numeric and
+   non-numeric.** **Oct 1 proved again why: the Nashville page was BYTE-IDENTICAL to Sep 30 and two
+   recorded claims still had to be struck or re-homed.**
+   **GREP THE STRING THE PAGE USES. Known traps on this board: `ID’s` is a CURLY apostrophe on the
+   Nashville page (`ID's` ×0) · WA writes `color`, not `colour` · the WA bottom-shelf column opens
+   with `premium`, which is BANNED in our copy even as a quote.**
+3. **THE THREE ITEMS, AND THEIR FULL PRINTABLE/UNPRINTABLE SPLITS, ARE ON THE `FRIDAY Oct 2` BOARD.
+   READ IT BEFORE DRAFTING. Do not reconstruct a claim from this block, from a board summary, from a
+   search summary or from a second outlet — Lessons 54/59/61/62/63/64/65.**
+   **THE THREE: `dram-central-spirits-lounge-2026` (WA, `on-the-calendar`/venue-regular) ·
+   `whisky-advocate-bottom-shelf-shopping-2026` (WA, `easy-pour`/social-drinker) ·
+   `nashville-whiskey-festival-2026` (official site, `on-the-calendar`/venue-regular).**
+4. **DO NOT FLAG ANYTHING. ALL THREE ARE VERIFIED.** **Specifically: do NOT flag the bottom-shelf
+   column as single-sourced — it asserts no event, and flagging it invents a weakness. And do NOT
+   carry any second-source question on Nashville — it CLOSED Oct 1 on Visit Music City.**
+   **If the aside has no verification flag to carry, that is a clean close, not an omission.**
+5. **THE COMPLIANCE LANDMINE, AND IT IS THE THING MOST LIKELY TO GET THROUGH.** The Nashville page
+   reads **"unlimited tasting of over 100+ spirits"**. **`unlimited tasting` IS A VOLUME-OF-CONSUMPTION
+   CUE, BANNED UNDER DISCUS 73.8 — not quoted, not paraphrased, not softened.** **USE THE PAGE'S OWN
+   CLEAN SENTENCE INSTEAD: "Our signature event featuring 100+ whiskeys, food pairings, exclusive
+   brand activations, signature cocktails, and live music."** **The 21+ line is a compliance ASSET —
+   print it.** **Also watch the edition NAME: "Last Call" is a weekend cue in the masthead and must
+   never read as a drink-up cue in body copy.**
+6. **SENSORY DISCIPLINE.** **Dram Central: WA describes the ROOM, not the whiskey. Decor is printable
+   because the source describes it; it must NOT be dressed as a tasting note.** **The festival and the
+   bottom-shelf column carry no sensory at all and will read fine without it.** **An edition with ZERO
+   verbatim quotes is correct and has shipped twice — do not reach for one.**
+7. **UTMs — EXACTLY the scheme, machine-verify all three before send.**
+   `?utm_source=whiskeysocial&utm_medium=pour&utm_campaign=lastcall-2026-10-02&utm_content=<beat-slug>&utm_term=<persona-slug>`
+   **Campaign is `lastcall-2026-10-02`. Beats: `on-the-calendar`, `easy-pour`, `on-the-calendar`.
+   Personas: `venue-regular`, `social-drinker`, `venue-regular`.** All lowercase, hyphenated.
+8. **URGENT SWEEP, every run. Precedent now SEVENTEEN times applied.** **Do NOT re-walk as fresh: the
+   Aug 2025 Crown Royal recall (thirteen-plus months stale), the Bardstown employment suits (Feb 2026,
+   not a partner), the bankruptcy/closure wave, or Washtucky v. Wilderness Trail (a commercial barrel
+   contract dispute, added Oct 1).** **DATE A SAFETY ITEM BEFORE WEIGHING IT — Lesson 35.**
+9. **PRUNE — `THURSDAY Aug 27 — PREP RUN` is 35 days old and ALREADY DUE. It is an EDITION day, so
+   prune only if the edition is comfortably done; otherwise Sun Oct 4 takes it.** **CHECK THE
+   ARITHMETIC YOURSELF.** **Run all four arms BEFORE deleting, and check BOTH the standalone
+   `## LESSON NN` heading form AND the consolidated `## PRIOR LESSONS (range)` blocks — the heading
+   grep alone has now produced a false blocker on two consecutive prunes.** **ARM 2/4 found a real
+   orphan on Oct 1; a do-not-rediscover record must be MIGRATED, never deleted.**
    **DO NOT prune `FRIDAY Aug 21 — STAGING RECORD`, `TUESDAY Aug 25 — ALL FOUR PUBLISHED`, or
-   `FRIDAY Aug 28 — ALL FOUR PUBLISHED`.**
-   **Never prune DEDUP, OPEN GAPS, COLLISION FLAGS, WATCHING, the boards or the LESSONS blocks.**
-   **DEDUP PRUNE: not due. Oldest block is `PUBLISHED Tue Sep 15`.**
-9. **SPENT PAGES — one page, one item, ever.** **NOTHING WAS SPENT Sep 30 — a prep run stages, it does
-   not spend.** The four Oct 2/Oct 6 link-outs become spent only when their editions ship.
-   Sep 29's four, Sep 25's three and Sep 22's five remain closed.
-   **UNSPENT AND LIVE: the WA Sept 18 Whisky Watch (`knob-creek-12-cask-strength-balvenie-12-and-more-new-whiskey`)
-   AND the newer WA Whisky Watch on the front page (Highland Park, Macallan, Willett, Widow Jane).
-   Both are roundups — spending one closes every brand on it. Spend deliberately or not at all.**
-   **CORRECTION TO THE DEAD-PATH LIST, Sep 30: `breakingbourbon.com/bourbon-whiskey-press-releases` is
-   a dead INDEX, but individual articles UNDER that path return 200.** Do not treat the directory as
-   blocked. **Both TSB category paths remain dead; the TSB front page is the only TSB rail and it was
-   RICH this run.**
-10. **NOTES DISCIPLINE — max 5 bullets, 15 words each, Notes+Pipeline under 120 words.**
-   **LIVE AND UNRESOLVED — these may be raised:** the Canada-ban third-bite decision (raised Sep 30,
-   awaiting Aaron; **do not re-raise unless he answers or it changes**) and the Nashville second
-   source (raised Sep 30; **re-raise ONLY if it fails and forces a Friday decision**).
-   **SPENT AND NEVER TO BE RE-RAISED:** the Willett Tier 4 catch and its re-source (both now closed),
-   the Sep 27/28 double miss, the Sep 21 Monday miss, the Borders UK-only call, the Glenlivet
-   single-source flag, the Banks fetcher failure and link-out decision, the `Designated Driver`
-   disappearance, the back-to-back Kentucky festival question (**CLOSED Sep 30 — the Oct 2 board is
-   non-Kentucky on all three**), the `allocation-watch` beat-slug gap, the New Era name collision, the
-   Four Roses conflict, the shelf-price slug, the sub-$30 gap, the explainer slug, the September
-   third-edition cadence bump, the Balvenie 88 forward-bar call, the outdoors byline call, the
-   Victoria BC Canada hazard, the Parker's Heritage collision, the Tuesday no-Social-Drinker shape,
-   the Sep 22 persona ask, the 1880 decision, the Elmer T. Lee entry window, the MGP `111 proof` cut,
-   the Sep 25 non-WA occasion ask, and the Woodford cut.
+   `FRIDAY Aug 28 — ALL FOUR PUBLISHED`.** **Never prune DEDUP, OPEN GAPS, COLLISION FLAGS, WATCHING,
+   the boards or the LESSONS blocks.** **DEDUP PRUNE: not due. Oldest block is `PUBLISHED Tue Sep 15`.**
+10. **ON PUBLISH: rewrite the `FRIDAY Oct 2` board heading to PUBLISHED/CLOSED, move all three story
+   keys into DEDUP with today's date, and add all three link-out URLs to the spent-link register.**
+   **One page, one item, ever.** **Sep 29's four, Sep 25's three and Sep 22's five remain closed.**
+   **UNSPENT AND LIVE: the WA Sept 18 Whisky Watch and the newer WA Whisky Watch (Highland Park,
+   Macallan, Willett, Widow Jane). Both roundups — spending one closes every brand on it.**
+11. **NOTES DISCIPLINE — max 5 bullets, 15 words each, Notes+Pipeline under 120 words.**
+   **LIVE AND UNRESOLVED:** the Canada-ban third-bite decision (raised Sep 30, **UNANSWERED as of
+   Oct 1 — compress to `_unchanged:_`, do NOT re-raise unless Aaron answers or it changes**).
+   **THE REAL THING TO SURFACE FRIDAY, IF ANYTHING: Tue Oct 6 stands at ONE against a floor of FOUR,
+   and Sun Oct 4 is the only prep run before it.** That is a genuine supply risk and belongs in
+   PIPELINE, not NOTES.
+   **SPENT AND NEVER TO BE RE-RAISED:** the Nashville second source (**CLOSED Oct 1**), the Willett
+   Tier 4 catch and its re-source, the Sep 27/28 double miss, the Sep 21 Monday miss, the Borders
+   UK-only call, the Glenlivet single-source flag, the Banks fetcher failure and link-out decision,
+   the `Designated Driver` disappearance, the back-to-back Kentucky festival question, the
+   `allocation-watch` beat-slug gap, the New Era name collision, the Four Roses conflict, the
+   shelf-price slug, the sub-$30 gap, the explainer slug, the September third-edition cadence bump,
+   the Balvenie 88 forward-bar call, the outdoors byline call, the Victoria BC Canada hazard, the
+   Parker's Heritage collision, the Tuesday no-Social-Drinker shape, the Sep 22 persona ask, the 1880
+   decision, the Elmer T. Lee entry window, the MGP `111 proof` cut, the Sep 25 non-WA occasion ask,
+   and the Woodford cut.
    **The brand-skill-absent note stays compressed as `_unchanged:_`.**
    **NEVER a bullet for this file's own machinery** — board-heading dates, the prune, lessons blocks,
-   the spent-link register, the URL audit, the curl/WebFetch workarounds, **the parser form flipping**,
-   the raw-HTML grep correction, the key merge, the Slack bold fix, **the dropped `>` on the PIPELINE
+   the spent-link register, the URL audit, the curl/WebFetch workarounds, the parser form, the
+   raw-HTML grep correction, the key merge, the Slack bold fix, **the dropped `>` on the PIPELINE
    line**, the outlet-split separations, the TSB category-path 404s, the `65 %` whitespace trap, the
-   `color`/`colour` spelling, **and OUTLET CONCENTRATION — Sep 29 settled that it is machinery, so the
-   Oct 2 WA ×2 shape is NOT a bullet.**
+   `color`/`colour` spelling, **the `ID’s` curly apostrophe**, **and OUTLET CONCENTRATION — the
+   Oct 2 WA ×2 shape is settled machinery and is NOT a bullet.**
    **NEVER a bullet for anything that worked.**
-11. **PERSIST STATE AND PUSH, whatever happens — including on a run that posts nothing.**
-12. **IF YOU POST, READ THE POST BACK FROM THE CHANNEL AND CHECK THE RENDER — Lesson 60.** Send
-    `**double asterisk**` for bold; it came back as Slack `*bold*` correctly on Sep 22, 23, 24, 25, 29
-    and 30. **Expect the `:spiral_calendar_pad:` PIPELINE line to fall outside the blockquote. Known,
-    cosmetic, not a bug.**
+12. **PERSIST STATE AND PUSH, whatever happens.**
+13. **READ THE POST BACK FROM THE CHANNEL AND CHECK THE RENDER — Lesson 60.** Send
+    `**double asterisk**` for bold; it came back as Slack `*bold*` correctly on Sep 22, 23, 24, 25, 29,
+    30 and Oct 1. **Expect the `:spiral_calendar_pad:` PIPELINE line to fall outside the blockquote.
+    Known, cosmetic, not a bug, never a bullet.**
+---
+
+## LESSON 68 (added Oct 1) — a bot wall is a weather report, not a property of the page; the body that clears a local event is the city, not the press; and a conflicted source can be independent and still unusable
+
+**WHAT HAPPENED.** Three separate things, and they are one lesson about what "a source" actually is.
+
+**ONE — THE WALL CAME DOWN BY ITSELF.** Sep 30 recorded `nashvilleguru.com` as a 73-char bot wall to
+curl and told this run to try WebFetch instead. **WebFetch worked. So did curl — HTTP 200, 103,618b
+raw, with the SAME browser UA Sep 30 had used.** Nothing in our method changed. **Lesson 61 taught
+"a failed fetch is a tool result, so try the other tool." THAT IS INCOMPLETE. A failed fetch is also a
+TIMESTAMPED result: the correct retry list is the other tool AND the same tool on a later run.** A
+page recorded as blocked is a claim with a shelf life, exactly like a page recorded as having no
+price. **Re-try blocked pages on the next run before routing around them.**
+
+**TWO — AND THE PAGE WE FOUGHT FOR TURNED OUT TO BE UNUSABLE, FOR A REASON THAT HAD NOTHING TO DO
+WITH REACHABILITY.** Nashville Guru carries, on the page itself,
+**`Advertising Disclosure | Our Partners may be mentioned in this article`** and a comment policy of
+**"We believe in shedding a positive light on Nashville."** **That is declared sponsored-placement
+risk and a declared no-negative-coverage posture — the verification protocol's Tier 4 conflict
+definition, written by the outlet about itself.** **It also contradicted the organiser on the headline
+number: `over 200 spirits` against the official site's `100+`.**
+**THE TRAP THIS SETS: effort spent reaching a page creates a sense of entitlement to use it.** The
+fetch succeeded and the instinct was to bank it. **REACHABILITY AND USABILITY ARE INDEPENDENT
+PROPERTIES. Read the outlet's own disclosures BEFORE deciding a hard-won page has earned a slot.**
+
+**THREE — THE SOURCE THAT ACTUALLY CLEARED THE ITEM WAS NOT PRESS AT ALL.** The second source is the
+**Nashville Convention & Visitors Corp**, the city's official tourism body. **It is categorically not
+the organiser, which is the entire test, and it is the same shape as the KDA clearing Bourbon on the
+Banks on Sep 20.** **GENERALISE IT: for a LOCAL EVENT, the independent corroborator is usually an
+official body — a CVB, a tourism board, a trade association, a municipal calendar — not a news
+outlet.** Trade press covers national releases; it rarely covers a regional festival. **Searching for
+press pickup on a local event and concluding "no second source exists" is searching the wrong rail.
+Go to the city before giving up.**
+
+**FOUR — AND THE PROBE CAUGHT LESSON 65 ON THE CLEARING PAGE ITSELF.** Visit Music City returned hits
+for BOTH `unlimited` and `200`. **Neither was ours — the `unlimited` belongs to the Nashville Zoo's
+"unlimited BOOze samples" and the `200` to the Southern Festival of Books' author count.** **A
+fifteen-festival listicle is a page full of other events' numbers.** Had either been read as the
+festival's, one would have been a DISCUS 73.8 breach printed from a source that never said it.
+**On a multi-event page a string hit means nothing until you have read which event owns it. Lesson 65
+is not only about related-article teasers; it is about any page that carries more than one subject.**
+
+**THE RULE.** **Re-try a blocked page on the next run, not just the other tool. Read an outlet's own
+disclosures before spending a hard-won fetch on it. For a local event, go to the official body before
+concluding no second source exists. And on any page covering more than one thing, attribute every
+string hit to its subject before you count it.**
 
 ---
 
