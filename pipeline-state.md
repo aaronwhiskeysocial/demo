@@ -664,7 +664,7 @@ this prune is unblocked.** Re-grep anyway.
 
 ---
 
-## THURSDAY Oct 1 — PREP RUN (posted 06:3x PT)
+## THURSDAY Oct 1 — PREP RUN (posted 06:26 PT)
 
 **Window Sep 28–Oct 1 inclusive.** The run had three assigned tasks — the Nashville second source
 (instruction 2), the urgent sweep (instruction 7) and the prune (instruction 8) — plus one optional
@@ -873,6 +873,9 @@ Posted as a one-item prep brief — **the Nashville resolution is the only new p
 other two Oct 2 items were already posted Sep 30 and were NOT reposted.** Notes ran three lines, two of
 them compressed `_unchanged:_`. **The Canada-ban decision was NOT re-raised as a fresh bullet**, per
 instruction 10.
+**Posted 06:26 PT. Render read back and correct: `**bold**` → Slack `*bold*`, link intact, blockquote
+intact. The `:spiral_calendar_pad:` PIPELINE line lost its `>` and sits outside the quote — IDENTICAL
+to every prior prep post. Known, cosmetic, not a bug, never a bullet.**
 
 ---
 
