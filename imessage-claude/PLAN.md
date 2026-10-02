@@ -12,7 +12,8 @@ must pass before the next step starts.
 
 **Current state of the repository:** only the scaffold exists — `package.json`,
 `tsconfig.json`, `.gitignore`, this file, and installed `node_modules`. `src/` is
-empty. Start at Step 1.
+empty, so `npm run typecheck` currently reports `TS18003: No inputs were found` — that is expected and
+clears as soon as Step 1 adds the first file under `src/`. Start at Step 1.
 
 ---
 
