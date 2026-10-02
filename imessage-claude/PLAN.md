@@ -27,7 +27,7 @@ must pass before the next step starts.
    - Every relative import ends in `.ts` (example: `import { loadConfig } from "./config.ts"`).
      `tsc` rewrites them to `.js` in `dist/`; Node runs `src/*.ts` directly for tests and `npm run dev`.
    - `__dirname` does not exist (ESM). Use `path.dirname(fileURLToPath(import.meta.url))`.
-7. Tests live in `test/*.test.ts`, use `node:test` and `node:assert/strict`, and run with `node --test test/`.
+7. Tests live in `test/*.test.ts`, use `node:test` and `node:assert/strict`, and run with `node --test "test/**/*.test.ts"` (quote the glob; a bare directory argument does not work on Node 22).
    Tests import source from `../src/<file>.ts`. Tests must not touch the network, the real
    home directory, or the real Anthropic API. Use `fs.mkdtempSync(path.join(os.tmpdir(), "imc-"))` for data dirs.
 8. Never log or print `BLUEBUBBLES_PASSWORD` or `ANTHROPIC_API_KEY`. The logger redacts query strings.
@@ -281,8 +281,8 @@ imessage-claude/
     cli.ts          command dispatcher (bin)                               main
   test/
     config.test.ts  log.test.ts  bluebubbles.test.ts  inbound.test.ts  chunk.test.ts  store.test.ts
-    persona.test.ts claude.test.ts  commands.test.ts  queue.test.ts  handler.test.ts  webhook.test.ts
-    launchd.test.ts e2e.test.ts
+    persona.test.ts claude.test.ts  stats.test.ts  commands.test.ts  queue.test.ts  handler.test.ts
+    webhook.test.ts launchd.test.ts e2e.test.ts
 ```
 
 ---
@@ -398,21 +398,35 @@ export interface Completer { complete(req: CompletionRequest): Promise<Completio
 
 Files: `src/types.ts` (section 6), `src/config.ts`, `src/log.ts`, `.env.example`.
 
-`config.ts`:
+`config.ts` (exact `Config` field names; every later step uses these):
 ```ts
-export interface Config { /* one camelCase field per variable in section 4, typed; plus packageRoot: string; envPath: string; isDarwin: boolean */ }
+export interface Config {
+  bluebubblesUrl: string;          bluebubblesPassword: string;
+  claudeModel: string;             claudeEffort: Effort;           claudeMaxTokens: number;   claudeWebSearch: boolean;
+  botName: string;                 personaFile: string;
+  allowedSenders: Set<string>;     allowAllSenders: boolean;
+  groupMode: GroupMode;
+  bridgeHost: string;              bridgePort: number;             publicWebhookUrl: string;  webhookToken: string | null;
+  dataDir: string;                 historyMaxTurns: number;        coalesceMs: number;        maxConcurrent: number;
+  maxChunkChars: number;           maxMessagesPerHour: number;
+  sendMethod: "auto" | SendMethod; typingIndicator: boolean;       readReceipts: boolean;
+  imageUnderstanding: boolean;     maxImageBytes: number;          replyThreading: ReplyThreading;
+  logLevel: LogLevel;              logFile: string;
+  packageRoot: string;             envPath: string | null;         isDarwin: boolean;         homeDir: string;
+}
 export class ConfigError extends Error {}
 export function loadConfig(opts?: { env?: NodeJS.ProcessEnv; envPath?: string | null; platform?: NodeJS.Platform; homeDir?: string }): Config;
 ```
-- `opts.env` defaults to `process.env`; tests pass their own object. When `opts.envPath` is `undefined`, use
-  `<packageRoot>/.env`; when `null`, skip file loading. Call `process.loadEnvFile(envPath)` only when the file exists
-  and `opts.env === process.env` (loadEnvFile mutates the real environment).
+- `opts.env` defaults to `process.env`; tests pass their own object. The `.env` path is resolved in this order:
+  `opts.envPath` (a string uses it, `null` skips file loading) → `env.IMESSAGE_CLAUDE_ENV` → `<packageRoot>/.env`.
+  Call `process.loadEnvFile(envPath)` only when the file exists and `opts.env === process.env` (it mutates the real
+  environment and does not overwrite variables that are already set). `packageRoot` is the directory containing
+  `package.json`, derived from `import.meta.url` (`src/` and `dist/` are both one level below it).
 - Booleans accept `true/false/1/0/yes/no` (case-insensitive). Integers are range-checked per section 4.
-- `allowedSenders` is `Set<string>` of `normalizeAddress()` values (import from `inbound.ts` after step 3; in this step
-  implement `normalizeAddress` in `config.ts`'s sibling `inbound.ts` stub? No: put `normalizeAddress` in `src/inbound.ts`
-  now with just that one export, and extend the file in step 3). `allowAllSenders: boolean` is true when the list is exactly `*`.
+- `allowedSenders` is a `Set<string>` of `normalizeAddress()` values. In this step create `src/inbound.ts` containing only
+  `normalizeAddress` (spec in step 3); step 3 extends that file. `allowAllSenders` is true when the list is exactly `*`.
 - `dataDir` default depends on `platform` (`darwin` → `~/Library/Application Support/imessage-claude`, else `~/.imessage-claude`).
-  `logFile` and `personaFile` defaults derive from the final `dataDir`.
+  `logFile` and `personaFile` defaults derive from the final `dataDir`. `homeDir` is `opts.homeDir ?? os.homedir()`.
 - `publicWebhookUrl` default derives from `bridgePort`. Strip trailing slashes.
 - Throw `ConfigError` with a message like `BLUEBUBBLES_PASSWORD is required` or `CLAUDE_EFFORT must be one of low, medium, high, xhigh, max (got "fast")`.
 
@@ -444,7 +458,10 @@ Check: `npm run typecheck && npm test`. Commit.
 File: `src/bluebubbles.ts`.
 
 ```ts
-export class BlueBubblesError extends Error { constructor(message: string, readonly status: number | null, readonly body?: unknown) }
+export class BlueBubblesError extends Error {
+  status: number | null; body: unknown;
+  constructor(message: string, status: number | null, body?: unknown) { super(message); this.name = "BlueBubblesError"; this.status = status; this.body = body; }
+}
 export interface ServerInfo { serverVersion: string | null; osVersion: string | null; privateApi: boolean; helperConnected: boolean; raw: unknown }
 export class BlueBubblesClient implements Transport {
   constructor(opts: { baseUrl: string; password: string; log: Logger; fetchImpl?: typeof fetch; sendMethod: SendMethod; privateApi?: boolean; timeoutMs?: number })
@@ -607,10 +624,30 @@ text concatenation, `max_tokens` suffix, refusal mapping, 401 → `auth`, 429 af
 (construct the client with `maxRetries: 0` for that test), and `pause_turn` continuation sends the assistant content back.
 `test/persona.test.ts`: stable text contains bot name and persona text; dynamic text mentions group name and photo count.
 
-### Step 7 — Slash commands
+### Step 7 — Stats and slash commands
 
-File: `src/commands.ts`.
+Files: `src/stats.ts`, `src/commands.ts`.
 
+`stats.ts`:
+```ts
+export class Stats {
+  readonly startedAt: number;
+  received = 0; ignored: Record<IgnoreReason, number>; replied = 0; errors = 0; commands = 0;
+  tokensIn = 0; tokensOut = 0; cacheRead = 0;
+  lastInboundAt: number | null = null; lastReplyAt: number | null = null; lastLatencyMs: number | null = null;
+  recent: Array<{ at: number; chat: string /* masked */; latencyMs: number; chunks: number; outcome: "reply" | "command" | "error" | "ignored" }> = [];  // last 20, newest first
+  constructor(now?: () => number)
+  noteReceived(): void;
+  noteIgnored(reason: IgnoreReason): void;
+  noteReply(info: { chat: string; latencyMs: number; chunks: number; usage: CompletionResult["usage"] }): void;
+  noteCommand(info: { chat: string; latencyMs: number }): void;
+  noteError(info: { chat: string; latencyMs: number }): void;
+  snapshot(): object;        // plain JSON: all counters plus repliedToday (since local midnight) and avgLatencyMs over `recent`
+}
+export function maskAddress(addr: string): string;   // "+15551234567" -> "+1•••••4567", "bob@example.com" -> "b•••@example.com"
+```
+
+`commands.ts`:
 ```ts
 export interface CommandContext { chatGuid: string; sender: string; store: ConversationStore; config: Config; stats: Stats; now?: () => number }
 export function isCommand(text: string): boolean;                  // starts with "/" followed by a letter
@@ -625,9 +662,9 @@ Commands (case-insensitive, first token):
 - `/effort <low|medium|high|xhigh|max>` — per-chat override; `/effort default` removes it.
 - `/persona <text>` — per-chat persona override (max 2000 chars); `/persona clear` removes it; `/persona` shows it.
 - Unknown `/xyz` → `I don't know that command. Try /help.`
-`Stats` is defined in step 9; for this step create `src/stats.ts` with the shape from step 9 first.
 
 Tests (`test/commands.test.ts`): each command's effect on the store and its reply; unknown command; non-command returns null.
+`test/stats.test.ts`: counters, `recent` capped at 20, `maskAddress` for phone and email.
 
 ### Step 8 — Per-chat coalescing queue
 
@@ -652,22 +689,9 @@ Tests (`test/queue.test.ts`): two pushes within the window produce one batch of 
 batch after the first completes; `maxConcurrent: 1` serializes two chats; a throwing `process` does not break later batches;
 `drain` resolves. Use real timers with small `coalesceMs` (10 ms) to keep tests simple.
 
-### Step 9 — Stats and handler
+### Step 9 — Handler
 
-Files: `src/stats.ts`, `src/handler.ts`.
-
-`stats.ts`:
-```ts
-export class Stats {
-  readonly startedAt: number;
-  received = 0; ignored: Record<IgnoreReason, number>; replied = 0; errors = 0; commands = 0;
-  tokensIn = 0; tokensOut = 0; cacheRead = 0;
-  lastInboundAt: number | null; lastReplyAt: number | null; lastLatencyMs: number | null;
-  recent: Array<{ at: number; chat: string /* masked */; latencyMs: number; chunks: number; outcome: "reply" | "command" | "error" | "ignored" }>;  // last 20
-  noteIgnored(reason: IgnoreReason): void; noteReply(...): void; noteError(): void; snapshot(): object;
-}
-export function maskAddress(addr: string): string;   // "+15551234567" -> "+1•••••4567", "bob@example.com" -> "b•••@example.com"
-```
+File: `src/handler.ts`.
 
 `handler.ts`:
 ```ts
@@ -779,7 +803,7 @@ export type ExecFn = (cmd: string, args: string[]) => Promise<{ code: number; st
 Plist content (XML, exact keys): `Label`; `ProgramArguments` = `[nodePath, scriptPath, "serve"]`; `WorkingDirectory`;
 `EnvironmentVariables` = `{ PATH: "/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin", HOME: <home>, IMESSAGE_CLAUDE_ENV: <envPath> }`;
 `RunAtLoad` true; `KeepAlive` true; `ThrottleInterval` 10; `ProcessType` `Background`; `StandardOutPath` `<logDir>/launchd.out.log`;
-`StandardErrorPath` `<logDir>/launchd.err.log`. `config.ts` must honor `IMESSAGE_CLAUDE_ENV` as the `.env` path when set (add this in this step).
+`StandardErrorPath` `<logDir>/launchd.err.log`. (`config.ts` already honors `IMESSAGE_CLAUDE_ENV`, step 1.)
 `scriptPath` is the absolute path to `dist/cli.js` (derive from `import.meta.url`); `nodePath` defaults to `process.execPath`.
 
 `installAgent`: refuse unless `config.isDarwin` (throw with a clear message); require `dist/cli.js` to exist (tell the user to run `npm run build`);
