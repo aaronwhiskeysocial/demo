@@ -1,0 +1,32 @@
+{
+  "name": "imessage-claude",
+  "version": "1.0.0",
+  "description": "Always-on Mac bridge: iMessage (via BlueBubbles) <-> Claude",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.18"
+  },
+  "bin": {
+    "imessage-claude": "./dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "test": "node --test test/",
+    "start": "node dist/cli.js serve",
+    "dev": "node src/cli.ts serve",
+    "doctor": "node dist/cli.js doctor",
+    "install-agent": "node dist/cli.js install",
+    "uninstall-agent": "node dist/cli.js uninstall",
+    "tail": "node dist/cli.js tail",
+    "simulate": "node dist/cli.js simulate"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.131.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^6.0.0"
+  }
+}
