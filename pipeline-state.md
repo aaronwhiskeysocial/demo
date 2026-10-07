@@ -3,7 +3,72 @@
 Durable memory for the Whiskey Social whiskey-news pipeline. Authoritative over Slack
 thread copies. Human feedback in #whiskey-news overrides this file.
 
-**Last run:** 2026-10-06 (Tue), **EDITION — THE SHORTLIST SHIPPED AT FOUR FROM A BOARD THAT HELD ONE
+**Last run:** 2026-10-07 (Wed), **PREP — FRI OCT 9 WENT FROM ZERO TO TWO VERIFIED PLUS ONE PENDING IN
+ONE RUN, AND THE RUN'S REAL FINDING WAS THAT THE FILE'S OWN NAMED "ONE PLAUSIBLE FRIDAY LEAD" DOES NOT
+EXIST AS RECORDED.**
+**Seven things happened:** (1) **THE BOARD MOVED 0 → 2 VERIFIED + 1 PENDING against a Last Call floor
+of THREE.** `elijah-craig-old-fashioned-week-2026` (`on-the-calendar`/social-drinker, Heaven Hill
+Tier 1 primary, LEAD) · `whiskey-washback-new-york-2026` (`on-the-calendar`/venue-regular, official
+site Tier 1 primary) · `buzzards-roost-cigar-blend-2026` (`pair-it`, NEEDS SECOND SOURCE).
+**Fri Oct 9 is NOT closed — it sits one verified item below its floor with the edition morning left.**
+(2) **THE WANDERFOLK BENCH ENTRY WAS WRONG IN EVERY PARTICULAR, AND IT WAS THE ITEM THE Oct 6 BOARD
+CALLED "THE ONE PLAUSIBLE FRIDAY LEAD ON THE BENCH."** The board recorded "the launch is an event at
+the Hye, Texas distillery on Oct 31, which is an occasion, not a release." **The press release says
+Guthrie, OKLAHOMA. `Hye` ×0, `Texas` ×0, `event` ×0 on the page. THERE IS NO LAUNCH EVENT AT ALL —
+it is a plain release, Tuesday-shaped.** **The Oct 6 instruction to "fetch the FM page; do not stage
+off the search summary" was exactly right, and fetching it is what killed the entry.** **Friday's
+bench was therefore one item thinner than the file believed, which is why instruction 1 mattered.**
+(3) **BUZZARD'S ROOST CARRIES A YEAR-COLLISION THAT WOULD HAVE BEEN EASY TO SHIP.** The 2026 Cigar
+Blend (Oct 6, 7 years, 105 proof, $84.99, national) is carried ONLY by BevNet and Wine Industry
+Advisor — **the same press release, so ONE source.** **Breaking Bourbon's page titled "The Buzzard's
+Roost Distillery Introduces New Cigar Blend Bourbon Whiskey" IS THE Aug 19 2025 RELEASE** — `84.99`
+×0, `7 years` ×0 on it — **and Drinkhacker reviewed the 2025 expression on 2025-10-12.** **Cigar Blend
+is an ANNUAL release; `buzzards-roost-cigar-blend-2025` exists in the wild and its tasting notes must
+never bleed onto the 2026 item.** **The Whiskey Wash also carries it and is Tier 4.**
+(4) **A MASH BILL THAT DOES NOT ADD UP, RECORDED SO IT IS NEVER PRINTED.** The Buzzard's Roost release
+states `70% corn, 36% rye, 4% malted barley` — **that is 110%.** **DO NOT PRINT THE MASH BILL.** The
+age, proof, SRP, double-oak process and distribution all stand; the mash bill alone is unusable.
+(5) **THE COMPLIANCE LANDMINE ON WASHBACK LIVES ON THE TICKETING PAGES, NOT THE SOURCE WE WOULD LINK.**
+Eventbrite and the resale listings say **"unlimited tastings"** — the Nashville trap exactly. **The
+OFFICIAL page returns `unlimited` ×0** and carries "Must be 21+ to attend" and "Over 100 varieties of
+Whiskey, Bourbon, Rye, and Scotch". **Linking the official site resolves the landmine by itself.
+NEVER print "unlimited," and never link the ticketing page.**
+(6) **A SECOND CONFLICT-FLAGGED CORROBORATOR, AND IT IS THE NASHVILLE GURU PRECEDENT REPEATING.**
+`resident.com` independently confirms "Whiskey Washback comes to The Bowery Hotel on October 30" and
+clears the two-source rule — **but it states "RESIDENT may earn a commission on purchases or bookings
+made through links in this article."** **Declared affiliate interest: CORROBORATION ONLY, NEVER THE
+LINK-OUT.** Same call as `nashvilleguru.com` on Oct 1.
+(7) **NO URGENT OVERRIDE. PRECEDENT APPLIED A TWENTIETH TIME.** The sweep returned the Uncle Nearest
+federal investigations, the Silver Trail Distillery explosion and death (**April 2015, eleven years
+stale**), a Glenmore Distillery workplace death (**Jan 14, not in window, not a partner**), a Midleton
+site death (undated), a Rwanda FDA shutdown of eight alcohol makers (not whiskey, not a partner), and
+the already-applied Crown Royal, FSS Kimbland and Chivas items. **No recall in window. Nothing naming
+a WS partner brand or venue. DATED BEFORE WEIGHED, per Lesson 35.**
+**ALSO WALKED AND NOT STAGED:** **American Whiskey Magazine's "Elijah Craig launches Old Fashioned
+Week" is dated 03 Sep 2020 and describes a different year** — it surfaced in a 2026 result set and is
+NOT a second source · **Still Austin Quarter has NO confirmation it ever opened** (Aug 4 release + FM
+Jul 30 both say "slated to open September 2026"; nothing since) — **an unconfirmed opening is not a
+date a reader can act on** · **TSB's "world's hottest bar openings from summer 2026" (Oct 5) is NOT a
+whiskey story** — `bourbon` ×0, the US entries are a Houston cocktail bar, two Brooklyn bars and a
+Chicago bar · **St. Louis Bourbon & Cocktail Festival opens ON Oct 9**, the Whisky Show London
+precedent, dropped · **Whisky Live Beirut (Oct 7–9) is another country**, dropped · **Michter's
+Spookeasy Oct 29 is Kentucky and single-venue** · **WA's "America's Top Whisky Bars 2026" (150+
+venues) CANNOT BE DATED** — no publication date on the page or in any result — **recorded as undated,
+NOT staged** · **the pairing rail is dry at Tier 1–2**, returning only unvetted blogs and aggregators.
+**CADENCE: CLEAN, AND THE 0a CONDITION DID NOT FIRE.** **Oct 6 WAS the newest post and Oct 7 is the
+very next scheduled day, so no scheduled day sat between them — exactly the case instruction 0a said
+would be CORRECT.** **The Oct 4/5 miss was NOT re-derived and NOT re-reported.**
+**CHANNEL: NO HUMAN REPLIES IN 14 DAYS.** **`concise` overflowed again (110,725 chars); the saved-file
+split was used and `=== Message from ` returned 38 cleanly — the form flipped BACK from Oct 6, where
+that same marker returned zero.** **All 38 are this pipeline's own posts by the masthead-glyph test.
+The only `Thread:` marker sits on Sep 1, outside the window.**
+**Oct 7 was EMPTY before this run, so idempotency was not in play and this brief is the day's only post.**
+**Posted 06:23 PT. Render read back and correct: `**bold**` → Slack `*bold*`, all four links intact as
+`<url|Outlet>`, blockquote and heavy rule intact.** **The known cosmetic bug DID fire, as instruction 11
+predicted for a prep post: Slack dropped the bare `>` spacer and merged PIPELINE into the NOTES
+blockquote. Cosmetic, never a bullet.**
+
+**Prior run:** 2026-10-06 (Tue), **EDITION — THE SHORTLIST SHIPPED AT FOUR FROM A BOARD THAT HELD ONE
 AT DAWN, BECAUSE BOTH PREP RUNS BEFORE IT WERE MISSED; AND THE RUN'S REAL DECISION WAS TO HOLD A
 VERIFIED, FULLY-CLEARED LEAD ITEM ON BRAND-SAFETY GROUNDS RATHER THAN SHIP IT.**
 **Seven things happened:** (1) **THE EDITION SHIPPED AT FOUR, which CLEARS a Shortlist (4–6), AND
@@ -6994,31 +7059,50 @@ items anchor the two that are not, so nothing reads collectors-only end to end.*
   nationwide, ~36,000 bottles — it does not go stale this week.**
 ---
 
-## FRIDAY Oct 9 — OPENED Oct 6. ZERO STAGED, FLOOR IS THREE. THE FILE'S ONLY SUPPLY GAP.
+## FRIDAY Oct 9 — TWO VERIFIED, ONE PENDING. FLOOR IS THREE. STILL THE FILE'S ONLY SUPPLY GAP.
+*(heading rewritten Oct 7)*
 
-**NOTHING IS STAGED. Wed Oct 7 is the ONLY prep run before it.** **This is the same position Oct 6 was
-in at dawn, and Oct 6 only survived it because four items happened to be findable in one morning.
-Do not plan on that twice.**
+**IT WENT 0 → 2 VERIFIED + 1 PENDING ON Oct 7, THE ONLY PREP RUN IT HAD.** **It is NOT closed. One
+verified item short of the floor, with only the edition morning left.**
 
-**SHAPE IT NEEDS:** a Last Call is **occasion-led** and skews **Social Drinker / Venue Regular**, with
-the signature send-off. **Oct 6 spent Explorer ×2 and Collector ×2, so the bench is empty of exactly
-the personas Friday needs.** **Search events, venues, bars, festivals and pairings — NOT releases.**
-**START ON FESTIVAL AND EVENT CALENDARS (Lesson 58, now four times).**
+**VERIFIED — `elijah-craig-old-fashioned-week-2026` — THE LEAD.**
+- **Link-out: `https://heavenhill.com/news-and-notes/elijah-craig-debuts-history-steeped-tavern-trail-in-celebration-of-the-seventh-annual-old-fashioned-week/`** — Heaven Hill's own release, **Tier 1 primary**.
+- **Second source: `exploreboston.com/events/elijah-craig-old-fashioned-week-the-tavern-trail/`** — independent regional listing, **Start 10/09/2026, End 10/18/2026**, `Tavern Trail` ×6, `70` ×1, `Southern Smoke` ×2, `seventh` ×1, and it names three Boston venues (Eastern Standard, The Quiet Few, Small Victories). **Two sources AGREE on Oct 9–18.**
+- **WHAT THE SOURCE ACTUALLY SUPPORTS, AND NOTHING MORE:** dates **October 9–18, 2026** · **seventh annual** · **70 Tavern Trail destinations** · **"over 12,000 participate annually"** — *an ANNUAL figure, not a 2026 count; write it as annual or not at all* · **"$1 from every Old Fashioned sold at participating establishments will benefit the Southern Smoke Foundation"** · **over $600,000 pledged to date** · find-a-bar at **oldfashionedweek.com**.
+- **QUOTE AVAILABLE AND UNDER 20: Max Stefka, Associate Vice President, Elijah Craig Bourbon — "Elijah Craig's Old Fashioned Week is a tribute to the iconic cocktail that has brought people together over generations" (19 words).** Tier 1 source, named speaker. **Usable. It is the ONLY quote this edition may carry.**
+- **SENSORY: DO NOT PRINT.** The release's "smooth and warm taste, spice-forward accents and long, sweet and slightly toasty finish" is **brand marketing copy for Elijah Craig Small Batch, attributed to no one.** **The item is about the WEEK, not the bottle. Run it on specifics and no flavour.**
+- **DISCUS 73.8 — THE ONE REAL RISK IN THIS ITEM.** The mechanic is *$1 per drink sold to charity*. **State it as a fact about the week. NEVER frame it as a reason to drink more, and never imply volume.** Say what the week is and where to find a bar; let the donation line sit flat.
+- **It opens ON edition day and runs nine days — the reader can act immediately, nationwide.** That is why it leads.
 
-**THE BENCH, AND WHAT IS WRONG WITH IT: almost none of it is Friday-shaped.**
-- **Wanderfolk Tallbird (FM Sept 30)** — **the one plausible Friday lead on the bench.** The launch is
-  an **event at the Hye, Texas distillery on Oct 31**, which is an occasion, not a release. **UNWALKED.
-  Fetch the FM page; do not stage off the search summary.**
-- **Garrison Brothers x Duck Camp single barrel (400 bottles)** — Tuesday-shaped, Collector. **Note
-  `garrison-brothers-cowboy-bourbon-12-2026` is already in DEDUP; a Duck Camp single barrel is a
-  distinct product but CHECK THE KEY before staging.**
-- **Ole Smoky espresso whiskey** — plausibly Social Drinker and Friday-usable. **Unwalked, unvetted.**
-- **Lost Lantern George Dickel, Oct 21** — Explorer/Collector, Tuesday-shaped.
-- **Knob Creek 12 Cask Strength** — Sept 16, $89.99, 121.2 proof. **Three weeks old, and the WA Whisky
-  Watch roundup is its vetted home. SPENDING THAT ROUNDUP CLOSES HIGHLAND PARK, MACALLAN, WILLETT AND
-  WIDOW JANE AT ONCE — and Willett AND Macallan have now BOTH published, so the roundup is worth
-  materially less than it was. Deliberate or not at all.**
-- **Angel's Envy Vol 6 — HELD, and Tuesday-shaped. It does NOT solve this board even if cleared.**
+**VERIFIED — `whiskey-washback-new-york-2026`.**
+- **Link-out: `https://www.whiskeywashback.com/new-york-2026`** — the event's own site, **Tier 1 primary**.
+- **Second source: `resident.com/new-york/2026/10/02/the-best-things-to-do-in-new-york-city-in-october-2026`** — **"Whiskey Washback comes to The Bowery Hotel on October 30."** **CORROBORATION ONLY — the page declares "RESIDENT may earn a commission on purchases or bookings made through links in this article." Declared affiliate interest. NEVER THE LINK-OUT.** Same call as `nashvilleguru.com`.
+- **WHAT THE OFFICIAL PAGE SUPPORTS:** **Friday, October 30, 2026, 6–9:30 PM** · **Bowery Hotel, 335 Bowery, New York, NY 10003** · **"Over 100 varieties of Whiskey, Bourbon, Rye, and Scotch"** · **"Must be 21+ to attend"** · an Early Entry Admission Hour with named rare pours.
+- **`unlimited` RETURNS ZERO ON THE OFFICIAL PAGE.** **Eventbrite and the resale listings DO say "unlimited tastings" — the Nashville trap exactly. NEVER print it, never link the ticketing page.** The 21+ line is the compliance asset.
+- **PRICES ARE NOT ON THE OFFICIAL PAGE.** The $82.79/$109.70/$125.22 tiers come from ticketing resellers. **Do not print a price against this link-out.**
+
+**NEEDS SECOND SOURCE — `buzzards-roost-cigar-blend-2026`. THE ONLY THING STANDING BETWEEN THIS BOARD AND ITS FLOOR.**
+- **Announced Oct 6 2026, Louisville KY. SINGLE-SOURCED: BevNet and Wine Industry Advisor carry the SAME press release = ONE source. The Whiskey Wash also has it and is Tier 4.**
+- **THE YEAR COLLISION, AND IT IS THE REAL HAZARD: Breaking Bourbon's page titled "The Buzzard's Roost Distillery Introduces New Cigar Blend Bourbon Whiskey" IS THE Aug 19 2025 RELEASE** — `84.99` ×0, `7 years` ×0. **Drinkhacker reviewed the 2025 expression 2025-10-12.** **Cigar Blend is ANNUAL. Never let a 2025 review's tasting notes attach to this item, and never cite either page as the second source.**
+- **WHAT THE RELEASE SUPPORTS:** **Age 7 years · Proof 105 · SRP $84.99 · double-oaked, re-casked into lightly-charred, heavily toasted barrels · National distribution + Whiskey Row Tasting Room + Online.**
+- **DO NOT PRINT THE MASH BILL. The release says 70% corn, 36% rye, 4% malted barley — 110%.**
+- **SENSORY: `nose` ×0, `palate` ×0. The section header says "Tasting Notes" and the table contains none.** "bold and complex" and "rich, layered character" are unattributed marketing copy. **No flavour language is printable.**
+- **QUOTE: both Judy Hollis Jones quotes are OVER 20 WORDS (25 and 26) and cannot run whole.** A short attributed fragment — **"a bourbon built for slowing down"** — is clean, but **Elijah Craig already owns this edition's one quote. Do not run two.**
+- **The release uses "experience" in a subhead. BANNED — never echo it.**
+- **WHAT WOULD CLEAR IT: an independent Tier 1–2 review or write-up of THE 2026 expression.** **Check Breaking Bourbon's review feed Friday morning — they posted a Buzzard's Roost Double Oak French Oak review Oct 6, so they are actively covering the brand.** **If it has not cleared by assembly, it CANNOT run. Do not ship it single-sourced to make the floor.**
+
+**IF THE BOARD IS STILL AT TWO ON FRIDAY MORNING:** **a Last Call floor is THREE. Options, in order:**
+**(a) clear Buzzard's Roost on a real second source** · **(b) verify ONE festival off the bench below**
+— but note **Elijah Craig and Washback are BOTH `on-the-calendar`, so a third calendar item makes three
+of three, and that is a shape problem** · **(c) RUN THE EMPTY-PIPELINE FLOOR: masthead, one plain line
+saying the edition is short and why, and the aside.** **Never pad, never promote a watching item,
+never republish, never ship a single-sourced item to fill a slot.**
+
+**THE REMAINING BENCH — all real, all unverified, all NON-KENTUCKY, none walked:**
+**Silicon Valley Whisk(e)y Festival (Oct 24, Palo Alto Elks Lodge)** · **Fresno Whiskey Festival
+(Oct 17, 10th anniversary, The Standard Restaurant & Lounge)** · **Champaign Whiskey Fest (Oct 16–17)**
+· **Whiskey & Wine Festival Fredericksburg VA (Oct 31)** · **Oklahoma City Whiskey Riot (Oct 17)**.
+**All are `on-the-calendar` and all deepen the shape problem above. A fallback, not a plan.**
 ---
 
 
@@ -7271,6 +7355,30 @@ it — Sun Sep 20, Mon 21, Wed 23, Thu 24."~~
 ---
 
 ## OPEN GAPS
+
+**OCT 7 STATUS — READ THIS FIRST. IT SUPERSEDES EVERY BLOCK BELOW.**
+- **FRI OCT 9 IS STILL THE FILE'S ONLY SUPPLY GAP, BUT IT IS NO LONGER EMPTY. TWO VERIFIED, ONE
+  PENDING, FLOOR OF THREE.** See the Oct 9 board for exactly what each source supports and for the
+  three fallback options if the pending item does not clear. **Only the edition morning remains.**
+- **THE SHAPE PROBLEM IS NOW THE INTERESTING ONE: both verified items are `on-the-calendar`.** A third
+  calendar item would make it three of three. **The pending Buzzard's Roost item is `pair-it`, which is
+  exactly the slug that fixes the shape — which is a second reason to try to clear it.**
+- **THE CIGAR-WHISKEY CROSSOVER PERSONA HAS A COVERAGE FLOOR AND THIS IS THE FIRST ITEM IN WEEKS THAT
+  SERVES IT.** Recorded because it raises the value of clearing Buzzard's Roost beyond just the count.
+- **PERSONA-SLUG GAP, NEW AND REAL: the Cigar-Whiskey Crossover has NO persona slug.** The list is
+  `explorer|collector|social-drinker|venue-regular`. **If Buzzard's Roost runs, use `social-drinker`
+  as the closest fit and note the gap in ONE Notes bullet — do NOT invent a slug.**
+- **THE SUB-$30 GAP HAS ITS FIRST REAL CANDIDATE IN SEVEN RUNS AND IT IS NOT YET CLOSED.**
+  **`wanderfolk-tallbird-2026` is $25 SRP, seven years old, 93 proof** — but it is **press-release-only
+  (ONE source)** and distribution is **Arkansas, Kansas, Missouri, Nebraska and Oklahoma plus online**,
+  which limits what most readers can act on. **Staged Tue Oct 13, NEEDS SECOND SOURCE. The gap stays
+  OPEN until it clears.**
+- **THE ANGEL'S ENVY HOLD IS UNANSWERED AND STAYS COMPRESSED.** Raised once, Oct 6. **Clearing it does
+  NOT solve Oct 9 — it is Tuesday-shaped.** **Do NOT re-raise it as a fresh bullet.**
+- **CADENCE IS CLEAN AGAIN. Oct 6 → Oct 7 are consecutive scheduled days.** The Oct 4/5 miss is SPENT.
+- **THE BEAT-SLUG LISTS STILL DO NOT COVER A VENUE OPENING, A TRADE/SHELF STORY, OR AN AUCTION.**
+  **Already-raised gap. Do NOT spend a bullet on it again.**
+
 
 **OCT 6 STATUS — READ THIS FIRST. IT SUPERSEDES EVERY BLOCK BELOW.**
 - **TUE OCT 6 IS CLOSED. It published at four and is no longer a gap of any kind.** All four keys are
@@ -8618,6 +8726,28 @@ and nothing is lost.** 22 and 23 are captured here early so their source section
 
 ## DEDUP — closed to re-use
 
+**STAGED Fri Oct 9 — ADDED Oct 7. CLOSED TO RE-SCOUT. NOT YET COVERED:**
+`elijah-craig-old-fashioned-week-2026` (**VERIFIED** — Heaven Hill Tier 1 primary link-out +
+exploreboston independent; `on-the-calendar`/social-drinker; LEAD) ·
+`whiskey-washback-new-york-2026` (**VERIFIED** — official site Tier 1 primary link-out + resident.com
+corroboration only, affiliate-flagged; `on-the-calendar`/venue-regular) ·
+`buzzards-roost-cigar-blend-2026` (**NEEDS SECOND SOURCE** — press release only; `pair-it`).
+**Update these entries, never re-scout them.**
+**YEAR-COLLISION FLAG: `buzzards-roost-cigar-blend-2025` EXISTS IN THE WILD** (Breaking Bourbon
+Aug 19 2025 press release; Drinkhacker review 2025-10-12). **Cigar Blend is an ANNUAL release. A
+future year is a DIFFERENT product and not automatically a dedup hit — but it needs its own link-out
+and its own sourcing, and no year's tasting notes may ever cross to another.**
+**NOTE ON OLD FASHIONED WEEK: it is ANNUAL and in its seventh year. A 2027 edition is a different
+story. The Tavern Trail is NEW for 2026 and is the actual news hook — not the week itself.**
+
+**STAGED Tue Oct 13 — ADDED Oct 7. CLOSED TO RE-SCOUT. NOT YET COVERED:**
+`wanderfolk-tallbird-2026` (**NEEDS SECOND SOURCE** — press release only, carried by Breaking Bourbon,
+Wine Industry Advisor and BevNet as ONE release; `easy-pour` or `try-this-next`/explorer).
+**$25 SRP — the first live sub-$30 candidate in seven runs.** **Sensory exists on the release but is
+UNATTRIBUTED marketing copy ("sweet marzipan and cardamom", "rich butterscotch", "tres leches") —
+DO NOT PRINT ANY OF IT.** **The distillery is Guthrie, OKLAHOMA. There is NO launch event.**
+
+
 **PUBLISHED Tue Oct 6 (The Shortlist) — ADDED Oct 6. COVERED. NEVER REPUBLISH:**
 `jacobs-pardon-first-bourbon-2026` (FM link-out, `whats-dropping`/explorer, LEAD) ·
 `willett-pot-still-reserve-cask-strength-2026` (**FM link-out — staged Sep 24, re-sourced off Tier 4
@@ -9695,101 +9825,124 @@ and the fifth coconut item) · `discus-congressional-fly-in-2026`.
 
 ---
 
-## NEXT RUN (Wed Oct 7 — PREP. Then Fri Oct 9 LAST CALL, Sun Oct 11 prep, Tue Oct 13 SHORTLIST.)
+## NEXT RUN (Thu Oct 8 — PREP, and it is the LAST prep run before Friday. Then Fri Oct 9 LAST CALL, Sun Oct 11 prep, Mon Oct 12 prep, Tue Oct 13 SHORTLIST.)
 
 **THIS IS A PREP DAY — NO CONSUMER EDITION, glyph `:mag:`, internal plain language, no UTMs, no
 send-off, no reader copy.** **Post ONLY if there is new pipeline material, a gap update, or urgent
-news.** Load `whiskey-social-news-roundup` (present). **`whiskey-social-brand` is STILL ABSENT —
-it stays compressed as `_unchanged:_` and never gets a fresh bullet.**
+news.** Load `whiskey-social-news-roundup` (present). **`whiskey-social-brand` is STILL ABSENT — it
+stays compressed as `_unchanged:_` and never gets a fresh bullet.**
 
 0. **CALENDAR CHECK FIRST — Lesson 51.** Compute date and weekday in America/Los_Angeles; the sandbox
-   clock is UTC and runs ~7 hours ahead of a 6am PT firing. **Expected: today = Wednesday Oct 7 (PREP).
-   Then Fri Oct 9 LAST CALL, Sun Oct 11 PREP, Tue Oct 13 SHORTLIST.**
-0a. **CADENCE: SOMETHING IS OPEN, AND IT WAS REPORTED OCT 6 — DO NOT RE-RAISE IT UNLESS IT REPEATS.**
-   **Sun Oct 4 and Mon Oct 5 BOTH did not fire. That was two misses in a rolling two weeks and it was
-   reported once, in Notes, on Oct 6.** **If Oct 7 finds Oct 6 was the newest post, that is CORRECT and
-   is NOT a miss — Oct 7 is the very next scheduled day.** **Raise cadence again ONLY on a NEW miss.
-   Do not re-derive the Oct 4/5 arithmetic and do not report it a second time.**
-0b. **CHANNEL READ — `concise` OVERFLOWED AGAIN Oct 6 (83,659 chars, 30 messages).** **Try `concise`
-   first and expect the saved-file split as often as not.** **SPLIT ON THE `<email>: ` MARKER — it
-   returned 30 cleanly on Oct 6 while `=== Message from` returned ZERO. THE FORM FLIPPED AGAIN.
-   NEVER ASSUME LAST RUN'S FORM; try both.** **Never match an author name with `[A-Z][a-z]+ [A-Z][a-z]+`
+   clock is UTC and runs ~7 hours ahead of a 6am PT firing. **Expected: today = Thursday Oct 8 (PREP).**
+0a. **THE SCHEDULE RUNS EVERY DAY EXCEPT SATURDAY, AND THE Oct 6 FORECAST GOT THIS WRONG — SEE
+   LESSON 71.** **Oct 6's NEXT RUN header read "Wed Oct 7 PREP, then Fri Oct 9, Sun Oct 11" and SKIPPED
+   Thu Oct 8 AND Mon Oct 12.** **Oct 7 repeated the error into its posted PIPELINE line and corrected it
+   in-thread the same run.** **THURSDAYS AND MONDAYS ARE SCHEDULED DAYS — the channel record proves it
+   (Thu Oct 1, Sep 24, Sep 17, Sep 10, Sep 3; Mon Sep 14, Sep 7, Aug 31, Aug 24).** **Do not forecast a
+   week that skips them.**
+0b. **CADENCE: CLEAN. Oct 7 was the newest post and Oct 8 is the very next scheduled day.** **The
+   Oct 4/5 miss is SPENT and was reported once, on Oct 6. Do NOT re-derive or re-report it.** **Raise
+   cadence again ONLY on a NEW miss.**
+0c. **CHANNEL READ — `concise` has overflowed on three consecutive runs.** **Expect the saved-file
+   split. `=== Message from ` returned 38 cleanly on Oct 7; the SAME marker returned ZERO on Oct 6.
+   THE FORM FLIPS. TRY BOTH, EVERY TIME.** **Never match an author name with `[A-Z][a-z]+ [A-Z][a-z]+`
    — `McElroy` has an internal capital.** **Authorship cannot distinguish a human from us — every post
    shows as Aaron. Use the MASTHEAD-GLYPH TEST on the first ~110 chars of each body.**
+   **NOTE: Oct 7 has a THREAD REPLY — this pipeline's own correction. It is NOT human feedback.**
 
-1. **THE WHOLE JOB THIS RUN IS FRI OCT 9, AND IT IS EMPTY.** **ZERO staged against a Last Call floor of
-   THREE, and Oct 7 is the ONLY prep run before it.** **This is the same shape that nearly broke Oct 2
-   and that DID cost Oct 6 its discovery — do not let it ride.**
-   **A Last Call is occasion-led and skews Social Drinker / Venue Regular. Oct 6 spent Explorer ×2 and
-   Collector ×2, so the bench is empty of exactly the personas Friday needs.** **Start on FESTIVAL AND
-   EVENT CALENDARS — Lesson 58, which has now answered an occasion ask four times.** **Search events,
-   venues, bars and pairings, NOT releases.**
-2. **THE FIRST QUESTION OCT 7 MUST PUT TO AARON IS ANGEL'S ENVY, AND IT IS A DECISION, NOT A SEARCH.**
-   `angels-envy-peach-brandy-cask-rye-2026` is **VERIFIED, CLEAN, KEY-CLEAR AND HELD** — see the Oct 6
-   run block and Lesson 70 for why. **It is a Tuesday-shaped release item, NOT a Last Call item, so it
-   does not solve Oct 9 even if cleared.** **If Aaron has answered in-channel, follow the answer. If he
-   has NOT, compress to `_unchanged:_` and DO NOT re-raise it as a fresh bullet.**
-   **IF IT EVER RUNS: the product name "Cellar Collection Volume 6" CANNOT be printed in full —
-   `cellar` is banned with no proper-noun exception. Write around it.**
-3. **ARM ZERO, NON-OPTIONAL — Lesson 66. BEFORE ANY CLAIM CHECK, PASTE THE DOMAIN AND READ IT AGAINST
-   THE TIER DIRECTORY. Tier first, claims second.**
-   **THE KNOWN TIER 4 LIST, DO NOT LINK: The Whiskey Wash, Whiskey Raiders, The Whisky Exchange,
-   Forbes contributor columns, The Bourbon Flight, The Whiskey Reviewer, WikiliQ, Boozemakers,
-   Bourbon Inspector, `nashvilleguru.com`.** **ADDED OCT 6: `marklittler.com` is a whisky DEALER —
-   retailer self-interest, corroboration only, never a link-out.** **`robbreport.com` now 307-redirects
-   to `tollbit.robbreport.com`, a paywall-toll host — treat Robb Report as UNFETCHABLE until that
-   changes, and do not stage an item that depends on it.**
-4. **GREP CASE-INSENSITIVELY FIRST, AND GREP THE FORM THE PAGE USES — Lesson 69, which fired twice more
-   on Oct 6.** **TSB writes `9 October`, so `October 9` returns ZERO.** **`dual` returned ZERO on a page
-   a search summary called a "dual finish."** **A ZERO IS A QUESTION. Re-grep, read the sentence, THEN
-   believe it.**
-5. **A SEARCH SUMMARY IS NOT A SOURCE — Lessons 54/59/61/62, and Oct 6 proved it twice.** The King of
-   Kentucky tasting notes in the search summary are NOT on the Fred Minnick page (`orange zest` ×0,
-   `caramel` ×0). **Fetch the page or do not stage it.**
-6. **NAMED CANDIDATES CARRIED FORWARD, NONE VERIFIED, NONE STAGED — and NONE of them is Friday-shaped,
-   which is the problem.** **Garrison Brothers x Duck Camp single barrel** (400 bottles) ·
-   **Wanderfolk Tallbird** (FM Sept 30; the launch event is Oct 31 at Hye, Texas — **that IS an
-   occasion and may be the one Friday-usable lead on this list**) · **Ole Smoky espresso whiskey** ·
-   **Lost Lantern George Dickel, Oct 21** · **Knob Creek 12 Cask Strength** (Sept 16, $89.99,
-   121.2 proof — **three weeks old and the WA Whisky Watch roundup covers it; spending that roundup
-   closes Highland Park, Macallan, Willett and Widow Jane at once. Deliberate or not at all**).
-7. **URGENT SWEEP, every run. Precedent now NINETEEN times applied.** **Do NOT re-walk as fresh:** the
-   **Wes Henderson / TKC Distilling / Kentucky Castle voyeurism suit (Oct 3 — litigation naming a
-   person, no WS partner, NO OVERRIDE; but see instruction 2, it has an editorial consequence)** · the
-   Aug 2025 Crown Royal recall · the G J Wholesale NSW/QLD/ACT recall (Sept 2018, eight years stale;
-   BOTH FETCHERS FAIL on the NSW Food Authority page, date it by search) · the Bardstown employment
-   suits (Feb 2026) · Washtucky v Wilderness Trail · SWA v Virginia Distillery · the Louisville
-   whiskey-fungus suit · Michael Collins v Beam · Templeton Rye · the Uncle Nearest receivership ·
-   Rogue Ales Chapter 7 · Westward · `fss-kimbland-distillery-warning-2025` · the bankruptcy/closure
-   wave including Diageo's $1bn and 1,900+ roles · the bourbon category's projected fourth straight
-   annual decline. **DATE A SAFETY ITEM BEFORE WEIGHING IT — Lesson 35.**
-8. **PRUNE — NOT DUE AND DO NOT GO LOOKING.** **Next candidate is `WEDNESDAY Aug 26 — PREP RUN`
-   (41 days old on Oct 6). CHECK THE ARITHMETIC YOURSELF, and run all four arms BEFORE deleting —
-   check BOTH the standalone `## LESSON NN` form AND the consolidated `## PRIOR LESSONS (range)`
-   blocks.** **DO NOT prune `FRIDAY Aug 21 — STAGING RECORD`, `TUESDAY Aug 25 — ALL FOUR PUBLISHED`,
-   or `FRIDAY Aug 28 — ALL FOUR PUBLISHED`.** **Never prune DEDUP, OPEN GAPS, COLLISION FLAGS,
-   WATCHING, the boards or the LESSONS blocks.** **DEDUP PRUNE: not due. Oldest block is
-   `PUBLISHED Tue Sep 15`.**
-9. **NOTES DISCIPLINE — max 5 bullets, 15 words each, Notes+Pipeline under 120 words.**
-   **LIVE AND UNRESOLVED:** the Angel's Envy hold (raised Oct 6 — **compress to `_unchanged:_` unless
-   Aaron answers**) · the Canada-ban third-bite decision (raised Sep 30, **still unanswered —
-   compress, do NOT re-raise**).
-   **THE REAL THING TO SURFACE WEDNESDAY: Fri Oct 9 at ZERO against a floor of three, with this as the
-   last prep run.** That belongs in PIPELINE, and in NOTES only if the run ENDS without closing it.
-   **SPENT AND NEVER TO BE RE-RAISED:** the Oct 4/5 cadence miss (reported Oct 6) · everything on the
-   Oct 2 list · the Nashville festival board · the Dram Central board · the bottom-shelf column's
-   single-outlet question · the Oct 2 WA ×2 outlet shape · **the Oct 6 FM ×2 outlet shape.**
+1. **THE WHOLE JOB IS FRI OCT 9, IT IS AT TWO VERIFIED AGAINST A FLOOR OF THREE, AND THIS IS THE LAST
+   PREP RUN.** **The single highest-value action is clearing `buzzards-roost-cigar-blend-2026` on a real
+   second source.** **Check Breaking Bourbon's review feed first — they reviewed Buzzard's Roost Double
+   Oak French Oak on Oct 6, so they are actively covering the brand.** Then any other Tier 1–2 pickup of
+   **the 2026 expression specifically**.
+   **IT ALSO FIXES THE SHAPE: the two verified items are BOTH `on-the-calendar`. Buzzard's Roost is
+   `pair-it` and is the only thing on the board that prevents three calendar items out of three.**
+   **AND it is the first item in weeks that serves the Cigar-Whiskey Crossover coverage floor.**
+2. **DO NOT SHIP BUZZARD'S ROOST SINGLE-SOURCED TO MAKE THE FLOOR.** **If it has not cleared by Friday
+   assembly, the choice is (a) verify ONE festival off the Oct 9 bench — accepting three calendar items
+   — or (b) RUN THE EMPTY-PIPELINE FLOOR: masthead, one plain line saying the edition is short and why,
+   and the aside.** **A short Last Call is the honest signal. Never pad, never promote a watching item,
+   never republish.**
+3. **THE YEAR-COLLISION IS THE EASIEST MISTAKE ON THIS BOARD.** **Breaking Bourbon's page titled "The
+   Buzzard's Roost Distillery Introduces New Cigar Blend Bourbon Whiskey" IS THE Aug 19 2025 RELEASE,
+   and Drinkhacker's review is 2025-10-12.** **Neither is a second source for the 2026 expression, and
+   NEITHER'S TASTING NOTES MAY EVER CROSS OVER.** **Check the DATE ON THE PAGE before counting any
+   Buzzard's Roost source.**
+4. **ARM ZERO, NON-OPTIONAL — Lesson 66. PASTE THE DOMAIN AND READ IT AGAINST THE TIER DIRECTORY BEFORE
+   ANY CLAIM CHECK. Tier first, claims second.**
+   **TIER 4, DO NOT LINK: The Whiskey Wash, Whiskey Raiders, The Whisky Exchange, Forbes contributor
+   columns (this includes the Emily Price Tavern Trail piece), The Bourbon Flight, The Whiskey Reviewer,
+   WikiliQ, Boozemakers, Bourbon Inspector, `nashvilleguru.com`, `marklittler.com`.**
+   **CONFLICT-FLAGGED, CORROBORATION ONLY, NEVER A LINK-OUT: `resident.com` (declared affiliate
+   commission).** **`robbreport.com` remains UNFETCHABLE behind a tollbit redirect.**
+   **PRESS-RELEASE REPRINT HOSTS — BevNet, Wine Industry Advisor, nombase, lelezard, PRNewswire — ARE
+   ONE SOURCE WITH EACH OTHER AND WITH THE BRAND. Never count two of them as two.**
+5. **A SEARCH SUMMARY IS NOT A SOURCE, AND Oct 7 PROVED IT THREE TIMES.** The Wanderfolk "Hye, Texas
+   launch event" was in the file and **does not exist** · American Whiskey Magazine's Old Fashioned Week
+   piece is **dated 03 Sep 2020** and surfaced inside a 2026 result set · EverOut listed Old Fashioned
+   Week as running **"through October 20"** against the source's **October 18**. **FETCH THE PAGE AND
+   READ THE DATE ON IT.**
+6. **URGENT SWEEP, every run. Precedent now TWENTY times applied.** **Do NOT re-walk as fresh:** the
+   Wes Henderson / TKC Distilling suit (Oct 3) · the Aug 2025 Crown Royal recall · the G J Wholesale
+   NSW/QLD/ACT recall (Sept 2018) · the Bardstown employment suits (Feb 2026) · Washtucky v Wilderness
+   Trail · SWA v Virginia Distillery · the Louisville whiskey-fungus suit · Michael Collins v Beam ·
+   Templeton Rye · the Uncle Nearest receivership and federal investigations · Rogue Ales Chapter 7 ·
+   Westward · `fss-kimbland-distillery-warning-2025` · Chivas/Turkey (Nov 2024) · **the Silver Trail
+   Distillery explosion and death (APRIL 2015 — eleven years stale)** · **the Glenmore Distillery
+   workplace death (Jan 14, not in window)** · **the Midleton site death (undated)** · **the Rwanda FDA
+   shutdown of eight alcohol makers (not whiskey, not a partner)** · the Diageo/bankruptcy wave · the
+   bourbon category's projected fourth straight annual decline. **DATE A SAFETY ITEM BEFORE WEIGHING
+   IT — Lesson 35.**
+7. **PRUNE — NOT DUE AND DO NOT GO LOOKING.** **Next candidate is `WEDNESDAY Aug 26 — PREP RUN`
+   (43 days old on Oct 8). CHECK THE ARITHMETIC YOURSELF, and run all four arms BEFORE deleting — check
+   BOTH the standalone `## LESSON NN` form AND the consolidated `## PRIOR LESSONS (range)` blocks.**
+   **DO NOT prune `FRIDAY Aug 21 — STAGING RECORD`, `TUESDAY Aug 25 — ALL FOUR PUBLISHED`, or
+   `FRIDAY Aug 28 — ALL FOUR PUBLISHED`.** **Never prune DEDUP, OPEN GAPS, COLLISION FLAGS, WATCHING,
+   the boards or the LESSONS blocks.** **DEDUP PRUNE: not due. Oldest block is `PUBLISHED Tue Sep 15`.**
+8. **NOTES DISCIPLINE — max 5 bullets, 15 words each, Notes+Pipeline under 120 words.**
+   **LIVE AND UNRESOLVED, ALL COMPRESSED:** the Angel's Envy hold (Oct 6) · the Canada-ban third-bite
+   decision (Sep 30) · the absent brand skill. **Compress to `_unchanged:_`. Do NOT re-raise.**
+   **SPENT AND NEVER TO BE RE-RAISED:** the Oct 4/5 cadence miss · the Wanderfolk bench correction
+   (reported Oct 7) · the Buzzard's Roost single-source note (reported Oct 7 — **report it again ONLY
+   if it is still unresolved at Friday assembly, which is a decision, not a status**) · everything on
+   the Oct 2 and Oct 6 lists · the beat-slug coverage gap.
    **NEVER a bullet for this file's own machinery** — board-heading dates, the prune, lessons blocks,
-   the spent-link register, the URL audit, the curl/WebFetch workarounds, the parser form, the key
-   merge, the Slack bold fix, the `>` on the PIPELINE line, the outlet-split separations, the `65 %`
-   whitespace trap, the `ID's` curly apostrophe, the case artefacts of Lesson 69, **the `9 October`
-   date form**, and OUTLET CONCENTRATION.
+   the spent-link register, the parser form, the Slack bold fix, the `>` on the PIPELINE line, the case
+   artefacts of Lesson 69, the `9 October` date form, and OUTLET CONCENTRATION.
    **NEVER a bullet for anything that worked.**
-10. **PERSIST STATE AND PUSH, whatever happens.**
-11. **IF YOU POST, READ IT BACK AND CHECK THE RENDER — Lesson 60.** Send `**double asterisk**` for
-    bold. **On a PREP post expect the `:spiral_calendar_pad:` PIPELINE line to fall OUTSIDE the
-    blockquote; on the Oct 2 and Oct 6 EDITIONS it stayed inside. Known, cosmetic, never a bullet.**
+9. **PERSIST STATE AND PUSH, whatever happens.**
+10. **IF YOU POST, READ IT BACK AND CHECK THE RENDER — Lesson 60.** Send `**double asterisk**` for bold.
+    **On a PREP post expect Slack to drop the bare `>` spacer and merge the `:spiral_calendar_pad:`
+    PIPELINE line into the NOTES blockquote — it did so again on Oct 7. Known, cosmetic, never a bullet.**
 ---
+
+## LESSON 71 (added Oct 7) — a forecast is a claim, and this file wrote one that quietly deleted two days of the week
+
+The Oct 6 NEXT RUN header read: *"Wed Oct 7 — PREP. Then Fri Oct 9 LAST CALL, Sun Oct 11 prep, Tue
+Oct 13 SHORTLIST."* **It skipped Thursday Oct 8 and Monday Oct 12.** The operating instruction is
+"every day except Saturday," and the channel record is unambiguous — **Thursdays post (Oct 1, Sep 24,
+Sep 17, Sep 10, Sep 3) and Mondays post (Sep 14, Sep 7, Aug 31, Aug 24).**
+
+**The cost was real and it was paid in the opposite direction from the usual one.** The Oct 9 board
+said "Wed Oct 7 is the ONLY prep run before it," and the Oct 7 run believed it, carried it into the
+posted PIPELINE line as "Next prep — Sun Oct 11," and so told Aaron that Friday had no discovery runs
+left when it had one. **An error that makes the board look WORSE than it is still an error** — it
+invites a padding decision or an early floor call that the facts do not require.
+
+**It was caught by checking the forecast against the posting record rather than against the previous
+forecast.** That is the whole lesson. **A date arithmetic claim in this file is inherited, not
+re-derived, and inherited claims decay silently.** The three prior runs all copied the same skipped
+Thursday forward without anyone counting the days.
+
+**The rule: never carry a NEXT RUN day list forward unchecked. Derive the next scheduled day from the
+rule — every day except Saturday — and sanity-check it against the last two weeks of actual posts.**
+It costs one grep and it is the cheapest check in this file.
+
+**Second half of the lesson, from the same run:** the correction went out as a THREAD REPLY on the
+brief, not as a second brief. **A correction is net-new material and is allowed on a day that already
+posted; a second full brief is not.** **And a thread reply from this pipeline will appear in the next
+run's channel read — it is NOT human feedback, and the masthead-glyph test will not catch it because
+a reply has no masthead. Check the author and the content, not just the glyph.**
 
 ## LESSON 70 (added Oct 6) — an item can pass every check this file has and still be the wrong thing to publish, and that call is a human's
 
