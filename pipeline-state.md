@@ -53,6 +53,14 @@ RETURNED ZERO THIS RUN — the form flipped again. The author-marker regex split
 `^(?=[A-Za-z].{0,60}? <[^>]+>: )` worked and is the more robust method.** **Glyph reconciliation is
 EXACT: `:wrench:` x30 = post count; `:mag:` x18 + `:tumbler_glass:` x12 = 30.** **No `Thread:` markers at all.**
 **Oct 11 was EMPTY before this run, so idempotency was not in play and this brief is the day's only post.**
+**Posted 06:27:27 PT. Slack: `https://whiskeysocial.slack.com/archives/C0BKL9FB2CV/p1791725247528759`.**
+**Render read back and correct. Two known cosmetics, neither a bullet: bold rendered as italic
+throughout (Lesson 60, longstanding), and the bare `>` spacer collapsed so the PIPELINE block merged
+INTO the blockquote — which is the DESIRED direction, unlike Oct 9 where it fell OUT. The spacer
+remains unstable in both directions.**
+**LINK DISCIPLINE NOTE FOR TUESDAY: the Little Book blurb was written to Breaking Bourbon's claims
+ONLY. Whisky Advocate's "the oldest component ever included" line was deliberately NOT used, because
+it is not on the Breaking Bourbon page and that is the link. Lesson 61, caught before posting.**
 
 **Prior run:** 2026-10-09 (Fri), EDITION — Last Call published short at two. See the FRIDAY Oct 9 block below.
 
