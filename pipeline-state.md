@@ -3,7 +3,84 @@
 Durable memory for the Whiskey Social whiskey-news pipeline. Authoritative over Slack
 thread copies. Human feedback in #whiskey-news overrides this file.
 
-**Last run:** 2026-10-11 (Sun), **PREP — THE OCT 13 BOARD WENT FROM ONE VERIFIED TO FOUR AND IS NOW AT
+**Last run:** 2026-10-12 (Mon), **PREP — FRI OCT 16 WENT FROM ZERO TO TWO VERIFIED PLUS ONE PENDING,
+TUESDAY WAS DELIBERATELY NOT TOUCHED, AND THE RUN'S REAL FINDING IS THAT THE BEST FRIDAY ITEM IS
+SOLD OUT.**
+**Seven things happened:** (1) **THE Oct 11 INSTRUCTION WAS FOLLOWED EXACTLY: Monday worked FRIDAY,
+not Tuesday.** Fri Oct 16 moved **0 → 2 VERIFIED + 1 PENDING** against a Last Call floor of three.
+**The Oct 13 board was not opened, not re-fetched and not added to. No fifth item was staged.**
+(2) **`bookers-the-reserves-rye-2026` IS VERIFIED AND STAGED FRI OCT 16.** The Oct 11 bench condition
+was "earliest usable slot is Fri Oct 16, and only if Little Book has already run" — **Little Book runs
+Tue Oct 13, so the condition is satisfied by the calendar.** **It cleared two INDEPENDENT Tier 2
+originals: Breaking Bourbon `/review/` (Eric Hasman, 2026-09-30) and WA Sep 29 (Julia Higgins).**
+**AND THE ONE-PAGE-ONE-ITEM HAZARD DOES NOT BITE: its link-out is `breakingbourbon.com/review/bookers-the-reserves-2026`,
+a DIFFERENT page from Little Book's `/review/little-book-the-infinite-edition-iii`.** The shared WA
+Sep 29 article is Little Book's SOURCE B, never its link-out, so nothing is double-spent.
+(3) **THE RUN'S JUDGEMENT CALL, AND IT WENT TO AARON RATHER THAN BEING RESOLVED HERE.**
+`atlanta-magazine-whiskey-festival-2026` **verified cleanly on two sources and then its ticket page
+showed BOTH TIERS SOLD OUT — VIP $125 and GA $75, waitlist only.** **The facts are solid; the reader
+action is not.** The file's own precedents cut both ways — Still Austin was dropped because "an
+unconfirmed opening is not a date a reader can act on," but the Borders single malt RAN on the story
+rather than the availability. **A sold-out local festival is genuinely Aaron's editorial call, so it
+was put to him in ONE Notes bullet and NOT resolved unilaterally.** **It is staged VERIFIED BUT
+FLAGGED. Do not promote it to lead and do not drop it without his answer.**
+(4) **CHAMPAIGN HAS A REAL SECOND SOURCE THAT CANNOT BE REACHED.** `smilepolitely.com` — Champaign-Urbana's
+culture magazine, Tier 3 regional press and therefore linkable on a local/venue story — **carries an
+early-September preview of the festival. It 403s to WebFetch AND to curl with a browser UA.**
+**Lesson 63 applies: a page dead to both fetchers is a failed fetch, not an absence.** **The item is
+NOT verified and was NOT presented as such.** The official site fetched clean and supplies the rest.
+(5) **SILVERTHORN WAS SETTLED IN THE ONE FETCH INSTRUCTION 3 AUTHORISED, AND IT DOES NOT HELP.**
+Breaking Bourbon `/review/`, Nick Beiter, 2026-10-09: **$100 · 115 proof · blend of 10–14 year
+bourbons from Georgia, Kentucky and Indiana · 1,600 bottles · sample disclosed free.** **At $100 it
+does nothing for the sub-$30 gap, and Tuesday is at floor, so it was BENCHED, not staged.**
+**Its only candidate second source is Drinkhacker (2026-06-20) — NOT FETCHED this run, and NOT on the
+inlined Tier 2 list, so it is Tier 3 second-mention at best. Also note the date oddity: Drinkhacker
+reviewed in JUNE against an OCTOBER release date. Resolve before staging.**
+(6) **THREE CANDIDATES DIED AND ARE RECORDED SO THEY ARE NOT RE-WALKED.** **Lucky D Distilling bourbon
+RTDs** — WA Oct 9 is the only vetted carrier; the rest is the PR.com release and a Bourbon Women
+Association piece that reads promotional. **Press-release-only.** · **Two Stacks Double Irish Cream
+"Dram in a Can"** ($7, 100ml, nationwide) — **its only pickups are The Bourbon Flight and The Whiskey
+Wash, BOTH TIER 4 do-not-link.** · **Silicon Valley Whisk(e)y Festival (Oct 24)** — **Eventbrite and
+`svfws.com` are the SAME organiser, exactly the Nashville/Fresno trap. One source.**
+**ALSO REJECTED AS A SECOND SOURCE: `atlantanewsfirst.com/2026/10/08/11th-annual-whiskey-festival/`
+is an "ATL Live Staff" segment carrying a ticket promo code, and the page itself says ATL Live
+segments "may be sponsored." It is promotional placement, NOT independent editorial. It confirms
+only the date and venue and was NOT counted.** **The second source that DID count is Pullman Yards'
+own events calendar — the VENUE, a different party from organiser Atlanta Magazine. This is the
+Visit Music City precedent repeating a third time.**
+(7) **URGENT SWEEP — nothing fires, TWENTY-FOURTH application.** The Wes Henderson / TKC matter
+returned again with fuller national pickup (Fox News, Just Drinks, Qz, Yahoo) confirming the Oct 3
+termination and the sealed June Oldham County suit. **ASSESSED IDENTICALLY AND FOR THE FOURTH TIME:
+not a WS partner brand or venue, allegation stage, no criminal charges. NO OVERRIDE, and again NOT
+attached to the Angel's Envy call.** Everything else was stale: Uncle Nearest federal investigation
+(~136 days), Silver Trail explosion (2015), the illegal-distiller death case (~702 days).
+**DATED BEFORE WEIGHED, Lesson 35.**
+**CADENCE: CLEAN. Oct 11 was the newest post and Oct 12 is the very next scheduled day — a normal
+consecutive pair, nothing reported.** The Oct 4/5 miss stays SPENT and was not re-derived.
+**THIN-EDITION WATCH: Oct 9 remains the only thin edition. Friday was NOT pre-reported as thin, per
+instruction 12, and nothing was padded to dodge it.**
+**CHANNEL: NO HUMAN REPLIES IN 14 DAYS. 9 posts in the Sep 28–Oct 12 window, all this pipeline's own.**
+**`concise` with `limit 14` did NOT overflow this run — the saved-file split was not needed.
+RECORD THIS: bounding the read with `oldest`/`latest` epochs and a small limit is cheaper and more
+reliable than pulling 100 and splitting.** **Glyph reconciliation EXACT: `:wrench:` x9 = post count;
+`:mag:` x5 + `:tumbler_glass:` x4 = 9.** **No `Thread:` markers at all.**
+**AARON HAS NOT ANSWERED THE Oct 11 WANDERFOLK CALL. Per instruction 2 the Oct 13 board runs at four
+as verified, the sub-$30 gap stays open at TEN runs, and Wanderfolk was neither promoted nor dropped.**
+**Oct 12 was EMPTY before this run, so idempotency was not in play and this brief is the day's only post.**
+**Posted 06:21:56 PT. Slack: `https://whiskeysocial.slack.com/archives/C0BKL9FB2CV/p1791811316841649`.**
+**Render read back and correct: `**bold**` → Slack `*bold*` THIS RUN (not the Lesson 60 italic
+collapse — the cosmetic is genuinely unstable run to run), all four links intact as `<url|Outlet>`,
+heavy rule held. The bare `>` spacer collapsed again and the PIPELINE block merged INTO the
+blockquote — the desired direction. Cosmetic, never a bullet.**
+**PRUNE: RAN. `FRIDAY Sep 4 — WHAT SHIPPED` deleted (195 lines), 38 days old, and only that section.
+ALL FOUR ARMS RAN AND ARM 2 PASSED BY COUNTING AGAINST DEDUP, per the Oct 11 refinement: all four
+keys — `buffalo-trace-on-tour-2026`, `canada-50pct-tariff-2026`, `shortbarrel-cigar-batch-4-2026`,
+`whisky-advocate-berry-jam-crumble-bars-2026` — are present INSIDE the DEDUP block, not merely
+somewhere in the file. Lesson 48 confirmed alive in its own block plus 13 cross-references.**
+**THE Sep 4 STAGING RECORD WAS DELIBERATELY LEFT AND IS NOW MARKED DO-NOT-PRUNE-NEXT, matching the
+Aug 21 and Aug 25 precedent.** **File now 10,987 lines before this entry.**
+
+**Prior run:** 2026-10-11 (Sun), **PREP — THE OCT 13 BOARD WENT FROM ONE VERIFIED TO FOUR AND IS NOW AT
 THE SHORTLIST FLOOR; AND IT GOT THERE BY WORKING THE REVIEW FEEDS INSTEAD OF SEARCHING FOR RELEASES,
 EXACTLY AS THE Oct 9 RUN INSTRUCTED.**
 **Six things happened:** (1) **THE BIGGEST GAP THIS FILE HAS CARRIED IS CLOSED.** Tue Oct 13 now holds
@@ -4838,202 +4915,7 @@ Not worth a Notes bullet — it is a fix, not a decision.
 
 ---
 
-## FRIDAY Sep 4 — WHAT SHIPPED (Last Call, posted 06:35 PT)
-
-**Four items, four beats, four distinct outlets. Zero quotes. Send-off "Worth the pour. See you
-Tuesday."** Order as shipped: Shortbarrel (`whats-dropping`) · Buffalo Trace On Tour
-(`on-the-calendar`) · WA crumble bars (`pair-it`) · Canadian whisky slump (`try-this-next`, last,
-factual, no payoff line, as the Sep 2 file directed).
-
-### THE EDITION-DAY RE-CONFIRM CHANGED THE EDITION — and this is the run's lesson
-
-**Lesson 48. A staged item can die, or invert, in the 48 hours between the last prep run and the
-edition — and the thing that inverts is usually the PAYOFF, not the facts.** Every fact in the
-Buffalo Trace entry was still true this morning. The dates, cities, session counts and 21+ rule had
-not moved a comma. **What moved was the only thing that made it worth a reader's Friday: you could
-act on it.** Three of four stops filled inside 48 hours.
-
-**Two prep runs in a row had this item as "the right Sep 4 lead: reservations open Sept 2 and the
-edition lands Sept 4 — the reader can act the moment they read it."** That was true when written and
-false by publication. **Nothing short of re-fetching the primary on the morning of the edition would
-have caught it.** The Sep 3 file's instruction 3(b) — re-read the WA page and confirm the reservation
-line — was necessary but would NOT have been sufficient: **WA's page still reads "Reservations open
-September 2 at 10 a.m. ET" and always will. It is a dated news note, not a live status.**
-
-**THE GENERALISABLE RULE: when an item's payoff is "you can act on this now," the edition-day
-re-confirm must hit the page WHERE THE ACTION HAPPENS, not the outlet that reported it.** A ticket
-page, a booking page, a DTC store. **The trade press reports an opening; only the primary reports a
-closing.** Add this to any future staged item whose value is availability.
-
-### `buffalo-trace-on-tour-2026` — LINK-OUT MOVED TO THE PRIMARY. Deliberate, and here is the reasoning.
-
-**Fetched `buffalotracedistillery.com/on-tour/` under the browser UA, 200, server-rendered.**
-Stop-by-stop status as of this morning:
-- **Branson, MO — Oct 1–4 — OPEN.** No "full" label. The only bookable stop.
-- **Kansas City, MO — Oct 8–11 — "Reservations are full."**
-- **Dallas/Ft. Worth, TX — Oct 14–17 — "Reservations are full."**
-- **Denver, CO — Nov 12–15 — "Reservations are full."**
-- All three carry **"Continue to check back as additional reservations may open."**
-
-**THE LINK-OUT MOVED FROM WA TO THE BT PRIMARY, and the file should not re-litigate it.** Three
-reasons, in order: (a) **the sold-out status lives ONLY on the primary** — under Lesson 39 the claim
-must live in the link-out, and a WA link with a printed "three stops are full" would have violated
-it; (b) **the primary is where the reader books** — the payoff is now "book Branson," and WA cannot
-be booked from; (c) **precedent exists** — the Aug 25 Shortlist linked `garrisonbros.com` directly
-for an event, for the same reason. **WA and WKYT drop to corroboration.** The story key is unchanged,
-so **no dedup consequence**.
-
-**It also lost the lead.** Shortbarrel's DTC drop was the edition day itself and became the lead;
-Buffalo Trace ran second. **A mostly-full tour is honest and still useful — it is not a lead.**
-
-**Printed, and all of it from the BT page:** reservations opened Wednesday · the three full stops
-named · Branson still open Oct 1–4 · sessions guided · 21 and over · check back as more open · book
-on its own tour page · third-party reservations do not count. **NOT printed: the pour count ("four
-tasting pours" is on the page and is a DISCUS 73.8 trap), "complimentary" (cut deliberately — it
-reads as free drinks; the booking framing replaced it), "Sazerac Rye 100 Proof" (WKYT's, not the
-link-out's), and every instance of "journey"/"experience"/"Collections" from the BT page.**
-
-### `canada-50pct-tariff-2026` — LINK-OUT SWAP ADOPTED, QUOTE DROPPED, AND ONE CLAIM DID NOT SURVIVE THE MOVE
-
-**Link-out is now `thespiritsbusiness.com/2026/09/canadian-whisky-slumps-in-us-control-states/`
-(Nicola Carruthers, Sept 1). Re-fetched, 200, full body.**
-
-**THE CARNEY QUOTE IS DROPPED.** It lives in the Aug 24 piece, the link-out moved, and a quote must
-come from the linked source. **The Sep 3 file called this exactly. The edition ran zero quotes and is
-no worse for it — a quote is optional in this format and the cap is a ceiling, not a target.**
-
-**A CLAIM WAS LOST IN THE MOVE, AND THE RUN CAUGHT IT. Read this before re-staging the tariff.**
-The Sep 2 file recorded that "TSB states outright: the US 50% tariff includes Canadian goods such as
-alcohol." **That sentence is in the AUG 24 piece. It is NOT in the Sept 1 slump piece.** The slump
-piece says only "a 50% US tariff placed on Canadian products." **So the shipped item could NOT say
-the tariff covers Canadian whisky, and it did not.** It printed the tariff and the sales decline as
-two adjacent facts and asserted no causation — which is also all TSB does. **The trap generalises:
-a link-out swap inside one outlet still moves the evidence base. Re-check every printed claim against
-the NEW page, not the old entry.**
-
-**BOTH DIRECTIONAL TRAPS HELD IN THE SHIPPED COPY.** The delisting is written as a removal from
-shelves ("US alcohol has been pulled from all but two Canadian provinces"), never as a tariff. **The
-Sept 8 Canadian counter-tariff was not mentioned at all** — the slump piece says only that Canada is
-"planning similar action on US products," which is too loose to print safely next to a whiskey story.
-**Omitting it was the right call and should be repeated.**
-
-**Printed, all from the slump piece:** control-state definition · NABCA July data across 18 markets ·
-Canadian whisky −8.5% volume, the steepest drop of any category · Scotch +3.2%, Tequila +3.1% ·
-the 50% US tariff on Canadian goods · US alcohol pulled from all but two provinces since March 2025.
-**Not printed:** the −8.4% value figure, the 12-month numbers, American whiskey −3.6% (all true, all
-cut for length), and **"world-class" from the MBLL quote — banned, never lifted.**
-
-### `shortbarrel-cigar-batch-4-2026` — SECOND-SOURCE HUNT CLOSED FOR GOOD. It shipped flagged and led.
-
-**The one permitted check ran** (open search, per Sep 3 instruction 4). **One new outlet surfaced:
-The Whiskey Wash** (`thewhiskeywash.com/whiskey-news/shortbarrel-launches-cigar-batch-4-multi-cask-american-whiskey/`).
-**It is the same news release** — its sensory ("bright fruit and baking spice… dried fruit, cocoa,
-leather, toasted oak") is the release copy, and **The Whiskey Wash is not on the vetted directory
-anyway.** **Under the two-source rule it is ONE source with many pickups. The hunt is CLOSED. Do not
-re-run it.**
-
-**IT LED THE EDITION**, which the Sep 2 file did not anticipate — the Buffalo Trace inversion handed
-it the slot, and its DTC drop landing on the edition day made it the strongest "act today" item on
-the board. **A single-sourced item can lead when its news is the release itself and the copy prints
-only construction.**
-
-**SENSORY HELD. Nothing about taste was printed** — not from the page's "layers of fruit, spice, oak
-and richness," not from Dugan's quotes, not inferred from four mash bills or fifty casks. **"No
-independent tasting is published yet" printed for the fourth consecutive edition.** The three cigar
-pairings were referenced by count with one named, not listed — **the Cigar-Whiskey Crossover was
-served without turning the blurb into a wire feed.** **"Journey" and "acclaimed" are both on the FM
-page and neither was lifted.**
-
-### `whisky-advocate-berry-jam-crumble-bars-2026` — SHIPPED CLEAN. The compliance rule held.
-
-**"TIPSY" DOES NOT APPEAR.** The recipe was referred to descriptively — "peanut butter and jelly into
-a tailgate bar." **"Spiked with bourbon," "extra-indulgent," and the high-proof baking line were all
-avoided.** The Strawberry Patch Smash was not staged; **the WA cocktail count still stands at four.**
-
-**ONE bottle was printed, not seven** — Virginia Distilling Co. Cabernet Cask Select, $45, with WA's
-own "tart red berries, raisins and baking spice" and the cabernet sauvignon barrel finish. **The
-other six were cut, exactly as the Sep 2 entry instructed.**
-
-**BYLINE PRONOUN NOTE, NEW AND WORTH KEEPING:** Aubrey Thompson's pronouns are not stated anywhere in
-the source. **The draft's first pass wrote "She picks bottles…" and it was corrected to name the
-outlet instead** ("The piece picks bottles… Whisky Advocate finds…"). **Standing rule for every
-future edition: never infer a writer's pronouns from their name. Attribute to the outlet, or use
-they/them.** This applies to every byline this pipeline handles.
-
-### Every printed claim, against its link-out
-
-**Shortbarrel → Fred Minnick, Sept 1 (re-fetched 200, 5,654 chars):** $89.99 ✓ · 107 proof / 53.5%
-ABV ✓ · DTC rollout Friday Sept 4 ✓ · Clinton Dugan, Master Blender ✓ · components finished
-separately in Armagnac, Cognac, rum, Tawny Port and Sherry casks ✓ · more than 50 casks ✓ · Sherry
-in the series for the first time ✓ · three recommended cigar pairings, Arturo Fuente Don Carlos
-Robusto named ✓. **Sensory: none printed.**
-
-**Buffalo Trace → buffalotracedistillery.com/on-tour/ (re-fetched 200, 8,707 chars):** reservations
-opened Sept 2 ✓ · Kansas City, Dallas/Ft. Worth, Denver "Reservations are full" ✓ · Branson Oct 1–4
-open ✓ · guided tasting ✓ · 21+ with government photo ID ✓ · "check back as additional reservations
-may open" ✓ · bookable only on buffalotracedistillery.com, third-party invalid ✓. **Sensory: none
-exists anywhere. None printed.**
-
-**Crumble bars → Whisky Advocate, Aubrey Thompson, Aug 31 (re-fetched 200, 4,671 chars):** peanut
-shortbread base ✓ · quick blueberry jam with thyme ✓ · buttery crumb topping ✓ · tailgate/potluck/
-back-to-school ✓ · Virginia Distilling Co. Cabernet Cask Select $45 ✓ · "tart red berries, raisins,
-and baking spice" ✓ (WA's own, attributed to WA) · cabernet sauvignon barrel finish ✓.
-
-**Canadian whisky → The Spirits Business, Nicola Carruthers, Sept 1 (re-fetched 200, 5,882 chars):**
-NABCA, 18 control-state markets, July ✓ · Canadian whisky −8.5% volume ✓ · "largest decrease of all
-spirits categories for that month" ✓ · Scotch +3.2% volume ✓ · Tequila +3.1% volume ✓ · 50% US tariff
-on Canadian products ✓ · US alcohol pulled from all but two Canadian provinces since March 2025 ✓.
-
-### Voice and compliance, checked before send
-
-**Banned words: none present.** No log, collection, premium, journey, experience, handcrafted,
-world-class, finest, whale, vault, cellar, bunker, toast. **"Toasted oak" was available on two source
-pages and was not lifted.** **"Hunt" was not used at all** — the once-per-edition allowance went
-unspent. **No exclamation points. No streak mechanics.**
-
-**DISCUS 73.8 clean.** No volume, rate or intoxication cue. **"Tipsy" absent. The pour count absent.
-"Complimentary" cut.** "Last Call" appears only in the masthead, never in body copy.
-
-**Quotes: ZERO.** Under the cap by design after the link-out swap.
-
-**Insider terms defined once each:** "finishing" (a second stretch in a different barrel) in item one,
-"control states" (where the government runs liquor sales) in item four. **"Non-chill filtered" was
-cut rather than left undefined.** **Sentence lengths: longest is 15 words; the four blurbs run 57,
-52, 60 and 63 words, all inside 40–70.**
-
-**UTMs:** all four `?utm_source=whiskeysocial&utm_medium=pour&utm_campaign=lastcall-2026-09-04` with
-`utm_content=` whats-dropping / on-the-calendar / pair-it / try-this-next and `utm_term=` collector /
-venue-regular / social-drinker / social-drinker. **All lowercase, all on the approved lists.**
-
-### Coverage and shape
-
-**Personas: Collector (Shortbarrel) · Venue Regular (Buffalo Trace) · Social Drinker (crumble bars,
-tariff) · Cigar-Whiskey Crossover (Shortbarrel's named pairings, surfaced naturally).**
-**Explorer is served thinly — by the $45 bottle in the crumble-bars item only. That is acceptable on
-a Friday** (the skill spreads the load; Tuesday carries the Explorer weight) **but it is the second
-Friday running, and if Sep 18 lands the same way it becomes a pattern worth a bullet.**
-
-**Outlets: FM ×1, Buffalo Trace primary ×1, WA ×1, TSB ×1 — four distinct sources, the widest
-spread any edition has shipped.** **Bylines: Minnick, Thompson, Carruthers, plus a primary. No
-Flicker, no Evans.** **The Sean Evans byline call stays SPENT and the outdoors item stays held past
-mid-September.**
-
-### The shelf-price slug gap — RAISED, ONCE, AS INSTRUCTED. Now spent again.
-
-The Sep 3 file (instruction 20) held this for the run where the tariff actually shipped. **It shipped
-today, so the raise fired: the edition used the "Shelf-Price Watch" segment header from the skill's
-own segment bank, but had to tag `utm_content=try-this-next` because the approved slug list has no
-shelf-price value.** **The ask is one new slug: `shelf-price`.** **This is now the SECOND slug gap on
-file** (the first is `explainer`). **Both are raised and spent — compress both to `_unchanged_` until
-Aaron answers. Do not raise either again.**
-
-### Urgent sweep — no override
-
-Window Sep 3–4. Searched recalls, safety notices, litigation and investigations naming a partner brand
-or venue, and industry deaths. **Nothing new. No override.** The Bardstown whistleblower discrimination
-suit resurfaced in results and remains **context only, un-bulleted, as it has since Aug 24.** Bourbon-
-glut bankruptcies and production pauses are **not overrides** — not a recall, safety issue, litigation
-naming a partner, or a death.
+## FRIDAY Sep 4 — WHAT SHIPPED — PRUNED Oct 12 (38 days). All four arms ran; all four keys confirmed in DEDUP, Lesson 48 confirmed in its own block. Its staging record at `## FRIDAY Sep 4 — FOUR STAGED` is now the only Sep 4 record — do not prune it next.
 
 ## THURSDAY Sep 3 — PREP RUN
 
@@ -5819,7 +5701,7 @@ pipeline's; surface it once if he has not raised it by the Aug 28 run.**
 
 ---
 
-## FRIDAY Sep 4 — FOUR STAGED as of Sep 2. THE GAP IS CLOSED.
+## FRIDAY Sep 4 — FOUR STAGED as of Sep 2. THE GAP IS CLOSED. *(its WHAT SHIPPED companion was PRUNED Oct 12 — this is now the only Sep 4 record, do not prune it next)*
 
 **SEP 2 UPDATE — the priority gap that stood open for four runs is closed, and it closed because the
 rails came back, not because the supply changed.** Two new items staged this run:
@@ -6859,6 +6741,60 @@ items anchor the two that are not, so nothing reads collectors-only end to end.*
   nationwide, ~36,000 bottles — it does not go stale this week.**
 ---
 
+## FRIDAY Oct 16 — TWO VERIFIED (ONE OF THEM FLAGGED) PLUS ONE PENDING. FLOOR IS THREE. *(board created Oct 12)*
+
+**HOW IT GOT HERE: the Oct 11 run ordered Monday to work FRIDAY from events, venues and calendar
+items rather than releases. That is what ran.** The festival rail produced one verified item and one
+unreachable second source; **the one clean item came off the bench, not off a search.**
+**THE BOARD IS ONE SHORT OF FLOOR WITH TWO PREP RUNS LEFT (Wed Oct 14, Thu Oct 15) PLUS THE EDITION
+MORNING.**
+
+**VERIFIED 1 — `bookers-the-reserves-rye-2026`. CLEAN. THE ONLY UNFLAGGED ITEM ON THIS BOARD.**
+- **LINK-OUT: `https://www.breakingbourbon.com/review/bookers-the-reserves-2026`** — Breaking Bourbon, **Tier 2 `/review/` section**, **Eric Hasman, 2026-09-30**. Fetched HTTP 200 this run. **Sample disclosed as provided at no cost.**
+- **BENCH CONDITION DISCHARGED BY THE CALENDAR.** Oct 11 benched it on brand collision: same Beam announcement and same WA article as Little Book Edition III, "earliest usable slot is Fri Oct 16, and only if Little Book has already run." **Little Book is staged Tue Oct 13. The condition is met.**
+- **ONE-PAGE-ONE-ITEM CHECKED, NOT ASSUMED: this link-out is a DIFFERENT Breaking Bourbon page from Little Book's `/review/little-book-the-infinite-edition-iii`.** The shared WA Sep 29 page is Little Book's SOURCE B and never its link-out, so **no page is spent twice.**
+- **WHAT THE BREAKING BOURBON LINK-OUT ALONE SUPPORTS:** **$130 / 750mL** · **125.1 proof** · **age 6 Years, 2 Months, 23 Days** · **release September 2026** · **Suntory Global Spirits / Jim Beam Distillery** · **mashbill UNDISCLOSED** · **finished in apple brandy barrels and infused with cinnamon sticks** · **Freddie Noe is Booker Noe's grandson and master distiller** · **his inspiration is his grandfather's apple-wine recipe, the "A.B.C. Wassail," built on apples, bourbon barrels and cinnamon.**
+- **HASMAN'S OWN SENSORY, PRINTABLE AND ATTRIBUTABLE:** nose **apple strudel, rye grain, butterscotch, burnt pastry, barrel char, baking spices, light cherry, wilted mint**; palate **baked apples, allspice, acute cinnamon, black pepper, vanilla**; finish **aged oak, cinnamon spice, apple cider, rye spice, leather, cigar box, chewy oak.** Rated 3.5. Verdict: the release **"takes the line in a more adventurous direction"** and **"those partial to apple and cinnamon in their ryes will love what they taste."** **He also judges the flavours "clearly pushed" rather than natural to the rye — if the blurb uses his praise it should not hide that reservation.**
+- **SECOND SOURCE: WA Sep 29, Julia Higgins (`whiskyadvocate.com/little-book-infinite-III-and-bookers-reserves-2026`), already ledgered on the Oct 13 board.** Supports **$130 · 62.55% ABV (= 125.1 proof, AGREES) · 6-year rye finished in apple brandy casks infused with cinnamon · limited nationwide · Booker's one other notable rye was filled 2003 and was WA's 2016 American Whiskey of the Year.**
+- **THE CATEGORY DISCREPANCY — RAISED IN SLACK, AND IT IS A REAL TRAP FOR COPY.** **Breaking Bourbon's capsule reads "Straight Bourbon Finished in Apple Brandy Barrels and Infused with Cinnamon," but its own body calls it "a rye" and "the second rye ever released to carry the Booker's name," and WA calls it a rye throughout.** **WRITE IT AS A RYE — two independent originals say so in prose and only one capsule field disagrees. Do NOT print "straight bourbon."** Mashbill is undisclosed on both, so **never print a grain bill.**
+- **RETAILER NOISE THAT MUST NOT CROSS:** Dram Fellows and PB Express list **123.3 proof and an 8 years 10 months 11 days age**. **Both are contradicted by BOTH Tier 2 sources. Retailers are not sources. Do not use.**
+- **DEDUP/COLLISION: CLEAR** — `bookers` appears only in the Little Book collision warning and this entry. `try-this-next` or `whats-dropping` / explorer-collector. **The fall hook (apple, cinnamon, a family recipe) is what makes a $130 release carry on a Last Call.**
+
+**VERIFIED 2 BUT FLAGGED — `atlanta-magazine-whiskey-festival-2026`. SOLD OUT. AARON'S CALL, OPEN.**
+- **LINK-OUT CANDIDATE: `https://events.humanitix.com/atlanta-magazine-s-whiskey-festival-2026`** — the official listing, the page a reader would act on. Fetched clean this run.
+- **SOURCE 1 (official listing, organiser Atlanta Magazine):** **Saturday Oct 17 2026, 6:00–10:00 PM EDT** · **Pullman Yards, 225 Rogers St NE, Atlanta, GA 30317** · **45+ vendors / "45+ whiskey brands and spirits"** · **"15+ restaurants"** (the featured list itself names 19 — **print the page's own "15+", not our count**) · **VIP early entry 6:00 PM with top-shelf tastings and a gift bag; GA entry 7:00 PM with a commemorative tumbler while supplies last** · **a portion of proceeds benefits Wholesome Wave Georgia** · **mocktails and non-alcoholic options provided by Wholesome Wave Georgia** · **DJ, cigar rolling, college football on screen.**
+- **SOURCE 2, AND IT IS THE VENUE, NOT THE PRESS: `pullmanyards.com/events`.** Pullman Yards is a **different party from organiser Atlanta Magazine** and lists the festival on its own calendar: **"10.17"** · **"is in its 11th year with its biggest event yet"** · **"The 2026 festival features an expanded venue, 45+ vendors..."** · **"An expanded lineup of Atlanta restaurants and culinary partners."** **This is the Visit Music City precedent, third application.**
+- **THE FLAG, AND IT IS THE WHOLE PROBLEM: BOTH TIERS ARE SOLD OUT.** The ticket page reads **VIP "$125.00" + sales tax + $8.68 fee — "Sold out"**, and **GA "$75.00" + sales tax + $5.77 fee — "Sold out"**, with a waitlist that **"does not guarantee a ticket."** **A Last Call item is supposed to hand the reader something to do this weekend. This one hands them a waitlist.**
+- **DO NOT RESOLVE THIS WITHOUT AARON.** It was raised Oct 12 as one Notes bullet. **If he says run it, it runs honestly as sold-out-with-a-waitlist and must NOT imply tickets are available. If he says drop it, Friday falls to one clean item and the third slot becomes urgent.**
+- **NO AGE POLICY IS STATED ON ANY PAGE** — official listing, ticket page and venue calendar all silent. **NEVER print "21+" for this event.** (Contrast Washback, where `21+` was on the page and was printed.)
+- **BANNED WORDS IN THE SOURCES:** Pullman Yards writes **"premium whiskeys"** and the listing uses **"more premium pours."** **Paraphrase around `premium` both times.**
+- **DEDUP/COLLISION: CLEAR** — `atlanta`, `pullman` and `humanitix` all returned ZERO across the file before this entry. `on-the-calendar` / venue-regular.
+
+**PENDING — `champaign-whiskey-fest-2026`. THE SECOND SOURCE EXISTS AND WILL NOT LOAD.**
+- **Official site `https://www.champaignwhiskeyfest.com/` fetched clean.** Supports: **October 16–17 2026** · **VIP $250.00, a Friday night VIP event starting 6:30pm, including Saturday gala access, a VIP goodie bag, distillery classroom presentations and bottles exclusive to the VIP event** · **Gala $69.00, Saturday 2–5pm** · **sponsors Big Grove Tavern, Punch Bar Champaign, Super Lucky Star, Blend & Brew, Watson's Chicken, Hagan Design** · **Sazerac and Brown-Forman named for VIP presentations.**
+- **THE SITE CONTRADICTS ITSELF ON THE GALA VENUE: one listing says "in a tent in the Downtown Champaign (final location TBD)," another says "the old Volition space, on the 3rd floor of the 1 E Main building (above Big Grove)."** **NEVER PRINT A VENUE FOR THE GALA until it is settled. "Downtown Champaign" is the most that is safe.**
+- **THE SECOND SOURCE: `smilepolitely.com/splog/champaign-whiskey-fest-is-next-month/`.** Smile Politely is **Champaign-Urbana's culture magazine — Tier 3 regional press, which the protocol allows as the second mention AND as a link-out on a genuinely local/venue story.** **IT 403s TO BOTH FETCHERS: WebFetch 403, and curl with a browser UA 403 at 5,839 bytes. Lesson 57/68 was applied and did not rescue it.**
+- **WHAT A SEARCH SUMMARY CLAIMED IT CONTAINS, RECORDED AS UNVERIFIED AND NOT PRINTABLE:** third annual · Fri Oct 16 and Sat Oct 17 · third floor of 1 East Main · hosted by Watson's, Punch! and Big Grove · **"over 40 distilleries and more than 150 domestic and international whiskeys."** **INSTRUCTION 9 GOVERNS: a search summary is not a source. NONE of this may be printed until the page loads.** The "40+ distilleries / 150+ whiskeys" figures in particular are **NOT on the official site** (it states no vendor count at all).
+- **NO AGE POLICY on the official site.** **Never print 21+ for this event either.**
+- **WHAT WOULD CLEAR IT:** Smile Politely loading on any path, **or** any other reachable independent pickup (the News-Gazette was searched and did not surface a dated 2026 piece). **RECHECK WED OCT 14.**
+- **DEDUP/COLLISION: CLEAR** — `champaign` returned ZERO before this entry. `on-the-calendar` / venue-regular.
+
+**SHAPE OF THIS BOARD, AND THE HONEST READ.**
+**One release and two festivals.** If Champaign clears, the shape is **one release + two calendar items**, which **avoids the three-of-three `on-the-calendar` problem the Oct 8 board flagged.** **Persona coverage is thin on Social Drinker:** Booker's is Explorer/Collector and both festivals are Venue Regular. **Atlanta's 15+ restaurants, mocktails and cigar rolling serve the food crossover and the Cigar-Whiskey floor without a dedicated item — the Oct 9 precedent, where Washback's terrace cigar lounge served the floor off a page already linked.**
+**THE REAL RISK IS NOT SHAPE, IT IS COUNT.** **One clean item, one sold out, one unreachable.** If Aaron drops Atlanta and Champaign stays 403, **Friday is at ONE and the empty-pipeline floor applies.**
+
+**REJECTED FOR THIS BOARD — recorded so they are not re-walked:**
+- **Lucky D Distilling bourbon RTDs** (Old Fashioned / Gold Rush / Peach Smash, 30% ABV, 100ml cans, 4-packs $48, variety $70, presale to Oct 23). **WA Oct 9 News Notes is the ONLY vetted carrier; PR.com is the release itself and the Bourbon Women Association piece reads promotional. PRESS-RELEASE-ONLY.** Shape was right for Last Call; sourcing was not.
+- **Two Stacks Double Irish Cream "Dram in a Can"** ($7 / 100ml / 17.5% ABV, nationwide via Foley Family). **Only pickups are The Bourbon Flight and The Whiskey Wash — BOTH TIER 4 DO-NOT-LINK.** Also a cream liqueur, marginal for a whiskey digest.
+- **Chip Tate's Gran Nota Triple Oak Reposado** ($55, 45% ABV, fermented with whiskey yeast, part-aged in whiskey barrels). **It is a tequila. Also same WA page as the above — one page, one item.**
+- **Silicon Valley Whisk(e)y Festival (Oct 24, Palo Alto Elks Lodge #1471, 4249 El Camino Real, 3–6pm, 4th annual).** **Eventbrite and `svfws.com` are the SAME organiser. ONE SOURCE. Exactly the Nashville and Fresno trap.** AllEvents is an aggregator with two conflicting price ranges. **Still unverified and still on the bench.**
+- **`atlantanewsfirst.com/2026/10/08/11th-annual-whiskey-festival/`** — **"ATL Live Staff," carries a ticket promo code, and the page says ATL Live segments "may be sponsored."** **Promotional placement, NOT independent editorial. NOT counted as Atlanta's second source.** Recorded because it will resurface.
+
+**THE REMAINING FRIDAY BENCH — still all unverified, none newly walked:**
+**Whiskey & Wine Festival Fredericksburg VA (Oct 31)** · **Charlotte Whiskey, Wine & Fire (Oct 24)** — **NEW, never assessed, but search metadata flags volume-based tasting framing; DISCUS risk, check the page before staging** · **Spokane (Oct 23) and Tri-Cities (Oct 24) Whiskey Festivals** — **NEW, never assessed** · **Fresno (Oct 17) and OKC Whiskey Riot (Oct 17)** — **both CLOSED OUT Oct 8 on single-sourcing. Do not re-walk.**
+
+---
+
 ## TUESDAY Oct 13 — FOUR VERIFIED. FLOOR IS FOUR. THE BOARD IS AT FLOOR. *(rebuilt Oct 11)*
 *(board created Oct 8; went 1 verified -> 4 verified on Oct 11)*
 
@@ -7287,6 +7223,42 @@ it — Sun Sep 20, Mon 21, Wed 23, Thu 24."~~
 ---
 
 ## OPEN GAPS
+
+**OCT 12 STATUS — READ THIS FIRST. IT SUPERSEDES EVERY BLOCK BELOW, INCLUDING THE OCT 11 BLOCK.**
+- **TUE OCT 13 IS NOT A SUPPLY GAP AND WAS NOT TOUCHED.** Four verified against a floor of four.
+  **No fifth was staged and none is owed.** Re-confirm all four link-outs on edition morning.
+- **FRI OCT 16 IS STILL THE FILE'S ONLY SUPPLY GAP, BUT IT MOVED 0 → 2 VERIFIED + 1 PENDING.**
+  Floor is three. **Only ONE of the two verified items is clean.** `bookers-the-reserves-rye-2026`
+  is unflagged; `atlanta-magazine-whiskey-festival-2026` is **verified and SOLD OUT**, awaiting
+  Aaron; `champaign-whiskey-fest-2026` is **pending on a second source that 403s to both fetchers.**
+  **Two prep runs remain (Wed Oct 14, Thu Oct 15) plus the edition morning.**
+- **THE WORST CASE IS EXPLICIT AND SHOULD NOT SURPRISE A LATER RUN:** if Aaron drops Atlanta and
+  Smile Politely stays unreachable, **Friday sits at ONE and the empty-pipeline floor applies.**
+  **Do NOT pad it. Do NOT promote Silicon Valley, Fresno or OKC to fill — all three are
+  single-sourced and two are closed out.**
+- **THIN-EDITION WATCH IS LIVE AND WAS DELIBERATELY NOT PRE-REPORTED.** Oct 9 ran short at two:
+  that is ONE. **If Friday also runs short, that is the SECOND in a rolling two weeks and it MUST
+  be reported to Aaron as a cadence bullet in the edition itself.** Instruction 12 from Oct 11 bars
+  pre-reporting it, and that was obeyed.
+- **THE METHOD NOTE, UPDATED BY THIS RUN.** Oct 11 said the equivalent of the review feeds, for an
+  occasion-led Friday, is events and city calendars rather than release feeds. **That was tried and
+  it half-worked.** The festival rail produced **one verified item and three rejections, every
+  rejection for the SAME reason: the organiser and the ticketing page are one source.**
+  **THE THING THAT ACTUALLY CLEARED ATLANTA WAS THE VENUE'S OWN CALENDAR.** Pullman Yards lists the
+  festival independently of organiser Atlanta Magazine. **This is the third time a non-press body —
+  Visit Music City, then the city, now the venue — has been the body that cleared a local event.**
+  **NEXT RUN: for any festival on the bench, go to the VENUE's own site before searching for press.**
+- **SUB-$30 GAP: TEN RUNS OPEN. UNCHANGED AND STILL AARON'S.** `wanderfolk-tallbird-2026` at $25
+  remains the only answer and its second source is still Tier 3 with a disclosed brand-provided
+  sample. **Raised Oct 11, NOT answered. Per instruction 2 it was neither promoted nor dropped.**
+  **Friday makes this no better: Booker's is $130 and the festivals are $69–$125 at the door.**
+- **SOCIAL DRINKER IS THE THIN PERSONA ON FRIDAY, NOT VENUE REGULAR.** Both festivals are Venue
+  Regular; Booker's is Explorer/Collector. **Atlanta's 15+ restaurants, mocktails and cigar rolling
+  serve the food and Cigar-Whiskey floors off a page already linked — the Oct 9 Washback precedent —
+  but no item on this board speaks plainly to an approachable weekend pour.** **If a third item is
+  found, prefer one that does.**
+
+**OCT 11 STATUS — superseded by the block above; retained for its reasoning.**
 
 **OCT 11 STATUS — READ THIS FIRST. IT SUPERSEDES EVERY BLOCK BELOW, INCLUDING THE OCT 9 BLOCK.**
 - **TUE OCT 13 IS NO LONGER A SUPPLY GAP. It holds FOUR VERIFIED items against a floor of four.**
@@ -8994,15 +8966,53 @@ Story keys are lowercase-hyphenated `brand-product-year`. Prune at 30 days.
 **Added Oct 11 (STAGED/BENCHED — closed to re-scouting, NOT published):**
 **`little-book-infinite-edition-iii-2026`** — **NEW KEY, VERIFIED, STAGED Tue Oct 13.** WA Sep 29 +
 Breaking Bourbon Oct 9, two independent Tier 2 originals. **Full ledger on the Oct 13 board.**
-**`bookers-the-reserves-rye-2026`** — **NEW KEY, BENCHED, NOT STAGED.** $130, **62.55% ABV**, a
+**`bookers-the-reserves-rye-2026`** — **PROMOTED Oct 12: BENCHED → VERIFIED AND STAGED FRI OCT 16.**
+**The bench condition was discharged by the calendar (Little Book runs Tue Oct 13) and a second
+independent Tier 2 original was found: Breaking Bourbon `/review/`, Eric Hasman, 2026-09-30.**
+**Full ledger on the FRIDAY Oct 16 board, including the bourbon-vs-rye category trap and the
+retailer proof noise that must not cross.** Original Oct 11 entry retained below for its reasoning:
+$130, **62.55% ABV**, a
 **6-year-old rye finished in apple brandy casks infused with cinnamon sticks**, limited nationwide;
 WA Sep 29 (Julia Higgins) carries the original reporting, incl. that Booker's one notable rye was
 filled 2003 and named WA's 2016 American Whiskey of the Year. **BENCHED ON BRAND COLLISION: it is
 the SAME Beam announcement and the SAME WA article as Little Book Edition III. Earliest usable slot
 is Fri Oct 16, and only if Little Book has already run.**
-**`silverthorn-reserve-10yr-blenders-art-2026`** — **NEW KEY, UNASSESSED.** Surfaced in Breaking
-Bourbon's review index Oct 11; **not fetched, no claims held, zero prior hits in this file.**
-**Cheap first look for Mon Oct 12 if the board needs a fifth.**
+**`silverthorn-reserve-10yr-blenders-art-2026`** — **ASSESSED Oct 12 IN ONE FETCH. BENCHED, NOT STAGED.**
+Breaking Bourbon `/review/silverthorn-reserve-10-year-blenders-art-bourbon-blend-batch-1`, **Nick
+Beiter, 2026-10-09**, fetched HTTP 200. **Supports: $100 / 750mL · 115 proof · blend of bourbons aged
+10–14 years · sourced from undisclosed distilleries in Georgia, Kentucky and Indiana · three
+components (10% / 14yr / GA, 68% / 10yr / KY, 22% / 10yr / IN) with full mashbills · bottle 1,402 of
+1,600 · release October 2026 · sample disclosed as provided at no cost.** **Beiter's own sensory is
+printable: nose roasted coffee bean, cinnamon, caramel, green grape, vanilla extract; palate stone
+fruits, citrus zest, brown sugar, toasted seasoned oak, toffee, hint of raisin; finish baking spices,
+stone fruits, light leather, wood spice. Rated 3.5, "form a well-balanced bourbon."**
+**THE RUMOURED SOURCES — Barton 1792, MGP and a Georgia ghost distillery — ARE LABELLED RUMOUR ON
+THE PAGE. NEVER PRINT THEM AS FACT.**
+**NOT STAGED, AND THE REASON IS NOT QUALITY: at $100 it does nothing for the sub-$30 gap, and Tue
+Oct 13 is already at floor. Instruction 1 said do not hunt; this was the one authorised fetch.**
+**BEFORE IT CAN RUN IT NEEDS A SECOND SOURCE. The only candidate is Drinkhacker (2026-06-20), which
+is NOT on the inlined Tier 2 list — Tier 3 second-mention at best, never the link-out. It was NOT
+fetched this run. NOTE THE DATE ODDITY: a June review against an October release date. Resolve
+before staging.**
+
+**Added Oct 12 (STAGED/BENCHED — closed to re-scouting, NOT published):**
+**`atlanta-magazine-whiskey-festival-2026`** — **NEW KEY, VERIFIED BUT FLAGGED, STAGED Fri Oct 16.**
+Sat Oct 17, Pullman Yards, Atlanta. **Official listing + Pullman Yards' own venue calendar = two
+parties.** **BOTH TICKET TIERS SOLD OUT ($125 VIP / $75 GA), waitlist only — Aaron's call, open.**
+**No age policy on any page; never print 21+.** **Full ledger on the FRIDAY Oct 16 board.**
+**`champaign-whiskey-fest-2026`** — **NEW KEY, PENDING, STAGED Fri Oct 16.** Oct 16–17, downtown
+Champaign IL. **Official site fetched clean; the Tier 3 second source (Smile Politely) 403s to BOTH
+fetchers.** **Gala venue contradicts itself on the official site — never print one.** **Recheck Wed Oct 14.**
+**`lucky-d-bourbon-rtd-2026`** — **NEW KEY, REJECTED Oct 12. PRESS-RELEASE-ONLY.** WA Oct 9 is the
+only vetted carrier; PR.com is the release and the Bourbon Women piece reads promotional.
+**Right shape for Last Call, wrong sourcing. Do not re-walk without a genuine second original.**
+**`two-stacks-irish-cream-can-2026`** — **NEW KEY, REJECTED Oct 12.** $7 / 100ml / 17.5% ABV,
+nationwide. **Only pickups are The Bourbon Flight and The Whiskey Wash, BOTH TIER 4 DO-NOT-LINK.**
+Also a cream liqueur. **Closed on sourcing, not on relevance — Lesson 75 applies if a vetted outlet
+reviews it unbidden.**
+**`silicon-valley-whiskey-festival-2026`** — **NEW KEY, NOT VERIFIED.** Oct 24, Palo Alto Elks Lodge
+#1471. **Eventbrite and `svfws.com` are the SAME organiser — one source, the Nashville/Fresno trap.**
+**Stays on the bench. Try the VENUE (the Elks Lodge) before searching press again.**
 
 **`wanderfolk-tallbird-2026` — UPDATED Oct 11, AND THIS IS THE ONE AARON MUST RULE ON.**
 **A second source now exists and it is TIER 3:** `reviews.whiskeyfellow.net/2026/10/tallbird-american-whiskey-bourbon-review.html`,
@@ -9945,93 +9955,125 @@ and the fifth coconut item) · `discus-congressional-fly-in-2026`.
 
 ---
 
-## NEXT RUN (Mon Oct 12 — PREP. Then Tue Oct 13 SHORTLIST, Fri Oct 16 LAST CALL.)
+## NEXT RUN (Tue Oct 13 — THE SHORTLIST, AN EDITION DAY. Then Wed Oct 14 PREP, Thu Oct 15 PREP, Fri Oct 16 LAST CALL.)
 
-**THIS IS A PREP DAY — internal register, glyph `:mag:`, NO UTMs, NO consumer voice, NO send-off.**
-Load `whiskey-social-news-roundup` (present). **`whiskey-social-brand` is STILL ABSENT — it stays
-compressed as `_unchanged:_` and never gets a fresh bullet.**
+**TOMORROW IS AN EDITION, NOT A PREP RUN. Glyph `:tumbler_glass:`, full consumer voice, UTMs on every
+link, reader copy above the rule.** Load `whiskey-social-news-roundup` (present).
+**`whiskey-social-brand` is STILL ABSENT — it stays compressed as `_unchanged:_` and never gets a
+fresh bullet.** **Voice discipline therefore falls entirely on the inlined rules. Sentences 3–15
+words, reader is the subject, define every insider term on first use, banned words, no exclamation
+points, DISCUS 73.8.**
 
-0a. **CADENCE: Oct 11 should be the newest post and Oct 12 is the next scheduled day. A normal
+0a. **CADENCE: Oct 12 should be the newest post and Oct 13 is the next scheduled day. A normal
    consecutive pair — nothing to report.** The Oct 4/5 miss is SPENT. **Raise cadence only on a NEW miss.**
-0b. **CHANNEL READ — `detailed` has overflowed four runs straight (82,738 chars on Oct 11).**
-   **BOTH `=== Message from ` AND `Message from ` RETURNED ZERO on Oct 11 after returning 30 on Oct 9.
-   THE FORM IS UNRELIABLE. Use the author-marker regex split instead — `^(?=[A-Za-z].{0,60}? <[^>]+>: )`
-   on the JSON `messages` string worked cleanly and is form-independent.** **Never match an author name
-   with `[A-Z][a-z]+ [A-Z][a-z]+` — `McElroy` has an internal capital.** **Authorship cannot distinguish
-   a human from us; every post shows as Aaron. Use the MASTHEAD-GLYPH TEST, and reconcile:
-   `:wrench:` should equal the post count, and `:mag:` + `:tumbler_glass:` should equal it too.**
-   Oct 11: 30 = 30 = 18 + 12, exact. **No `Thread:` markers at all this run.**
-1. **TUESDAY IS AT FLOOR. THE JOB HAS CHANGED FROM FILLING TO PROTECTING.** Four verified:
-   `milam-greene-unabridged-volume-5-2026` · `russells-reserve-single-rickhouse-camp-nelson-d-2026` ·
-   `little-book-infinite-edition-iii-2026` · `joseph-magnus-10yr-cask-strength-rye-2026`.
-   **DO NOT GO HUNTING. The board does not need a fifth item to be valid.**
-2. **THE ONE OPEN QUESTION IS AARON'S AND IT IS ABOUT PRICE, NOT SUPPLY.** Every verified item is
-   **$75 or more** ($75 / $95 / $200 / $300). **The sub-$30 gap is NINE runs open.** `wanderfolk-tallbird-2026`
-   at **$25** is the only answer and rests on a **Tier 3 blog with a disclosed brand-provided sample**.
-   **Raised Oct 11. If he has not replied by Tue morning, the board runs at four as verified and the
-   gap stays open — do NOT promote Wanderfolk unilaterally, and do NOT drop it either.**
-3. **IF A CHEAP FIFTH IS WANTED, THERE IS EXACTLY ONE AND IT IS NOT A HUNT:**
-   `silverthorn-reserve-10yr-blenders-art-2026`, sitting unassessed in Breaking Bourbon's review index.
-   **One fetch settles it. Zero prior hits in this file.** Nothing else is owed.
-4. **DO NOT RUN `bookers-the-reserves-rye-2026` ON TUESDAY.** Same Beam announcement and same WA
-   article as Little Book Edition III. **It is benched for Fri Oct 16 at the earliest.**
-5. **FRIDAY OCT 16 IS EMPTY AND IS NOW THE FILE'S BIGGEST GAP.** Zero staged. Last Call wants 3-4,
-   occasion-led, Social Drinker / Venue Regular. **Oct 9 already ran short at two — see item 12.**
-   **Monday's real work is FRIDAY, not Tuesday.** Start from events, venues and calendar items, not releases.
-6. **LESSON 75 IS LIVE AND IT CHANGES HOW `DROPPED` IS READ.** A closure grounded only in absence of
-   pickup is void once a vetted outlet publishes unbidden. **It does NOT license re-searching dropped
-   items.** **Candidates in `DROPPED` closed on distribution, price, relevance or brand safety stay closed.**
-7. **PRUNE: RAN Oct 11** (`TUESDAY Sep 1 — WHAT SHIPPED`, 161 lines, 40 days). **Next eligible:
-   `FRIDAY Sep 4 — WHAT SHIPPED` at 38 days on Oct 12 — already past the ~23-day threshold.**
-   **RUN ALL FOUR ARMS. APPLY LESSON 73's COUNT CHECK, and apply the NEW Oct 11 refinement: COUNT
-   AGAINST THE DEDUP BLOCK, NOT THE STAGING RECORD — the Sep 1 staging record held only three of four
-   URLs and would have produced a false alarm.** **One section per run, never blind.**
-   **DO NOT prune `FRIDAY Aug 21 — STAGING RECORD` or `TUESDAY Aug 25 — ...(staging record)`.**
-8. **ARM ZERO, NON-OPTIONAL — Lesson 66. PASTE THE DOMAIN AND READ IT AGAINST THE TIER DIRECTORY
+0b. **CHANNEL READ — USE THE OCT 12 METHOD, IT IS CHEAPER AND IT DID NOT OVERFLOW.** Call
+   `slack_read_channel` with `response_format: concise`, `oldest` = the epoch 14 days back,
+   `latest` = today 00:00 PT, and `limit: 14`. **That returned 9 posts cleanly and never hit the
+   82k–113k char overflow that forced the saved-file split on Oct 7–11.** **Do not pull 100 by default.**
+   **Authorship cannot distinguish a human from us; every post shows as Aaron. Use the MASTHEAD-GLYPH
+   TEST and reconcile: `:wrench:` should equal the post count, and `:mag:` + `:tumbler_glass:` should
+   equal it too.** Oct 12: 9 = 9 = 5 + 4, exact.
+1. **ASSEMBLE THE SHORTLIST FROM THE FOUR VERIFIED ITEMS ON THE TUESDAY Oct 13 BOARD. DO NOT HUNT
+   FOR A FIFTH.** `milam-greene-unabridged-volume-5-2026` · `russells-reserve-single-rickhouse-camp-nelson-d-2026`
+   · `little-book-infinite-edition-iii-2026` · `joseph-magnus-10yr-cask-strength-rye-2026`.
+   **Four clears a Shortlist (4–6). The board is at floor and has been since Oct 11.**
+2. **RUN THE EDITION-MORNING RE-FETCH ON ALL FOUR LINK-OUTS AND RE-GREP EVERY PRINTED CLAIM AGAINST
+   THIS RUN'S OWN FETCH. This is not optional and it has killed a claim on four separate editions.**
+   **`whiskyadvocate.com` 503s to WebFetch EVERY time and returns 200 to curl with a browser UA EVERY
+   time — go straight to curl. `breakingbourbon.com/review/...` fetches clean.**
+   **Watch for case artefacts before declaring a claim dead — Lesson 69.**
+3. **THE THREE PRINT TRAPS ON THIS BOARD, ALL RECORDED, ALL EASY TO TRIP:**
+   **(a) Russell's — WA writes "the Single Rickhouse collection." `collection` IS BANNED. Write
+   "series," which WA itself uses in the same paragraph. And do NOT say "on sale Oct 6" — that is the
+   announcement dateline, and no on-sale date exists on either source.**
+   **(b) Little Book — the blurb must be written to BREAKING BOURBON's claims only, because that is
+   the link. WA's "the oldest component ever included" is NOT on the Breaking Bourbon page. Lesson 61.**
+   **(c) Joseph Magnus — if it links Breaking Bourbon, then "Nationwide," Will Fabry, Nancy Fraley and
+   the "a natural progression" quote are WA-ONLY and MAY NOT BE PRINTED. The CraftCo / Holland
+   Michigan detail is on NO vetted page and its ban STANDS.**
+4. **THE SUB-$30 QUESTION IS AARON'S AND HE HAS NOT ANSWERED IT IN TWO RUNS.** Every verified item is
+   $75+ ($75 / $95 / $200 / $300); the gap is now TEN runs open. `wanderfolk-tallbird-2026` at **$25**
+   is the only answer and rests on a **Tier 3 blog with a disclosed brand-provided sample**.
+   **If he has not replied by edition time, SHIP AT FOUR AS VERIFIED and leave the gap open.
+   Do NOT promote Wanderfolk unilaterally, and do NOT drop it.** A Shortlist runs 4–6, so it could be
+   added as a fifth without displacing anything **if and only if he says so.**
+5. **SENSORY IS PRINTABLE ON THREE OF THE FOUR AND MUST BE ATTRIBUTED.** Evans (Milam & Greene),
+   Beiter (Little Book), Moskal (Joseph Magnus) and Eddie Russell (Russell's, inside the WA page) are
+   all named on their own linked pages. **Attribute every sensory phrase to the named person or the
+   outlet. Never generate one from category, mashbill or price.**
+6. **AT MOST ONE QUOTE, UNDER 20 WORDS, NAMED SPEAKER, FROM THE LINKED PAGE. The last three editions
+   ran with NO quote and all three were correct — Lesson 74. A quote-less edition is publishable.**
+7. **FRIDAY IS THE REAL WORK AND IT IS NOT DONE.** Fri Oct 16 holds **one clean item, one sold-out
+   item awaiting Aaron, and one pending on an unreachable page.** Floor is three.
+   **If Tuesday's assembly finishes early, spend the remaining effort on Friday, not on a fifth
+   Tuesday item.** **Full position on the FRIDAY Oct 16 board.**
+8. **THE ATLANTA CALL IS THE ONE THING A HUMAN MUST ANSWER THIS WEEK.** Verified on two parties,
+   **both ticket tiers SOLD OUT, waitlist only.** **Raised Oct 12. If he says nothing by Thursday,
+   DO NOT resolve it silently — carry it into Thursday's brief as a live question, and treat Friday
+   as a two-item board when planning.**
+9. **FOR CHAMPAIGN, RETRY `smilepolitely.com` WEDNESDAY.** 403 to WebFetch AND to curl with a browser
+   UA on Oct 12. **Lesson 68: a bot wall is a weather report, not a property of the page — it came
+   down for whiskyadvocate.com and for the Nashville festival site on later runs.** **If it is still
+   dead, look for ANY other reachable independent pickup. If none, the item does not run.**
+10. **FOR ANY FESTIVAL ON THE BENCH, GO TO THE VENUE'S OWN SITE FIRST.** This is the Oct 12 finding
+   and it is now three precedents deep: Visit Music City cleared Nashville, the city cleared a local
+   event under Lesson 68, and **Pullman Yards' own calendar cleared Atlanta.** **Eventbrite, the
+   organiser's site and the ticketing page are ALWAYS one source together.** Remaining bench:
+   **Charlotte Whiskey, Wine & Fire (Oct 24 — NEW, check for volume framing before staging)** ·
+   **Spokane (Oct 23) and Tri-Cities (Oct 24) — NEW** · **Fredericksburg VA (Oct 31)** ·
+   **Silicon Valley (Oct 24 — try the Elks Lodge itself).** **Fresno and OKC are CLOSED. Do not re-walk.**
+11. **PRUNE: RAN Oct 12** (`FRIDAY Sep 4 — WHAT SHIPPED`, 195 lines, 38 days, all four arms).
+   **NOT DUE on Oct 13 and DO NOT GO LOOKING.** Next candidate when it is due: **`THURSDAY Sep 3 — PREP RUN`.**
+   **DO NOT prune `FRIDAY Aug 21 — STAGING RECORD`, `TUESDAY Aug 25 — ...(staging record)`, or
+   `FRIDAY Sep 4 — FOUR STAGED` — the last is now the only Sep 4 record.**
+   **Never prune DEDUP, OPEN GAPS, COLLISION FLAGS, the boards or the LESSONS blocks.**
+12. **ARM ZERO, NON-OPTIONAL — Lesson 66. PASTE THE DOMAIN AND READ IT AGAINST THE TIER DIRECTORY
    BEFORE ANY CLAIM CHECK. Tier first, claims second.**
    **TIER 4, DO NOT LINK: The Whiskey Wash, Whiskey Raiders, The Whisky Exchange, Forbes contributor
    columns, The Bourbon Flight, The Whiskey Reviewer, WikiliQ, Boozemakers, Bourbon Inspector,
-   `nashvilleguru.com`, `marklittler.com`.** **All of The Whiskey Wash, The Bourbon Flight and
-   Whiskey Reviewer surfaced AGAIN on Oct 11 across the Wanderfolk, Russell's and Starlight searches
-   and were discarded on sight.**
+   `nashvilleguru.com`, `marklittler.com`.** **The Bourbon Flight and The Whiskey Wash BOTH surfaced
+   again Oct 12 as the only carriers of Two Stacks and were discarded on sight.**
    **CONFLICT-FLAGGED, CORROBORATION ONLY, NEVER A LINK-OUT: `resident.com`.**
    **`robbreport.com` remains UNFETCHABLE behind a tollbit redirect.**
    **PRESS-RELEASE REPRINT HOSTS — BevNet, Wine Industry Advisor, nombase, lelezard, PRNewswire,
    morningstar, celebrator, mensgear, craftspiritsmag, Breaking Bourbon's
-   `/bourbon-whiskey-press-releases/` section, Bourbon Lens, AND FRED MINNICK (Lesson 72) — ARE ONE
-   SOURCE WITH EACH OTHER AND WITH THE BRAND. Never count two as two.**
-   **NEW Oct 11 — TIER 3, SECOND-MENTION ONLY, NEVER A LINK-OUT OUTSIDE A LOCAL/VENUE STORY:**
-   `reviews.whiskeyfellow.net` (discloses brand-provided samples) · `rarebird101.com` (independent
-   tasting, no sample disclosure, but carries Ko-fi/Patreon/ad monetisation on the page).
+   `/bourbon-whiskey-press-releases/` section, Bourbon Lens, PR.com, AND FRED MINNICK (Lesson 72) —
+   ARE ONE SOURCE WITH EACH OTHER AND WITH THE BRAND. Never count two as two.**
+   **TIER 3, SECOND-MENTION ONLY, NEVER A LINK-OUT OUTSIDE A LOCAL/VENUE STORY:**
+   `reviews.whiskeyfellow.net` · `rarebird101.com` · **`drinkhacker.com` (NEW Oct 12 — not on the
+   inlined Tier 2 list; it is an established enthusiast review site, so Tier 3, second mention only)**
+   · **`smilepolitely.com` (NEW Oct 12 — regional culture magazine; Tier 3, and the protocol DOES
+   allow a Tier 3 link-out on a genuinely local/venue story).**
+   **NEW Oct 12 — PROMOTIONAL PLACEMENT DRESSED AS LOCAL NEWS: `atlantanewsfirst.com`'s "ATL Live"
+   segments carry ticket promo codes and the page itself says they "may be sponsored." NOT
+   independent editorial. A TV station's call letters do not make a segment reporting.**
    **BREAKING BOURBON IS TIER 2 IN ITS `/review/` SECTION AND A REPRINT HOST IN ITS
    `/bourbon-whiskey-press-releases/` SECTION. The SECTION decides, not the domain — Lesson 72.**
-9. **A SEARCH SUMMARY IS NOT A SOURCE. FETCH THE PAGE AND READ THE DATE ON IT.** **Oct 11 proved it
-   again in the useful direction: a search summary claimed "no professional score" for Wanderfolk and
-   "no independent review" for Starlight; the first was wrong and the second was right, and only
-   fetching told them apart.**
-10. **IF A PAGE 503s OR 403s, TRY curl WITH A BROWSER UA BEFORE CALLING IT DEAD — Lesson 57/68.**
-   **`whiskyadvocate.com` 503s to WebFetch on EVERY request and returns 200 to curl with a browser UA
-   EVERY time. Four for four on Oct 11. Stop trying WebFetch on that host; go straight to curl.**
-   **ALSO NEW: `breakingbourbon.com/review` is a 404 — the index is `/bourbon-rye-whiskey-reviews`,
-   and the useful one is `/bourbon-rye-whiskey-reviews-sort-by-review-date`.**
-11. **URGENT SWEEP, every run. Precedent now TWENTY-THREE times applied.** **Do NOT re-walk as fresh:**
-   the Wes Henderson / TKC matter — **Oct 11 development: the TKC board removed him as CEO effective
-   immediately (The Spirits Business); his attorney denies the allegations and expects voluntary
-   dismissal. ASSESSED IDENTICALLY: not a WS partner brand or venue, allegation stage, no criminal
-   charges. NO OVERRIDE, and deliberately NOT attached to the Angel's Envy call** · the Aug 2025 Crown
-   Royal recall · the G J Wholesale recall (2018) · the Bardstown employment suits · Washtucky v
-   Wilderness Trail · SWA v Virginia Distillery · Barton 1792 warehouse collapse · the illegal-distiller
-   death case · the undated bourbon-theft indictment · **A.M. Scott Distillery bankruptcy (~9 months,
-   robbreport, unfetchable)** · **Uncle Nearest receivership (older)**. **DATED BEFORE WEIGHED, Lesson 35.**
-12. **THIN-EDITION WATCH, LIVE.** **Oct 9 ran short at two. That is ONE.** Threshold is **2+ thin or
-   skipped editions in a rolling two weeks.** **Tuesday is now at floor so it should not be the second
-   — but FRIDAY OCT 16 IS EMPTY, and if Friday runs short THAT IS THE SECOND AND IT MUST BE REPORTED
-   TO AARON AS A CADENCE BULLET.** **Do NOT pre-report it. Do NOT pad Friday to dodge it.**
-13. **ANGEL'S ENVY — STILL AARON'S CALL, STILL UNANSWERED.** Release date Oct 9 has passed; it would
+13. **A SEARCH SUMMARY IS NOT A SOURCE. FETCH THE PAGE AND READ THE DATE ON IT.** **Oct 12 proved it
+   twice in the costly direction: a summary gave Atlanta's ticket prices with no hint both tiers were
+   SOLD OUT, and a summary supplied Champaign's "40+ distilleries / 150+ whiskeys" from a page that
+   403s and whose official site states no vendor count at all. Neither is printable.**
+14. **URGENT SWEEP, every run. Precedent now TWENTY-FOUR times applied.** **Do NOT re-walk as fresh:**
+   the Wes Henderson / TKC matter — **Oct 12 brought wider national pickup (Fox News, Just Drinks, Qz,
+   Yahoo) of the Oct 3 termination and the sealed June Oldham County suit. ASSESSED IDENTICALLY FOR
+   THE FOURTH TIME: not a WS partner brand or venue, allegation stage, no criminal charges. NO
+   OVERRIDE, and NOT attached to the Angel's Envy call** · the Aug 2025 Crown Royal recall · the
+   G J Wholesale recall (2018) · the Bardstown employment suits · Washtucky v Wilderness Trail ·
+   SWA v Virginia Distillery · Barton 1792 warehouse collapse · the illegal-distiller death case ·
+   the undated bourbon-theft indictment · **A.M. Scott Distillery bankruptcy** · **Uncle Nearest
+   receivership and the reported federal investigation (~136 days)** · **Silver Trail explosion (2015)**.
+   **DATED BEFORE WEIGHED, Lesson 35.**
+15. **THIN-EDITION WATCH, LIVE.** **Oct 9 ran short at two. That is ONE.** Threshold is **2+ thin or
+   skipped editions in a rolling two weeks.** **Tuesday is at floor so it should not be the second —
+   but FRIDAY IS ONE SHORT, and if Friday runs short THAT IS THE SECOND AND IT MUST BE REPORTED TO
+   AARON AS A CADENCE BULLET IN THE EDITION.** **Do NOT pre-report it. Do NOT pad Friday to dodge it.**
+16. **ANGEL'S ENVY — STILL AARON'S CALL, STILL UNANSWERED.** Release date Oct 9 has passed; it would
    now be written as a release that HAS happened. **Stays in the `_unchanged:_` compression. Do NOT
    re-raise as a fresh bullet.** **Banned words sit in its own product name — `cellar` AND `collection`.**
-14. **IF THE PREP RUN FINDS NOTHING NEW:** post the one-line pipeline-unchanged form, or nothing at
-   all if there is no gap update and no urgent news. **Never pad a brief.**
+17. **LESSON 75 IS LIVE.** A closure grounded only in absence of pickup is void once a vetted outlet
+   publishes unbidden. **It does NOT license re-searching dropped items.** **Candidates in `DROPPED`
+   closed on distribution, price, relevance or brand safety stay closed.** **It now covers
+   `two-stacks-irish-cream-can-2026` and `lucky-d-bourbon-rtd-2026`, both closed on SOURCING.**
 
 ---
 
