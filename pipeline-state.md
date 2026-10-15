@@ -3,6 +3,144 @@
 Durable memory for the Whiskey Social whiskey-news pipeline. Authoritative over Slack
 thread copies. Human feedback in #whiskey-news overrides this file.
 
+**Last run:** 2026-10-15 (Thu), **PREP — TUESDAY GAINED ITS FIRST VERIFIED ITEM, THE SPIRITS BUSINESS
+PAGE THE FILE HAD BEEN HUNTING FOR SINCE AUGUST WAS FOUND AND IMMEDIATELY DISQUALIFIED, AND THE
+SEP 15 DEDUP PRUNE WAS HELD BACK FOR A SPECIFIC NAMED REASON RATHER THAN SKIPPED.**
+**Seven things happened:** (1) **`silverthorn-reserve-10yr-blenders-art-2026` IS VERIFIED AND STAGED
+TUE OCT 20 — BENCHED SINCE OCT 12, CLEARED TODAY.** **THE DATE ODDITY IS RESOLVED AND IT WAS NEVER A
+CONFLICT.** Drinkhacker (Jacob Kiper, 2026-06-20) gives a DUMP date of **April 29 2026** and a
+BOTTLING date of **May 13 2026**; Breaking Bourbon (Nick Beiter, Oct 9) gives a RELEASE date of
+**October 2026**. **A bottling date and a release date are different facts about the same batch.
+Both pages say Batch 1, both say $100, both say 115 proof. The two-source bar is met by two
+INDEPENDENT OWN-SAMPLE REVIEWS, neither a reprint of the other and neither a press release.**
+**LINK-OUT IS BREAKING BOURBON (Tier 2). DRINKHACKER IS TIER 3 — CORROBORATION ONLY, NEVER THE
+LINK-OUT.**
+(2) **ONE SILVERTHORN CLAIM IS STILL SINGLE-SOURCED AND MUST NOT BE PRINTED WITHOUT A SECOND PAGE:
+the 1,600-bottle count is BREAKING BOURBON ONLY.** Drinkhacker instead says **"Batch 1 is composed of
+eight barrels"** and carries no bottle count. **The two reconcile at ~200 bottles per barrel, which is
+high but not impossible for a 10–14yr dump at 115 proof — SO THEY ARE NOT IN CONFLICT, BUT THE
+RECONCILIATION IS OURS, NOT A SOURCE'S. DO NOT PRINT 1,600 AND DO NOT PRINT "EIGHT BARRELS" AS THOUGH
+BB SAID IT.** Facts safe to print off BB: 10–14yr blend, Georgia/Kentucky/Indiana, 115 proof, $100,
+Batch 1, October release.
+(3) **PRODUCT COLLISION INSIDE SILVERTHORN, AND IT IS LIVE.** Breaking Bourbon carries a SECOND,
+SEPARATE review — **Blender's Art RYE Blend Batch 1, dated Oct 12**
+(`/review/silverthorn-reserve-10-year-blenders-art-rye-blend-batch-1`) — distinct from the BOURBON
+blend staged here. **DIFFERENT PRODUCT, DIFFERENT PAGE, NOT A DEDUP COLLISION. DO NOT STAGE BOTH AND
+DO NOT LET THE RYE'S FACTS CROSS INTO THE BOURBON'S BLURB.** Drinkhacker's June piece also reviews a
+**Single Barrel Rye 13 Years Old** alongside the bourbon — a THIRD product. **Three Silverthorn
+products are now in play; only the bourbon blend is staged.**
+(4) **THE RUN'S REAL FINDING — THE SPIRITS BUSINESS HYPERION PIECE EXISTS, AND FINDING IT KILLED IT.**
+The Oct 14 run ran two searches, could not reproduce it, and correctly refused to count the file's
+assertion. **IT IS REAL: `thespiritsbusiness.com/2026/08/redwood-empire-unveils-the-hyperion-limited-edition-blend/`,
+JOE ROGERS, 25 AUGUST 2026.** **THE Oct 14 BOARD SAID THIS PAGE "WOULD CLEAR IT" IF IT EXISTED. IT
+EXISTS AND IT DOES NOT CLEAR IT.** **LESSON 72 APPLIED AS WRITTEN — THE PAGE WAS TESTED, NOT THE
+PUBLISHER.** It is the press release: structure is a launch announcement, quotes from Duckhorn and
+Patz are framed only as "said"/"added" with no interview stated, **the sensory is expressly
+"described by its producer"**, and the only sourcing beyond the brand is links to TSB's own earlier
+Redwood Empire coverage. **No independent verification, no competitor comment, no editorial
+judgement. IT CARRIES NOTHING THE RELEASE DOES NOT. IT COUNTS AS THE SAME DOCUMENT AS BevNet AND
+nombase AND IS NOT A SECOND SOURCE.** **A CLEARING CONDITION A BOARD WRITES IN ADVANCE IS A GUESS
+ABOUT A PAGE NOBODY HAS READ. SEE LESSON 78.**
+(5) **TWO HYPERION SIDE-FINDINGS, BOTH PRINT TRAPS.** **(a) THE 12,000-BOTTLE COUNT FAILED ITS SECOND
+PAGE. TSB STATES NO BATCH SIZE AT ALL.** The Oct 14 ruling stands and is now TESTED rather than
+assumed: **DO NOT PRINT A BOTTLE COUNT.** The "roughly 79 barrels" figure remains retailer-only and
+unprintable. **(b) A CITY CONFLICT IS NOW ON THE RECORD: TSB says the single malt comes from Redwood
+Empire's SONOMA COUNTY distillery; Breaking Bourbon says Redwood Empire Distilling, VALLEJO.** Both
+may be true across time — TSB's own links reference the 2025 Savage & Cooke acquisition, and Savage &
+Cooke is Mare Island, Vallejo. **UNRESOLVED. DO NOT PRINT A CITY FOR THIS BOTTLE.**
+(6) **HYPERION'S DISPOSITION WAS DECIDED HERE, NOT PUSHED TO AARON, AND THE PRECEDENT IS EXPLICIT.**
+**It ships Tue Oct 20 SINGLE-SOURCED AND FLAGGED on Breaking Bourbon unless Aaron says hold.**
+Precedent is three editions deep and was named in the post: **Glenlivet Sep 29, the WA bottom-shelf
+column Oct 2, Macallan Oct 13 — all shipped single-sourced with a Notes flag.** **THIS IS NOT A NEW
+PERMISSION AND WAS NOT TREATED AS ONE; manufacturing a question the file's own precedent already
+answers is its own failure.** **The remaining named test — the Lesson 72 line-by-line on Fred
+Minnick's Aug 24 page — COULD NOT BE RUN: the search would not surface an FM Hyperion page at all.
+NOT TESTED, NOT COUNTED, NOT CLAIMED AS TESTED.**
+(7) **`old-forester-tribute-series-2026` — NEW KEY, STAGED TUE OCT 20, PENDING A PICKUP.** Announced
+**this morning, Oct 15 09:00 ET**, by press release (PRNewswire, Tier 1 company release). **PRINTABLE
+OFF THE RELEASE:** 12 years old · 115 proof · **$299.99 MSRP** · "limited quantities" at select
+retailers nationwide from Oct 15 · **Caleb Trigo, Assistant Master Distiller**, is the named
+spokesperson · first in an ANNUAL age-stated series whose future releases are specified at 110–125
+proof. **NOT PRINTABLE:** **the sensory (caramel, sweet leather, golden raisins, dark cherries,
+candied walnuts, cinnamon, cardamom, toasted oak, peppercorn, cherry preserves, black tea) IS THE
+BRAND'S OWN UNATTRIBUTED COPY — THE WANDERFOLK RULE APPLIES, IT IS BANNED FROM PRINT** · **the bottle
+size: the release states none. 700ml appears only on retailers and on Forbes. DO NOT PRINT 700ml.**
+**NEEDS A TIER 1–2 INDEPENDENT PICKUP AND HAS NONE.** **Forbes `/sites/david-tao/` IS THE CONTRIBUTOR
+PLATFORM — TIER 4, HARD AVOID, DO NOT CITE AND DO NOT LINK, AND THE $299.99 IS NOT SOURCED TO IT (the
+release carries it).** Yahoo is the release again. Total Wine, Sipwhiskey, BourbonHunt, BuyMyLiquor
+are RETAILERS, not sources. **RECHECK SUNDAY — it is one day old and Tier 2 pickup is the likely path.**
+**TWO NAME TRAPS: the release calls it "ultra-premium" (`premium` BANNED) and describes the bottle as
+honouring a historic holiday decanter `collection` (BANNED, no proper-noun exception). NEITHER WORD
+MAY REACH READER COPY; the brief said "decanter" and "annual age-stated series" instead.**
+**DEDUP MIGRATION — DONE DELIBERATELY AND IT IS THE REASON THE PRUNE WAS HELD.**
+**`old-forester-birthday-bourbon-2026` IS PUBLISHED Sep 15 AND IS A DIFFERENT BOTTLE. NOT A COLLISION.**
+That fact lives in the `PUBLISHED Tue Sep 15` dedup block — **WHICH TURNED 30 DAYS OLD TODAY AND IS
+NOW PRUNE-ELIGIBLE.** **PRUNING IT TODAY WOULD HAVE DELETED THE ONLY RECORD PROTECTING A KEY STAGED
+THE SAME MORNING — THE BULLEIT FAILURE, LESSON 59, EXACTLY.** **THE COLLISION NOTE WAS THEREFORE
+MIGRATED INTO THE TRIBUTE SERIES DEDUP ENTRY FIRST. THE PRUNE IS HELD TO SUN OCT 18, with the full
+four-arm check, and the reason is recorded here rather than left as a silent skip.**
+**URGENT SWEEP — nothing fires, TWENTY-SEVENTH application.** **GREAT JONES DISTILLERY, MANHATTAN,
+HAS CLOSED** — genuinely new (WARN notice, 26 employees, effective Dec 7, economic reasons). **NOT AN
+OVERRIDE: no recall, no safety issue, no litigation naming a WS partner, no death.** **NOT STAGED
+EITHER — a business closure is trade-for-the-trade, the Sep 23 ground, and the same call made on
+GlenWyvis yesterday.** **GlenWyvis UNCHANGED from Oct 14 and NOT RE-DERIVED.** No recalls and no
+deaths anywhere in the window — **the only recall the sweep returned is a Canadian plant-based
+beverage class action, not whiskey.** Wes Henderson / TKC, Bardstown, Garrard County and Uncle
+Nearest all stale and already assessed. **DATED BEFORE WEIGHED, Lesson 35.**
+**FRI OCT 16 WAS NOT TOUCHED AND DID NOT NEED TO BE.** Three verified at floor —
+`bookers-the-reserves-rye-2026` · `champaign-whiskey-fest-2026` ·
+`whisky-advocate-football-whiskeys-2026`. **Atlanta and Penelope remain UPSIDE, not load-bearing, and
+were NOT re-explained — they compressed into the `_unchanged:_` line.** **The edition-morning re-fetch
+is tomorrow's job, not today's.**
+**ASSESSED, NOT STAGED, recorded so they are not re-walked blind:** Breaking Bourbon's four newest
+reviews — **Caleb's Crossing 1776-2026 Kentucky Straight Rye Batch KSR-1 (Oct 14)** · **Curated Barrel
+Project Bourbon Batch 01 "The Control" (Oct 14)** · **Proof & Precedent M11 Rye (Oct 13)** · **Mad
+River Burnt Rock Bourbon (Oct 13)**. **None walked for a second source this run — Tuesday already
+gained three entries and the marginal value was low. They are the first call Sunday.** **MAD RIVER
+NOTE: Burnt Rock is a DIFFERENT product from Double Tapped Maple, which was rejected Oct 14 on the
+forward bar at 1.5. The brand is not closed; that bottle is.**
+**TUE OCT 20 IS COLLECTOR-HEAVY AND HAS NO EXPLORER ITEM.** All three staged entries are Collector
+($100 / $299.99 / $99). **Raised in the Pipeline line, not as a Notes bullet — it is a shape
+observation, not a decision Aaron owes.** **The sub-$30 gap is now 12 runs open and stays compressed;
+it was NOT re-explained.**
+**VOICE/COMPLIANCE on the brief:** `collection` ZERO (the Old Forester decanter wording was rewritten
+specifically to avoid it), `premium` ZERO (TSB's and the release's "ultra-premium" never reached the
+page), `log` ZERO, `hunt` ZERO, `experience` ZERO, `toast` ZERO, exclamations ZERO. **NO SENSORY
+ANYWHERE IN THE BRIEF — not one tasting note was printed for any of the three bottles, which is
+correct for a prep brief and removes the whole sourced-sensory risk surface.** No quote used.
+One link per item, three links, **NO UTMs — correct, this is a prep day.**
+**ASIDE: 41 words of Notes across four bullets (13/11/9/8) and 32 words of Pipeline across three
+lines. 73 words total, under the 120 cap and under every per-bullet cap.**
+**CADENCE: CLEAN. Oct 14 was the newest post and Oct 15 is the very next scheduled day.** The Oct 4/5
+miss stays SPENT and was not re-derived. **THIN-EDITION WATCH: Oct 9 remains the only thin edition.**
+**CHANNEL: NO HUMAN REPLIES, now 23 days.** **THIS RUN PULLED 30 MESSAGES RATHER THAN 14 AND THE
+EXTRA DEPTH PAID: it surfaced the one `Thread:` marker in the channel, on the Oct 7 prep post.**
+**THE THREAD WAS READ AND IT IS NOT A HUMAN — it is this pipeline's own Oct 7 correction of its own
+PIPELINE line (next prep is Thu Oct 8, not Sun Oct 11), posted 06:25:52 PT from the same account.**
+**ALL 30 MESSAGES ARE FROM U0BE10EJB7S, WHICH IS AARON'S ACCOUNT, BECAUSE THIS PIPELINE POSTS AS HIM.
+SENDER IDENTITY THEREFORE PROVES NOTHING ABOUT HUMAN FEEDBACK — ONLY CONTENT DOES. See Lesson 79.**
+**AARON HAS STILL NOT ANSWERED ATLANTA (4th run), WANDERFOLK (5th run) OR PENELOPE (2nd run). None
+was re-explained; all three compressed into one `_unchanged:_` line.**
+**Oct 15 was EMPTY before this run; idempotency not in play; this brief is the day's only post.**
+**Posted 06:19:30 PT. Slack: `https://whiskeysocial.slack.com/archives/C0BKL9FB2CV/p1792070370459669`.**
+**PRUNE: HELD, NOT SKIPPED. Reason recorded above (Sep 15 block protects a key staged today).
+Due Sun Oct 18 with all four arms. File now 11,365 lines before this entry.**
+
+### LESSON 78 — A clearing condition written in advance is a guess about a page nobody has read.
+The Oct 14 board wrote that Hyperion would clear "the TSB piece if it genuinely exists." It existed.
+It cleared nothing, because it was the press release. **A board may name WHERE to look. It may not
+rule in advance on WHAT WILL BE FOUND.** Write clearing conditions as "fetch X and test it against
+the release," never as "X clears it." **The Oct 14 run was right to refuse the unverified assertion
+and still wrote a condition that would have shipped an unsourced item had it been obeyed literally.**
+
+### LESSON 79 — In this channel, sender identity carries no information. Only content does.
+Every message in #whiskey-news posts from U0BE10EJB7S, Aaron's account, because this pipeline posts
+through it. **"Is it from Aaron?" is therefore the WRONG test for human feedback and will return a
+false positive on every single post this pipeline has ever made.** The right test is whether the
+CONTENT is a reply, an instruction or a decision rather than a brief or an edition. **Applied today
+to the Oct 7 thread: it looked like a human reply by sender and was this pipeline's own correction by
+content.** **Read threads before counting them as feedback.**
+
 **Last run:** 2026-10-14 (Wed), **PREP — FRIDAY REACHED FLOOR AND NO LONGER DEPENDS ON AARON; THE
 SECOND SOURCE THAT CLEARED CHAMPAIGN WAS NEVER THE PAGE THE FILE HAD BEEN RE-POLLING; AND THE RUN'S REAL
 FINDING IS THAT THE BEST CANDIDATE OF THE DAY WAS A STORY WE ALREADY PUBLISHED.**
@@ -8769,6 +8907,87 @@ and nothing is lost.** 22 and 23 are captured here early so their source section
 
 ## DEDUP — closed to re-use
 
+**Added Oct 15 (STAGED — closed to re-scouting, NOT published):**
+
+**`silverthorn-reserve-10yr-blenders-art-2026`** — **PROMOTED Oct 15: BENCHED → VERIFIED AND STAGED
+TUE OCT 20.** **The June-vs-October date oddity that blocked it since Oct 12 is RESOLVED AND WAS NEVER
+A CONFLICT: Drinkhacker's dates are the DUMP (Apr 29 2026) and the BOTTLING (May 13 2026); Breaking
+Bourbon's October is the RELEASE.** **Two independent own-sample reviews, neither a reprint, neither a
+press release: Breaking Bourbon `/review/silverthorn-reserve-10-year-blenders-art-bourbon-blend-batch-1`
+(Nick Beiter, Oct 9, Tier 2) + Drinkhacker (Jacob Kiper, Jun 20, Tier 3).**
+**LINK-OUT IS BREAKING BOURBON. DRINKHACKER IS TIER 3 — CORROBORATION ONLY, NEVER THE LINK-OUT.**
+**PRINTABLE OFF BB:** 10–14yr blend · Georgia, Kentucky, Indiana · 115 proof · $100 · Batch 1 ·
+October 2026 release. **NOT PRINTABLE: the 1,600-bottle count is BB-ONLY** (Drinkhacker says "Batch 1
+is composed of eight barrels" and gives no bottle count; the two reconcile at ~200 bottles/barrel but
+**that reconciliation is OURS, not a source's**). **Do not print 1,600. Do not print "eight barrels"
+as though BB said it.**
+**PRODUCT COLLISION, LIVE: Breaking Bourbon also carries a SEPARATE Blender's Art RYE Blend Batch 1
+review (Oct 12), and Drinkhacker's June piece also covers a Single Barrel Rye 13 Years Old. THREE
+Silverthorn products are in play. DIFFERENT PRODUCTS, NOT DEDUP COLLISIONS. ONLY THE BOURBON BLEND IS
+STAGED — do not stage two, and never let one product's facts cross into another's blurb.**
+`whats-dropping` or `try-this-next` / collector.
+
+**`old-forester-tribute-series-2026`** — **NEW KEY, STAGED TUE OCT 20, PENDING A TIER 1–2 PICKUP.**
+Announced **Oct 15 2026, 09:00 ET** by company press release (PRNewswire, Tier 1).
+**PRINTABLE OFF THE RELEASE:** 12 years old · 115 proof · **$299.99 MSRP** · "limited quantities" at
+select retailers nationwide from Oct 15 · **Caleb Trigo, Assistant Master Distiller** (named
+spokesperson) · first in an **annual** age-stated series, future releases specified 110–125 proof.
+**NOT PRINTABLE — TWO HARD BARS:** **(a) THE SENSORY IS THE BRAND'S OWN UNATTRIBUTED COPY** (caramel,
+sweet leather, golden raisins, dark cherries, candied walnuts, cinnamon, cardamom, toasted oak,
+peppercorn, cherry preserves, black tea). **THE WANDERFOLK RULE APPLIES — BANNED FROM PRINT until an
+independent taster publishes their own.** **(b) THE BOTTLE SIZE: the release states none.** 700ml
+appears only on retailers and on Forbes. **DO NOT PRINT 700ml.**
+**IT HAS NO SECOND SOURCE. `forbes.com/sites/david-tao/` IS THE FORBES CONTRIBUTOR PLATFORM — TIER 4,
+HARD AVOID, DO NOT CITE AND DO NOT LINK.** The $299.99 is **not** sourced to Forbes; the release
+carries it. Yahoo is the release again. Total Wine, Sipwhiskey, BourbonHunt, BuyMyLiquor are
+RETAILERS, not sources. **RECHECK SUNDAY OCT 18 — one day old, Tier 2 pickup is the likely path.**
+**TWO NAME TRAPS: the release calls it "ultra-premium" (`premium` BANNED) and ties the bottle to a
+historic holiday decanter `collection` (BANNED, no proper-noun exception). NEITHER WORD MAY REACH
+READER COPY.**
+**MIGRATED COLLISION NOTE (moved here Oct 15 from the `PUBLISHED Tue Sep 15` block, which turned
+prune-eligible the same day): `old-forester-birthday-bourbon-2026` IS PUBLISHED Sep 15 AND IS A
+DIFFERENT BOTTLE — 11 years, 97 proof, $200, 212 barrels. TRIBUTE SERIES IS NOT A DEDUP HIT.**
+**ALSO NOT A COLLISION: the $100 / 50% ABV Brown-Forman blend that CONTAINS Old Forester Birthday
+Bourbon is a third, separate product.** `whats-dropping` or `allocation-watch` / collector.
+
+**`redwood-empire-hyperion-batch-001-2026`** — **STILL SINGLE-SOURCED. THE TSB CLAIM IS NOW SETTLED
+AND IT SETTLED AGAINST US.** **THE PAGE EXISTS:
+`thespiritsbusiness.com/2026/08/redwood-empire-unveils-the-hyperion-limited-edition-blend/`, Joe
+Rogers, 25 Aug 2026 — the Oct 14 run's two searches simply missed it.** **IT IS THE PRESS RELEASE AND
+IT DOES NOT COUNT:** launch-announcement structure, Duckhorn/Patz quotes framed only as "said"/
+"added" with no interview stated, **sensory expressly "described by its producer"**, and no sourcing
+beyond the brand except TSB's own earlier Redwood Empire coverage. **SAME DOCUMENT AS BevNet AND
+nombase. LESSON 72 APPLIED TO THE PAGE, NOT THE PUBLISHER. DO NOT RE-WALK IT AND DO NOT COUNT IT.**
+**DISPOSITION: SHIPS TUE OCT 20 SINGLE-SOURCED AND FLAGGED on the Breaking Bourbon link-out unless
+Aaron says hold.** Precedent three editions deep: **Glenlivet Sep 29, WA bottom-shelf Oct 2, Macallan
+Oct 13.**
+**TWO PRINT TRAPS CONFIRMED THIS RUN: (a) THE 12,000-BOTTLE COUNT FAILED ITS SECOND PAGE — TSB states
+no batch size at all. DO NOT PRINT A BOTTLE COUNT** ("roughly 79 barrels" is retailer-only and
+unprintable). **(b) CITY CONFLICT, UNRESOLVED: TSB says the single malt is from Redwood Empire's
+SONOMA COUNTY distillery; Breaking Bourbon says Redwood Empire Distilling, VALLEJO.** Both may be true
+across time (TSB links the 2025 Savage & Cooke acquisition; Savage & Cooke is Mare Island, Vallejo).
+**DO NOT PRINT A CITY FOR THIS BOTTLE.**
+**THE FRED MINNICK AUG 24 TEST WAS NOT RUN — the search would not surface an FM Hyperion page at all.
+NOT TESTED, NOT COUNTED, AND NOT TO BE RECORDED LATER AS TESTED.**
+
+**ASSESSED Oct 15, NOT STAGED — recorded so they are NOT rediscovered as fresh:**
+`great-jones-distillery-closure-2026` (**urgent sweep — Manhattan's only whiskey distillery has
+closed; WARN notice, 26 employees, effective Dec 7, economic reasons. NO OVERRIDE: no recall, no
+safety issue, no death, no WS partner. NOT STAGED — a business closure is trade-for-the-trade, the
+Sep 23 ground, same call as GlenWyvis Oct 14.**).
+**NOT WALKED FOR A SECOND SOURCE THIS RUN, FIRST CALL SUNDAY — Breaking Bourbon's four newest:**
+`calebs-crossing-1776-2026-kentucky-straight-rye-2026` (Oct 14) ·
+`curated-barrel-project-the-control-batch-01-2026` (Oct 14) ·
+`proof-and-precedent-m11-rye-2026` (Oct 13) · `mad-river-burnt-rock-bourbon-2026` (Oct 13).
+**MAD RIVER NOTE: Burnt Rock is a DIFFERENT product from Double Tapped Maple, rejected Oct 14 on the
+forward bar at 1.5. The brand is not closed; that bottle is.**
+
+**PRUNE HELD Oct 15 — NOT SKIPPED. `PUBLISHED Tue Sep 15` turned 30 days old today and IS
+prune-eligible.** **It was NOT pruned because it carries `old-forester-birthday-bourbon-2026`, the
+only record protecting a key staged the same morning — deleting it would be the Bulleit failure,
+Lesson 59.** **The collision note was MIGRATED into the Tribute Series entry above first. PRUNE DUE
+SUN OCT 18 with all four arms.**
+
 **Added Oct 13 (PUBLISHED in The Shortlist — FIVE SHIPPED):**
 `milam-greene-unabridged-volume-5-2026` · `joseph-magnus-10yr-cask-strength-rye-2026` ·
 `little-book-infinite-edition-iii-2026` · `russells-reserve-single-rickhouse-camp-nelson-d-2026` ·
@@ -9018,6 +9237,10 @@ September. Do not restage for an autumn edition.**)
 
 
 **PUBLISHED Tue Sep 15 (The Shortlist) — CLOSED TO RE-USE, ALL SIX:**
+**PRUNE-ELIGIBLE SINCE Oct 15 (30 days). HELD Oct 15, DUE Sun Oct 18 with all four arms.**
+**MIGRATION ALREADY DONE: the `old-forester-birthday-bourbon-2026` collision note (11yr, 97 proof,
+$200, 212 barrels) WAS COPIED Oct 15 into the `old-forester-tribute-series-2026` DEDUP entry, because
+Tribute Series was staged the same morning. Re-check for OTHER orphans before deleting this block.**
 `old-forester-birthday-bourbon-2026` · `sagamore-bottled-in-bond-rye-2026` ·
 `high-west-cask-strength-blend-of-straights-2026` · `bruichladdich-octomore-17th-2026` ·
 `four-roses-salt-river-cleanup-2026` · `balvenie-88-year-old-2026`.
