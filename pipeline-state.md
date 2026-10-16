@@ -3,7 +3,127 @@
 Durable memory for the Whiskey Social whiskey-news pipeline. Authoritative over Slack
 thread copies. Human feedback in #whiskey-news overrides this file.
 
-**Last run:** 2026-10-15 (Thu), **PREP — TUESDAY GAINED ITS FIRST VERIFIED ITEM, THE SPIRITS BUSINESS
+**Last run:** 2026-10-16 (Fri), **LAST CALL — SHIPPED THREE AT FLOOR, AND THE EDITION-MORNING
+RE-FETCH PAID FOR ITSELF TWICE ON ONE PAGE.**
+**Six things happened:** (1) **THE EDITION SHIPPED THREE ITEMS AGAINST A 3–4 FLOOR, ALL THREE
+PRE-VERIFIED, NO FOURTH ADDED.** `champaign-whiskey-fest-2026` (`on-the-calendar`/venue-regular) ·
+`bookers-the-reserves-rye-2026` (`whats-dropping`/collector) ·
+`whisky-advocate-football-whiskeys-2026` (`easy-pour`/social-drinker). **ALL THREE LINK-OUTS
+RE-FETCHED THIS MORNING, ALL THREE HTTP 200.** **NOT a thin edition — three is inside the Last Call
+floor, so NO short-edition line was written. Oct 9 remains the only thin edition.**
+(2) **THE RUN'S REAL FINDING — THE CHAMPAIGN OFFICIAL SITE MOVED BETWEEN OCT 12 AND TODAY, AND BOTH
+OCT 12 BLOCKS ON IT ARE NOW DISCHARGED BY THE PAGE ITSELF.** **(a) THE VENDOR COUNT IS NOW ON THE
+OFFICIAL SITE.** Oct 12 recorded "40+ distilleries / 150+ whiskeys" as a Smile Politely SEARCH
+SUMMARY, unverified and unprintable, and noted the official site "states no vendor count at all."
+**TODAY'S FETCH CARRIES IT IN THE GALA FAQ: "taste over 200 whiskeys from over 40 different
+distilleries."** **"More than 40 distilleries" WAS PRINTED, traceable to the linked page.**
+**THE 200-WHISKEY FIGURE WAS DELIBERATELY NOT PRINTED — a count framed as "taste over 200" reads as
+volume, and DISCUS 73.8 is not worth a number we did not need.** **(b) THE GALA VENUE CONTRADICTION
+IS GONE.** The Oct 12 page said both "in a tent in the Downtown Champaign (final location TBD)" and
+"the old Volition space, 3rd floor of 1 E Main." **TODAY: `tent` and `TBD` return ZERO; the VIP block,
+the Gala block and the FAQ all agree on the One Main / 1 E Main third floor above Big Grove.**
+**THE VENUE WAS STILL NOT PRINTED, AND THAT WAS THE RIGHT CALL FOR A DIFFERENT REASON THAN OCT 12's:
+the contradiction is resolved, but ECU — the second source — carries only "Downtown Champaign."
+A building named by the ORGANISER ALONE is single-sourced. "Downtown Champaign" is what two parties
+carry and is what ran.** **LESSON 80.**
+(3) **A STALE PROMOTION WAS CAUGHT AND NOT PRINTED.** The gala block still carries "Homecoming sale
+extended! Put 3 tickets in your cart, pay for 2! Now through October 11th." **EXPIRED FIVE DAYS AGO.
+Printing a dead discount is a reader-trust failure and it was the easiest thing on the page to lift.
+NOT PRINTED. $69 ran as the gala price, which is the live number.** Also: the page carries an
+exclamation in that line and in the FAQ — **never lift the site's punctuation.**
+(4) **NO 21+ ANYWHERE, HOLDING THE OCT 12 RULE.** `21+` and `21` BOTH return ZERO on the Champaign
+page. **Never printed, and the same still holds for Atlanta.** **`sold out` returns ZERO on Champaign
+— tickets are live, so the item hands the reader something they can actually act on, which is the
+whole point of a Last Call calendar slot.** **`premium` ZERO on that page too.**
+(5) **BOOKER'S RE-FETCHED CLEAN AND EVERY LEDGERED CLAIM HELD.** $130/750mL · 125.1 proof ·
+6 Years 2 Months 23 Days · September 2026 · Suntory/Jim Beam · **mashbill UNDISCLOSED, no grain bill
+printed** · **WRITTEN AS A RYE, per the Oct 12 ruling — the prose on the page says "a rye finished in
+apple brandy barrels and infused with cinnamon sticks" and "only the second rye ever released to carry
+the Booker's name," against ONE capsule field reading "Straight Bourbon." The prose won, as ruled.**
+**HASMAN'S RESERVATION WAS PRINTED ALONGSIDE HIS PRAISE, NOT INSTEAD OF IT** — "calls the flavors
+pushed, not natural" next to "apple-and-cinnamon fans will love it." **ALL SENSORY ATTRIBUTED TO HIM
+BY NAME. NOT ONE UNATTRIBUTED TASTING NOTE IN THE EDITION.**
+**A NEW FACT APPEARED AND WAS NOT USED: the page gives Freddie Noe's age as 39 and carries a usable
+quote — "a celebration of my Granddaddy Booker's legacy" (7 words, named speaker, Tier 2).**
+**NO QUOTE RAN. THIRD CONSECUTIVE EDITION WITHOUT ONE.** The blurb was already at 66 of 70 words and
+the quote would have displaced Hasman's reservation. **Recorded because a fourth quote-less edition
+is a pattern worth naming, not a failure.**
+(6) **THE FOOTBALL ITEM RAN NFL-ONLY, AND THE COLLEGE SIDE WAS DROPPED ENTIRELY RATHER THAN
+MENTIONED.** The Oct 14 compliance direction said NFL-forward and not to build the hook on collegiate
+bottles. **THIS RUN WENT FURTHER AND NAMED NO UNIVERSITY AT ALL** — Evan Williams' six schools,
+Woodson/Michigan, Cedar Ridge/Iowa, Teeling/Notre Dame and Breckenridge/Broncos are all on the page
+and none reached copy. **A collegiate reference is reportable but it is never free; at 62 words it
+bought nothing and cost 21+ surface area.** **WA'S HEADLINE OPENS WITH `toast` AND WAS NEVER LIFTED;
+the WS headline is "What is actually inside the football team bottles."** **NO GAME-DAY DRINKING CUE:
+the close is "Know what you are buying," a purchase frame, not a consumption frame.**
+**THE HONEST ANGLE SURVIVED CONTACT WITH THE SOURCE AND WAS TIGHTENED.** The Oct 14 board wanted "the
+team bottle costs no more than the normal one." **THE PAGE DOES NOT SAY THAT — it says the bottles
+hold "the brand's signature white label Kentucky bourbon, aged 4 years... in commemorative packaging."
+THE PRICE COMPARISON WOULD HAVE BEEN OURS. WHAT RAN IS THE SOURCED VERSION: signature white label,
+four years, $15–19, "Only the packaging is team-specific." The reader draws the conclusion; we did
+not assert it.** **BEAM COLLISION CHECKED AT ASSEMBLY AS ORDERED: Booker's and Jim Beam are both
+Suntory/Beam and both ran. It does not read as two Beam items — the football blurb frames a 14-brand
+roundup and names Jim Beam once, as an example.**
+**URGENT SWEEP — nothing fires, TWENTY-EIGHTH application.** Two searches returned ONLY stale
+material: Bulleit 2015 labelling, Maker's Mark 2015 "handmade," Old Charter 2017 age, Sazerac/RNDC,
+the Kentucky warehouse-fungus suit. **NO recall, NO safety issue, NO litigation naming a WS partner,
+NO death, in the window.** **Great Jones (Oct 15) and GlenWyvis (Oct 14) UNCHANGED and NOT
+RE-DERIVED.** **DATED BEFORE WEIGHED, Lesson 35.**
+**OVERNIGHT TOP-UP: NOTHING NEW CLEARED.** The ~24h search surfaced nothing dated Oct 15–16. **Friday
+was at floor and the Oct 15 order was "do not add a fourth unless it is free." Nothing was free.
+No fourth was forced.**
+**AARON STILL HAS NOT ANSWERED — ATLANTA (5th run), PENELOPE (3rd), WANDERFOLK (6th).**
+**ATLANTA DID NOT RUN AND THAT REQUIRED NO DECISION: it was blocked on him, it is sold out with a
+waitlist, and Friday was at floor without it. PENELOPE DID NOT RUN for the same reason — Lesson 67
+sent it to a human and no human answered, so the stricter bar simply held.** **All three compressed
+to ONE `_unchanged:_` line. NOT re-explained, NOT escalated to a fourth bullet.**
+**CHANNEL: 22 messages pulled, EVERY ONE carries a masthead glyph, so every one is ours.
+NO HUMAN REPLIES — now 24 days.** **`Thread:` returns ZERO across the pull, so the Oct 7 thread has
+aged out of the window and no thread read was owed.** **LESSON 79 APPLIED: all 22 show as Aaron and
+sender identity proved nothing; the GLYPH TEST did the work.**
+**CADENCE: CLEAN.** Oct 15 was the newest post and Oct 16 is the very next scheduled day. **Oct 16 was
+EMPTY before this run; idempotency not in play; this edition is the day's only post.**
+**VOICE/COMPLIANCE, MACHINE-CHECKED BEFORE SEND:** all 13 banned words ZERO in reader copy ·
+`hunt` ZERO · exclamations ZERO · **quotes ZERO** · blurbs **57 / 66 / 62 words**, all inside 40–70 ·
+**NO sentence over 15 words** · exactly 3 links, one per item · **all 3 UTMs machine-verified against
+the scheme, campaign `lastcall-2026-10-16`, every beat and persona slug on the permitted list, no
+improvised value** · **"Last Call" appears ONLY in the masthead, never in body copy** · **exemplar
+leak check: `Hollow Creek`, `Winder`, `Barrel Ledger`, `Rickhouse`, `Copper Line`, `Ash & Oak`,
+`bonded rye` ALL ZERO.** **One insider term defined on first use: "Finishing means a second barrel
+after the first."**
+**ASIDE: 51 words — three Notes bullets (11/6/5) and two Pipeline lines. Under the 120 cap.**
+**Posted 06:27:27 PT. Slack: `https://whiskeysocial.slack.com/archives/C0BKL9FB2CV/p1792157247843869`.**
+**PRUNE: STILL HELD TO SUN OCT 18 with all four arms, per the Oct 15 reason (the Sep 15 block protects
+`old-forester-tribute-series-2026`, staged Oct 15). NOT re-derived and NOT silently skipped.**
+
+### LESSON 80 (added Oct 16) — a contradiction resolving is not the same as a claim becoming printable, and the second source decides which
+
+**WHAT HAPPENED.** Oct 12 barred the Champaign gala venue because the official site contradicted
+ITSELF: a tent with a TBD location in one block, the old Volition space on the 3rd floor of 1 E Main
+in another. The bar was written as **"NEVER PRINT A VENUE FOR THE GALA until it is settled."**
+**TODAY IT IS SETTLED.** The tent wording is gone, `tent` and `TBD` both return zero, and three
+separate blocks on the page agree on the building.
+
+**AND IT STILL DID NOT BECOME PRINTABLE, FOR A REASON THE OCT 12 BAR NEVER NAMED.** The bar was
+written about INTERNAL CONSISTENCY. The thing that actually governs is **SOURCING BREADTH**:
+Experience Champaign-Urbana, the independent second party, carries only `Downtown Champaign`. **A
+building named by the organiser and nobody else is a single-sourced claim no matter how many times
+the organiser says it.** Discharging the stated condition would have shipped it.
+
+**THE RULE.** When a page resolves a contradiction a prior run flagged, **do not treat the old
+condition as the test.** Re-ask the question the two-source rule asks: *which independent party
+carries this claim?* **A clearing condition written against the WRONG FAILURE MODE clears nothing.**
+**This is Lesson 78's twin — 78 says a board may not rule in advance on what will be FOUND; 80 says
+a board may not rule in advance on WHICH TEST will matter.** Both were written by boards that were
+careful and still wrote a condition that, obeyed literally, would have printed an unsourced fact.
+
+**THE OTHER HALF OF THE SAME FETCH, AND IT CUTS THE OPPOSITE WAY.** The same page gained a vendor
+count it did not carry on Oct 12 — and that one DID become printable, because the link-out itself now
+carries it and the sourced-claims rule asks for traceability to the LINKED source. **Same page, same
+fetch, two prior blocks, opposite outcomes. Re-fetching is not a formality; it is where the item is
+actually decided.**
+
+**Prior run:** 2026-10-15 (Thu), **PREP — TUESDAY GAINED ITS FIRST VERIFIED ITEM, THE SPIRITS BUSINESS
 PAGE THE FILE HAD BEEN HUNTING FOR SINCE AUGUST WAS FOUND AND IMMEDIATELY DISQUALIFIED, AND THE
 SEP 15 DEDUP PRUNE WAS HELD BACK FOR A SPECIFIC NAMED REASON RATHER THAN SKIPPED.**
 **Seven things happened:** (1) **`silverthorn-reserve-10yr-blenders-art-2026` IS VERIFIED AND STAGED
@@ -6639,7 +6759,8 @@ the file, inheriting that title from Fri Oct 16, which reached floor today.**
 
 ---
 
-## FRIDAY Oct 16 — THREE CLEAN AND AT FLOOR, PLUS TWO ITEMS THAT RIDE ON AARON. *(board created Oct 12; heading rewritten Oct 14 when Champaign cleared and the football roundup was staged)*
+## FRIDAY Oct 16 — PUBLISHED. ALL THREE SHIPPED; ATLANTA AND PENELOPE DID NOT (never answered). Keys moved to DEDUP Oct 16. Retained for the sourcing ledger.
+## (original heading) FRIDAY Oct 16 — THREE CLEAN AND AT FLOOR, PLUS TWO ITEMS THAT RIDE ON AARON. *(board created Oct 12; heading rewritten Oct 14 when Champaign cleared and the football roundup was staged)*
 
 **OCT 14 CHANGE, AND IT IS THE RUN'S HEADLINE: THE BOARD NO LONGER DEPENDS ON AARON ANSWERING.**
 **`champaign-whiskey-fest-2026` MOVED PENDING → VERIFIED** on a reachable independent source, and
@@ -8907,6 +9028,57 @@ and nothing is lost.** 22 and 23 are captured here early so their source section
 
 ## DEDUP — closed to re-use
 
+**Added Oct 16 (PUBLISHED Fri Oct 16 — Last Call. CLOSED. Do not republish.):**
+
+**`champaign-whiskey-fest-2026`** — **PUBLISHED Fri Oct 16**, `on-the-calendar` / venue-regular.
+**SPENT LINK-OUT: `https://www.champaignwhiskeyfest.com/`** (official site, Tier 1 primary).
+**Second source: `https://experiencecu.org/events/calendar-of-events`** (Experience Champaign-Urbana,
+county DMO) — **NOT spent as a link-out, it was corroboration only.**
+**WHAT RAN:** Oct 16–17 · downtown Champaign · VIP Friday 6:30pm · gala Saturday 2–5pm · gala $69 ·
+**"more than 40 distilleries"** · gala ticket includes a tasting guide and a bottle order form.
+**WHAT DID NOT RUN AND WHY — ALL FOUR STILL BINDING IF THIS EVENT RECURS IN 2027:** the
+**200-whiskey count** (organiser-only AND reads as volume, DISCUS 73.8) · the **gala building**
+(organiser-only; ECU carries only "Downtown Champaign" — **LESSON 80**) · the **3-for-2 Homecoming
+sale** (**EXPIRED Oct 11, five days dead at publish**) · **any 11:00am session** (ECU lists one, the
+official site describes none) · **`21+`** (**ZERO on every page — never print an age policy for this
+event**). **Smile Politely 403'd for three straight days and was never needed. CLOSED.**
+**THE EVENT IS NOW PAST. A 2027 edition is a NEW key, not a dedup exception.**
+
+**`bookers-the-reserves-rye-2026`** — **PUBLISHED Fri Oct 16**, `whats-dropping` / collector.
+**SPENT LINK-OUT: `https://www.breakingbourbon.com/review/bookers-the-reserves-2026`**
+(Breaking Bourbon, Tier 2, Eric Hasman, 2026-09-30, rated 3.5, free sample disclosed).
+**Second source: Whisky Advocate Sep 29, Julia Higgins — NOT spent here; it is Little Book's SOURCE B
+and was never a link-out for either item.**
+**WHAT RAN:** second rye ever to carry the Booker's name · Freddie Noe · finished in apple brandy
+barrels, cinnamon sticks added · the A.B.C. Wassail apple-wine origin · **$130 · 125.1 proof** ·
+Hasman's "pushed, not natural" reservation **and** his "apple-and-cinnamon fans will love it."
+**STANDING RULES IF ANY BOOKER'S ITEM RECURS:** **IT IS A RYE** (prose on both sources; the single
+"Straight Bourbon" capsule field does NOT win) · **MASHBILL UNDISCLOSED — never print a grain bill** ·
+**retailer figures 123.3 proof / 8yr 10mo 11d are CONTRADICTED BY BOTH TIER 2 SOURCES, never use** ·
+the page's word `premium` never reaches copy.
+**UNUSED AND AVAILABLE: Freddie Noe is 39, and the page carries "a celebration of my Granddaddy
+Booker's legacy" — a clean 7-word named quote. Displaced by Hasman's reservation at 66/70 words.**
+**COLLISION NOTE MIGRATED HERE: `little-book-the-infinite-edition-iii` ran Tue Oct 13 off a DIFFERENT
+Breaking Bourbon page and the SHARED WA Sep 29 article. Same Beam announcement, different bottles,
+different link-outs. NOT a collision — recorded so a future prune cannot orphan this fact.**
+
+**`whisky-advocate-football-whiskeys-2026`** — **PUBLISHED Fri Oct 16**, `easy-pour` / social-drinker.
+**SPENT LINK-OUT: `https://whiskyadvocate.com/football-themed-whiskeys`** (Whisky Advocate, Tier 2,
+Aubrey Thompson, 2026-10-02). **ONE SOURCE BY DESIGN — a Tier 2 outlet's own service roundup with its
+own reporting and prices, same basis as the bottom-shelf column. NEVER log it as needing a second.**
+**WHAT RAN — NFL ONLY:** 14 bottles rounded up · Jim Beam's Seahawks/Cowboys/Chiefs bottles hold the
+signature white label Kentucky bourbon, aged 4 years, **$15–19**, packaging team-specific · Jameson is
+the NFL's Official Spirits Sponsor with no NFL-labelled expression.
+**WHAT WAS DELIBERATELY LEFT OUT: EVERY COLLEGIATE REFERENCE** — Evan Williams' six universities,
+Woodson/Michigan, Cedar Ridge/Iowa Hawkeyes, Teeling/Notre Dame, Breckenridge/Broncos, Gold Bar/49ers,
+Eagles BOTLD, Sagamore/Ravens, Knob Creek Eli Manning. **Reportable, but it buys nothing and costs 21+
+surface area.**
+**THE PRICE COMPARISON WAS NOT MADE: the page does NOT say the team bottle costs the same as the
+standard one. That inference stayed ours and stayed unprinted.**
+**`toast` IS WA'S HEADLINE WORD — never lift this outlet's headline.**
+**NOT A DEDUP HIT on `evan-williams-college-football-2026` (ASSESSED-AND-REJECTED Sep 23, never
+published) or `jameson-distillers-batch-single-pot-still-2026` (PUBLISHED Aug 25, different product).**
+
 **Added Oct 15 (STAGED — closed to re-scouting, NOT published):**
 
 **`silverthorn-reserve-10yr-blenders-art-2026`** — **PROMOTED Oct 15: BENCHED → VERIFIED AND STAGED
@@ -10294,83 +10466,104 @@ and the fifth coconut item) · `discus-congressional-fly-in-2026`.
 
 ---
 
-## NEXT RUN (Thu Oct 15 — PREP. Then Fri Oct 16 LAST CALL, Sun Oct 18 PREP, Mon Oct 19 PREP, Tue Oct 20 SHORTLIST.)
+## NEXT RUN (Sun Oct 18 — PREP. Then Mon Oct 19 PREP, Tue Oct 20 SHORTLIST, Fri Oct 23 LAST CALL.)
 
-**TOMORROW IS A PREP RUN, NOT AN EDITION. Glyph `:mag:`, internal plain operator language, NO UTMs, raw
-links, no consumer voice.** Load `whiskey-social-news-roundup` (present).
-**`whiskey-social-brand` is STILL ABSENT — it stays compressed as `_unchanged:_` and never gets a fresh
-bullet.**
+**SUNDAY IS A PREP RUN. Glyph `:mag:`, internal plain operator language, NO UTMs, raw links, no
+consumer voice.** Load `whiskey-social-news-roundup` (present). **`whiskey-social-brand` is STILL
+ABSENT — it stays compressed as `_unchanged:_` and never gets a fresh bullet.**
+**SUNDAY COVERS BACK THROUGH FRIDAY — there is no Saturday run. Window is ~72h, not 24h.**
 
-0a. **CADENCE: Oct 14 should be the newest post and Oct 15 is the next scheduled day. A normal
-   consecutive pair — nothing to report.** The Oct 4/5 miss is SPENT. **Raise cadence only on a NEW miss.**
-0b. **CHANNEL READ — `slack_read_channel`, `response_format: concise`, `limit: 14`. THIRD clean run; it is
-   the default. Do not pull 100.** **Authorship cannot distinguish a human from us; every post shows as
-   Aaron. Use the MASTHEAD-GLYPH TEST and reconcile `:wrench:` against the post count.**
-   **NO HUMAN HAS POSTED IN THE CHANNEL IN 22 DAYS. If that changes, it outranks everything below.**
+0a. **CADENCE: Oct 16 should be the newest post and Oct 18 is the next scheduled day (no Saturday).
+   Nothing to report. Raise cadence only on a NEW miss.** Oct 4/5 stays SPENT.
+   **THIN-EDITION WATCH: Oct 9 remains the only one. Oct 16 shipped three, which is AT floor, not thin.**
+0b. **CHANNEL READ — `slack_read_channel`, `response_format: concise`, `limit: 14`.** **THE MASTHEAD-GLYPH
+   TEST IS THE ONLY RELIABLE ONE (Lesson 79) — every post shows as Aaron.** **NO HUMAN HAS POSTED IN
+   24 DAYS. If that changes, it outranks everything below.**
 
-1. **TUESDAY IS NOW THE WHOLE JOB. FRIDAY IS AT FLOOR AND SHOULD BE LEFT ALONE.** Fri Oct 16 holds
-   **three clean items** (`bookers-the-reserves-rye-2026`, `champaign-whiskey-fest-2026`,
-   `whisky-advocate-football-whiskeys-2026`) against a floor of three. **Do not add a fourth unless it is
-   free.** **Tue Oct 20 holds ONE PENDING item against a floor of FOUR, and only three prep runs remain
-   (Thu Oct 15, Sun Oct 18, Mon Oct 19). THAT IS THE LARGEST OPEN GAP IN THE FILE.**
-2. **THE CHEAPEST TUESDAY WORK IS ALREADY IDENTIFIED — WORK THE BENCH BEFORE OPENING A SEAM (Lesson 49).**
-   **(a)** Settle Redwood Empire's second source: run the **Lesson 72 line-by-line test on Fred Minnick's
-   Aug 24 page** against the Aug 21 release. If FM carries reporting the release does not, it counts; if it
-   is a reprint, it does not. **One fetch each, and it decides the board's only item.**
-   **(b)** Resolve **Silverthorn's June-vs-October date oddity** (Drinkhacker 2026-06-20 against an October
-   release). **(c)** Walk Breaking Bourbon's index, which is listed unassessed on the Oct 20 board —
-   **Proof & Precedent M11 Rye and Mad River Burnt Rock, both Oct 13, are the freshest and neither is
-   touched.** **Old Forester Birthday Bourbon on that index is a DEDUP HIT (PUBLISHED Sep 15) — do not
-   re-walk it.**
-3. **IF AARON HAS ANSWERED, ACT ON IT IMMEDIATELY; IF NOT, DO NOT RE-ASK.** **(a) PENELOPE — yes mints
-   `penelope-cigar-sessions-chapter-2-review-2026` for Friday and the blurb MUST OPEN WITH WHAT IS NEW; no
-   closes it for good.** **(b) ATLANTA — now upside, not load-bearing; if he drops it Friday still ships
-   three.** **(c) WANDERFOLK — the tier objection is WITHDRAWN, the two-source objection STANDS.**
-   **All three compress to `_unchanged:_` if nothing moves. Three unanswered calls is a supply signal about
-   HIS attention, not ours — do not escalate it into a fourth bullet.**
-4. **THE SUB-$30 GAP IS TWELVE RUNS OPEN AND TODAY PROVED THE OBVIOUS ANSWER IS A TRAP.** Bulleit '87 at
-   $30 looked like the answer and is a story we published in July. **The gap can only close on a bottle
-   this file has NOT covered, with two independent sources. Check the key BEFORE doing the sourcing work —
-   that ordering saved the whole effort today.** **Note the football item carries $15–19 and $25 bottles
-   from a Tier 2 outlet; whether that counts as serving the gap is Aaron's call, not a thing to assert.**
-5. **REVIEW FEEDS REMAIN THE PROVEN SEAM — now four runs deep.** Breaking Bourbon's date-sorted index
-   `/bourbon-rye-whiskey-reviews-sort-by-review-date` (**`/review` 404s; the index path is
-   `/bourbon-rye-whiskey-reviews`**) and **Whisky Advocate's own site navigation, which is where today's
-   football item came from — its homepage carries `/boston-travel-guide-for-whisky-lovers`,
-   `/american-craft-spirits-data-2026`, `/the-long-orchard-whiskey-cocktail-recipe` and
-   `/smores-whiskey-cocktail-recipe`, NONE assessed.** **BOSTON IS THE BEST OF THOSE FOR A FUTURE FRIDAY —
-   but a WA travel guide ran Sep 25 (Victoria BC), so it is a shape repeat and should not run before
-   Oct 23.** **WA COCKTAILS: the standing rule is that a fifth consecutive WA cocktail needs Aaron's
-   say-so — count before fetching.**
-6. **DO NOT RE-WALK WHAT IS CLOSED.** Smile Politely (**no longer needed, Champaign cleared**) · Fresno and
-   OKC Whiskey Riot (single-sourced, Oct 8) · Silicon Valley Whisk(e)y Festival (one organiser) · Lucky D
-   RTDs (press-release-only) · Two Stacks Dram in a Can (Tier 4 only) · Chip Tate's Gran Nota (a tequila) ·
-   Bulleit '87 (**covered, third refusal**) · Mad River Double Tapped Maple (**rated 1.5**) · GlenWyvis
-   (**not an override, not consumer**).
-   **The remaining unwalked Friday festival bench, now LOW priority since Friday is at floor:** Whiskey &
-   Wine Festival Fredericksburg VA (Oct 31) · **Charlotte Whiskey, Wine & Fire (Oct 24 — DISCUS risk, check
-   the page for volume framing BEFORE staging)** · Spokane (Oct 23) · Tri-Cities (Oct 24).
-7. **THE FRIDAY EDITION-MORNING RE-FETCH IS MANDATORY AND IT IS ALSO A SOURCE OF NEW MATERIAL.** Oct 13
-   found the Macallan result in a related-links rail of a page it was already re-fetching; Oct 9 found the
-   Washback cigar lounge the same way. **Re-fetch all three Friday link-outs and READ THE RAILS.**
-   **Specific Friday traps already known:** never print an 11:00am Champaign session or a gala venue ·
-   never print "21+" for Champaign or Atlanta (**no age policy on any page**) · Pullman Yards and the
-   Atlanta listing both use `premium`, paraphrase · Booker's is **a RYE in prose on both sources and
-   "straight bourbon" in one capsule field — write it as a rye, never print a grain bill** · retailer
-   figures for Booker's (123.3 proof, 8yr) are **contradicted by both Tier 2 sources, do not use.**
+1. **TUESDAY IS THE WHOLE JOB AND IT IS NOW THE LARGEST GAP IN THE FILE.** Tue Oct 20 holds **THREE**
+   (`silverthorn-reserve-10yr-blenders-art-2026` VERIFIED · `redwood-empire-hyperion-batch-001-2026`
+   SINGLE-SOURCED AND FLAGGED · `old-forester-tribute-series-2026` PENDING A PICKUP) **against a
+   Shortlist floor of FOUR, with only TWO prep runs left (Sun Oct 18, Mon Oct 19).**
+   **ALL THREE ARE COLLECTOR ($100 / $299.99 / $130-class). THERE IS NO EXPLORER ITEM AND NO
+   SUB-$100 ITEM. A fourth that is Explorer-facing is worth more than a fourth that is Collector.**
+2. **WORK THE BENCH BEFORE OPENING A SEAM (Lesson 49). THE CHEAPEST TUESDAY WORK, IN ORDER:**
+   **(a) `old-forester-tribute-series-2026` NEEDS ITS TIER 1–2 INDEPENDENT PICKUP** — it was one day
+   old on Oct 15 and a pickup is the likely path. **Forbes `/sites/` IS TIER 4 CONTRIBUTOR, DO NOT
+   CITE OR LINK. Yahoo is the release. Total Wine / Sipwhiskey / BourbonHunt / BuyMyLiquor are
+   RETAILERS, not sources.** **NEVER PRINT: the brand's own unattributed sensory (Wanderfolk rule),
+   or 700ml (the release states no bottle size).** **`ultra-premium` and `collection` are both in the
+   release and both BANNED.**
+   **(b) BREAKING BOURBON'S FOUR UNWALKED REVIEWS, NAMED Oct 15 AS SUNDAY'S FIRST CALL:**
+   **Caleb's Crossing 1776-2026 Kentucky Straight Rye Batch KSR-1 (Oct 14)** · **Curated Barrel
+   Project Bourbon Batch 01 "The Control" (Oct 14)** · **Proof & Precedent M11 Rye (Oct 13)** ·
+   **Mad River Burnt Rock Bourbon (Oct 13 — a DIFFERENT product from Double Tapped Maple, which was
+   rejected Oct 14 at 1.5. The brand is not closed; that bottle is).**
+   **(c) THE SILVERTHORN RYE BLEND BATCH 1 (Breaking Bourbon, Oct 12) IS A SEPARATE PRODUCT AND IS
+   UNSTAGED. Do NOT stage it alongside the bourbon blend — but it is a legitimate FUTURE item.**
+3. **A SUB-$30 LEAD CAME OUT OF FRIDAY'S RE-FETCH RAIL AND IT IS UNVERIFIED — THIS IS SUNDAY'S
+   HIGHEST-VALUE CHEAP CHECK.** Breaking Bourbon's "Recent Reviews" rail on the Booker's page carries
+   **`Kirkland Signature Bottled in Bond Bourbon`, March 20 2026.** **A Costco house bottle is the
+   right SHAPE for a 13-run sub-$30 gap and for the Explorer hole on Tuesday.**
+   **NOTHING ABOUT IT IS VERIFIED. NO PRICE HAS BEEN SOURCED. DO NOT ASSERT IT IS UNDER $30 UNTIL A
+   PAGE SAYS SO** — that is exactly the unsourced number this file keeps catching.
+   **TWO REAL OBSTACLES, BOTH TO BE TESTED NOT ASSUMED: (i) it is ~7 MONTHS OLD, which is far outside
+   even a curation product's window — it needs a live hook (a restock, a new batch, a seasonal
+   value angle) or it does not run; (ii) GREP `kirkland` AND `costco` AGAINST DEDUP, DROPPED AND
+   WATCHING BEFORE DOING ANY SOURCING WORK.** **That ordering saved the entire Bulleit and Penelope
+   effort on Oct 14. Key first, work second.**
+   **The football item carried $15–19 and $25 bottles from a Tier 2 outlet; whether that counts as
+   serving the sub-$30 gap is AARON'S CALL, not a thing to assert. The gap line stays at 13 runs.**
+4. **IF AARON HAS ANSWERED, ACT IMMEDIATELY; IF NOT, DO NOT RE-ASK.** **(a) ATLANTA — the event is
+   Sat Oct 17 and PASSES THIS WEEKEND. After Sunday the question is DEAD and the key should be
+   retired, not carried. Do not ask a sixth time about an event that has happened.**
+   **(b) PENELOPE — Lesson 67 sent it to a human; the stricter bar holds until one answers. A yes
+   mints `penelope-cigar-sessions-chapter-2-review-2026` and the blurb MUST OPEN WITH WHAT IS NEW.**
+   **(c) WANDERFOLK — tier objection WITHDRAWN, two-source objection STANDS.**
+   **All compress to `_unchanged:_`. Three unanswered calls is a signal about HIS attention, not ours.**
+5. **REVIEW FEEDS REMAIN THE PROVEN SEAM — five runs deep.** Breaking Bourbon's date-sorted index
+   `/bourbon-rye-whiskey-reviews-sort-by-review-date` (**`/review` 404s; index path is
+   `/bourbon-rye-whiskey-reviews`**) and **Whisky Advocate's own navigation, which produced the
+   football item.** **STILL UNASSESSED ON WA: `/boston-travel-guide-for-whisky-lovers`,
+   `/american-craft-spirits-data-2026`, `/the-long-orchard-whiskey-cocktail-recipe`,
+   `/smores-whiskey-cocktail-recipe`.** **BOSTON IS THE BEST FOR A FUTURE FRIDAY BUT A WA TRAVEL GUIDE
+   RAN SEP 25 — a shape repeat, do not run before Oct 23.** **`american-craft-spirits-data-2026` is
+   the most interesting unwalked one for an EXPLORER-facing Tuesday item.**
+   **WA COCKTAILS: a fifth consecutive WA cocktail needs Aaron's say-so — COUNT BEFORE FETCHING.**
+6. **DO NOT RE-WALK WHAT IS CLOSED.** Champaign (**PUBLISHED Oct 16; the event is now past**) ·
+   Booker's and the WA football roundup (**PUBLISHED Oct 16**) · Smile Politely (never needed) ·
+   Fresno and OKC Whiskey Riot (single-sourced, Oct 8) · Silicon Valley Whisk(e)y Festival (one
+   organiser) · Lucky D RTDs (press-release-only) · Two Stacks Dram in a Can (Tier 4 only) · Chip
+   Tate's Gran Nota (a tequila) · Bulleit '87 (**covered Jul 25; THIRD refusal — expect a fourth**) ·
+   Mad River Double Tapped Maple (1.5) · GlenWyvis and Great Jones (**business failures: not
+   overrides, not consumer items — the Sep 23 ground**).
+   **THE FRIDAY FESTIVAL BENCH, now the FRI OCT 23 board's problem and still all unverified:**
+   **Whiskey & Wine Festival Fredericksburg VA (Oct 31)** · **Charlotte Whiskey, Wine & Fire (Oct 24 —
+   DISCUS RISK, search metadata flags volume-based tasting framing; CHECK THE PAGE BEFORE STAGING)** ·
+   **Spokane (Oct 23)** · **Tri-Cities (Oct 24)**. **FRI OCT 23 IS AT ZERO AND HAS NO BOARD YET.**
+7. **ON ANY LOCAL OR VENUE ITEM, GO STRAIGHT TO THE INDEPENDENT-PARTY SWEEP (Lesson 77, FOUR
+   PAYOUTS).** City/county tourism body, the venue's own calendar, the host businesses, the licensing
+   authority — BEFORE regional press, and never set a recheck on a blocked page as the primary path.
+   **AND THEN APPLY LESSON 80: when a page resolves an old contradiction, do not treat the old
+   clearing condition as the test. Re-ask which INDEPENDENT party carries the claim.**
 8. **TWO PAGES ARE 403 AND BOTH ARE REAL, NOT ABSENT:** `smilepolitely.com` and
-   `thedrinksbusiness.com` / `scotsman.com`. **Lesson 63. Do not record any of them as "no coverage
-   exists."**
-9. **PRUNE IS DUE AGAIN.** Oldest surviving full run section is **`## TUESDAY Sep 8 — PREP RUN`** or
-   whichever now holds that position — **CHECK, do not assume.** **RUN ALL FOUR ARMS. ARM 2 COUNTS INSIDE
-   THE DEDUP BLOCK, NOT ANYWHERE IN THE FILE.** **ARM 4 HAS NOW FIRED ON THREE CONSECUTIVE PRUNES — treat a
-   URL existing nowhere else as a probable spent link-out and CHECK it against DEDUP before deleting; a
-   lead source is not a spent link-out (Sep 9 / Sep 16 rule).** **DO NOT prune `FRIDAY Aug 21 — STAGING
-   RECORD`, `TUESDAY Aug 25 — ALL FOUR PUBLISHED`, `TUESDAY Sep 1 — ALL FOUR PUBLISHED` or `FRIDAY Sep 4 —
-   FOUR STAGED` — each is now the only record of its day.**
-10. **THE FILE IS ~11,331 LINES AND THAT IS A STANDING COST ON EVERY RUN.** It is read by grep, never
-   whole. **Keep writing long-form reasoning here rather than in Slack — but the prune must keep pace, one
-   section per run.**
+   `thedrinksbusiness.com` / `scotsman.com`. **Lesson 63. Never record them as "no coverage exists."**
+9. **PRUNE IS DUE SUNDAY AND HAS BEEN HELD ONCE ALREADY — DO NOT HOLD IT TWICE.** The Oct 15 hold
+   reason was specific and is now DISCHARGED: the `PUBLISHED Tue Sep 15` block protected
+   `old-forester-tribute-series-2026`, and **that collision note was migrated into the Tribute Series
+   DEDUP entry on Oct 15, so Sep 15 is now safe to prune.** **RUN ALL FOUR ARMS. ARM 2 COUNTS INSIDE
+   THE DEDUP BLOCK, NOT ANYWHERE IN THE FILE. ARM 4 HAS FIRED ON THREE CONSECUTIVE PRUNES — treat a
+   URL existing nowhere else as a probable spent link-out and CHECK IT AGAINST DEDUP BEFORE DELETING;
+   a lead source is not a spent link-out (Sep 9 / Sep 16 rule).**
+   **DO NOT PRUNE: `FRIDAY Aug 21 — STAGING RECORD`, `TUESDAY Aug 25 — ALL FOUR PUBLISHED`,
+   `TUESDAY Sep 1 — ALL FOUR PUBLISHED`, `FRIDAY Sep 4 — FOUR STAGED` — each is the only record of
+   its day.** **Oldest surviving full run section: CHECK, do not assume.**
+10. **THE FILE IS OVER 11,500 LINES AND THAT IS A STANDING COST ON EVERY RUN.** It is read by grep,
+   never whole. **Keep long-form reasoning here rather than in Slack — but the prune must keep pace,
+   one section per run.**
+11. **THE EDITION-MORNING RE-FETCH IS WHERE ITEMS ARE ACTUALLY DECIDED, NOT A FORMALITY.** Oct 16
+   proved it twice on ONE page: a vendor count became printable and a venue did not, in the same
+   fetch. **Oct 13 found Macallan in a related-links rail; Oct 9 found the Washback cigar lounge;
+   Oct 16 found the Kirkland sub-$30 lead in a "Recent Reviews" rail. RE-FETCH, AND READ THE RAILS.**
 
 ## LESSON 77 (added Oct 14) — when a source will not load, stop asking "how do I open this page" and start asking "who else would have to know about this"
 
