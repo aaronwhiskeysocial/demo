@@ -115,6 +115,21 @@ carried no URLs. **ONE MIGRATION RAN FIRST — "a flag is not a licence to re-ru
 only home was that block; it now sits in the DEDUP header. Lesson 73's arm paid out on a RULE this time,
 not a URL.** **File now 11,7xx lines.**
 
+**POSTED 06:27:57 PT. Slack: `https://whiskeysocial.slack.com/archives/C0BKL9FB2CV/p1792330077091199`.**
+**LESSON 60 REGRESSION FOUND AND FIXED, AND IT HAD BEEN LIVE FOR SIX OF THE LAST EIGHT POSTS.**
+**The Oct 18 channel read-back shows `_THE POUR_` — ITALIC — on Oct 9, 11, 13, 14, 15 AND 16, against
+`*THE POUR*` — BOLD — on Oct 1, 2, 6, 7, 8 and 12.** **TWO OF THE SIX ARE CONSUMER EDITIONS (the Oct 13
+Shortlist and the Oct 16 Last Call), where the brand rule requires bold headlines. They shipped italic.**
+**Lesson 60's fix is `**double asterisk**`, and its STANDING RULE is to read the post back and check the
+RENDER, not the draft. The fix was correct and the standing rule simply stopped being run.**
+**THIS RUN SENT `**bold**` AND READ IT BACK: `*THE POUR*`, `*Rittenhouse...*`, `*NOTES*`, `*PIPELINE*`
+ALL RENDER BOLD. VERIFIED AGAINST THE CHANNEL, NOT THE DRAFT.**
+**THE GENERAL POINT, WHICH IS WHY IT IS HERE AND NOT IN NOTES: a lesson with a verified fix can still
+regress, because the fix lives in one run's copy and the DISCIPLINE lives nowhere unless a later run
+re-reads it. Lesson 60 was recorded, correct, and quietly not followed for six posts.**
+**THE READ-BACK IS NOW A REQUIRED STEP ON EVERY POST, EDITION OR PREP — ONE EXTRA CALL.**
+**RAISED IN NOTES ONCE, as a thing Aaron must know changed about the consumer product. NOT re-raised.**
+
 ### LESSON 81 (added Oct 18) — a board's clearing conditions can BOTH discharge and the item still die, because a bench entry records what is UNKNOWN, never what is DISQUALIFYING
 
 **WHAT HAPPENED.** The Oct 15 board called the Kirkland lead "Sunday's highest-value cheap check" and
