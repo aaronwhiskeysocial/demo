@@ -3,7 +3,123 @@
 Durable memory for the Whiskey Social whiskey-news pipeline. Authoritative over Slack
 thread copies. Human feedback in #whiskey-news overrides this file.
 
-**Last run:** 2026-10-18 (Sun), **PREP — TUESDAY REACHED FLOOR ON AN ITEM THE BOARD HAD NEVER HEARD OF,
+**Last run:** 2026-10-19 (Mon), **PREP — FRIDAY WENT 0 → 2 VERIFIED. SPOKANE'S INDEPENDENT PARTY LANDED ON THE
+LESSON 77 PATH, CHARLOTTE DIED ON ITS OWN TICKET PAGE, AND LESSON 57 REGRESSED ACROSS TWO WHOLE DOMAINS.**
+**Seven things happened:** (1) **`spokane-whiskey-festival-2026` IS VERIFIED AND STAGED FRI OCT 23.**
+**VISIT SPOKANE CARRIES IT:** `visitspokane.com/events/spokane-whiskey-festival/`, the city's official
+tourism body, listing the festival independently of organiser WA Wine Guild. **THIS IS THE VISIT MUSIC CITY
+/ EXPERIENCE CHAMPAIGN-URBANA SHAPE EXACTLY — the THIRD payout of Lesson 77's independent-party sweep on a
+local event.** Second source is **WA Wine Guild's OWN Eventbrite listing** (`Organized by WA Wine Guild`),
+which is the organiser's primary listing, not a reseller. **LINK-OUT IS VISIT SPOKANE** — it loads, it is
+the independent party, and it carries the full printable set. **BOTH ORGANISER DOMAINS EMPTY-BODIED AGAIN:
+`wawineguild.com/events/whiskey-festival/` for the SECOND run running, and `whiskeyfestival.net/whiskey-festivals/`
+for the FIRST time — the latter was the Oct 18 post's own link-out. Lesson 63: empty body is a fetch result.**
+(2) **WHAT SPOKANE SUPPORTS, AND THE ONE CLAIM THAT DIED THIS RUN.** **PRINTABLE (on BOTH pages):** Fri
+Oct 23 · Spokane Valley Event Center, **10514 E Sprague Ave, Spokane Valley WA 99206** · **21+ ("Adults 21+
+Only")** · **VIP session 5pm, Festival session 6:30pm** · walk-around tasting · souvenir **Glencairn** tasting
+glass (VIP) and souvenir shot glass (Festival) · tasting program, swag bag, photo booth, live music ·
+**Italian pasta buffet dinner (VIP only)**.
+**NOT PRINTABLE (a) — THE END TIME, AND THIS IS NEW. GENUINE CONFLICT: Visit Spokane says "5:00 PM to
+10:00 PM"; the organiser's own Eventbrite says "5 PM - 9 PM" and its agenda says "6:30 PM - 09:00 PM".**
+**The Oct 18 board had recorded 5–9pm as settled. IT IS NOT. PRINT NO END TIME.** **Both pages also carry
+"Last Call is 8:15pm / Last Pour is 8:30pm", which would RESOLVE the conflict toward 9pm — BUT THAT IS AN
+INFERENCE, NOT A SOURCED FIGURE (Lesson 58). DO NOT PRINT IT, and do not print the last-pour line itself:
+it is service-cutoff framing and it collides with the edition name.**
+**NOT PRINTABLE (b) — TICKET PRICE. Visit Spokane shows "Admission: $86.14 - $135.23", a FIFTH set of
+figures on top of the four resellers, and NO page states whether fees are included. The organiser's own
+Eventbrite listing shows NO price at all. PRINT NO PRICE.**
+**NOT PRINTABLE (c) — "70+ Spirits". Both pages agree on the figure and it STILL does not matter: a spirit
+count is volume framing, DISCUS 73.8, the Champaign precedent. THE AGREEMENT DOES NOT LIFT THE BAR.**
+**RECORDED, NOT YET PRINTABLE — A COMPLIANCE ASSET. Visit Spokane says "See our website for Safe Driver
+pricing"; the Eventbrite FAQ asks "What id included in the Designated Driver Ticket?" with the answer not
+captured. BOTH pages carry a designated-driver ticket IN SUBSTANCE, but under DIFFERENT NAMES and with no
+price or contents on either. The Sep 20 board called the DD line "a compliance asset and worth recovering."
+WEDNESDAY: get the exact name and price. It is worth one line of the blurb if it lands.**
+(3) **CHARLOTTE IS DEAD AND IT WAS A COMPLIANCE CALL, NOT A SOURCING ONE. `charlotte-whiskey-wine-fire-2026`
+MOVED TO DROPPED.** The Oct 15 flag said "CHECK THE PAGE ITSELF BEFORE STAGING." **THE PAGE WAS CHECKED AND
+THE RISK IS CONFIRMED IN THE STRONGEST FORM, ON THE OFFICIAL PAGE'S OWN SELLING COPY:** the souvenir cup
+buys **"All You Care To Taste Whiskey & Wine Tastings"**, the GA tier is described as all-you-care-to-taste,
+and **VIP's stated selling point is "one extra hour of tastings."** **The venue's own page carries it
+INDEPENDENTLY: goballantyne.com reads "Enjoy five opportunities to sip unlimited beer, wine and cocktails
+in the park."** **TWO SEPARATE PARTIES, THE SAME FRAMING.**
+**WHY THIS IS A KILL AND NOT A SUPPRESSION, which is the part worth keeping:** the Champaign precedent
+suppressed a claim and kept the link — but **Champaign's volume language was an INVENTORY COUNT ("over 200
+whiskeys"). Charlotte's is about how much the ATTENDEE may consume.** That is consumption-rate framing aimed
+squarely at the drinker, which is the exact DISCUS 73.8 target, and **it is the festival's whole proposition,
+not a detail beside it.** Writing around it leaves date, time and price. **THE DISTINCTION TO CARRY FORWARD:
+an inventory count is suppressible; an all-you-care-to-taste proposition is not linkable.**
+**SELF-AUTHORISED, DELIBERATELY. Compliance is non-negotiable, and FOUR CALLS ARE ALREADY UNANSWERED —
+a fifth question would be noise. Raised in Notes as a DECISION, not a question.**
+(4) **`whisky-advocate-boston-travel-guide-2026` — NEW KEY, VERIFIED, STAGED FRI OCT 23.** Whisky Advocate,
+**Larry Olmsted, October 7, 2026**, "A Whisky Lover's Travel Guide to Boston". **VERIFIED ON THE SINGLE-OUTLET
+ORIGINAL-COLUMN RULE — the Oct 2 bottom-shelf and Oct 16 football-roundup shape: WA's own reporting, no
+external claim to corroborate.** **THE SHAPE-REPEAT BAR EXPIRED OCT 23, so it is live for this edition.**
+**PRINTABLE:** Freedom Trail **2.5 miles, 16 historic sites** · **Bully Boy Distillers**, Roxbury, flights
+**$13**, high-rye **23%** bottled-in-bond and high-wheat **30%** straight · **Boston Harbor Distillery**,
+Dorchester, an **1859** brick building that housed the **Putnam horseshoe nail factory**, tours **$20 and
+$50** often led by founder **Rhonda Kallman**, also a founder of Boston Beer Company · **Trillium Fort Point**,
+distillery in **Canton**, head distiller **Kyle Wortz, formerly of High West**, estate grain from a **170-acre
+Connecticut farm**, Wake Robin whiskeys, flights **$22** · **The Smoke Shop BBQ by Andy Husbands**, Seaport,
+**$10 Whiskey of the Week** · **Grill 23**, flights from **$25** · Boston Harbor Distillery has a bottle shop
+at **Logan Terminal E**.
+**NOT PRINTABLE — EVERY WHISKY COUNT ON THE PAGE. ~300 and ~430 expressions at Smoke Shop, ~120 at The Dark
+Bar, 100+ at Seamark, ~250 at Grill 23, 70+ at Vermilion. ALL ARE INVENTORY VOLUME FRAMING, Champaign bar.**
+**ALSO AVOID POUR SIZES ("three 1-oz. pours") — print the flight PRICE, never the serving count.**
+**SEMIQUINCENTENNIAL FRAMING IS ON THE PAGE and Rittenhouse runs Tuesday on the same theme — DIFFERENT
+EDITIONS, three days apart, so it is not a collision, but do not lean on "250th" in both.**
+(5) **`silverthorn-reserve-10yr-blenders-art-rye-2026` — NEW KEY, BENCHED FOR A LATER FRIDAY, TWO REASONS,
+AND THE SECOND IS THE ONE THE BOARD MISSED.** Breaking Bourbon, **Eric Hasman, 2026-10-12, rated 4**,
+**$100 / 750mL**, **113 proof**, blend of **10 and 13 year old ryes**, **sourced from MGP**, **bottle 129 of
+1,400**, release **October 2026**, sample free. Full attributable sensory on the page.
+**REASON ONE: SINGLE-SOURCED.** One Tier 2 original. The BOURBON cleared on Drinkhacker as its second; the
+rye has no second source yet. **Drinkhacker is the obvious first call and was NOT spent this run.**
+**REASON TWO, AND IT IS NEW: A SAME-WEEK BRAND COLLISION THE OCT 18 BOARD DID NOT SEE.** The board recorded
+the rye as "a legitimate Friday item" and warned only that its FACTS must not cross. **But the Silverthorn
+BOURBON ships TUE OCT 20 — three days earlier, same brand, same "Blender's Art" series, same $100, 115 vs
+113 proof, 1,600 vs 1,400 bottles.** **On a twice-weekly product that is effectively back-to-back, and a
+reader would reasonably think we ran the same bottle twice.** **SELF-AUTHORISED on the Caleb's Crossing and
+Booker's/Beam precedents — collision benching is this file's own call.** **BENCHED, NOT DEAD: it is clean
+for Fri Oct 30 or later IF a second source lands.**
+**THE FACT-CROSS HAZARD IS REAL AND BOTH SETS ARE NOW RECORDED ABOVE — do not merge them (Lesson 61).**
+(6) **LESSON 57 REGRESSED, AND THIS TIME IT TOOK TWO ENTIRE DOMAINS, NOT ONE PAGE.** `whiskyadvocate.com`
+AND `breakingbourbon.com` BOTH returned **HTTP 503** to WebFetch — three consecutive failures — **minutes
+after breakingbourbon.com had served a full review to the same tool.** **A browser user-agent via curl
+returned 200 on all three: 63,153 / 66,903 / 80,324 bytes.** **THE SITES WERE NEVER DOWN.**
+**WHY THIS IS WORSE THAN THE ORIGINAL LESSON 57: a 403 reads as a wall, but a 503 reads as "the site is
+having a bad day," which is the most plausible-sounding false absence this file has met. AND IT HIT THE TWO
+OUTLETS THIS PIPELINE DEPENDS ON MOST.** **THE RULE IS NOW UNCONDITIONAL: NEVER record a fetcher failure on
+whiskyadvocate.com or breakingbourbon.com as an absence without a curl browser-UA retry. One extra call.**
+**NO "would not load" NOTES BULLET WAS FILED THIS RUN, because after the retry nothing had failed to load.**
+(7) **THE REVIEW SEAM CAME UP DRY FOR THE FIRST TIME IN SEVEN RUNS, AND THE INDEX WAS WALKED, NOT THE LIST.**
+`/bourbon-rye-whiskey-reviews-sort-by-review-date` newest entries are **Garrison Brothers Ranch Reserve PX
+and Oloroso, both October 16, 2026** — **exactly what Oct 18 found. NOTHING HAS POSTED SINCE SUNDAY.**
+**That is a real finding, not a failed search: the seam is intact, the feed simply did not publish.**
+**STILL UNWALKED, confirmed live on the index:** Garrison Brothers PX and Oloroso (Oct 16) · Curated Barrel
+Project "The Control" Batch 01 (Oct 14) · **Proof & Precedent M11 Rye — THE INDEX SAYS OCT 14, THIS FILE HAD
+RECORDED OCT 13; the index wins** · Mad River Burnt Rock (Oct 13).
+**THE SUB-$30 SEARCH WAS RUN AND RETURNED NOTHING USABLE — 15 RUNS OPEN.** Everything surfaced is an
+evergreen guide (12x75, VinePair, Tasting Table — Tier 3/4) or a release-calendar entry with no independent
+review. **No hook, no second source. AND THE EVERGREEN-VALUE QUESTION IS ALREADY OPEN WITH AARON, so the
+shape itself is blocked until he answers. NOT RE-ASKED.**
+**URGENT SWEEP — nothing fires, THIRTIETH application.** Everything returned is stale: the Barton 1792
+warehouse collapse and fish kill (**2018**), the Sixth Circuit false-advertising ruling (**March 2026**),
+Nearest Green receivership (**2025**), Silver Trail (undated, old). **NO recall, NO safety issue, NO
+litigation naming a WS partner brand or venue, NO death, in the window. DATED BEFORE WEIGHED, Lesson 35.**
+**CHANNEL: 14 messages pulled, EVERY ONE carries a masthead glyph, so every one is ours. NO HUMAN REPLIES —
+now 27 days.** **LESSON 79 APPLIED: all 14 show as Aaron; the GLYPH TEST did the work.**
+**FOUR CALLS REMAIN OPEN AND NONE WAS RE-ASKED: Tuesday board shape, evergreen value, Penelope (5th),
+Wanderfolk (8th). All compress to one `_unchanged:_` line.**
+**CADENCE: CLEAN.** Oct 18 was the newest post, Oct 19 is the next scheduled day. **Oct 19 was EMPTY before
+this run; idempotency not in play; this is the day's only post.** **Window ~24h, honoured.**
+**TUESDAY WAS NOT TOUCHED AND NOT RAIDED.** It holds four; the floor is met; instruction 1 was followed.
+**PRUNE: NOT DUE — it ran Oct 18 on two targets. Checked, not assumed.**
+
+**POSTED 06:23:24 PT. Slack: `https://whiskeysocial.slack.com/archives/C0BKL9FB2CV/p1792416204359339`.**
+**LESSON 60 STANDING RULE RUN — the post was READ BACK from the channel, not checked in the draft.**
+**`*THE POUR*`, `*Spokane Whiskey Festival*`, `*A whisky lover's travel guide to Boston*`, `*NOTES*` and
+`*PIPELINE*` ALL RENDER BOLD. `**double asterisk**` sent, single-asterisk bold received. Second clean run.**
+
+**Prior run:** 2026-10-18 (Sun), **PREP — TUESDAY REACHED FLOOR ON AN ITEM THE BOARD HAD NEVER HEARD OF,
 THE OLD FORESTER PICKUP WAS FOUND AND IT WAS THE PRESS RELEASE AGAIN, AND THE SUB-$30 LEAD CLEARED BOTH
 NAMED OBSTACLES AND DIED ON A THIRD.**
 **Nine things happened:** (1) **`rittenhouse-250th-anniversary-rye-2026` IS VERIFIED AND STAGED TUE OCT 20.
@@ -6919,55 +7035,78 @@ the file, inheriting that title from Fri Oct 16, which reached floor today.**
 
 ---
 
-## FRIDAY Oct 23 — BOARD OPENED Oct 18. ZERO VERIFIED, ONE PENDING. FLOOR IS THREE.
+## FRIDAY Oct 23 — TWO VERIFIED AGAINST A FLOOR OF THREE. *(heading rewritten Oct 19, when Spokane cleared and Boston was staged)*
 
-**THIS IS NOW THE LARGEST OPEN GAP IN THE FILE, inheriting the title from Tue Oct 20, which reached floor
-today. THREE PREP RUNS REMAIN: Mon Oct 19, Wed Oct 21, Thu Oct 22. Friday is not in trouble yet.**
+**MOVED 0 → 2 VERIFIED ON Oct 19. TWO PREP RUNS REMAIN: Wed Oct 21, Thu Oct 22. ONE ITEM SHORT.**
+**THE REMAINING GAP IS SHAPED, NOT JUST COUNTED: BOTH STAGED ITEMS ARE VENUE REGULAR. FRIDAY NEEDS A
+SOCIAL DRINKER ITEM — occasion-led, approachable, ideally food/culture adjacent.**
 
-**PENDING — `spokane-whiskey-festival-2026`. THE EVENT IS REAL; THE INDEPENDENT PARTY IS MISSING.**
-- **Fri Oct 23, 5–9pm, Spokane Valley Event Center, 10514 E Sprague Ave, Spokane Valley WA. 21+.**
-  Walk-around tasting, **VIP 5pm / general 6:30pm**, live music, photo booth. **The event is the SAME DAY
-  as the edition, which is the strongest possible `on-the-calendar` timing.**
-- **EVERY CARRIER FOUND IS THE ORGANISER OR A RESELLER.** WA Wine Guild runs it, and `whiskeyfestival.net`,
-  `wawineguild.com` and `wawinepros.org` are all the same party. **Eventbrite, cigarandbourbontickets,
-  eventsize and allevents are RESELLERS, not sources.** **This is the Nashville and Champaign shape
-  exactly.**
-- **LESSON 77 IS THE PATH, AND IT HAS NOT BEEN WALKED YET:** Visit Spokane / the county tourism body ·
-  the Spokane Valley Event Center's OWN calendar · Spokane regional press. **A search did not surface a
-  Visit Spokane listing — THAT IS NOT AN ABSENCE, it is an unsearched body. DO NOT RECORD IT AS "no
-  coverage exists."**
-- **THE ORGANISER'S OWN PAGE WOULD NOT LOAD.** `wawineguild.com/events/whiskey-festival/` returned an
-  **EMPTY BODY** to WebFetch on Oct 18. **LESSON 63: an empty fetch body is not an absence. RE-TRY MONDAY.**
-- **NO TICKET PRICE IS PRINTABLE. FOUR DIFFERENT FIGURES ACROSS RESELLERS: $145.90 · $135.23 · $124.33 VIP
-  and $67.50 GA — and the aggregator figures may include fees.** **PRINT NO PRICE until the organiser's own
-  page loads.**
-- **NO SPIRIT COUNT IS PRINTABLE, FOR TWO INDEPENDENT REASONS, AND THE SECOND SURVIVES THE FIRST.**
-  (a) Listings conflict: **70+ vs 90+**. (b) **A SPIRIT COUNT IS VOLUME FRAMING.** The Champaign precedent
-  governs — the "over 200 whiskeys" figure was deliberately not printed on Oct 16. **DO NOT PRINT IT EVEN
-  IF THE CONFLICT RESOLVES. DISCUS 73.8.**
-- **SAME-ORGANISER SERIES — DO NOT STAGE TWO.** Walla Walla **Thu Oct 22** · Spokane **Fri Oct 23** ·
-  Tri-Cities **Sat Oct 24** (Benton County Fairgrounds, 1500 S Oak St, Kennewick, 5–9pm). **WALLA WALLA IS
-  NEW and was not on the bench.** **Tri-Cities has organiser pages only and no ticket listing found.**
-  **One organiser twice in one edition is the collision to avoid.**
+**VERIFIED 1 — `spokane-whiskey-festival-2026`. LINK-OUT: `https://www.visitspokane.com/events/spokane-whiskey-festival/`**
+- **TWO SOURCES: Visit Spokane (independent city tourism body) + WA Wine Guild's OWN Eventbrite listing
+  (`Organized by WA Wine Guild` — the organiser's primary listing, NOT a reseller).** Nashville/Champaign shape.
+- **BEAT `on-the-calendar` · PERSONA `venue-regular`. The event is the SAME DAY as the edition.**
+- **PRINTABLE:** Fri Oct 23 · Spokane Valley Event Center, 10514 E Sprague Ave, Spokane Valley WA 99206 ·
+  **21+** · **VIP 5pm, Festival 6:30pm** · walk-around tasting · souvenir Glencairn glass (VIP) / shot glass
+  (Festival) · tasting program, swag bag, photo booth, live music · Italian pasta buffet dinner (VIP only).
+- **PRINT NO END TIME — NEW CONFLICT FOUND Oct 19.** Visit Spokane "5:00 PM to 10:00 PM" vs the organiser's
+  own Eventbrite "5 PM - 9 PM" / agenda "6:30 PM - 09:00 PM". **The Oct 18 record of 5–9pm was wrong to call
+  it settled.** The shared "Last Call 8:15pm / Last Pour 8:30pm" line would resolve it toward 9pm but **that
+  is an INFERENCE (Lesson 58) — and the last-pour line is itself unprintable: service-cutoff framing that
+  collides with the edition name.**
+- **PRINT NO PRICE.** Visit Spokane "Admission: $86.14 - $135.23" is a FIFTH figure set; Eventbrite shows
+  none; fees unstated everywhere.
+- **PRINT NO SPIRIT COUNT.** Both pages say "70+ Spirits". **Agreement does not lift the bar — a spirit count
+  is volume framing, DISCUS 73.8, Champaign precedent.**
+- **OPEN, WORTH ONE WEDNESDAY CALL — THE DESIGNATED-DRIVER TICKET.** Visit Spokane: "See our website for Safe
+  Driver pricing." Eventbrite FAQ: "What id included in the Designated Driver Ticket?" (answer not captured).
+  **Both carry it in substance, under different names, with no price or contents. A compliance asset (Sep 20).
+  GET THE NAME AND PRICE; it earns a line in the blurb if it lands.**
+- **BOTH ORGANISER DOMAINS EMPTY-BODY:** `wawineguild.com/events/whiskey-festival/` (2nd run running) and
+  `whiskeyfestival.net/whiskey-festivals/` (1st — it was the Oct 18 post's link-out). **Lesson 63. NOT absences.**
+- **SAME-ORGANISER SERIES — DO NOT STAGE TWO.** Walla Walla Oct 22 · Spokane Oct 23 · Tri-Cities Oct 24.
 
-**STILL UNWALKED ON THE FRIDAY FESTIVAL BENCH:**
-- **Charlotte Whiskey, Wine & Fire (Oct 24)** — **DISCUS RISK FLAGGED Oct 15: search metadata shows
-  volume-based tasting framing. CHECK THE PAGE BEFORE STAGING, and expect the Spokane spirit-count bar to
-  apply here too.**
-- **Whiskey & Wine Festival Fredericksburg VA (Oct 31)** — unverified, and **a week past this edition**, so
-  it is Nov material rather than Oct 23's.
+**VERIFIED 2 — `whisky-advocate-boston-travel-guide-2026`. LINK-OUT: `https://whiskyadvocate.com/boston-travel-guide-for-whisky-lovers`**
+- **Whisky Advocate, Larry Olmsted, October 7, 2026, "A Whisky Lover's Travel Guide to Boston".**
+- **VERIFIED ON THE SINGLE-OUTLET ORIGINAL-COLUMN RULE** — WA's own reporting, no external claim to
+  corroborate. **Same basis as the Oct 2 bottom-shelf column and the Oct 16 football roundup.**
+- **BEAT `easy-pour` · PERSONA `venue-regular`.** **THE SHAPE-REPEAT BAR EXPIRED OCT 23 — live for this edition.**
+- **PRINTABLE:** Freedom Trail 2.5 miles, 16 historic sites · **Bully Boy Distillers**, Roxbury, flights **$13**,
+  high-rye 23% bottled-in-bond, high-wheat 30% straight · **Boston Harbor Distillery**, Dorchester, an 1859
+  building that housed the Putnam horseshoe nail factory, tours **$20 and $50**, often led by founder **Rhonda
+  Kallman**, also a founder of Boston Beer Company · **Trillium Fort Point**, distillery in Canton, head
+  distiller **Kyle Wortz, formerly of High West**, estate grain from a **170-acre Connecticut farm**, Wake Robin
+  whiskeys, flights **$22** · **The Smoke Shop BBQ by Andy Husbands**, Seaport, **$10 Whiskey of the Week** ·
+  **Grill 23**, flights from **$25** · Boston Harbor Distillery bottle shop at **Logan Terminal E**.
+- **PRINT NO WHISKY COUNTS — ~300/~430 (Smoke Shop), ~120 (The Dark Bar), 100+ (Seamark), ~250 (Grill 23),
+  70+ (Vermilion). ALL inventory volume framing, Champaign bar.** **AND NO POUR SIZES — print the flight
+  PRICE, never "three 1-oz. pours".**
+- **The page leans semiquincentennial and Rittenhouse runs Tuesday on the same theme. Different editions, so
+  not a collision — but do not lean on "250th" in both.**
 
-**NON-FESTIVAL SHAPES WORTH A LOOK FOR FRIDAY, recorded so Monday does not re-derive them:**
-- **`silverthorn-reserve-10-year-blenders-art-rye-blend-batch-1` (Breaking Bourbon, Oct 12)** — a SEPARATE
-  product from the bourbon blend staged Tuesday. **Legitimate future item; do not let its facts cross into
-  the bourbon's blurb.**
-- **WA still unassessed: `/boston-travel-guide-for-whisky-lovers`** — **the shape-repeat bar expires Oct 23,
-  so it is live for THIS edition.** · `/american-craft-spirits-data-2026` · `/the-long-orchard-whiskey-cocktail-recipe`
-  · `/smores-whiskey-cocktail-recipe`. **A FIFTH CONSECUTIVE WA COCKTAIL NEEDS AARON'S SAY-SO — COUNT
-  BEFORE FETCHING.**
-- **Garrison Brothers Ranch Reserve PX and Oloroso (Breaking Bourbon, Oct 16)** — unwalked, Texas, single
-  barrel. **Likely Collector and likely expensive; Friday skews Social Drinker. Check the Aug 25
-  `garrison-brothers-cowboy-bourbon` key before any work.**
+**BENCHED — `silverthorn-reserve-10yr-blenders-art-rye-2026`. NOT FOR THIS EDITION.**
+- Breaking Bourbon, **Eric Hasman, 2026-10-12, rated 4**, **$100/750mL**, **113 proof**, blend of **10 and 13
+  year ryes**, **MGP-sourced**, **bottle 129 of 1,400**, release October 2026, sample free, full sensory.
+- **(i) SINGLE-SOURCED.** Drinkhacker cleared the BOURBON and is the obvious first call for the rye. **NOT SPENT.**
+- **(ii) SAME-WEEK BRAND COLLISION, found Oct 19.** The **bourbon ships Tue Oct 20** — three days earlier,
+  same brand, same series, same $100. **Effectively back-to-back on a twice-weekly product.**
+- **CLEAN FOR FRI OCT 30+ IF A SECOND SOURCE LANDS.** **FACT-CROSS HAZARD: bourbon = 115 proof / 1,600 bottles
+  / 10–14yr; rye = 113 proof / 1,400 bottles / 10–13yr. DO NOT MERGE (Lesson 61).**
+
+**CHEAPEST REMAINING WORK FOR THE LAST TWO PREPS, IN ORDER:**
+- **(a) A SOCIAL DRINKER ITEM IS THE ACTUAL GAP.** Occasion-led, food/culture adjacent. **Not another venue.**
+- **(b) DRINKHACKER ON THE SILVERTHORN RYE** — one fetch, and it only unlocks Oct 30, not this edition.
+- **(c) THE SPOKANE DESIGNATED-DRIVER LINE** — retry both organiser domains with a **curl browser UA**, not
+  WebFetch (see Lesson 57's extension below).
+- **(d) UNWALKED ON THE BB INDEX:** Garrison Brothers PX and Oloroso (Oct 16, likely Collector/expensive) ·
+  Curated Barrel Project "The Control" Batch 01 (Oct 14) · Proof & Precedent M11 Rye (Oct 14) · Mad River
+  Burnt Rock (Oct 13). **WALK THE INDEX AGAIN FIRST — it is the page that carries dates.**
+- **(e) WA unassessed: `/american-craft-spirits-data-2026` (fetched 200 via curl, NOT yet read) ·
+  `/the-long-orchard-whiskey-cocktail-recipe` · `/smores-whiskey-cocktail-recipe`. A FIFTH CONSECUTIVE WA
+  COCKTAIL NEEDS AARON'S SAY-SO — COUNT BEFORE FETCHING.** **NOTE: Boston already makes WA the second
+  Friday outlet; a third WA item would make the edition WA-heavy.**
+- **(f) Whiskey & Wine Festival Fredericksburg VA (Oct 31)** — Nov material, not this edition.
+
+**DROPPED FROM THIS BOARD Oct 19 — Charlotte Whiskey, Wine & Fire. See DROPPED / DO NOT REDISCOVER.**
 
 ---
 
@@ -9262,6 +9401,26 @@ and nothing is lost.** 22 and 23 are captured here early so their source section
 
 ## DEDUP — closed to re-use
 
+**Added Oct 19 (STAGED / BENCHED / DROPPED — closed to re-scouting, NOT published):**
+**`whisky-advocate-boston-travel-guide-2026`** — **NEW KEY, VERIFIED, STAGED Fri Oct 23.** Whisky Advocate,
+**Larry Olmsted, 2026-10-07**. **Verified on the single-outlet original-column rule (Oct 2 / Oct 16 shape).**
+**Full ledger on the FRIDAY Oct 23 board, including the TWO HARD BARS: print NO whisky counts (~300/~430,
+~120, 100+, ~250, 70+ are all inventory volume framing) and NO pour sizes — print the flight PRICE only.**
+**Beat `easy-pour`, persona venue-regular. The shape-repeat bar expired Oct 23.**
+**`silverthorn-reserve-10yr-blenders-art-rye-2026`** — **NEW KEY, BENCHED Oct 19, NOT for Oct 23. TWO
+REASONS.** Breaking Bourbon (Eric Hasman, 2026-10-12, rated 4), $100/750mL, 113 proof, 10 and 13 year MGP
+ryes, bottle 129 of 1,400. **(i) SINGLE-SOURCED — Drinkhacker is the untried first call. (ii) SAME-WEEK
+BRAND COLLISION: the Silverthorn BOURBON ships Tue Oct 20, three days earlier, same series, same $100.**
+**Clean for Fri Oct 30+ if a second source lands. FACT-CROSS HAZARD — bourbon is 115 proof / 1,600 bottles /
+10–14yr; DO NOT MERGE (Lesson 61).**
+**`charlotte-whiskey-wine-fire-2026`** — **NEW KEY, DROPPED Oct 19 ON DISCUS 73.8.** Full reasoning in
+DROPPED / DO NOT REDISCOVER. **The rule it establishes: an inventory count is suppressible; an
+all-you-care-to-taste proposition is not linkable.**
+**`spokane-whiskey-festival-2026`** — **STATUS CHANGED Oct 19: PENDING → VERIFIED, STAGED Fri Oct 23.**
+Visit Spokane (independent tourism body) + WA Wine Guild's own Eventbrite listing. **Full ledger on the
+FRIDAY Oct 23 board, including the NEW end-time conflict (5–10pm vs 5–9pm — PRINT NO END TIME), the
+standing no-price and no-spirit-count bars, and the open designated-driver line.**
+
 **Added Oct 18 (STAGED / ASSESSED / BLOCKED — closed to re-scouting, NOT published):**
 **`rittenhouse-250th-anniversary-rye-2026`** — **NEW KEY, VERIFIED, STAGED Tue Oct 20.** Breaking Bourbon
 (Nick Beiter, 2026-10-15, rated 3.5) + **Heaven Hill's own blog release (Tier 1 primary)**. **Full ledger
@@ -10567,6 +10726,20 @@ All four keys were correctly in DEDUP; it was only the URL register that had the
 
 ## DROPPED / DO NOT REDISCOVER
 
+**`charlotte-whiskey-wine-fire-2026` — DROPPED Oct 19 ON DISCUS 73.8. COMPLIANCE, NOT SOURCING.**
+Charlotte Whiskey, Wine & Fire, Sat Oct 24 2026, Ballantyne's Backyard, 11611 North Community House Road.
+**The official page `charlotte.whiskeywinefire.com` sells the souvenir cup as "All You Care To Taste Whiskey
+& Wine Tastings", describes the GA tier as all-you-care-to-taste, and states VIP's selling point as "one
+extra hour of tastings."** **The venue's own page `goballantyne.com` carries it INDEPENDENTLY: "Enjoy five
+opportunities to sip unlimited beer, wine and cocktails in the park."** **TWO PARTIES, SAME FRAMING.**
+**WHY A KILL AND NOT A SUPPRESSION — THE DISTINCTION TO CARRY FORWARD:** Champaign's "over 200 whiskeys" was
+an **INVENTORY COUNT**, suppressible with the link kept. **Charlotte's framing is about how much the ATTENDEE
+may consume — consumption-rate framing aimed at the drinker, the exact DISCUS 73.8 target — and it is the
+festival's whole proposition, not a detail beside it.** **AN INVENTORY COUNT IS SUPPRESSIBLE; AN
+ALL-YOU-CARE-TO-TASTE PROPOSITION IS NOT LINKABLE.**
+**Also 94% / 85% sold out on the page's own claim.** **SELF-AUTHORISED — compliance is non-negotiable and
+four calls were already unanswered. DO NOT REDISCOVER. The 2027 edition reopens only if the framing changes.**
+
 - **`atlanta-magazine-whiskey-festival-2026` — DROPPED Oct 18, DEAD BY EVENT DATE.** The festival ran
   **Sat Oct 17** and has passed. It was verified but sold out both tiers, and the waitlist question went to
   Aaron **five times without an answer**. **The Oct 15 instruction was explicit: after Sunday the question
@@ -10735,88 +10908,74 @@ and the fifth coconut item) · `discus-congressional-fly-in-2026`.
 
 ---
 
-## NEXT RUN (Mon Oct 19 — PREP. Then Tue Oct 20 SHORTLIST, Wed Oct 21 PREP, Thu Oct 22 PREP, Fri Oct 23 LAST CALL.)
+## NEXT RUN (Wed Oct 21 — PREP. Then Thu Oct 22 PREP, Fri Oct 23 LAST CALL, Sun Oct 25 PREP.)
 
-**MONDAY IS A PREP RUN. Glyph `:mag:`, internal plain operator language, NO UTMs, raw links, no consumer
+**WEDNESDAY IS A PREP RUN. Glyph `:mag:`, internal plain operator language, NO UTMs, raw links, no consumer
 voice.** Load `whiskey-social-news-roundup` (present). **`whiskey-social-brand` is STILL ABSENT — it stays
-compressed as `_unchanged:_` and never gets a fresh bullet.** **Window is ~24h (Sunday ran yesterday).**
+compressed as `_unchanged:_` and never gets a fresh bullet.** **Window is ~48h (Mon ran, Tue is an edition
+day whose run does not scout).**
 
-0a. **CADENCE: Oct 18 should be the newest post and Oct 19 is the next scheduled day. Nothing to report.
-   Raise cadence only on a NEW miss.** Oct 4/5 stays SPENT. **THIN-EDITION WATCH: Oct 9 remains the only
-   one.**
+0a. **CADENCE: Oct 20 (the Shortlist) should be the newest post and Oct 21 is the next scheduled day.
+   Nothing to report. Raise cadence only on a NEW miss.** Oct 4/5 stays SPENT. **THIN-EDITION WATCH: Oct 9
+   remains the only one.**
 0b. **CHANNEL READ — `slack_read_channel`, `response_format: concise`, `limit: 14`.** **THE MASTHEAD-GLYPH
    TEST IS THE ONLY RELIABLE ONE (Lesson 79) — every post shows as Aaron.** **NO HUMAN HAS POSTED IN
-   26 DAYS. If that changes, it outranks everything below.**
+   28 DAYS. If that changes, it outranks everything below.**
 
-1. **FRIDAY IS THE WHOLE JOB NOW. TUESDAY IS AT FLOOR AND IS NOT TO BE TOUCHED.** Tue Oct 20 holds FOUR
-   (`rittenhouse-250th-anniversary-rye-2026` VERIFIED · `silverthorn-reserve-10yr-blenders-art-2026`
-   VERIFIED · `redwood-empire-hyperion-batch-001-2026` SINGLE-SOURCED/FLAGGED ·
-   `old-forester-tribute-series-2026` PENDING). **DO NOT PAD IT AND DO NOT RAID IT FOR FRIDAY.**
-   **Fri Oct 23 is at ZERO VERIFIED, ONE PENDING, against a floor of THREE, with three preps left
-   (Mon, Wed, Thu).**
-2. **THE CHEAPEST FRIDAY WORK, IN ORDER (Lesson 49 — work the bench before opening a seam):**
-   **(a) SPOKANE NEEDS ITS INDEPENDENT PARTY, AND LESSON 77 NAMES WHERE TO LOOK:** Visit Spokane / the
-   county tourism body · **the Spokane Valley Event Center's OWN calendar** · Spokane regional press.
-   **GO THERE BEFORE RE-SEARCHING THE ORGANISER.** **RE-TRY `wawineguild.com/events/whiskey-festival/` —
-   it returned an EMPTY BODY Oct 18, which is a fetch result, not an absence (Lesson 63).**
-   **PRINT NO TICKET PRICE (four reseller figures, fees unknown) AND NO SPIRIT COUNT (conflicting 70+/90+
-   AND volume framing — the Champaign bar, which survives even if the conflict resolves).**
-   **(b) CHARLOTTE WHISKEY, WINE & FIRE (Oct 24) IS THE NEXT FESTIVAL AND IT CARRIES A FLAGGED DISCUS
-   RISK — CHECK THE PAGE ITSELF BEFORE STAGING.** **(c) WA's `/boston-travel-guide-for-whisky-lovers` —
-   THE SHAPE-REPEAT BAR EXPIRES Oct 23, so it is LIVE for this edition.** **COUNT WA COCKTAILS BEFORE
-   FETCHING EITHER COCKTAIL PAGE — a fifth consecutive one needs Aaron's say-so.**
-   **(d) `silverthorn-reserve-10-year-blenders-art-rye-blend-batch-1` (BB Oct 12) is a SEPARATE product
-   from Tuesday's bourbon blend and is a legitimate Friday item — but DO NOT let its facts cross.**
-3. **DO NOT STAGE TWO WA WINE GUILD FESTIVALS.** Walla Walla (Oct 22), Spokane (Oct 23) and Tri-Cities
-   (Oct 24) are ONE ORGANISER. **Spokane is the one on the board; the others are the same party, not
-   second sources and not additional items.**
-4. **TWO QUESTIONS ARE OPEN WITH AARON AND NEITHER IS TO BE RE-ASKED, ONLY CARRIED:**
-   **(a) THE TUESDAY BOARD SHAPE — two flagged single-sourced items (Hyperion AND Tribute Series) in one
-   edition, which this file has never run.** **Asked Oct 18. If he does not answer by Tuesday morning,
-   the fallback is to run ONE flagged item, and HYPERION IS THE ONE** (Tier 2 original with printable
-   attributed sensory, versus a bare company release). **Tribute Series would then hold, not die.**
-   **(b) THE EVERGREEN-VALUE RULE behind Kirkland — may the digest run a sub-$30 item with no news peg?**
-   **Asked Oct 18. SHORTBARREL AND PENELOPE BOTH RIDE ON THE SEPARATE, OLDER PENELOPE QUESTION.**
-   **All compress to `_unchanged:_`. FOUR unanswered calls is a signal about HIS attention, not ours.**
-   **ATLANTA IS RETIRED — DROPPED Oct 18 by event date. DO NOT ASK A SIXTH TIME.**
-5. **REVIEW FEEDS REMAIN THE PROVEN SEAM — SIX RUNS DEEP — BUT WALK THE INDEX, NOT A SAVED LIST.**
-   Oct 18 found FOUR reviews newer than the four the Oct 15 board had named as "Sunday's first call."
-   **`/bourbon-rye-whiskey-reviews-sort-by-review-date` IS THE PAGE THAT CARRIES DATES; the plain
-   `/bourbon-rye-whiskey-reviews` index is sorted by NAME and shows none.** **`/review` alone 404s.**
-   **STILL UNWALKED: Garrison Brothers Ranch Reserve PX and Oloroso (Oct 16) · Curated Barrel Project
-   "The Control" Batch 01 (Oct 14) · Proof & Precedent M11 Rye (Oct 13) · Mad River Burnt Rock Bourbon
-   (Oct 13 — a DIFFERENT product from Double Tapped Maple, rejected at 1.5; the brand is not closed).**
-6. **DO NOT RE-WALK WHAT IS CLOSED.** Kirkland (**assessed Oct 18, dead on hook — reopens only on Aaron's
-   evergreen-value answer**) · Shortbarrel Batch IV (**DEDUP HIT, published Sep 4**) · Old Forester
-   Birthday Bourbon (**PUBLISHED Sep 15**) · Bulleit '87 (**covered Jul 25; THIRD refusal — expect a
-   fourth**) · Mad River Double Tapped Maple (1.5) · Atlanta (**dropped by date**) · Champaign, Booker's
-   and the WA football roundup (**PUBLISHED Oct 16**) · Fresno and OKC Whiskey Riot (single-sourced) ·
-   Silicon Valley Whisk(e)y Festival (one organiser) · Lucky D RTDs · Two Stacks · Chip Tate's Gran Nota ·
-   **GlenWyvis and Great Jones (business failures: not overrides, not consumer items — the Sep 23 ground)**.
-7. **ON ANY LOCAL OR VENUE ITEM, GO STRAIGHT TO THE INDEPENDENT-PARTY SWEEP (Lesson 77, FOUR PAYOUTS).**
-   City/county tourism body, the venue's own calendar, the host businesses, the licensing authority —
-   BEFORE regional press, and never set a recheck on a blocked page as the primary path.
-   **THEN LESSON 80: when a page resolves an old contradiction, re-ask which INDEPENDENT party carries
-   the claim.** **AND NOW LESSON 81: when a bench entry's last named condition clears, RE-ASK THE WHOLE
-   QUESTION FROM THE TOP — the entry lists what was unknown, never what is disqualifying.**
-8. **THREE PAGES ARE BLOCKED OR EMPTY AND ALL ARE REAL, NOT ABSENT:** `smilepolitely.com` (403) ·
-   `thedrinksbusiness.com` / `scotsman.com` (403) · **`wawineguild.com/events/whiskey-festival/` (EMPTY
-   BODY, Oct 18)**. **Lesson 63. Never record them as "no coverage exists."**
-9. **PRUNE — NOT DUE MONDAY. It ran Oct 18 with all four arms on TWO targets** (`FRIDAY Aug 28 — staging
-   record as of Aug 26`, 54 lines; and the `PUBLISHED Tue Sep 15` DEDUP block, 19 lines, after the held
-   migration). **Next eligibility: CHECK, DO NOT ASSUME.** **DO NOT PRUNE: `FRIDAY Aug 21 — STAGING
-   RECORD`, `TUESDAY Aug 25 — ALL FOUR PUBLISHED`, `TUESDAY Sep 1 — ALL FOUR PUBLISHED`, `FRIDAY Sep 4 —
-   FOUR STAGED`, `FRIDAY Aug 28 — ALL FOUR PUBLISHED` — each is now the only record of its day.**
-   **ARM 4 FOUND NO ORPHANED URL for the first time in four prunes — but it DID find an orphaned RULE.
-   Check for both from now on.** **Never prune DEDUP, OPEN GAPS, COLLISION FLAGS, boards or LESSONS.**
-10. **THE FILE IS OVER 11,800 LINES AND THAT IS A STANDING COST ON EVERY RUN.** It is read by grep, never
-   whole. **Keep long-form reasoning here rather than in Slack — but the prune must keep pace, one
-   section per run.**
-11. **THE EDITION-MORNING RE-FETCH IS WHERE ITEMS ARE ACTUALLY DECIDED, NOT A FORMALITY.** Oct 16 proved
-   it twice on ONE page. **RE-FETCH ALL FOUR TUESDAY LINK-OUTS and READ THE RAILS** — Oct 13 found
-   Macallan in a related-links rail, Oct 9 the Washback cigar lounge, Oct 16 the Kirkland lead.
-   **ON RITTENHOUSE SPECIFICALLY, RE-CHECK THAT THE BOTTLE-COUNT BAR STILL HOLDS: if Heaven Hill has
-   since published a real count, it becomes printable; the reviewer's estimate never does.**
+1. **FRIDAY IS STILL THE WHOLE JOB, AND IT IS ONE ITEM SHORT WITH TWO PREPS LEFT (Wed, Thu).**
+   Fri Oct 23 holds TWO VERIFIED (`spokane-whiskey-festival-2026` · `whisky-advocate-boston-travel-guide-2026`)
+   against a floor of THREE. **TUESDAY IS PUBLISHED BY THEN — do not re-open it.**
+2. **THE GAP IS SHAPED, NOT JUST COUNTED. BOTH STAGED ITEMS ARE VENUE REGULAR.** **FIND A SOCIAL DRINKER
+   ITEM: occasion-led, approachable, ideally food/culture adjacent. NOT another venue, NOT another festival.**
+   **A third Venue Regular item clears the count and fails the coverage floor — do not take the easy one.**
+3. **CHEAPEST WORK, IN ORDER (Lesson 49):** **(a) the Social Drinker item above.**
+   **(b) THE SPOKANE DESIGNATED-DRIVER LINE — retry `wawineguild.com/events/whiskey-festival/` and
+   `whiskeyfestival.net/whiskey-festivals/` WITH A CURL BROWSER UA, not WebFetch.** Both empty-bodied to
+   WebFetch Oct 19. **Get the exact ticket name and price; it is a compliance asset worth a blurb line.**
+   **(c) WALK `/bourbon-rye-whiskey-reviews-sort-by-review-date` AGAIN — the index, never a saved list.**
+   Nothing newer than Oct 16 as of Oct 19. **(d) Drinkhacker on the Silverthorn rye — unlocks Oct 30, not
+   Oct 23, so it is LAST.**
+4. **DO NOT STAGE A THIRD WHISKY ADVOCATE ITEM WITHOUT COUNTING.** Boston already makes WA one of Friday's
+   two outlets. **`/american-craft-spirits-data-2026` fetched 200 via curl but was NOT read — it is the
+   best remaining WA candidate and it is a DATA piece, not a cocktail.** **A FIFTH CONSECUTIVE WA COCKTAIL
+   STILL NEEDS AARON'S SAY-SO — count before fetching either cocktail page.**
+5. **LESSON 57 IS NOW UNCONDITIONAL AND IT IS THE RUN'S BIGGEST OPERATIONAL CHANGE.** **`whiskyadvocate.com`
+   and `breakingbourbon.com` both 503'd WebFetch on Oct 19 and both returned 200 to a curl browser UA.**
+   **NEVER record a fetcher failure on either domain as an absence without the curl retry.** **A 503 is the
+   most convincing false absence this file has met — it reads as the site's problem, not ours.**
+6. **FOUR CALLS ARE OPEN WITH AARON AND NONE IS TO BE RE-ASKED, ONLY CARRIED:** **(a) the Tuesday board
+   shape (asked Oct 18 — if unanswered Tuesday morning, run ONE flagged item and HYPERION IS THE ONE).**
+   **(b) the evergreen-value rule behind Kirkland (asked Oct 18) — SHORTBARREL AND PENELOPE RIDE ON THE
+   OLDER PENELOPE QUESTION.** **(c) PENELOPE (5th). (d) WANDERFOLK (8th).** **All compress to
+   `_unchanged:_`. FIVE unanswered calls would be a signal about HIS attention — DO NOT ADD A FIFTH
+   QUESTION. Where a call is this file's to make, MAKE IT and report it as a decision.**
+   **CHARLOTTE WAS DECIDED THAT WAY ON Oct 19 and it was correct. ATLANTA IS RETIRED — do not re-ask.**
+7. **DO NOT RE-WALK WHAT IS CLOSED.** **Charlotte Whiskey, Wine & Fire (DROPPED Oct 19 on DISCUS — do not
+   rediscover)** · Kirkland (dead on hook; reopens only on Aaron's evergreen answer) · Shortbarrel Batch IV
+   (DEDUP, published Sep 4) · Old Forester Birthday Bourbon (published Sep 15) · Bulleit '87 (covered
+   Jul 25; expect a fourth refusal) · Mad River Double Tapped Maple (1.5) · Atlanta (dropped by date) ·
+   Champaign, Booker's and the WA football roundup (published Oct 16) · Fresno and OKC Whiskey Riot
+   (single-sourced) · Silicon Valley Whisk(e)y Festival (one organiser) · Lucky D RTDs · Two Stacks ·
+   Chip Tate's Gran Nota · GlenWyvis and Great Jones (business failures, the Sep 23 ground) ·
+   **Walla Walla Oct 22 and Tri-Cities Oct 24 (SAME ORGANISER AS SPOKANE — not second sources, not items).**
+8. **ON ANY LOCAL OR VENUE ITEM, GO STRAIGHT TO THE INDEPENDENT-PARTY SWEEP (Lesson 77 — FIVE PAYOUTS NOW,
+   Visit Spokane being the latest).** City/county tourism body, the venue's own calendar, the host
+   businesses, the licensing authority — BEFORE regional press. **THEN Lesson 80 (re-ask WHICH independent
+   party carries the claim) AND Lesson 81 (when a bench entry's last named condition clears, re-ask the
+   WHOLE question from the top).**
+9. **THE SPOKANE END-TIME CONFLICT IS A LIVE EDITION-MORNING TASK.** The Oct 18 record called 5–9pm settled
+   and it is not. **If Friday's re-fetch does not resolve it from a source, PRINT NO END TIME. Do not
+   resolve it from the last-pour line — that is an inference (Lesson 58) and the line is itself unprintable.**
+10. **PRUNE — CHECK ELIGIBILITY, DO NOT ASSUME.** It ran Oct 18 on two targets and did NOT run Oct 19.
+   **The file is now over 12,200 lines and growing faster than the prune is cutting — this run added ~180
+   lines and removed none. THAT IS THE TREND TO FIX.** **DO NOT PRUNE: `FRIDAY Aug 21 — STAGING RECORD`,
+   `TUESDAY Aug 25 — ALL FOUR PUBLISHED`, `TUESDAY Sep 1 — ALL FOUR PUBLISHED`, `FRIDAY Sep 4 — FOUR
+   STAGED`, `FRIDAY Aug 28 — ALL FOUR PUBLISHED` — each is the only record of its day.** **ARM 4: check for
+   orphaned URLs AND orphaned RULES.** **Never prune DEDUP, OPEN GAPS, COLLISION FLAGS, boards or LESSONS.**
+11. **THE EDITION-MORNING RE-FETCH IS WHERE ITEMS ARE DECIDED.** **RE-FETCH BOTH FRIDAY LINK-OUTS AND READ
+   THE RAILS** — Oct 13 found Macallan in a related-links rail, Oct 9 the Washback cigar lounge, Oct 16 the
+   Kirkland lead. **AND READ THE POST BACK AFTER SENDING: check the RENDER, not the draft (Lesson 60).**
+   **Send `**bold**`; the channel converts it to single-asterisk bold.**
 
 ## LESSON 77 (added Oct 14) — when a source will not load, stop asking "how do I open this page" and start asking "who else would have to know about this"
 
@@ -11682,6 +11841,15 @@ board so a later run cannot reach for it.** **This file already had the rule for
 
 ---
 ## LESSON 57 (added Sep 15) — a blocked user-agent looks exactly like a dead website, and a staged item with no URL is not staged
+
+**EXTENDED Oct 19 — AND THE EXTENSION MATTERS MORE THAN THE ORIGINAL.** The original lesson was about a
+**403** on one site. **On Oct 19 `whiskyadvocate.com` AND `breakingbourbon.com` both returned HTTP 503 to
+WebFetch — three consecutive failures, minutes after breakingbourbon.com had served a full review to the
+same tool. A curl browser user-agent returned 200 on all three (63,153 / 66,903 / 80,324 bytes). THE SITES
+WERE NEVER DOWN.** **A 403 reads as a wall; a 503 reads as "the site is having a bad day," which makes it
+the most plausible-sounding false absence this file has met — and it hit the two outlets this pipeline
+depends on most.** **UNCONDITIONAL RULE: never record a fetcher failure on whiskyadvocate.com or
+breakingbourbon.com as an absence without a curl browser-UA retry. One extra call.**
 
 **What happened, part one.** On edition morning WebFetch returned **503 Service Unavailable on
 every whiskyadvocate.com page** — three different URLs, two retries, including a trailing-slash
