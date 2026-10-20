@@ -3,7 +3,90 @@
 Durable memory for the Whiskey Social whiskey-news pipeline. Authoritative over Slack
 thread copies. Human feedback in #whiskey-news overrides this file.
 
-**Last run:** 2026-10-19 (Mon), **PREP — FRIDAY WENT 0 → 2 VERIFIED. SPOKANE'S INDEPENDENT PARTY LANDED ON THE
+**Last run:** 2026-10-20 (Tue), **THE SHORTLIST PUBLISHED SHORT AT THREE. OLD FORESTER WAS HELD ON A
+SOURCING GROUND, NOT THE BOARD-SHAPE QUESTION; TWO SILVERTHORN BARS WERE FALSIFIED BY THE EDITION-MORNING
+RE-FETCH; AND THE PRUNE'S ARM 4 FOUND LESSON 60'S OWN STANDING RULE ABOUT TO BE DELETED.**
+**Seven things happened:** (1) **THE EDITION SHIPPED THREE ITEMS AGAINST A FLOOR OF FOUR.** Published:
+`silverthorn-reserve-10yr-blenders-art-2026` (`whats-dropping`/collector, LED) ·
+`rittenhouse-250th-anniversary-rye-2026` (`try-this-next`/explorer) ·
+`redwood-empire-hyperion-batch-001-2026` (`try-this-next`/explorer, **single-sourced and FLAGGED**).
+**ALL THREE LINK-OUTS ARE BREAKING BOURBON — the first single-outlet edition this file has ever run.**
+Recorded as machinery, not raised in Notes: it is a consequence of the review-feed rail that has supplied
+nearly every verified item since Oct 11, and it is worth watching rather than fixing.
+(2) **OLD FORESTER WAS HELD, AND THE GROUND IS A SOURCING ONE, WHICH IS WHY IT WAS SELF-AUTHORISED.**
+The standing disposition since Oct 15 was "ships single-sourced and FLAGGED unless Aaron says hold," and
+the board-shape question (two flagged items in one edition) went to him Oct 18 and Oct 19 UNANSWERED.
+**Holding only ONE of the two flagged items keeps the edition inside precedent and does not decide his
+question.** **THE REASON HYPERION WAS THE ONE THAT RAN, AND IT IS A DISTINCTION THIS FILE HAD NOT DRAWN:
+all three "single-sourced and flagged" precedents — Glenlivet Sep 29, the WA bottom-shelf column Oct 2,
+Macallan Oct 13 — SHIPPED ON A TIER 1-2 EDITORIAL LINK-OUT. Old Forester's would have been a bare
+PRNewswire release with no printable sensory, no printable bottle size and no byline.** **"Flagged" has
+always meant one countable source behind an editorial page, never a press release as the thing the reader
+is sent to read. The link is our recommendation.** **THE RULE TO CARRY: a flagged item still needs a
+Tier 1-2 EDITORIAL link-out; a press release is a source, not a destination.**
+(3) **A FIFTH PICKUP SEARCH FOR OLD FORESTER RETURNED ONE NEW CARRIER AND IT IS THE SAME DOCUMENT.**
+`breakingbourbon.com/bourbon-whiskey-press-releases/old-forester-debuts-tribute-series-...` is Breaking
+Bourbon's PRESS-RELEASE path, not its `/review/` path. **Same ground as Russell's Reserve Oct 8: a Tier 2
+outlet's release section is the release, not that outlet's reporting.** **FIVE DAYS OLD, STILL ZERO
+INDEPENDENT PICKUP. BENCHED, NOT DEAD — an independent review mints it.**
+(4) **THE EDITION-MORNING RE-FETCH FALSIFIED TWO SILVERTHORN BARS AND ADDED THE ITEM'S REAL HOOK.**
+All three pages returned HTTP 200 to curl with a browser UA (65,861 / 63,956 / 61,993 bytes).
+**FALSIFIED (a): the Oct 15 board said "do not print 'eight barrels' as though BB said it." BREAKING
+BOURBON DOES SAY IT** — "combines a total of eight barrels in the blend," and its own schema description
+reads "an 8-barrel blend." **The bar was wrong and eight barrels is printable off the link-out. It was
+printed.** **FALSIFIED (b): the board recorded no rating for the bourbon; the page reads 3.5, not the
+rye's 4. Do not let the two cross (Lesson 61).**
+**THE HOOK THE BOARD NEVER HELD, and it is the reason the item led:** Silverthorn Reserve is an
+independent producer in **Baltimore, Maryland**, debuted earlier in 2026, **founded by Drew Thorn, former
+CEO of Sagamore Spirit, where he served over a decade.** The Blender's Art series uses **10 barrels or
+fewer per release**, and the company is **deliberately transparent — age, percentage, source and mashbill
+on the label.** **A board can hold every number of an item and still miss what makes it worth forwarding.**
+**NEW HARD BAR: THE SOURCE DISTILLERIES ARE NOT PRINTABLE. Breaking Bourbon says Barton 1792, MGP and a
+Georgia ghost distillery are "rumored." NEVER PRINT THEM AS FACT.**
+(5) **RITTENHOUSE AND HYPERION RE-CONFIRMED CLEAN AGAINST THEIR LEDGERS, AND EVERY STANDING BAR HELD.**
+Rittenhouse: 90 barrels, $100/750mL, 51/35/14, May 2026, 10yr BiB, Beiter 3.5, "about $25" for the
+standard bottle as his own statement — **the 15,000-20,000 bottle count stayed unprinted (his evaporation
+estimate) and no age was printed for standard Rittenhouse.** Hyperion: $99, 110 proof, NAS/7-14 company,
+32/30/25/13 across 10 mashbills, Patz with Duckhorn, single malt all Redwood Empire-distilled —
+**the 12,000-bottle count stayed unprinted (BB-only) and NO CITY was printed; "California" alone is
+uncontested and was used.** **Beiter's "the best whiskey I've had from the company yet" ran as the
+edition's one quote: 11 words, named, off the link-out.**
+(6) **THE PRUNE RAN AND ARM 4 PAID OUT TWICE, THE SECOND TIME ON LESSON 60 ITSELF.**
+Target: DEDUP block `PUBLISHED Fri Sep 18` (32 days). **ARM 1 passed** — all three keys survive in richer
+DEDUP entries (Sep 13 for Penelope, Sep 10 for MGP, Sep 11 for the spa list). **ARM 2: the block carried
+no URLs; nothing to recover.** **ARM 3 passed** — its "a single source is a sourcing note, not a lesser
+form of coverage" rule already lives migrated in the DEDUP header as "A FLAG IS NOT A LICENCE TO RE-RUN."
+**ARM 4 FOUND TWO ORPHANS AND BOTH WERE MIGRATED BEFORE THE DELETE: (i) MGP's and the spa list's
+new-development reopen conditions existed NOWHERE else — they are now carried inside their own Sep 10 and
+Sep 11 entries.** **(ii) AND THE BIGGER ONE: LESSON 60'S STANDING RULE — read the post back from the
+channel and check the RENDER — had NO lesson block of its own. It lived only inside the Oct 18 header
+block, which this run was about to drop.** **Deleting it would have re-created the exact six-post
+regression Lesson 60 was written about: "the DISCIPLINE lives nowhere unless a later run re-reads it."**
+**IT NOW HAS ITS OWN `### LESSON 60` BLOCK.** **THE GENERAL POINT: the prune's arms protect the run log,
+but the HEADER is pruned every single run with no arms at all, and it is where fresh standing rules land
+first. Any rule stated in a header must be promoted to a lesson block before that header rolls off.**
+(7) **URGENT SWEEP — nothing fires, THIRTY-FIRST application.** Everything returned is stale or undated:
+Kimbland Distillery FSS warning (**December 2025**), Templeton Rye class action (**2014**), the dropped
+Tennessee/Diageo storage probe (old AP), the Jim Beam warehouse fire and fish kill (2018), SWA v Virginia
+Distillery (old), Michael Collins v Beam (undated). **NO recall, NO safety issue, NO litigation naming a
+WS partner brand or venue, NO death, in the window. DATED BEFORE WEIGHED, Lesson 35.**
+**CHANNEL: 15 messages pulled, EVERY ONE carries a masthead glyph, so every one is ours. NO HUMAN REPLIES
+— now 28 days.** **LESSON 79 APPLIED: all 15 show as Aaron; the GLYPH TEST did the work.**
+**FOUR CALLS REMAIN OPEN AND NONE WAS RE-ASKED: Tuesday board shape, evergreen value, Penelope (6th),
+Wanderfolk (9th). All compress to one `_unchanged:_` line.**
+**THIN-EDITION CADENCE: REPORTED, AS THE OCT 12 INSTRUCTION REQUIRES.** Oct 9 ran short at two; today is
+the SECOND short edition in a rolling two weeks. **It went in the edition itself as a Notes bullet, not
+pre-reported.**
+**CADENCE: CLEAN.** Oct 19 was the newest post, Oct 20 is the next scheduled day. **Oct 20 was EMPTY
+before this run; idempotency not in play; this is the day's only post.** **Window ~24h, honoured.**
+**FRI OCT 23 WAS NOT RAIDED.** It holds two against a floor of three and is the open board.
+
+**POSTED 06:22:26 PT. Slack: `https://whiskeysocial.slack.com/archives/C0BKL9FB2CV/p1792502546079339`.**
+**LESSON 60 STANDING RULE RUN — the post was READ BACK from the channel, not checked in the draft.**
+**`*THE POUR*`, `*WHAT'S DROPPING*`, `*TRY THIS NEXT*`, all three item headlines, `*NOTES*` and
+`*PIPELINE*` ALL RENDER BOLD. `**double asterisk**` sent, single-asterisk bold received. THIRD clean run.**
+
+**Prior run:** 2026-10-19 (Mon), **PREP — FRIDAY WENT 0 → 2 VERIFIED. SPOKANE'S INDEPENDENT PARTY LANDED ON THE
 LESSON 77 PATH, CHARLOTTE DIED ON ITS OWN TICKET PAGE, AND LESSON 57 REGRESSED ACROSS TWO WHOLE DOMAINS.**
 **Seven things happened:** (1) **`spokane-whiskey-festival-2026` IS VERIFIED AND STAGED FRI OCT 23.**
 **VISIT SPOKANE CARRIES IT:** `visitspokane.com/events/spokane-whiskey-festival/`, the city's official
@@ -119,132 +202,25 @@ this run; idempotency not in play; this is the day's only post.** **Window ~24h,
 **`*THE POUR*`, `*Spokane Whiskey Festival*`, `*A whisky lover's travel guide to Boston*`, `*NOTES*` and
 `*PIPELINE*` ALL RENDER BOLD. `**double asterisk**` sent, single-asterisk bold received. Second clean run.**
 
-**Prior run:** 2026-10-18 (Sun), **PREP — TUESDAY REACHED FLOOR ON AN ITEM THE BOARD HAD NEVER HEARD OF,
-THE OLD FORESTER PICKUP WAS FOUND AND IT WAS THE PRESS RELEASE AGAIN, AND THE SUB-$30 LEAD CLEARED BOTH
-NAMED OBSTACLES AND DIED ON A THIRD.**
-**Nine things happened:** (1) **`rittenhouse-250th-anniversary-rye-2026` IS VERIFIED AND STAGED TUE OCT 20.
-THE BOARD IS AT FOUR — FLOOR MET, with Mon Oct 19 still in hand.** Breaking Bourbon, **Nick Beiter,
-2026-10-15**, own-sample review, **rated 3.5**, plus **Heaven Hill's own blog release (Tier 1 primary)**.
-**Two independent sources: a Tier 1 primary and a Tier 2 ORIGINAL — own tasting, own rating, own
-analysis. NOT a reprint of the release.** **LINK-OUT IS BREAKING BOURBON.**
-(2) **THE ITEM WAS NOT ON ANY LIST THIS FILE HELD.** The Oct 15 run named four unwalked Breaking Bourbon
-reviews as "Sunday's first call" (Caleb's Crossing, Curated Barrel Project, Proof & Precedent, Mad River
-Burnt Rock). **FOUR REVIEWS NEWER THAN ALL FOUR HAD POSTED SINCE: Garrison Brothers Ranch Reserve PX and
-Oloroso (Oct 16), Rittenhouse 250th (Oct 15), Shortbarrel Cigar Batch IV (Oct 15).** **A named bench list
-is a snapshot of a feed, and the feed kept publishing. WALK THE INDEX, NOT THE LIST.**
-(3) **WHAT RITTENHOUSE SUPPORTS, AND THE TWO NUMBERS THAT MUST NOT BE PRINTED.** **PRINTABLE:** 10 years ·
-100 proof · bottled-in-bond · Heaven Hill · mashbill **51% rye / 35% corn / 14% malted barley** · **$100**
-(BB SRP; Heaven Hill's own release says $99.99) · release **May 2026** · **90 barrels, which is HEAVEN
-HILL'S OWN FIGURE** · Liberty Bell / `1776–2026` commemorative packaging, Pennsylvania roots · limited,
-select US markets and the Heaven Hill Bourbon Experience · non-chill filtered (HH) · prior high-age
-Rittenhouse editions at 21, 23 and 25 years in 2006/2007/2009, all 100 proof. **Beiter's sensory is
-printable AND attributable by name:** nose orange peel, vanilla custard, caramel, white pepper; palate
-juicy citrus, apricot, stone fruits, candy apple, herbal tea, light mint, brown sugar, toffee; finish
-peppery rye spice, aged leather, cigar box, lingering cinnamon and rye spice, long.
-**NOT PRINTABLE (a): THE 15,000–20,000 BOTTLE COUNT. IT IS BEITER'S OWN ESTIMATE, expressly "assuming a
-typical evaporation loss rate." HEAVEN HILL PUBLISHES NO BOTTLE COUNT.** **Lesson 58 — a number you
-computed is not a number you sourced. PRINT 90 BARRELS. NEVER PRINT A BOTTLE COUNT.**
-**NOT PRINTABLE (b): "about double the age of the standard release." THAT IS BEITER'S INFERENCE and
-NEITHER page states the standard bottling's age. DO NOT PRINT AN AGE FOR STANDARD RITTENHOUSE.**
-**"About $25" for the standard bottle IS on the linked page as Beiter's own statement and is printable
-attributed.** **Sample disclosed free.** **BEAT IS `try-this-next`, NOT `whats-dropping` — the release
-date is May 2026 and a five-month-old bottle is not dropping.**
-(4) **THE RUN'S FIRST REAL FINDING — THE OLD FORESTER PICKUP EXISTS, AND FINDING IT KILLED IT, FOR THE
-SECOND TIME IN FOUR DAYS ON A DIFFERENT BOTTLE.** `fredminnick.com/2026/10/16/old-forester-launches-new-tribute-series-expressions/`
-is **THE PRESS RELEASE**: no individual byline, **the only quote (Caleb Trigo) is expressly "said in a
-news release,"** no tasting notes, no outside reporting, brand boilerplate "About Old Forester" section,
-launch-announcement structure. **IT COUNTS AS THE SAME DOCUMENT AS PRNEWSWIRE AND IS NOT A SECOND
-SOURCE.** **LESSON 72 APPLIED TO THE PAGE, NOT THE PUBLISHER — and this is the fourth consecutive time
-Fred Minnick has carried a release unlabelled. That is now a property of the outlet worth expecting.**
-**THE HEADLINE SAYS "EXPRESSIONS" PLURAL AND THE BODY DESCRIBES ONE RELEASE. DO NOT PRINT A PLURAL.**
-**The FM page states NO bottle size and NO on-sale date, which independently holds the Oct 15 bar on
-700ml.** All other carriers stay disqualified: **Whiskey Wash and The Bourbon Flight are TIER 4** ·
-**Forbes `/sites/david-tao/` is the TIER 4 CONTRIBUTOR PLATFORM** · **Yahoo and AOL are the release.**
-(5) **OLD FORESTER'S DISPOSITION IS UNCHANGED BUT THE BOARD SHAPE NOW NEEDS A HUMAN.** It still ships
-Tue Oct 20 **single-sourced and flagged** on the PRNewswire release unless Aaron says hold — precedent is
-Glenlivet Sep 29, the WA bottom-shelf column Oct 2, Macallan Oct 13. **BUT TUESDAY WOULD THEN CARRY TWO
-FLAGGED SINGLE-SOURCED ITEMS IN ONE EDITION (Hyperion AND Tribute Series), AND THIS FILE HAS NEVER RUN
-TWO.** **That is a board-shape question, not a sourcing question, and it was NOT self-authorised.**
-**Rittenhouse clearing means the board no longer NEEDS either of them to make floor, which is exactly why
-the question is worth asking now rather than Tuesday morning.**
-(6) **THE SUB-$30 LEAD RESOLVED, AND NEITHER OBSTACLE THE BOARD NAMED IS WHAT KILLED IT. LESSON 81.**
-`kirkland-signature-bottled-in-bond-bourbon-2026` — Breaking Bourbon, **Jordan Moskal, 2026-03-20**,
-**"$25 / 1L (2026)"**, 100 proof, 4 years, bottled-in-bond, **sourced from Barton 1792**, company Costco,
-mashbill undisclosed, sample free. **OBSTACLE (i) — "no price has been sourced" — IS DISCHARGED: $25 for a
-litre, on a Tier 2 page. It is the first genuinely sub-$30 sourced figure this file has ever held.**
-**OBSTACLE (ii) — "~7 months old" — SIMPLY DOES NOT APPLY: the Release Date field reads "Ongoing" and the
-review says it is "available year-round." A product with no release date cannot go stale.**
-**WHAT KILLS IT IS A THIRD THING NEITHER OBSTACLE NAMED: THE FORWARD BAR, PLUS THE TOTAL ABSENCE OF A
-HOOK.** **Rated 2.5 and called "a quintessential average sip."** There is no restock, no new batch and no
-peg — **an ongoing product gives a curated digest nothing to point at.** The Oct 14 ground rejected Mad
-River at 1.5 because a digest does not point readers at a pan; **2.5 is not a pan, it is AVERAGE, and an
-item still has to be worth forwarding.** **ALSO SINGLE-SOURCED ON TIER 2** — The Whiskey Shelf is a
-personal blog, Tasting Table and Food Republic are general-interest price-comparison content.
-**NOT STAGED.**
-(7) **ONE THING WENT TO AARON RATHER THAN BEING DECIDED HERE, AND IT IS NOT THE ITEM — IT IS THE RULE
-BEHIND IT.** $25-a-litre bottled-in-bond Barton 1792 juice is a real, sourced, sub-$30 value FACT, and the
-sub-$30 gap is now **14 runs** old. An honest evergreen Easy Pour — "what the $25 Costco bourbon actually
-is," carrying Breaking Bourbon's *average* verdict rather than hiding it — is defensible on a future
-Friday. **But that asks whether this digest runs EVERGREEN VALUE ITEMS WITH NO NEWS PEG AT ALL, which it
-never has. THAT IS A PRODUCT CALL AND IT IS AARON'S.** **NOT self-authorised, and the item stays unstaged
-until he answers.**
-(8) **A THEME COLLISION WAS CAUGHT BEFORE IT REACHED A BOARD.** `calebs-crossing-1776-2026-kentucky-straight-rye-2026`
-— Breaking Bourbon, **Eric Hasman, 2026-10-14**, $125/750mL, **110.76 proof**, NAS on the page with the
-company site stating 8 years, **sourced from Green River Distilling**, two ryes blended 50/50, release
-September 2026, **reviewed bottle #250 of 370**. **IT IS ALSO AN AMERICA-250TH RYE.** **Running both turns
-Tuesday into a semiquincentennial theme edition nobody asked for.** **RITTENHOUSE TAKES THE SLOT** — better
-known brand, lower price, a Tier 1 primary already in hand, and a hook a general reader can use. **CALEB'S
-CROSSING IS BENCHED, NOT REJECTED.** **RECORDED, NOT DISQUALIFYING: co-founder David Jennings is a spirits
-author and founder of the Rare Bird 101 blog.** A whiskey writer's own brand is worth naming now rather
-than discovering later.
-(9) **DEDUP CAUGHT SHORTBARREL BEFORE ANY WORK WAS SPENT, AND IT RIDES ON A QUESTION ALREADY OPEN.**
-Breaking Bourbon's **Shortbarrel Cigar Batch IV (Oct 15)** is `shortbarrel-cigar-batch-4-2026` —
-**PUBLISHED Fri Sep 4, where it LED the edition.** Batch IV and Batch 4 are the same bottle.
-**IT SHIPPED SINGLE-SOURCED, FLAGGED, AND ITS SENSORY WAS NEVER PRINTED — so an independent review is
-exactly the shape that reopened PENELOPE.** **BUT PENELOPE IS ITSELF UNANSWERED AT THREE RUNS, AND ASKING
-THE IDENTICAL QUESTION A SECOND TIME IS NOISE.** **SHORTBARREL RIDES ON THE PENELOPE ANSWER: a yes on
-Penelope mints this one by the same logic. NO SEPARATE QUESTION WAS OPENED.**
-**URGENT SWEEP — nothing fires, TWENTY-NINTH application.** Everything returned is stale: Wes Henderson /
-TKC voyeurism suit and CEO removal (assessed, ~11–12 days old), the 2025 bankruptcy-wave report (January
-2026), Jim Beam Clermont (Dec 2025), the Luckett & Farley and Peggy Noe Stevens receivables suits.
-**NO recall, NO safety issue, NO litigation naming a WS partner brand or venue, NO death, in the window.**
-**DATED BEFORE WEIGHED, Lesson 35.**
-**ATLANTA IS DEAD BY EVENT DATE AND THE QUESTION IS RETIRED, NOT CARRIED.** The festival ran Sat Oct 17
-and has passed. **Per the Oct 15 instruction, it is not asked a sixth time.** `atlanta-magazine-whiskey-festival-2026`
-moved to DROPPED. **PENELOPE (4th) and WANDERFOLK (7th) remain open and compress to one `_unchanged:_` line.**
-**CHANNEL: 14 messages pulled, EVERY ONE carries a masthead glyph, so every one is ours. NO HUMAN REPLIES
-— now 26 days.** **LESSON 79 APPLIED: all 14 show as Aaron and sender identity proved nothing; the GLYPH
-TEST did the work.**
-**CADENCE: CLEAN.** Oct 16 was the newest post and Oct 18 is the next scheduled day (no Saturday run).
-**Oct 18 was EMPTY before this run; idempotency not in play; this is the day's only post.**
-**THE ~72h WINDOW WAS HONOURED — Sunday covers back through Friday.**
-**PRUNE: RAN, ALL FOUR ARMS, TWO TARGETS, AFTER ONE DOCUMENTED HOLD.** **(a) Run-log section
-`FRIDAY Aug 28 — staging record as of Aug 26` DELETED (54 lines, 53 days).** ARM 1: all five story keys
-present INSIDE the DEDUP block and surviving outside the section. ARM 2/4: both spent link-outs
-(`whiskyadvocate.com/new-whiskey-from-bowmore-barrell-and-more`,
-`whiskyadvocate.com/glamping-near-whiskey-distilleries`) survive outside AND are in DEDUP — **no orphans,
-the first prune in four without one.** ARM 3: no lesson references. Filmland/BrewzleFest collision flags
-survive. **(b) DEDUP block `PUBLISHED Tue Sep 15` DELETED (19 lines, 33 days), the Oct 15 hold discharged.**
-ARM 1: all six keys, plus the still-held `four-roses-le-small-batch-2026` and the dropped
-`whisky-advocate-1880-whiskey-tasting-2026`, all survive elsewhere in DEDUP/DROPPED. ARM 2: the block
-carried no URLs. **ONE MIGRATION RAN FIRST — "a flag is not a licence to re-run" was a GENERAL RULE whose
-only home was that block; it now sits in the DEDUP header. Lesson 73's arm paid out on a RULE this time,
-not a URL.** **File now 11,7xx lines.**
+### LESSON 60 (fix recorded Oct 9; STANDING RULE promoted to its own block Oct 20) — a verified fix protects nothing; only a step that reruns every time does
 
-**POSTED 06:27:57 PT. Slack: `https://whiskeysocial.slack.com/archives/C0BKL9FB2CV/p1792330077091199`.**
-**LESSON 60 REGRESSION FOUND AND FIXED, AND IT HAD BEEN LIVE FOR SIX OF THE LAST EIGHT POSTS.**
-**The Oct 18 channel read-back shows `_THE POUR_` — ITALIC — on Oct 9, 11, 13, 14, 15 AND 16, against
-`*THE POUR*` — BOLD — on Oct 1, 2, 6, 7, 8 and 12.** **TWO OF THE SIX ARE CONSUMER EDITIONS (the Oct 13
-Shortlist and the Oct 16 Last Call), where the brand rule requires bold headlines. They shipped italic.**
-**Lesson 60's fix is `**double asterisk**`, and its STANDING RULE is to read the post back and check the
-RENDER, not the draft. The fix was correct and the standing rule simply stopped being run.**
-**THIS RUN SENT `**bold**` AND READ IT BACK: `*THE POUR*`, `*Rittenhouse...*`, `*NOTES*`, `*PIPELINE*`
-ALL RENDER BOLD. VERIFIED AGAINST THE CHANNEL, NOT THE DRAFT.**
-**THE GENERAL POINT, WHICH IS WHY IT IS HERE AND NOT IN NOTES: a lesson with a verified fix can still
-regress, because the fix lives in one run's copy and the DISCIPLINE lives nowhere unless a later run
-re-reads it. Lesson 60 was recorded, correct, and quietly not followed for six posts.**
-**THE READ-BACK IS NOW A REQUIRED STEP ON EVERY POST, EDITION OR PREP — ONE EXTRA CALL.**
-**RAISED IN NOTES ONCE, as a thing Aaron must know changed about the consumer product. NOT re-raised.**
+**THE FIX.** Slack mrkdwn renders `*single asterisk*` as bold. This pipeline sends through a client that
+takes standard markdown, so **what must be SENT is `**double asterisk**`**, which arrives as
+single-asterisk bold. Sending `*one asterisk*` arrives ITALIC.
+
+**THE REGRESSION, FOUND Oct 18.** The fix was recorded, correct, and **quietly not followed for six of
+eight posts** — `_THE POUR_` shipped ITALIC on Oct 9, 11, 13, 14, 15 and 16, against bold on Oct 1, 2, 6,
+7, 8 and 12. **TWO OF THE SIX WERE CONSUMER EDITIONS** (the Oct 13 Shortlist, the Oct 16 Last Call), where
+the brand rule requires bold headlines.
+
+**THE STANDING RULE, AND IT IS THE WHOLE LESSON: after every post, EDITION OR PREP, READ THE POST BACK
+FROM THE CHANNEL AND CHECK THE RENDER — never check the draft.** One extra call. The draft cannot tell
+you what Slack did to it.
+
+**WHY THIS BLOCK EXISTS (added Oct 20).** The standing rule above lived ONLY inside the Oct 18 run header,
+and the Oct 20 prune was about to drop that header — which would have deleted the discipline and re-run
+the same regression. **A rule stated in a run header has no prune arms protecting it. Promote any standing
+rule to a lesson block before its header rolls off.**
 
 ### LESSON 81 (added Oct 18) — a board's clearing conditions can BOTH discharge and the item still die, because a bench entry records what is UNKNOWN, never what is DISQUALIFYING
 
@@ -6891,7 +6867,17 @@ items anchor the two that are not, so nothing reads collectors-only end to end.*
   nationwide, ~36,000 bottles — it does not go stale this week.**
 ---
 
-## TUESDAY Oct 20 — AT FLOOR. FOUR STAGED: TWO VERIFIED, ONE SINGLE-SOURCED/FLAGGED, ONE PENDING. *(heading rewritten Oct 18 when Rittenhouse cleared)*
+## TUESDAY Oct 20 — PUBLISHED SHORT AT THREE. OLD FORESTER HELD. THIS BOARD IS CLOSED. *(heading rewritten Oct 20, on publish)*
+
+**WHAT SHIPPED, in order:** `silverthorn-reserve-10yr-blenders-art-2026` (`whats-dropping`/collector, LED)
+· `rittenhouse-250th-anniversary-rye-2026` (`try-this-next`/explorer) ·
+`redwood-empire-hyperion-batch-001-2026` (`try-this-next`/explorer, **single-sourced and FLAGGED**).
+**THREE AGAINST A FLOOR OF FOUR — the short-edition line ran in the copy, and the rolling-two-week cadence
+signal ran as a Notes bullet per the Oct 12 instruction (Oct 9 was the first).**
+**OLD FORESTER WAS HELD ON A SOURCING GROUND, NOT ON THE UNANSWERED BOARD-SHAPE QUESTION — see the header
+block for the full reasoning and the rule it establishes (a flagged item still needs a Tier 1-2 EDITORIAL
+link-out; a press release is a source, not a destination).**
+**ALL THREE LINK-OUTS WERE BREAKING BOURBON. First single-outlet edition in this file.**
 
 **FLOOR OF FOUR IS MET with Mon Oct 19 still in hand. NOTHING MORE IS OWED — do not pad, and do not raid
 Fri Oct 23, which is the open board now.**
@@ -7869,6 +7855,35 @@ it — Sun Sep 20, Mon 21, Wed 23, Thu 24."~~
 ---
 
 ## OPEN GAPS
+
+**OCT 20 STATUS — READ THIS FIRST. IT SUPERSEDES EVERY BLOCK BELOW.**
+- **TUE OCT 20 IS CLOSED. It published SHORT AT THREE** and is no longer a gap of any kind. All three keys
+  are COVERED and all three link-outs are SPENT.
+- **FRI OCT 23 IS THE FILE'S ONLY SUPPLY GAP: TWO VERIFIED AGAINST A FLOOR OF THREE.**
+  `spokane-whiskey-festival-2026` (Visit Spokane link-out) and `whisky-advocate-boston-travel-guide-2026`
+  are both clean. **TWO PREPS REMAIN — Wed Oct 21 and Thu Oct 22 — plus the Friday assembly.**
+  **BOTH STAGED ITEMS ARE VENUE REGULAR. If a third is found, PREFER SOCIAL DRINKER.** The named
+  candidates are the Silverthorn rye (needs a second source AND a later Friday — brand collision with
+  today's bourbon) and anything off the review feeds that speaks to an approachable weekend pour.
+- **THE THIN-EDITION COUNT IS NOW TWO IN A ROLLING TWO WEEKS — Oct 9 and Oct 20 — AND IT HAS BEEN
+  REPORTED.** The Oct 12 instruction is discharged. **A THIRD short edition inside the window would be a
+  real cadence problem rather than a signal, and Fri Oct 23 at two-of-three is where it would happen.**
+- **THE SUB-$30 GAP IS 16 RUNS OPEN AND ITS BLOCKER IS STILL A PRODUCT QUESTION, NOT A SOURCING ONE.**
+  Kirkland Signature BiB at **$25/1L** on Breaking Bourbon remains the only sourced sub-$30 figure, rated
+  2.5 with no news peg. **IT CANNOT CLOSE UNTIL AARON ANSWERS WHETHER THIS DIGEST RUNS EVERGREEN VALUE
+  ITEMS WITH NO PEG. No run may self-authorise it.** See Lesson 81.
+- **OLD FORESTER IS BENCHED, NOT DEAD, AND IT IS NOW A SOURCING HOLD RATHER THAN A BOARD-SHAPE ONE.** An
+  independent review mints it. **The board-shape question — two flagged single-sourced items in one
+  edition — WAS NOT DECIDED and stays with Aaron.**
+- **A NEW SHAPE SIGNAL, RECORDED AS MACHINERY AND DELIBERATELY NOT RAISED IN SLACK: today was the first
+  SINGLE-OUTLET edition this file has run — three of three on Breaking Bourbon.** It follows directly from
+  the review-feed rail that has supplied nearly every verified item since Oct 11. **Watch it. Do not fix it
+  by padding. If Fri Oct 23 also lands on one outlet, it becomes worth one bullet.**
+- **THE NEXT RUN-LOG PRUNE TARGET IS `## SUNDAY Sep 6 — PREP RUN` (44 days).** The Oct 20 prune spent its
+  budget on the `PUBLISHED Fri Sep 18` DEDUP block. **Run all four arms; Arm 4 has now paid out on four
+  consecutive prunes.**
+
+**OCT 18 STATUS — superseded by the block above; retained for its reasoning.**
 
 **OCT 18 STATUS — READ THIS FIRST. IT SUPERSEDES EVERY BLOCK BELOW.**
 - **TUE OCT 20 IS NO LONGER A SUPPLY GAP.** Four staged against a floor of four, reached Oct 18 when
@@ -9401,6 +9416,71 @@ and nothing is lost.** 22 and 23 are captured here early so their source section
 
 ## DEDUP — closed to re-use
 
+**Added Oct 20 (PUBLISHED in The Shortlist — THREE SHIPPED. COVERED. NEVER REPUBLISH):**
+**`silverthorn-reserve-10yr-blenders-art-2026`** — **PUBLISHED Tue Oct 20**, `whats-dropping` / collector,
+LED the edition. **WHAT THE LINK-OUT SUPPORTS (Breaking Bourbon, Nick Beiter, 2026-10-09, rated 3.5, own
+sample disclosed free):** Drew Thorn, former CEO of Sagamore Spirit, over a decade there · Silverthorn
+Reserve is an independent producer in Baltimore MD, debuted earlier in 2026 · Blender's Art series uses
+10 barrels or fewer per release · deliberately transparent, with age, percentage, source and mashbill on
+the label · **eight barrels in the blend (BB SAYS THIS — the Oct 15 bar to the contrary was FALSIFIED
+Oct 20)** · three source states, four grains, ages 10-14 years · component split 10%/14yr/Georgia,
+68%/10yr/Kentucky, 22%/10yr/Indiana · 115 proof · $100/750mL · October 2026 · non-chill filtered · Beiter's
+sensory, attributable: nose roasted coffee bean, cinnamon, caramel, green grape, vanilla extract; palate
+stone fruits, citrus zest, brown sugar, seasoned oak, toffee, hint of raisin; finish baking spices, stone
+fruits, light leather, wood spice. **PRINTED: eight barrels, the three states, 10-14 years, the label
+transparency, 3.5, green grape, citrus zest, $100, 115 proof, Thorn's Sagamore decade, Baltimore.**
+**NOT PRINTED AND STILL BARRED: (a) THE 1,600-BOTTLE COUNT — BB-only; Drinkhacker gives none. (b) THE
+SOURCE DISTILLERIES — BB calls Barton 1792 / MGP / a Georgia ghost distillery "RUMORED." Never print them
+as fact. (c) the rye's facts — DO NOT CROSS (Lesson 61).** **Second source: Drinkhacker, Jacob Kiper,
+2026-06-20, TIER 3 — corroboration only, never the link-out.**
+**`rittenhouse-250th-anniversary-rye-2026`** — **PUBLISHED Tue Oct 20**, `try-this-next` / explorer.
+**WHAT THE LINK-OUT SUPPORTS (Breaking Bourbon, Nick Beiter, 2026-10-15, rated 3.5, free sample):** 10
+years · 100 proof · bottled in bond · Heaven Hill · 51% rye / 35% corn / 14% malted barley · May 2026 ·
+**90 barrels** · SRP $100/750mL · Liberty Bell commemorative packaging (BB quoting Heaven Hill) ·
+Rittenhouse Square, Philadelphia · prior 21/23/25-year editions in 2006/2007/2009, all 100 proof ·
+**"about $25" for the standard bottle as BEITER'S OWN STATEMENT** · his sensory as logged on the board.
+**Second source: Heaven Hill's own blog release, TIER 1 PRIMARY.** **PRINTED: BiB definition, about $25
+standard, 10 years, Liberty Bell / 250th, 90 barrels, 3.5, orange peel, candy apple, rye spice at the
+finish, $100, May.** **NOT PRINTED AND STILL BARRED: (a) ANY BOTTLE COUNT — 15,000-20,000 is Beiter's own
+evaporation estimate; 90 barrels is Heaven Hill's sourced figure. (b) ANY AGE FOR STANDARD RITTENHOUSE —
+"about double the age" is his inference and neither page states the standard's age.**
+**`redwood-empire-hyperion-batch-001-2026`** — **PUBLISHED Tue Oct 20 SINGLE-SOURCED AND FLAGGED**,
+`try-this-next` / explorer. **A FLAG IS NOT A LICENCE TO RE-RUN — this key is as closed as a clean one.**
+**WHAT THE LINK-OUT SUPPORTS (Breaking Bourbon, Nick Beiter, 2026-10-12, rated 4, free sample):** $99/750mL
+· 110 proof · NAS, company states 7-14 years · August 2026 · blend of four whiskey types across 10
+mashbills, 32% bourbon / 30% rye / 25% wheat whiskey / 13% single malt · single malt component entirely
+Redwood Empire-distilled, the rest sourced from undisclosed Indiana, Kentucky and Tennessee distilleries ·
+four source states · master blender **Lauren Patz** with master distiller **Jeff Duckhorn** · inaugural
+batch of an intended annual, each distinct and not repeated · named for the Hyperion redwood, over 381
+feet tall and 919 years old · his sensory as logged on the board · **"the best whiskey I've had from the
+company yet" — THE EDITION'S ONE QUOTE, 11 words, named, off the link-out.**
+**PRINTED: NAS definition, 7-14 years, the four types, 10 grain recipes, four states, 110 proof, $99, the
+single malt distilled in California, Patz with Duckhorn, the quote.**
+**NOT PRINTED AND STILL BARRED: (a) THE 12,000-BOTTLE COUNT — BB-only; the press release carries none, and
+"roughly 79 barrels" is retailer-only. (b) ANY CITY — TSB says Sonoma County, BB says Vallejo, and TSB is
+the press release so the conflict cannot be resolved by counting sources. "California" alone is
+uncontested and is what ran.** **NO SECOND SOURCE EXISTS. What would clear a future mention: an
+independent original. BevNet, nombase, TSB and the brand page are all the same August release; Fred
+Minnick's Aug 24 page was NEVER TESTED and must not be recorded later as tested.**
+
+**COVERED URLS — ADDED Oct 20, all three now SPENT (Lesson 55). COUNT CHECK, Lesson 73: THREE URLS
+AGAINST THREE KEYS IN THIS BLOCK — MATCH.**
+- `breakingbourbon.com/review/silverthorn-reserve-10-year-blenders-art-bourbon-blend-batch-1`
+- `breakingbourbon.com/review/rittenhouse-united-states-250th-anniversary-commemorative-edition`
+- `breakingbourbon.com/review/redwood-empire-the-hyperion-batch-001`
+
+**`old-forester-tribute-series-2026`** — **HELD Oct 20, NOT PUBLISHED, NOT DROPPED.** Announced Oct 15 2026
+by company release (PRNewswire, Tier 1). **FIVE DAYS OLD WITH ZERO INDEPENDENT PICKUP.** **The Oct 20
+search returned one new carrier and it is the same document: Breaking Bourbon's
+`/bourbon-whiskey-press-releases/` path is the RELEASE, not BB's reporting — the Russell's Reserve Oct 8
+ground.** **HELD ON A SOURCING GROUND: a flagged item still needs a Tier 1-2 EDITORIAL link-out, and this
+one would ship on a bare press release with no byline, no printable sensory and no printable bottle size.
+Glenlivet, the WA bottom-shelf column and Macallan all had editorial link-outs.** **SELF-AUTHORISED; the
+board-shape question (two flagged items in one edition) is STILL AARON'S and was NOT decided.**
+**AN INDEPENDENT REVIEW MINTS IT. Standing bars unchanged: no 700ml, no plural "expressions", the brand's
+unattributed sensory stays BANNED (Wanderfolk rule), and `ultra-premium` and `collection` never reach
+reader copy.**
+
 **Added Oct 19 (STAGED / BENCHED / DROPPED — closed to re-scouting, NOT published):**
 **`whisky-advocate-boston-travel-guide-2026`** — **NEW KEY, VERIFIED, STAGED Fri Oct 23.** Whisky Advocate,
 **Larry Olmsted, 2026-10-07**. **Verified on the single-outlet original-column rule (Oct 2 / Oct 16 shape).**
@@ -9798,16 +9878,6 @@ retailers and the distillery first. It never leads.**
 - `bourbon-on-the-banks-2026` — STAGED Fri Sep 25. Festival primary + KDA. Sat Oct 3, Frankfort KY.
 - `borders-distillery-first-release-2026` — STAGED Tue Sep 29. TSB + the distillery's own site.
 
-**PUBLISHED Fri Sep 18 (Last Call) — CLOSED TO RE-USE, ALL THREE:**
-`whisky-advocate-spas-2026` · `penelope-cigar-sessions-chapter-2-2026` ·
-`mgp-chapter-one-out-of-the-shadows-2026`.
-**The two flagged ones stay closed exactly like the verified one — a single source is a sourcing
-note, not a lesser form of coverage.**
-**NO NEW-DEVELOPMENT EXCEPTION IS OPEN ON ANY OF THE THREE.** For MGP it would take a Tier 1–2
-report of actual retail arrival or an independent tasting; for Penelope, an independent review
-(Breaking Bourbon's Chapter 2 URL still 404s); for the spa list, nothing — a list does not develop.
-**The blurb would then have to OPEN with what is new.**
-
 **RESTORED TO DEDUP Sep 17 — A PRUNED KEY THAT WAS NEVER CLEAR FOR REPUBLICATION:**
 **`bulleit-87-bourbon-rye-2026`** — **COVERED Jul 25 2026.** Pruned from the Carried list Aug 21 at
 thirty days (see the Aug 21 PRUNE LIST table). **It resurfaced Sep 17 under the forked key
@@ -9918,8 +9988,11 @@ roundup to the Heaven Hill Tier 1 primary, flag RETIRED, price now `$199.99` and
 
 **Added Sep 13 (STAGED — closed to RE-SCOUTING, not to publication. Update these entries, never
 rediscover them):**
-**`penelope-cigar-sessions-chapter-2-2026`** (Fri Sep 18, `pair-it`, Cigar Crossover, WA, flagged,
-sensory blocked) · **`parkers-heritage-20th-edition-2026`** (Tue Sep 22, `allocation-watch`,
+**`penelope-cigar-sessions-chapter-2-2026`** (Fri Sep 18, PUBLISHED Fri Sep 18, `pair-it`, Cigar
+Crossover, WA, flagged, sensory blocked. **REOPEN CONDITION, MIGRATED HERE Oct 20 from the pruned
+`PUBLISHED Fri Sep 18` block: an INDEPENDENT REVIEW. Breaking Bourbon published one — Eric Hasman,
+2026-10-07 — and THE DECISION IS AARON'S AND STILL OPEN at six asks. The blurb would have to OPEN with
+what is new.**) · **`parkers-heritage-20th-edition-2026`** (Tue Sep 22, `allocation-watch`,
 Collector, WA, flagged, sensory blocked) · **`stranahans-first-bottled-in-bond-2026`** (Tue Sep 22,
 `try-this-next`, Explorer, WA, verified, Higgins's sensory printable) ·
 **`whisky-advocate-victoria-bc-travel-2026`** (Fri Sep 18 SECOND ALTERNATE, `on-the-calendar`,
@@ -9972,9 +10045,11 @@ ANYWAY — one page, one item, ever. The unprinted tips are not a second item.**
 to Fred Minnick this run. The key is unchanged; do not re-key it.**
 
 **Added Sep 10 (STAGED — closed to re-scouting, NOT yet published):**
-**`mgp-chapter-one-out-of-the-shadows-2026`** (staged Fri Sep 18, `whats-dropping`/`try-this-next`,
-Explorer, TSB link-out, **SINGLE-SOURCED — eight outlets, one press release — runs flagged; sensory
-blocked**) · **`four-roses-salt-river-cleanup-2026`** (staged Tue Sep 15, `on-the-calendar`, Venue
+**`mgp-chapter-one-out-of-the-shadows-2026`** (staged Fri Sep 18, PUBLISHED Fri Sep 18,
+`whats-dropping`/`try-this-next`, Explorer, TSB link-out, **SINGLE-SOURCED — eight outlets, one press
+release — ran flagged; sensory blocked**. **REOPEN CONDITION, MIGRATED HERE Oct 20 from the pruned
+`PUBLISHED Fri Sep 18` block, which was its only home: it may run again ONLY on a Tier 1-2 report of
+ACTUAL RETAIL ARRIVAL or an INDEPENDENT TASTING, and the blurb would have to OPEN with what is new.**) · **`four-roses-salt-river-cleanup-2026`** (staged Tue Sep 15, `on-the-calendar`, Venue
 Regular, FM link-out, **SINGLE-SOURCED, runs flagged; sensory blocked; EMPLOYEE cleanup not a public
 call; visitor-center only; CONFLICTS with `four-roses-le-small-batch-2026` — only one may run**).
 **Benched, keys reserved so they are not rediscovered as new:**
@@ -10024,8 +10099,9 @@ Tue Sep 22 — **`whisky-advocate-new-zealand-single-malts-2026`** (**staged, `t
 WA link-out, one source by design. Supports: 0→20 distilleries, laureate barley, 9.5% vs 3.5% angels'
 share, Pōkeno's cooperage, manuka smoke, Scapegrace in a handful of states, and WA's own scored notes
 for Pōkeno Discovery 91/$75 and Cardrona The Falcon 92/$285. Scapegrace Anthem is NR — no notes.**)
-Fri Sep 18 — **`whisky-advocate-spas-2026`** (**staged, `on-the-calendar` / Social Drinker, WA
-link-out, one source by design. Supports: nine properties, $80–$780, two on distillery grounds, four
+Fri Sep 18 — **`whisky-advocate-spas-2026`** (**PUBLISHED Fri Sep 18, `on-the-calendar` / Social Drinker,
+WA link-out, one source by design. **NO NEW-DEVELOPMENT EXCEPTION CAN EVER OPEN ON THIS KEY — a list does
+not develop. Migrated here Oct 20 from the pruned `PUBLISHED Fri Sep 18` block, its only home.** Supports: nine properties, $80–$780, two on distillery grounds, four
 named staff. THE ANTIOXIDANT HEALTH CLAIM IS UNPRINTABLE.**) · **`fee-brothers-fat-wash-drops-2026`**
 (**staged, `easy-pour` / Social Drinker, WA link-out, one source by design. Supports: three drop
 flavours, three whiskey recipes with named bottles, Evans's attributable sensory. No price exists.**)
