@@ -113,6 +113,15 @@ here.** **DEDUP KEYS WERE NOT PRUNED TO 30 DAYS, DELIBERATELY: pruning keys is w
 file's practice — keep every key, prune the verbose run-log blocks instead — is the stricter reading of the
 same promise. Recorded here rather than in Slack (Lesson 67: the stricter bar holds).**
 
+**POSTED 06:22:28 PT. Slack: `https://whiskeysocial.slack.com/archives/C0BKL9FB2CV/p1792934548679439`.**
+**LESSON 60 STANDING RULE RUN — the post was READ BACK from the channel, not checked in the draft.**
+**`**THE POUR**`, all four item headlines, `**NOTES**` and `**PIPELINE**` ALL RENDER BOLD.
+`**double asterisk**` sent, single-asterisk bold received. SEVENTH clean run.**
+**THE KNOWN, HARMLESS RENDER BEHAVIOUR REPEATED: the bare `>` blank line between NOTES and PIPELINE
+collapsed. The blockquote still holds across both. Not a defect, do not "fix" it.**
+**AARON WAS NOTIFIED OUT OF BAND ON THE DEAD LINK-OUT — it is the first thing in this run that needs a
+human, and a Notes bullet alone sits in a channel nobody is reading on a Sunday.**
+
 **Prior run:** 2026-10-23 (Fri), **LAST CALL PUBLISHED AT FLOOR WITH THREE. ALL THREE LINK-OUTS
 RE-FETCHED 200 ON EDITION MORNING AND NOT ONE PRINTED CLAIM MOVED — the first Friday in this file to
 assemble with nothing to repair.**
