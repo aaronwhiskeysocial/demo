@@ -155,6 +155,23 @@ record, and the live Wanderfolk/Old Forester bar in this header), so nothing was
 THAT POINTS AT THE WRONG SECTION IS A FUTURE FALSE CLEAR. Check the pointer, not just the claim.**
 **DEDUP KEYS WERE NOT PRUNED TO 30 DAYS, DELIBERATELY — unchanged practice, see the Oct 25 entry.**
 
+
+**POSTED 06:47:24 PT. Slack: `https://whiskeysocial.slack.com/archives/C0BKL9FB2CV/p1793022444977389`.**
+**LESSON 60 STANDING RULE RUN — the post was READ BACK from the channel, not checked in the draft.**
+**`**THE POUR**`, all three item headlines, `**NOTES**` and `**PIPELINE**` ALL RENDER BOLD.
+`**double asterisk**` sent, single-asterisk bold received. EIGHTH clean run.**
+**THE KNOWN, HARMLESS RENDER BEHAVIOUR REPEATED: the bare `>` blank line between NOTES and PIPELINE
+collapsed. The blockquote still holds across both. Not a defect, do not "fix" it.**
+**NO OUT-OF-BAND NOTIFICATION THIS RUN, AND THAT IS A DECISION, NOT AN OMISSION.** Oct 25 earned one
+because a published link-out had died and only Aaron could decide the repoint. **Today the board
+reached floor, the urgent sweep was empty, and every call this run faced was this file's to make and
+was made. A prep run that goes well does not get to interrupt anyone.** The two Oct 25 decisions stay
+open with him and were NOT re-raised — he was already told once.
+**FILE SIZE: 1,038,867 bytes / 12,415 lines at the start; 1,042,598 bytes / 12,392 lines at the end.
+NET +3.7 KB DESPITE ADDING ~30 KB OF BOARD AND HEADER — the Sep 9 prune recovered 25.8 KB.** **LINES
+WENT DOWN 23 WHILE BYTES WENT UP: the two measures disagreed again, in the opposite direction to
+Oct 23. BYTES REMAIN THE HONEST MEASURE. Still well under the ~1.3 MB two-target threshold.**
+
 **Prior run:** 2026-10-25 (Sun), **PREP — THE RUN'S REAL FINDING IS NOT A STAGED ITEM. THE LINK-OUT
 PUBLISHED TWO DAYS AGO IS DEAD.** `https://whiskyadvocate.com/15-high-scoring-whiskies-55-dollars-and-under`
 **returned 200 on Friday morning (77,720 bytes, re-read claim by claim) and returns 404 today.** Whisky
