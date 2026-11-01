@@ -3,7 +3,227 @@
 Durable memory for the Whiskey Social whiskey-news pipeline. Authoritative over Slack
 thread copies. Human feedback in #whiskey-news overrides this file.
 
-**Last run:** 2026-10-30 (Fri), **LAST CALL — SHIPPED AT THE FLOOR OF THREE. ALL THREE LINK-OUTS
+**Last run:** 2026-11-01 (Sun), **PREP — THE URGENT OVERRIDE FIRED, AND IT FIRED ON A STORY THE
+OCT 30 EDITION RUN WALKED PAST. MARVIN R. SHANKEN, PUBLISHER OF WHISKY ADVOCATE, DIED OCT 29.
+SEPARATELY, THE LESSON 83 EMPHASIS REGRESSION IS FIXED: `**double asterisk**` WAS SENT, SINGLE-ASTERISK
+BOLD WAS RECEIVED, AND IT WAS READ BACK FROM THE CHANNEL BEFORE THIS LINE WAS WRITTEN.**
+
+**(1) THE URGENT ITEM, AND THE MISS THAT LET IT REACH A SUNDAY PREP RUN.** `marvin-shanken-death-2026`
+— **NEW KEY, VERIFIED, POSTED FIRST IN THE POST, UNSLOTTED.** Marvin R. Shanken, founder of
+M. Shanken Communications and editor and publisher of Wine Spectator, Cigar Aficionado and Whisky
+Advocate, **died October 29, 2026, aged 83.** **THIS IS THE `death in the industry` LIMB OF THE URGENT
+RULE AND IT IS NOT A BORDERLINE CASE** — he is the proprietor of the single outlet this product links
+to more than any other, and of WhiskyFest besides.
+**THE MISS IS THE RUN'S REAL FINDING AND IT IS MECHANICAL, NOT A JUDGEMENT ERROR.** The obituary
+published **Oct 29 at 13:03 PT**. The Oct 29 prep run posted at **06:38 PT** — four hours too early.
+The Oct 30 edition run posted at **06:52 PT** the next morning and **DID NOT SEE IT, BECAUSE AN EDITION
+DAY DOES NOT SCOUT AND ITS URGENT SWEEP IS A SEARCH, NOT A FEED READ.** The Oct 30 sweep ran two
+searches, both phrased around recalls and litigation, and returned the usual stale set. **A SEARCH
+PHRASED AROUND RECALLS DOES NOT SURFACE AN OBITUARY, AND THE WA RSS FEED — WHICH CARRIED IT AT POSITION
+THREE — IS THE ONE RAIL AN EDITION DAY IS TOLD NOT TO HARVEST.** See `### LESSON 86`.
+**VERIFICATION, STATED EXACTLY AS IT WAS DONE:** two pages were **read in full** — **Variety, Pat
+Saperstein, Oct 30 15:58 PT** (independent, original: it carries `died Thursday in Manhattan`, which
+the M. Shanken titles do not) and **Whisky Advocate / M. Shanken's own announcement, Mitch Frank,
+Oct 29** (Tier 1 primary on its own principal). **That is the primary-source clause: one strong primary
+plus one independent corroborating page.** Search additionally returned Cigar Aficionado, Shanken News
+Daily, Wine Spectator (all M. Shanken, all conflicted), and halfwheel, Wine Industry Advisor, Wine
+Business and Tobacco Reporter (independent). **HALFWHEEL FETCHED 200 BUT ITS BODY DID NOT SURVIVE THE
+EXTRACTOR AND IT WAS THEREFORE NOT COUNTED. The out-of-band notification sent at the top of this run
+named halfwheel among the sources; that was one page further than had actually been read. The verdict
+does not move — Variety plus the primary announcement clears it on their own — but the record here is
+the accurate one.**
+**THE LINK-OUT IS VARIETY AND THAT WAS A DECISION, NOT A DEFAULT.** Whisky Advocate, Cigar Aficionado,
+Wine Spectator and Shanken News Daily are all M. Shanken Communications titles reporting the death of
+their own publisher. **THE COI RULE IS ALREADY WRITTEN IN THIS FILE FOR EXACTLY THIS COMPANY — the
+WhiskyFest bar of Oct 28 — AND IT IS CATEGORICAL: a conflicted outlet is corroboration only, never the
+link-out.** An obituary is not a promotion, and the temptation to carve an exception was real; **it was
+refused, because the rule's value is that it does not get re-litigated per story.**
+**PRINTABLE OFF THE VARIETY LINK-OUT:** 83 · died Thursday in Manhattan · bought the **Impact**
+newsletter **1972** · bought the struggling **Wine Spectator** newspaper **1979** · founded **Cigar
+Aficionado** · purchased **Food Arts** and **Malt Advocate**, the latter renamed **Whisky Advocate** ·
+founded **Market Watch** and **Shanken News Daily** · born **New Haven, Connecticut** · business at
+Miami, MBA at American, Wall Street, then the California vineyard financing that turned him to wine.
+**NOT PRINTABLE AGAINST VARIETY: the 2011 rename year** (WA's own obituary carries it, Variety does
+not) · **the October 4, 1943 birth date** (WA only) · **the survivors list** (Shanken News Daily and
+Wine Spectator only). **If a Tuesday item wants any of those, the link-out would have to change, and
+it cannot — see the COI call above.**
+**THE ONE THING THAT IS AARON'S AND WAS NOT SELF-AUTHORISED: WHETHER THIS RUNS AS READER-FACING COPY IN
+TUE NOV 3'S SHORTLIST.** Posting it today in the internal register satisfies the urgent rule's timing in
+full. **Promoting it to a consumer edition is a different act** — it is an obituary of our principal
+source's proprietor, in a product that links to that source three times out of four, and the judgement
+is about relationship and taste, not sourcing. **Lesson 70's shape exactly: an item can pass every check
+this file has and still be a human's call.** It was raised once, by notification and in one Notes
+bullet, and it is NOT a fifth standing question — it resolves Tuesday either way.
+
+**(2) STAGED `barrell-new-year-2027-2026` — VERIFIED, AND IT CLOSES BOTH OF TUE NOV 10'S NAMED GAPS AT
+ONCE.** **Breaking Bourbon, Eric Hasman, 2026-10-30, rated 3.5** — the newest thing on the BB
+date-sorted index. **THE OCT 30 HANDOFF ASKED NOV 10 FOR AN EXPLORER ITEM AND A NON-WA ITEM, `AND
+IDEALLY BOTH AT ONCE`. THIS IS BOTH AT ONCE.**
+**KEY FORMAT — READ THIS BEFORE MINTING ANYTHING NEARBY.** The product is named **New Year 2027** and
+was **released October 2026**. The key is therefore `barrell-new-year-2027-2026`: brand, product (whose
+name contains a year), release year. **IT IS NOT A TYPO AND IT IS NOT A DUPLICATE OF
+`barrell-new-year-blend-11-2026`, WHICH IS THE PRIOR EDITION** — that key sits in DEDUP under
+`Added Aug 23 (September pointers, closed to re-scouting)`, was never staged and never published, and
+is sensory-blocked. **A LATER ANNUAL EDITION IS A DIFFERENT BOTTLE — the `garrison-brothers-laguna-madre`
+precedent. DO NOT MERGE THE TWO KEYS AND DO NOT RE-MINT THIS ONE IN A DIFFERENT SHAPE.**
+**PRINTABLE OFF THE BB LINK-OUT:** **$85 / 750mL** · **Release Date October 2026** · blend of straight
+bourbons **sourced from undisclosed distilleries in Indiana, Kentucky, Maryland, Ohio, Tennessee, Texas
+and Wyoming** · components **5 to 16 years** (Indiana 7/8/9/10 · Kentucky 7/8 · Ohio 5 · Tennessee 10
+and 16 · Texas 5 · Maryland 7/8 · Wyoming 13) · **13 components in total** · mashbill **73% corn,
+22% rye, 4% malted barley, 1% wheat**, which **BB EXPRESSLY LABELS `(Derived from the blend)` — print
+it as derived or not at all** · **most of the same states return from last year's release except New
+York, which is replaced by Texas** — that is the hook and it is on the page in BB's own words.
+**FULL SENSORY IS HASMAN'S OWN OFF BB'S OWN SAMPLE AND IS PRINTABLE ATTRIBUTED TO BREAKING BOURBON**
+(nose caramel, butterscotch, toasted oak, brown sugar, baked apple, cinnamon potpourri; palate sweet
+summer fruits, orange, burnt caramel, brown sugar, honey, raisin, cinnamon, spicy nuts; finish baking
+spices, oak spice, black cherry, apricot, leather, hint of aged oak).
+**THREE BARS, ALL RECORDED BEFORE THEY BITE: (a) PRINT NO PROOF. BB reads `115.34`; Robb Report, the
+second source, reads `116.6`; retailer listings split between 115.34 and 110.3.** **THAT IS THE WYOMING
+WHISKEY BOTTLE-COUNT SHAPE — two sources, two figures, print neither.** **(b) PRINT NO EDITION NUMBER.**
+Robb Report calls it the tenth edition of the series; other coverage calls the **2026** release the
+tenth. **The sources conflict and the number is decoration, not the story.** **(c) `collection` IS
+BANNED and Barrell's lineup language reaches for it — write around it.**
+**SECOND SOURCE: Robb Report, `robbreport.com/food-drink/spirits/barrell-craft-spirits-new-year-bourbon-1238791562/`
+— INDEPENDENT, AND ITS INDEPENDENCE IS PROVED BY THE DISAGREEMENT RATHER THAN ASSUMED.** A reprint
+would carry BB's proof figure; it carries a different one. **Robb Report is an outlet this file has used
+before (the Basil Hayden and Woodford super-seasoned-oak entries, and the Shanken/Redemption tier
+question that Robb Report happened to dissolve in August).** **`breakingbourbon.com/bourbon-whiskey-press-releases/barrell-craft-spirits-releases-barrell-bourbon-new-year-2027`
+404s; the 2026 slug at the same path returns 200. THAT IS A GUESSED SLUG, NOT AN ABSENCE — do not record
+it as proof no release exists.** Beat `try-this-next` or `whats-dropping`, persona **Explorer**.
+
+**(3) STAGED `tn-whiskey-trail-fireside-2026` — VERIFIED, AND IT OPENS FRI NOV 13 RATHER THAN CROWDING
+NOV 6.** **Whisky Advocate News Notes, Aubrey Thompson, 2026-10-30.** **Fireside Tennessee**, the
+Tennessee Whiskey Trail's winter programme, **runs November 1 through February 28** — it opened the
+morning of this run. **PRINTABLE OFF THE WA LINK-OUT:** fireside settings, seasonal decorations and
+warming winter cocktails at participating distilleries · the named stops are **Gate 11 (Chattanooga),
+Leiper's Fork and Stable Reserve (Franklin), Nelson's Green Brier (Nashville), Old Forge (Pigeon
+Forge), Old Tennessee Distilling Co. (Kodak), Short Mountain (Woodbury) and Sugarlands (Gatlinburg).**
+**SECOND SOURCE: the Tennessee Distillers Guild's own release, dated 2026-10-27, carried on bevnet** —
+**Tier 1 primary, the KDA/ACSA clause.** It adds the regional framing (Middle Tennessee, Chattanooga,
+Upper Cumberland, the Smokies) and names example drinks (Leiper's Fork's Toasted Marshmallow Old
+Fashioned, Fireside Chai at Old Forge, the Fire Fairy at Gate 11). **NOT PRINTABLE AGAINST THE WA
+LINK-OUT — those drink names are on the release, not on WA's page.**
+**AN HONEST NOTE ON INDEPENDENCE, BECAUSE LESSON 72 IS ABOUT EXACTLY THIS: WA's News Notes item very
+plausibly derives from that release, so the two are NOT two independent presses.** **It clears anyway,
+and on the stated clause rather than by pretending: a primary organiser source plus one corroborating
+mention is sufficient, which is how Spokane, Nashville and Flower Mound all cleared.** **Do not record
+this as a two-independent-outlet clear.**
+**WHY NOV 13 AND NOT NOV 6: Nov 6 sits at floor at three and already runs WA twice, and the Oct 30
+handoff said a fourth item there `should NOT be WA`.** **The programme runs to February, so it has four
+months of runway and loses nothing by waiting.** **NOV 6 WAS NOT RAIDED AND NOT PADDED.** Beat
+`on-the-calendar`, persona **Venue Regular**.
+
+**(4) `woodford-double-oaked-rye-2026` — ASSESSED, NEEDS A SECOND SOURCE, DELIBERATELY NOT STAGED, AND
+IT IS THE BEST UNRESOLVED LEAD ON THE FILE.** WA Whisky Watch, Oct 30: **$55 · 45.2% ABV · nationwide ·
+a PERMANENT expression**, applying the Double Oaked toasted-barrel finish to Woodford's rye for the
+first time. **A real Explorer item at a real price, and the production hook explains itself in one
+sentence.** **SENSORY IS BLOCKED — WA's page says `The brand says to expect notes of...`, which is
+brand copy by its own admission.** **A targeted search found NOTHING: every result was Double Double
+Oaked, a $200 bourbon, which is a different product. Recorded so the next run does not re-run the same
+search cold.** **The likeliest second source is a Brown-Forman release or a BB review; neither existed
+as of this run.** **THE WA SLUG IS `woodfod-double-oaked-rye-barrell-sweet-peat-and-more-new-whiskey` —
+THE MISSPELLING OF `woodford` IS WHISKY ADVOCATE'S OWN AND IS THE PAGE'S REAL ADDRESS. IT FETCHES 200.
+DO NOT `CORRECT` IT.**
+
+**(5) THE DEDUP CATCH, AND IT IS THE THIRD CONSECUTIVE RUN ONE HAS LANDED.**
+`russells-reserve-single-rickhouse-camp-nelson-d-2026` sits at the top of BB's date-sorted index with an
+**Oct 29** review and reads exactly like a new bottle. **IT IS NOT. WE PUBLISHED IT TUE OCT 13.** **A
+LATER REVIEW OF THE SAME BOTTLE DOES NOT REOPEN IT — the Stranahan's ground, restated Oct 30 against
+Dragon's Milk, and now applied a third time.** **Stays closed. No new key.**
+
+**(6) ASSESSED AND NOT STAGED THIS RUN — recorded so they are not re-walked.**
+`flag-hill-rye-2026` (BB, Jordan Moskal, Oct 30, **rated 2**; $45, 90 proof, 4 years, 85% rye,
+New Hampshire's oldest distillery, estate-grown rye, four barrels a batch. **IT DIES TWICE OVER:
+`Release Date: Ongoing` is the Kirkland ground — nothing to point at — and BB's own verdict names a
+`watery vanilla` finish and says it `tastes very much from a craft distillery`.** Not a close call.) ·
+`soldier-valley-lee-greenwood-2026` (BB, Eric Hasman, Oct 29, **rated 2.5**; $60, 90 proof, 4 years,
+sourced Indiana, June 2026 release — stale peg, low rating, and BB says it `may appeal more to casual
+drinkers than experienced bourbon enthusiasts`.) · The Wild Turkey Thanksgiving activation, the Buckhorn
+Smoked Maple flavoured line and the Cotswolds cream liqueur on the Oct 30 News Notes page (**all three
+are brand marketing, and the Wild Turkey kit carries a 1.75-litre decanting can, which is volume
+framing. NOT STAGED, AND THE LAST ONE IS A COMPLIANCE CALL, NOT A TASTE CALL.**) · The Irish Whiskey
+Association visitor survey on the same page (1,040,159 visitors, average spend up €42 to €50, 73% rural,
+Jameson Bow St. top) — **a genuine Explorer/industry item and a REAL candidate, but it loses the
+collision to Fireside. Re-open it only if the News Notes URL is ever freed, which it will not be.**
+
+**(7) TWO COLLISION FLAGS ADDED, BOTH ON OCT 30 WA ROUNDUPS, AND BOTH NOW HALF-SPENT.**
+**`whiskyadvocate.com/whiskey-news-october-30-2026` IS SPENT ON FIRESIDE TENNESSEE.** The Irish survey,
+Wild Turkey, Buckhorn and Cotswolds all die with it. **`whiskyadvocate.com/woodfod-double-oaked-rye-barrell-sweet-peat-and-more-new-whiskey`
+IS UNSPENT AND CARRIES SIX BOTTLES — Woodford Double Oaked Rye (the recommended pick, above),
+Barrell Sweet Peat Blend ($200, 71.1%, 22yo Speyside blended with Canadian whisky), Garrison Brothers
+Bottled in Bond Fall 2020 Vintage ($90, 50%, 102 barrels, 19,500 bottles, first 1,000 at the distillery
+Nov 14 for Red White & Bourbon), Milam & Greene Desert Marigold ($150, 62.1%, 288 bottles, all-Texas),
+Orphan Barrel Latverian Cask ($200, an Avengers tie-in) and a Blade & Bow 30 year old.** **ONLY ONE CAN
+EVER RUN — THE COPPER & CASK RULE.** **GARRISON BROTHERS IS THE RUNNER-UP AND IT HAS A REAL DATE PEG
+(Nov 14), SO IF WOODFORD'S SECOND SOURCE NEVER LANDS, THAT IS THE FALLBACK — but it would be a Venue
+Regular/on-the-calendar item for Fri Nov 13, not an Explorer one, and `garrison-brothers-laguna-madre-2026`
+and `garrison-brothers-cowboy-bourbon-12-2026` are both already in DEDUP as different bottles.**
+
+**(8) URGENT SWEEP — ONE FIRES, THIRTY-NINTH APPLICATION, AND IT IS THE FIRST TIME THE SWEEP HAS EVER
+PAID.** The Shanken death is the hit and it came from the **WA RSS FEED, NOT FROM THE SWEEP SEARCH.**
+The search itself returned only stale or undated material: a Kentucky distillery receivership (~297 days
+old), an Ohio bankruptcy (~305 days), the Barton 1792 warehouse collapse (undated), the barrel-theft
+sentencing, and Jimmy Bedford, who died in 2009. **NO recall, NO safety issue, NO litigation naming a WS
+partner brand or venue, and no OTHER death, in the Oct 30 – Nov 1 window.**
+
+**(9) PRUNE — EXECUTED on `## WEDNESDAY Sep 16 — PREP RUN` (46 days, the oldest eligible target; age
+DERIVED with `date -d` this run — Sep 17 at 45 is younger). ALL FOUR ARMS RAN AND NOTHING LOAD-BEARING
+WAS LOST. BUT THE ARMS RAN TWICE, AND THE FIRST RUN WAS WRONG IN A WAY THAT WOULD HAVE LOOKED LIKE A
+DISASTER.** **THE FIRST PASS TOOK THE SECTION AS LINES 4461–5220 — A 760-LINE RANGE EYEBALLED FROM A
+STALE HEADING LIST — AND THE REAL SECTION IS 4461–4664, 204 LINES.** The oversized range swallowed a
+dozen other sections, including the whole block of one-line prune tombstones, and **ARM 2 REPORTED 12
+ORPHANED URLs AND ARM 3 REPORTED LESSON 45 AS AN ORPHAN WITH ZERO SURVIVING MENTIONS. EVERY ONE OF
+THOSE WAS FALSE.** See `### LESSON 85`. **NOTHING WAS DELETED ON THE FIRST PASS — the arms are read-only
+and the delete happens last, which is the only reason this cost nothing.**
+**ON THE CORRECT 204-LINE SECTION: ARM 1 — 13 story keys, ZERO orphans.** The three with low counts were
+checked individually rather than counted (the Sep 7 rule): `copenhagen-bar-summit-to-launch-in-2027`
+survives once, inside a LESSON block, which is never pruned; `hibiki-12-2026` twice, inside DEDUP;
+`brand-product-year` is the key-format example, not a story key. **ARM 2 — two URLs.
+`bourbonandbeyond.com/bourbon/` survives twice outside.
+`wslmradio.com/2026/07/02/bourbon-and-beyond-set-for-8th-year-in-louisville-sept-24-27/` IS AT ZERO AND
+IS A REAL ZERO — BUT IT WAS NEVER A LINK-OUT.** It was the Tier 3 corroborating pickup that cleared
+`bourbon-and-beyond-2026` on the primary-source clause, and **the spent register protects addresses the
+product actually spent on readers** (the Sep 15 rule). **Nothing was owed to the spent register.**
+**THE INSTRUCTION ATTACHED TO IT WAS CHECKED SEPARATELY FROM THE URL, per the Oct 27 sharpening — the
+bar `"8th year", "100+ artists" and "5 stages" are WSLM-only and not printable against the /bourbon/
+link-out`. IT IS MOOT: the festival ran Sept 24–27 and is past, and the key is closed in DEDUP. It has
+been migrated into the DEDUP entry anyway, as one line, because a moot instruction costs a line and a
+wrong judgement about mootness costs the rule.** **ARM 3 — Lessons 25, 26, 53, 54, 57 and 58 named; all
+six have their own or a consolidated block outside.** **ARM 4 — four candidate rules, NONE an orphan,
+and each was verified by READING the surviving copy rather than counting hits:** the no-arithmetic
+clause on the sourced-claims rule (`111 proof` is a conversion, not a claim TSB made) survives in 13
+places · the three `whisky-advocate-spas-2026` compliance bars (`ellagic`, `dram or two`, `For men` /
+`Southern Gentleman`) survive in the `FRIDAY Sep 18 — PUBLISHED` board block, which is a board and is
+never pruned · the Penelope sensory-by-absence bar survives five times · the MGP `42% whiskey sales
+drop / Kentucky pause — true, sourced, and the wrong note for a release blurb` suppression survives in
+the header's urgent-sweep precedent, framed as market contraction rather than a sweep trigger.
+**204 LINES DROPPED.**
+
+**(10) ONE STRUCTURAL DEFECT IN THIS FILE WAS FOUND AND REPAIRED, AND IT IS THE SAME HAZARD AS (9).**
+**Line 175 read `## LESSON 82\` BLOCK.** ... ` — A PHANTOM H2.** A cross-reference to the Lesson 82
+block had wrapped onto the start of a line, and Markdown promoted it to a heading. **The effect is that
+the Oct 28 run entry was structurally orphaned under a heading that is not a section, and any future
+prune deriving boundaries from `^## ` would have seen a section that does not exist.** **IT HAS BEEN
+DEMOTED TO BOLD BODY TEXT. NO WORDS WERE ADDED OR REMOVED — only the two leading `##` characters.**
+
+**(11) FORMATTING — LESSON 83 DISCHARGED ON ITS FIRST TEST.** `**double asterisk**` was sent. The
+channel stored `*THE POUR*`, every item headline, `*NOTES*` and `*PIPELINE*` in single-asterisk bold.
+**THE EMPHASIS CHARACTER WAS MACHINE-CHECKED BEFORE SEND — zero unpaired single asterisks in the draft —
+AND THE POST WAS READ BACK FROM THE CHANNEL AFTER SEND, NOT CHECKED IN THE DRAFT.** **The bare `>` line
+between NOTES and PIPELINE collapsed again. Known, harmless, NOT a defect, do not `fix` it.**
+**CHANNEL: 14 messages pulled at `concise`, every one carrying a masthead glyph, so every one is ours.
+NO HUMAN REPLIES — now 39 DAYS.** **LESSON 79 APPLIED: all 14 show as Aaron; the glyph test did the
+work.** **CADENCE: CLEAN.** Oct 30 was the newest post, Oct 31 is a Saturday and does not fire, and
+Nov 1 was empty before this run, so idempotency was not in play and this is the day's only post.
+**THIN-EDITION WATCH: Oct 9 and Oct 20 remain the only two, both outside a rolling two weeks.**
+**DEDUP KEYS WERE NOT PRUNED TO 30 DAYS, DELIBERATELY — unchanged practice, see the Oct 25 entry.**
+**POSTED 06:22:30 PT. Slack: `https://whiskeysocial.slack.com/archives/C0BKL9FB2CV/p1793542950978379`.**
+**AN OUT-OF-BAND NOTIFICATION WAS SENT, AND THAT WAS A DECISION.** A prep run that goes well does not
+get to interrupt anyone — but this one did not go well, it caught a story the previous run missed, and
+it holds a question only Aaron can answer before Tuesday. **Both conditions are new; neither has fired
+on a prep run before.**
+
+**Prior run:** 2026-10-30 (Fri), **LAST CALL — SHIPPED AT THE FLOOR OF THREE. ALL THREE LINK-OUTS
 RE-FETCHED 200 AND EVERY CLAIM RE-GREPED OFF THE LIVE PAGE. THE EDITION IS CLEAN ON CONTENT AND IT SHIPPED
 WITH THE WRONG EMPHASIS CHARACTER — LESSON 60 RECURRED, IN FULL, ELEVEN DAYS AFTER ITS LAST RESTATEMENT.**
 
@@ -172,7 +392,7 @@ OPEN AND NONE WAS RE-ASKED. NO FIFTH QUESTION WAS ADDED.**
 inside the blockquote. **The bare `>` between NOTES and PIPELINE collapsed as always. NOT A DEFECT.**
 Permalink: `https://whiskeysocial.slack.com/archives/C0BKL9FB2CV/p1793281120379349`
 
-## LESSON 82` BLOCK.** **ARM 1 OF THE PRUNE, RUNNING ON AN UNRELATED SECTION (`## THURSDAY Sep 10`), SURFACED THE KEY
+**SEE THE `## LESSON 82` BLOCK.** **ARM 1 OF THE PRUNE, RUNNING ON AN UNRELATED SECTION (`## THURSDAY Sep 10`), SURFACED THE KEY
 `sagamore-bottled-in-bond-rye-2026` AND STOPPED IT.** **THE KEY IS UNCHANGED. NO NEW KEY WAS MINTED.**
 **THE SEP 2/SEP 3 RECORD SAID EXACTLY WHAT WOULD UNBLOCK IT AND THAT CONDITION IS NOW MET:** the Sep 3
 second-source hunt failed, found only an unlisted InsideHook review, and recorded **"Residual is 'a
@@ -4458,209 +4678,7 @@ issue, litigation naming a WS partner brand or venue, or a death in the industry
 
 ---
 
-## WEDNESDAY Sep 16 — PREP RUN (posted 06:3x PT)
-
-### THE RUN'S LESSON — Lesson 58. A TIER RANKING IS A SOURCING CONSTRAINT THAT ARRIVES AFTER THE FIND, AND THE BEST-READING PAGE IS NOT ALWAYS A LINKABLE ONE. Full text in its own block below.
-
-### THE SEP 18 PRE-EDITION PASS — all three link-outs re-fetched with the Lesson 57 curl, ALL THREE 200. TWO CLEAN, ONE PRINTED CLAIM FAILS.
-
-**Method: `curl -sL -A "<browser UA>"`, then an exact regex grep of every board claim against the
-stripped page text. Not a question put to a summarising model. Lesson 57 + Lesson 54 together.**
-
-- **`whisky-advocate-spas-2026` — CLEAN, and its recorded price range is CONFIRMED BY ADDRESS.**
-  The Sep 9 board recorded "prices $80 to $780". Both endpoints are on the page and both are now
-  pinned to the treatment that carries them: **`$80` is the Bluegrass Bourbon pedicure; `$780` is
-  the Whiskey on the Rocks treatment, "for up to 2 guests; $420 per additional".** High West at the
-  Lodge at Blue Sky ✓, Tarnished Truth at the Cavalier ✓.
-  **ALL THREE COMPLIANCE BLOCKS RE-CONFIRMED PRESENT ON THE PAGE AND ALL THREE STILL BIND:**
-  `ellagic` ×1 (the antioxidant health claim — UNPRINTABLE) · `dram or two` ×1 (volume cue) ·
-  `For men` ×2 and `Southern Gentleman` ×1 (gendered framings — build away from them).
-  **NOTHING MOVED. No copy change owed.**
-
-- **`penelope-cigar-sessions-chapter-2-2026` — CLEAN, and the sensory block is re-proved BY ABSENCE.**
-  The page states the item as a spec line: **`ABV: 58.7%  Price: $80  Availability: Nationwide`** —
-  note it reads **`Price:`**, not `SRP:`, unlike the other entries in the same roundup. 6 year ✓,
-  69% / 19% / 12% ✓, Cigar Sessions ✓, Alec Bradley ✓, Chapter 2 ✓, single-component expression ✓,
-  blenders Coburn and Marsh named on the page ✓.
-  **`toasted oak` ZERO · `leather` ZERO · `caramel` ZERO.** The string that appears in every pickup
-  is Penelope's own copy and **it is not on the link-out at all.** The Sep 13 trap warning was
-  correct and is now proved against the page rather than remembered. **DO NOT PRINT IT.**
-
-- **`mgp-chapter-one-out-of-the-shadows-2026` — ONE PRINTED CLAIM FAILS. `proof` RETURNS ZERO ON THE
-  WHOLE PAGE.** The board carries **"55.5% ABV / 111 proof"**. **`55.5` is on the page. `111` is
-  not, and neither is the word `proof`, anywhere.** **111 proof is a CONVERSION this file performed,
-  not a claim TSB made.** A doubled ABV is arithmetic the reader can do; it is not traceable to the
-  linked source, and the sourced-claims rule does not have an arithmetic exemption.
-  **THE FIX IS ONE WORD AND IT IS AN EDIT, NOT RESEARCH: print `55.5% ABV` and stop. Never print
-  "111 proof" against this link-out.**
-  **Everything else holds exactly as staged:** 10-year-old straight bourbon ✓ · 60% corn / 36% rye /
-  4% malted barley ✓ · high-rye LBSV mash ✓ · Rickhouse G ✓ · Ian Stirsman ✓ · `$69.99` ✓ · `750ml` ✓
-  · limited quantities nationwide this autumn ✓ · MGP Distillery rename after Rossville, Seagrams,
-  Ross & Squibb ✓ · Julie Francis, president and CEO ✓.
-  **SENSORY STAYS BLOCKED AND THE PAGE PROVES WHY IT IS A TRAP: butterscotch, burnt sugar and
-  cherry cola are ALL PRESENT on the TSB page in TSB's own voice — and the identical string is in
-  the company release and in all eight pickups. Present on the page is not the same as independently
-  tasted. DO NOT PRINT IT.**
-  **NEW ON THE PAGE, NOT PREVIOUSLY RECORDED, AND DELIBERATELY NOT FOR CONSUMER COPY:** TSB closes
-  with MGP pausing its Kentucky distilleries (Limestone Branch, Lux Row) in May and a **42% drop in
-  whiskey sales.** True, sourced, and the wrong note for a release blurb. **Recorded here so a
-  future run does not "discover" it and reach for it.**
-
-### `bourbon-and-beyond-2026` — NEW KEY, VERIFIED, STAGED Tue Sep 22. IT CLOSES THE SEVEN-DAY ASK EXACTLY.
-
-**THE ASK, open since Sep 9: a SOCIAL DRINKER or VENUE REGULAR item from an outlet that is NEITHER
-RR NOR WA. This is it, and it came off one of the three untried rails the Sep 15 run named
-(festival calendars), not off the national trade rails that had failed it five days running.**
-
-**LINK-OUT: `https://bourbonandbeyond.com/bourbon/` — the festival's own bourbon page, a Tier 1
-primary. Fetched Sep 16, 200.**
-
-**SUPPORTED AND PRINTABLE OFF THE LINK-OUT AND THE SITE'S OWN PAGES:**
-September 24–27, 2026 · Highland Festival Grounds at the Kentucky Exposition Center, Louisville, KY ·
-producer Danny Wimmer Presents · headliners Foo Fighters, Mumford & Sons, Chris Stapleton, Dave
-Matthews Band, Queens of the Stone Age, Kacey Musgraves · **the bourbon pour list is PUBLISHED IN
-ADVANCE and split into `HOUSE SINGLE BARRELS` and an allocated tier** · named on that list:
-Old Rip Van Winkle 10yr, Van Winkle 12yr, Elmer T Lee, King of Kentucky 2022, Parker Heritage 11yr
-single barrel, Russell's Reserve 15yr, Four Roses 50th Anniversary Al Young, plus vintage pours
-dated to 1960, 1963, 1966, 1969 and 1975/76 · **passes on sale: 4-Day GA from `$519.00` all-in
-(week of show `$535.00`), single-day GA `$225.00` all-in (week of show `$236.00`), 4-Day Mint VIP
-final level `$946.00`.**
-
-**THE HOOK IS THE PUBLISHED LIST, NOT THE SCALE.** A reader can read exactly which bottles will be
-poured before deciding whether a pass is worth it. **That is a rare and genuinely useful thing and
-it is the whole item.** **Frame it as WHICH bottles, never as HOW MANY pours — see the compliance
-block below.**
-
-**VERIFICATION — IT CLEARS ON THE PRIMARY-SOURCE CLAUSE, the same shape as Parker's Heritage.**
-Tier 1 primary (the festival's own site) + a corroborating regional pickup, WSLM Radio, July 2
-(`https://wslmradio.com/2026/07/02/bourbon-and-beyond-set-for-8th-year-in-louisville-sept-24-27/`).
-**Dates, venue, producer and headliner line-up agree across both. IT DOES NOT RUN FLAGGED.**
-
-**THREE CLAIMS ARE WSLM-ONLY AND ARE THEREFORE NOT PRINTABLE AGAINST THIS LINK-OUT — recorded now so
-edition day does not have to rediscover it (Lesson 54):** **"8th year"** · **"100+ artists"** ·
-**"5 stages"**. **All three are absent from the festival's own `/bourbon/` page.** If any of them is
-wanted in copy, the link-out has to change — and WSLM is Tier 3, so it should not.
-
-**AND A FOURTH, WHICH IS LESSON 58's OWN SHAPE ONE PAGE OVER — CATCH IT NOW, NOT ON EDITION MORNING:
-THE PASS PRICES ARE ON `/passes/`, NOT ON `/bourbon/`.** `$519.00`, `$225.00`, `$946.00` and the
-week-of-show numbers are all on the passes page. **The link-out is `/bourbon/` and it carries NO
-price at all.** **So: either print no price against `/bourbon/`, or move the link-out to
-`/passes/` — which would cost the item its hook, since the published pour list IS the story.**
-**THE RECOMMENDATION IS: LINK `/bourbon/`, PRINT NO PRICE.** "Passes are on sale" is supportable
-from the site's own GET PASSES call to action; a dollar figure is not supportable from that page.
-**Same class of error as `111 proof` — true, on the site, and not on the page the reader lands on.**
-
-**THREE COMPLIANCE BLOCKS, ALL BINDING:**
-**(a) DISCUS 73.8 — THE POUR LIST IS A VOLUME HAZARD IF IT IS COUNTED.** The page lists several
-hundred bottles. **Never state or imply a count of pours, never "unlimited", never "all you can".**
-Name two or three specific bottles and stop. `unlimited` and `all you can` both return ZERO on the
-page, so there is nothing to quote in that direction and nothing to be tempted by.
-**(b) THE STUDENT PASS IS NOT PRINTABLE. `Single Day GA Student Pass — Daily GA Only $130.00`** is
-on the passes page. **A student discount reads as youth-directed in an alcohol context and this is a
-non-21+-gated music festival. DO NOT MENTION IT**, even as a value angle. The GA and VIP prices are
-the printable ones.
-**(c) DO NOT USE THE FESTIVAL'S OWN TAGLINE.** It calls itself "The World's Largest Bourbon
-Experience" — **"experience" is a banned word** and the superlative is the brand's, not ours.
-
-**Beat `on-the-calendar`, persona `venue-regular`.**
-**SENSORY: NOT APPLICABLE AND THAT IS CLEAN.** It is an event item; nobody has to have tasted
-anything. **No sensory claim can be made and none is wanted.**
-**FORWARD BAR: STRONG. Sept 24 is two days after the Sep 22 edition** — the tightest live peg on
-that board — **and passes are on sale, not sold out.** **The three `sold out` hits on the lineup
-page are BAND BIOGRAPHIES ("sold out arenas", "sold out runs"), not pass availability. Checked, so
-a future run does not misread them.**
-
-### `whisky-advocate-1880-whiskey-tasting-2026` — DECIDED AND DROPPED. The Sep 16 deadline was real.
-
-**The Sep 15 file said: "Decide it Wed or drop it — do not carry it into a third week as a live
-alternate that can never run." IT IS DROPPED, and the arithmetic is what decides it, not taste.**
-**Its peg is the Sotheby's Whisky auction running Sept 3–18.** **The only edition left inside that
-window is Fri Sep 18 — the auction's own closing day.** **Sep 18 is a LAST CALL: 3–4 items,
-occasion-led, Social Drinker / Venue Regular. This is a Collector reading item about six
-undrinkable pre-Prohibition bottles.** **It is the wrong shape for the only slot it could occupy,
-and that board already clears at three.** **Tue Sep 22 is four days past the peg.**
-**There is no slot in which this item is both live and correctly shaped. Dropping it is the honest
-outcome, and it is recorded as a decision taken, not a gap left open.**
-**Moved to `DROPPED / DO NOT REDISCOVER`. The OPEN GAPS entry is closed.**
-
-### THE LESSON 57 BOARD AUDIT — RAN, AND THE BOARDS ARE CLEAN. ONE ENTRY NEEDED A LINE.
-
-**This was instruction 6 and it was this run's first task after the calendar check.**
-**Every staged item on both live boards carries a `Link:` line with a full URL. Sep 18: spas ✓
-MGP ✓ Penelope ✓, alternates Fee Brothers ✓ and Victoria BC ✓. Sep 22: Parker's Heritage ✓
-Stranahan's ✓ Basil Hayden ✓ Woodford ✓ NZ single malts ✓.**
-**THE ONE FINDING: `four-roses-le-small-batch-2026` sits on the Sep 22 BENCH with no `Link:` line on
-the board.** Its RR URL is in this file — in the Sep 10 run section — **so it is not the High West
-failure repeating; the address exists.** **But a bench entry that names an outlet and a byline and
-makes a future run go hunting for the address is the same shape one notch down. A `Link:` line has
-been added to the board entry.** **Standing: the audit covers BENCH entries, not just staged ones.**
-
-### Urgent sweep — no override
-
-**Swept for recall, safety, litigation or investigation naming a partner brand or venue, and death
-in the industry. NOTHING FIRES.** What surfaced and why each is NOT urgent, on precedent now applied
-seven times: **a $250m distillery collapsing into receivership · a Kentucky distillery closure owing
-$28m · Jim Beam pausing a distillery for 2026 · MGP's own Kentucky pauses and 42% whiskey-sales
-drop.** **These are bankruptcies, closures and production cuts — a market contraction, not a recall,
-a safety issue, litigation naming a partner, or a death.** **The precedent is settled and should
-stop being re-argued each run.**
-**Checked and NOT in window: the Food Standards Scotland Kimbland warning is DECEMBER 2025** — a
-real safety action, a year stale, and not a partner. **The Steve Thompson death notice carries no
-2026 dateline.** **Neither is this window's news and neither fires.**
-
-### Prune — RAN. `MONDAY Aug 24 — PREP RUN` deleted (225 lines). All four arms passed, and two of them looked like failures first.
-
-**AGE CHECK FIRST, and it overrode the file's own heading.** The Sep 15 NEXT RUN block said
-"PRUNE — NOT DUE" and then said "check its age before touching it". **`SUNDAY Aug 23` was pruned
-Sep 15 at 23 days. `MONDAY Aug 24` is 23 days old on Sep 16. The age check is the governing test and
-it said DUE.** **The heading was a forecast written a day early; the arithmetic is the authority.
-Lesson 53, one more time.**
-
-**ARM 1 — KEYS IN THE RIGHT REGISTER.** `canada-50pct-tariff-aug-19-2026` in DEDUP ✓ ·
-`jones-mack-bourbon-2026` in DEDUP and WATCHING ✓ · `hibiki-12-2026` and
-`koopers-texas-oak-bourbon-2026` in DEDUP and in DROPPED ✓.
-**APPARENT FAILURE, RESOLVED: `copenhagen-bar-summit-to-launch-in-2027` is in NO register and
-appears nowhere outside the section.** **It is not a story key. It is a TSB URL slug, sitting inside
-a list of headlines screened out as "non-whiskey, marketing, or trade events" — and it does not even
-use this file's `brand-product-year` form.** **A rejected headline slug is not a key and needs no
-register.** Same shape as Sep 9's finding that a lead source is not a spent link-out.
-**ARM 2 — SPENT LINK-OUTS.** The FM Jones Mack URL and the TSB tariff URL are both present outside
-the section ✓. **APPARENT FAILURE, RESOLVED: the RR Hibiki 12 URL and the FM Koopers URL are NOT
-elsewhere in the file — and neither should be.** **Both items were ASSESSED AND REJECTED and neither
-was ever published.** **A page that was only ever read to reject an item is a lead source, not a
-spent link-out.** The spent list protects addresses the product actually spent on readers.
-**ARM 3 — LESSONS.** Refs are 25 and 26. **`Lesson 26` appears six times outside the section ✓.
-`Lesson 25` returns zero as a heading — and that is the FALSE ALARM THE SEP 15 BLOCK WARNED ABOUT:
-it is numbered item 25 inside `PRIOR LESSONS (24–26 added Aug 23)`, read in full and confirmed
-present before the delete.** **Exactly the `lesson 4` / `lesson 5` shape. It is not a broken
-reference.**
-**ARM 4 — DELETE.** One section, 225 lines, and only that section. **`FRIDAY Aug 21 — STAGING
-RECORD` was NOT touched — it is still the only Aug 21 record.**
-**Next eligible: `TUESDAY Aug 25 — WHAT SHIPPED`, 22 days old on Sep 16. Check its age; it is due
-Sep 17 at 23 days.** **Never prune DEDUP, OPEN GAPS, COLLISION FLAGS, boards or LESSONS.**
-
-### Coverage and shape
-
-**Sep 18 (Last Call, 2 days out): THREE staged, clears the 3–4 floor, no discovery owed.**
-Personas Social Drinker ×1, Explorer ×1, Cigar Crossover ×1. Outlets WA ×2, TSB ×1.
-**One copy cut is now known and it is an edit: MGP prints `55.5% ABV`, never `111 proof`.**
-**Sep 22 (Shortlist, 6 days out): SIX staged, which is the top of the 4–6 range.**
-Personas Explorer ×3, Collector ×2, **Venue Regular ×1 — the zero is gone.**
-Outlets RR ×2, WA ×2, Heaven Hill ×1, **Bourbon & Beyond ×1 — four distinct outlets.**
-**SEP 22 NOW FACES A CUTTING PROBLEM, NOT A FILLING ONE, and the board's own standing note names
-the cut: Woodford — $180, Kentucky-first, never leads, and the second RR link-out.**
-
-### The post
-
-**Posted 06:3x PT, prep register, glyph :mag:, raw links, no UTMs.** One staged item, four Notes
-bullets, three Pipeline lines. **Idempotency: nothing had been posted Sep 16 before this run — the
-channel's newest message was the Sep 15 edition. This brief is the day's only post.**
-**Channel check: last 14 days read (Sep 2 – Sep 16), 30 messages, EVERY ONE this pipeline's own
-post — verified by the masthead-glyph test, not by authorship.** **No human replies from Aaron or
-Adam in the window, and none at any point in this channel's recorded history. Nothing overrode this
-file.**
-
----
+## WEDNESDAY Sep 16 — PREP RUN — PRUNED Nov 1 (46 days, the oldest eligible target; age DERIVED with `date -d` this run — Sep 17 at 45 is younger). ALL FOUR ARMS RAN ON A BOUNDARY THAT WAS DERIVED, NOT EYEBALLED — AND THAT CORRECTION IS THE PRUNE'S REAL FINDING. **The first pass took the section as lines 4461–5220, a 760-line range read off a truncated heading list; the real section is 4461–4664, 204 lines. The oversized range swallowed a dozen sections including the whole tombstone run, and ARM 2 reported 12 orphaned URLs and ARM 3 reported Lesson 45 as a zero-mention orphan. ALL THIRTEEN WERE ARTEFACTS OF THE BOUNDARY. Nothing was deleted, because the arms are read-only and the delete runs last. See `### LESSON 85`.** ON THE CORRECT SECTION: ARM 1 — 13 story keys, ZERO orphans; the three low counts were checked individually per the Sep 7 rule (`copenhagen-bar-summit-to-launch-in-2027` survives once inside a LESSON block, never pruned; `hibiki-12-2026` twice inside DEDUP; `brand-product-year` is the key-format example, not a story key). ARM 2 — two URLs; `bourbonandbeyond.com/bourbon/` survives twice outside; the WSLM Radio corroboration is at zero and IS a real zero, but it was never a link-out, so the spent register was owed nothing (the Sep 15 rule). **Its attached instruction was checked separately from the URL per the Oct 27 sharpening — the `8th year / 100+ artists / 5 stages are WSLM-only` bar — and is MOOT, the festival having ended Sept 27; it was migrated into the DEDUP entry anyway.** ARM 3 — Lessons 25, 26, 53, 54, 57 and 58 all have their own or a consolidated block outside. ARM 4 — four candidate rules, NONE an orphan, each verified by READING the surviving copy rather than counting: the no-arithmetic clause on the sourced-claims rule (`111 proof` was a conversion, not a TSB claim) survives 13x; the three `whisky-advocate-spas-2026` compliance bars (`ellagic`, `dram or two`, `For men`/`Southern Gentleman`) survive in the `FRIDAY Sep 18 — PUBLISHED` board block, which is a board and is never pruned; the Penelope sensory-by-absence bar survives 5x; the MGP `42% sales drop / Kentucky pause — the wrong note for a release blurb` suppression survives in the header's urgent-sweep precedent. 204 LINES DROPPED.
 
 ## TUESDAY Sep 15 — WHAT SHIPPED (The Shortlist, posted 06:15 PT)
 
@@ -9392,6 +9410,66 @@ and nothing is lost.** 22 and 23 are captured here early so their source section
 
 ## DEDUP — closed to re-use
 
+**Added Nov 1 (STAGED/ASSESSED — closed to re-scouting, NOT published):**
+**`marvin-shanken-death-2026`** — **URGENT, posted Sun Nov 1 in the prep brief, UNSLOTTED.** Marvin R.
+Shanken, founder of M. Shanken Communications and publisher of Wine Spectator, Cigar Aficionado and
+Whisky Advocate, died **Oct 29 2026, aged 83**. **LINK-OUT IS VARIETY** (Pat Saperstein, Oct 30),
+`https://variety.com/2026/biz/lifestyle/marvin-r-shanken-dead-wine-spectator-1236935611/`. **ALL
+M. SHANKEN TITLES ARE BARRED AS THE LINK-OUT — WA, Cigar Aficionado, Wine Spectator and Shanken News
+Daily are all his own, and the Oct 28 WhiskyFest COI call governs. They are corroboration only.**
+**WHETHER THIS RUNS AS READER-FACING COPY IN TUE NOV 3 IS AARON'S OPEN CALL — it is NOT a standing
+question and it resolves Tuesday either way. Posting it internally Nov 1 already satisfied the urgent
+rule's timing.** **Printable against Variety: age 83 · died Thursday in Manhattan · Impact 1972 ·
+Wine Spectator 1979 · founded Cigar Aficionado · bought Malt Advocate, renamed Whisky Advocate ·
+founded Market Watch and Shanken News Daily · born New Haven CT.** **NOT printable against Variety:
+the 2011 rename year, the Oct 4 1943 birth date, the survivors list — all live on conflicted pages
+only.** ·
+**`barrell-new-year-2027-2026`** — BB, Eric Hasman, 2026-10-30, rated 3.5, **STAGED Tue Nov 10**,
+`try-this-next` / **Explorer**. Link-out `https://breakingbourbon.com/review/barrell-bourbon-new-year-2027`.
+Second source Robb Report, `/food-drink/spirits/barrell-craft-spirits-new-year-bourbon-1238791562/`.
+**$85, Oct 2026, seven states, 5–16 years, 13 components, New York out and Texas in. SENSORY IS
+HASMAN'S OWN AND PRINTABLE ATTRIBUTED TO BB.** **PRINT NO PROOF (BB 115.34 vs RR 116.6 — the Wyoming
+shape) AND NO EDITION NUMBER (sources conflict). Mashbill is BB-labelled `derived`.** **NOT THE SAME
+KEY AS `barrell-new-year-blend-11-2026`, which is the prior annual edition and stays closed — a later
+annual edition is a different bottle, the Laguna Madre precedent. DO NOT MERGE AND DO NOT RE-MINT.** ·
+**`tn-whiskey-trail-fireside-2026`** — WA News Notes, Aubrey Thompson, 2026-10-30, **STAGED Fri Nov 13**,
+`on-the-calendar` / **Venue Regular**. Link-out
+`https://whiskyadvocate.com/whiskey-news-october-30-2026`. Second source the Tennessee Distillers
+Guild's own 2026-10-27 release via bevnet (Tier 1 primary, the KDA clause). **Nov 1 – Feb 28. CLEARED
+ON THE PRIMARY-SOURCE CLAUSE, NOT AS TWO INDEPENDENT OUTLETS — WA's item plausibly derives from the
+release, and that is recorded rather than papered over (Lesson 72).** **The example drink names are on
+the release, not on the WA page, and are not printable against this link-out.** ·
+**`woodford-double-oaked-rye-2026`** — **ASSESSED, NEEDS A SECOND SOURCE, NOT STAGED.** WA Whisky Watch
+Oct 30: $55, 45.2% ABV, nationwide, permanent, Double Oaked toasted-barrel finish applied to rye.
+**SENSORY BLOCKED — WA's notes are expressly the brand's.** **A targeted search returned only Double
+Double Oaked, a different $200 bourbon; do not re-run it cold.** **Best unresolved Explorer lead on the
+file. The WA slug really is misspelled `woodfod` — that is the page's address, do not correct it.** ·
+**`flag-hill-rye-2026`** — **ASSESSED, NOT STAGED.** BB, Jordan Moskal, Oct 30, **rated 2**. $45, 90
+proof, 4 years, 85% rye, New Hampshire. **Dies twice: `Release Date: Ongoing` is the Kirkland ground,
+and BB's own verdict is poor. Do not re-walk.** ·
+**`soldier-valley-lee-greenwood-2026`** — **ASSESSED, NOT STAGED.** BB, Eric Hasman, Oct 29, **rated
+2.5**. $60, 90 proof, 4 years, sourced Indiana, June 2026 release — stale peg and a weak verdict.
+**Do not re-walk.** ·
+**`whisky-advocate-irish-whiskey-way-2026`** — **ASSESSED, LOSES A COLLISION, NOT STAGED.** The Irish
+Whiskey Association visitor survey on the Oct 30 News Notes page: 1,040,159 visitors, up 30,000;
+average spend €42 to €50; 73% of participating distilleries rural; Jameson Bow St. most visited.
+**A real Explorer/industry item that dies ONLY because Fireside Tennessee spends the same URL. It does
+not re-open — that URL is spent for good.**
+
+**`russells-reserve-single-rickhouse-camp-nelson-d-2026` — RE-CONFIRMED CLOSED Nov 1.** Breaking
+Bourbon reviewed it **Oct 29** and it sits at the top of the date-sorted index looking new. **IT WAS
+PUBLISHED TUE OCT 13. A LATER REVIEW OF THE SAME BOTTLE DOES NOT REOPEN IT — the Stranahan's ground,
+third consecutive run this rule has paid. NO NEW KEY.**
+
+**`bourbon-and-beyond-2026` — ONE LINE MIGRATED Nov 1 from `## WEDNESDAY Sep 16` before that section
+was pruned.** Its corroborating source was **WSLM Radio, July 2 2026**
+(`wslmradio.com/2026/07/02/bourbon-and-beyond-set-for-8th-year-in-louisville-sept-24-27/`), which was
+**never a link-out and is therefore owed nothing by the spent register.** **The bar attached to it:
+`8th year`, `100+ artists` and `5 stages` were WSLM-only and were never printable against the
+`/bourbon/` link-out.** **MOOT — the festival ran Sept 24–27 2026 and is past — and migrated anyway,
+because a moot instruction costs one line and a wrong call about mootness costs the rule.**
+
+
 **PUBLISHED Fri Oct 30 (Last Call) — CLOSED TO RE-USE. All three keys move here on publish.**
 **`whisky-advocate-halloween-cocktails-2026`** — WA, Sally Kral, 2026-10-22, `easy-pour` / social-drinker.
 **SPENT LINK-OUT: `https://whiskyadvocate.com/whiskey-and-tequila-halloween-cocktails`.**
@@ -11281,127 +11359,229 @@ and the fifth coconut item) · `discus-congressional-fly-in-2026`.
 
 ---
 
-## NEXT RUN (Sun Nov 1 — PREP. Then Mon Nov 2 PREP, Tue Nov 3 THE SHORTLIST, Wed Nov 4 PREP, Thu Nov 5 PREP, Fri Nov 6 LAST CALL. No Saturday run — Oct 31 does not fire.)
+## NEXT RUN (Mon Nov 2 — PREP. Then Tue Nov 3 THE SHORTLIST, Wed Nov 4 PREP, Thu Nov 5 PREP, Fri Nov 6 LAST CALL. No Saturday run — Nov 7 does not fire. Then Sun Nov 8 PREP.)
 
-**SUNDAY IS A PREP RUN. Glyph `:mag:`, masthead `THE POUR  ·  Prep  ·  Sunday, November 1`, INTERNAL
+**MONDAY IS A PREP RUN. Glyph `:mag:`, masthead `THE POUR  ·  Prep  ·  Monday, November 2`, INTERNAL
 register, NO UTMs, raw links, NO consumer voice.** **A PREP RUN POSTS ONLY IF there is new pipeline
-material, a gap update, or urgent news. Otherwise it posts NOTHING — and that is a correct outcome, not a
-failure.** **DERIVE EVERY DATE WITH `date -d` IN America/Los_Angeles. THE SANDBOX CLOCK IS UTC.**
+material, a gap update, or urgent news. Otherwise it posts NOTHING — and that is a correct outcome, not
+a failure.** **DERIVE EVERY DATE WITH `date -d` IN America/Los_Angeles. THE SANDBOX CLOCK IS UTC.**
 
-0a. **THE WINDOW IS FRI OCT 30 THROUGH SUN NOV 1 — the Sunday rule, because Saturday does not run.**
-   Oct 30 (Last Call) should be the newest post. **Nothing to report on cadence.** **THIN-EDITION WATCH:
-   Oct 9 and Oct 20 remain the only two and both are outside a rolling two weeks. Oct 23 shipped three,
-   Oct 27 four, Oct 30 three — all at or above floor.**
-0b. **CHANNEL READ — `slack_read_channel`, `response_format: concise`, `limit: 14`.** **AT `detailed` IT
-   RETURNS ~90 KB AND BLOWS THE TOOL LIMIT — Oct 30 hit this and had to parse the spill file. USE
-   `concise`.** **THE MASTHEAD-GLYPH TEST IS THE ONLY RELIABLE ONE (Lesson 79) — every post shows as
-   Aaron.** **NO HUMAN HAS POSTED IN 38 DAYS. If that changes, it outranks everything below.**
+0a. **THE WINDOW IS SUN NOV 1 THROUGH MON NOV 2 — a plain 24h, no weekend rule.** Nov 1 should be the
+   newest post. **CADENCE: clean, nothing to report. THIN-EDITION WATCH: Oct 9 and Oct 20 remain the
+   only two and both are outside a rolling two weeks.**
+0b. **CHANNEL READ — `slack_read_channel`, `response_format: concise`, `limit: 14`.** **AT `detailed`
+   IT RETURNS ~90 KB AND BLOWS THE TOOL LIMIT. USE `concise`.** **THE MASTHEAD-GLYPH TEST IS THE ONLY
+   RELIABLE ONE (Lesson 79) — every post shows as Aaron.** **NO HUMAN HAS POSTED IN 39 DAYS. IF AARON
+   HAS REPLIED ABOUT SHANKEN, IT OUTRANKS EVERYTHING BELOW — see item 2.**
 
-1. **FORMATTING — THIS IS THE FIRST THING TO GET RIGHT AND IT WAS GOT WRONG ON OCT 30.**
-   **SEND `**double asterisk**` FOR BOLD. The client takes STANDARD markdown; single `*word*` is ITALIC
-   and ships italic.** **THE TASK PROMPT'S OWN LINE ("Use Slack mrkdwn: `*bold*`") IS FALSE OF THIS
-   CLIENT. DO NOT FOLLOW IT. See `### LESSON 83` — on a MECHANICAL claim about a tool, this file wins.**
-   **CHECK THE EMPHASIS CHARACTER IN THE SAME PASS AS THE UTM VERIFICATION, BEFORE SEND.** Links
-   `<url|Outlet>`, `_italic_`, `>` blockquotes and `:emoji:` all pass through unchanged.
-   **THEN STILL READ THE POST BACK AFTER SENDING AND CHECK THE RENDER (Lesson 60).** **THERE IS NO
-   MESSAGE-EDIT TOOL ON THIS SERVER — a post is final the moment it lands, and a corrected re-post would
-   be a second edition. The pre-send check is the only real defence.**
+1. **THE URGENT SWEEP CHANGED THIS RUN AND THE NEW FORM IS MANDATORY. READ `### LESSON 86` BEFORE
+   RUNNING IT.** **Headlines of the WA RSS feed and the BB date-sorted index FIRST, judged against all
+   four triggers, before any search.** **Then a DEATH-SHAPED QUERY OF ITS OWN — `dies`, `died`,
+   `obituary` — never folded into the recall-and-litigation query.** **The window is the gap since the
+   last run, not a flat 24h.** **THIRTY-EIGHT CONSECUTIVE EMPTY SWEEPS WERE NOT A QUIET WORLD; THEY
+   WERE AN INSTRUMENT THAT COULD NOT SEE ONE OF ITS OWN FOUR TRIGGERS.**
 
-2. **TUE NOV 3 IS AT FLOOR AT FOUR AND IS THE NEXT EDITION. DO NOT CHURN IT.**
-   `old-forester-tribute-series-2026` (WA, collector — SENSORY BANNED, it is distillery copy; print `$300`
-   not `$299.99`) · `whisky-advocate-craft-spirits-data-2026` (WA, explorer — tag `allocation-watch`, the
-   slug gap stays compressed; `$7.3 billion` total sales is NOT `7.3% by value`) ·
-   `sagamore-bottled-in-bond-rye-2026` (BB, explorer) · `jacobs-pardon-first-bourbon-2026` (WA, explorer).
-   **COLLECTOR x1 + EXPLORER x3 — the shape is Explorer-heavy and that is RECORDED, NOT ESCALATED.**
-   **`redemption-18yo-blending-session-2026` IS VERIFIED AND HELD TO TUE NOV 10 — it is also WA, and
-   promoting it makes Nov 3 four-of-five WA. The Oct 28 call stands.**
-   **ALL FOUR LINK-OUTS STILL OWE THEIR EDITION-MORNING RE-FETCH. Oct 30's re-fetch found nothing moved;
-   that is not a reason to skip it (Lesson 60's standing form — only a step that reruns every time
-   protects anything).**
+2. **SHANKEN IS THE ONE LIVE QUESTION AND IT RESOLVES TUESDAY EITHER WAY.**
+   `marvin-shanken-death-2026` is VERIFIED and was posted Nov 1 in the internal register, which
+   satisfies the urgent rule's timing in full. **WHETHER IT RUNS AS READER-FACING COPY IN TUE NOV 3 IS
+   AARON'S CALL AND A RUN MUST NOT MAKE IT.** It was raised once by notification and in one Notes
+   bullet. **DO NOT RE-ASK IT ON MONDAY. DO NOT ADD IT TO THE FOUR STANDING CALLS — it is not one.**
+   **IF HE HAS ANSWERED IN THE CHANNEL, DO WHAT HE SAYS.** **IF HE HAS NOT ANSWERED BY TUESDAY MORNING,
+   THE DEFAULT IS: DO NOT RUN IT IN THE SHORTLIST. Silence is not consent on an obituary of our own
+   principal source's proprietor, and Nov 3 is already at floor at four without it.**
+   **IF IT DOES RUN: link-out is VARIETY, never a M. Shanken title; factual and quiet, no occasion
+   framing, no payoff line, no CTA; and only the Variety-supported facts are printable — NOT the 2011
+   rename year, NOT the birth date, NOT the survivors list.**
 
-3. **FRI NOV 6 IS AT FLOOR AT THREE. DO NOT RAID IT FOR NOV 3.**
-   `wood-ear-telluride-2026` (venue-regular, WA) · `chattanooga-bad-chattanoogan-2026` (social-drinker, WA
-   roundup — **SENSORY BLOCKED, no independent tasting exists; do NOT print a world-first claim**) ·
-   `little-foster-marriage-of-mashbills-2026` (collector, BB — **Beiter's sensory IS printable**).
+3. **TUE NOV 3 IS AT FLOOR AT FOUR AND IS THE NEXT EDITION. DO NOT CHURN IT.**
+   `old-forester-tribute-series-2026` (WA, collector — SENSORY BANNED, it is distillery copy; print
+   `$300` not `$299.99`) · `whisky-advocate-craft-spirits-data-2026` (WA, explorer — tag
+   `allocation-watch`; `$7.3 billion` total sales is NOT `7.3% by value`) ·
+   `sagamore-bottled-in-bond-rye-2026` (BB, explorer) · `jacobs-pardon-first-bourbon-2026` (WA,
+   explorer — print `$60`, not `$59.99`). **COLLECTOR x1 + EXPLORER x3, WA THREE OF FOUR. The shape is
+   one of the four standing calls; it is RECORDED, NOT ESCALATED.**
+   **ALL FOUR LINK-OUTS STILL OWE THEIR EDITION-MORNING RE-FETCH, and two clean re-fetches in a row are
+   not a reason to drop the step (Lesson 60's standing form).**
+
+4. **FRI NOV 6 IS AT FLOOR AT THREE. DO NOT RAID IT.** `wood-ear-telluride-2026` (venue-regular, WA —
+   NEVER print the 50%-larger-pour discount or the spirits counts) · `chattanooga-bad-chattanoogan-2026`
+   (social-drinker, WA roundup — SENSORY BLOCKED, no world-first claim) ·
+   `little-foster-marriage-of-mashbills-2026` (collector, BB — Beiter's sensory IS printable).
    **WA x2 — a fourth item, if better than what is there, should NOT be WA.**
 
-4. **DISCOVERY POINTS AT TUE NOV 10, THE ONLY BOARD WITH ROOM.** It holds Redemption (collector, WA) and
-   nothing else. **IT NEEDS AN EXPLORER ITEM AND A NON-WA ITEM, AND IDEALLY BOTH AT ONCE.**
+5. **TUE NOV 10 HOLDS TWO AND BOTH OF ITS NAMED GAPS CLOSED ON NOV 1.**
+   `redemption-18yo-blending-session-2026` (WA, Collector — the `collection` quote is UNUSABLE; the
+   barrel-sample impressions are NOT product tasting notes) · `barrell-new-year-2027-2026` (BB,
+   Explorer — PRINT NO PROOF, NO EDITION NUMBER). **WA x1 + BB x1, Collector x1 + Explorer x1. It needs
+   two more against a Tuesday floor of four and has four preps to find them.**
+   **FRI NOV 13 HOLDS ONE:** `tn-whiskey-trail-fireside-2026` (WA, Venue Regular). **Its next item
+   should not be WA.**
 
-5. **WORK THE BACKLOG BEFORE THE SWEEP. IT HAS NOW OUTPERFORMED THE 24h SEARCH THREE TIMES IN TWO WEEKS.**
-   **THE RAIL, UNWALKED AND RECORDED SO IT IS NOT MISTAKEN FOR AN ABSENCE:** two WA review pages,
+6. **WORK THE BACKLOG BEFORE THE SWEEP. IT HAS NOW OUTPERFORMED THE 24h SEARCH FOUR TIMES IN THREE
+   WEEKS.** **THE BEST SINGLE LEAD IS `woodford-double-oaked-rye-2026` AND IT NEEDS EXACTLY ONE THING:
+   a second source.** $55, nationwide, permanent, a one-sentence production hook — the strongest
+   Explorer shape on the file. **Try Brown-Forman's newsroom and the BB review index; do NOT re-run the
+   plain web search, which returns only Double Double Oaked, a different $200 bourbon.**
+   **THE RAIL, STILL UNWALKED AND RECORDED SO IT IS NOT MISTAKEN FOR AN ABSENCE:** two WA review pages,
    `Jura-12-year-old-40-2026-review` and `Green-River-Honey-Finished-46`, both 2026-10-19, both fetched
-   200 but **NOT PARSED — body text did not survive the extractor; try the curl + strip-tags path that
-   worked on all four pages Oct 30.** **Green River Honey Finished is plausibly a value/Explorer item and
-   is the best single unwalked lead for Tue Nov 10.** Also unwalked: `mb-roland-auction-2026` as a
-   DECEMBER candidate (auction Dec 7-14) · `japanese-inspired-whisky-cocktail-recipes` ·
-   `/smores-whiskey-cocktail-recipe` · `/whisky-auction-update-october-16-2026` · `/european-oak-barrels` ·
-   `/sweet-mash-and-sour-mash-whiskey`. **`the-long-orchard-whiskey-cocktail-recipe` was read Oct 29 and
-   is a live Nov 10 / later-Friday candidate — the WA-cocktail count bar decides it, not Aaron.**
-   **NEWLY FREED Oct 30: the Halloween column is now SPENT, so the WA-cocktail count has room again from
-   Nov 10 — but Nov 6 is already WA x2, so do not spend it there.**
+   200 but **NOT PARSED — body text did not survive the extractor; use the curl + strip-tags path.**
+   **Green River Honey Finished is plausibly a value/Explorer item and is the best unwalked lead for
+   Nov 10.** Also unwalked: `mb-roland-auction-2026` as a DECEMBER candidate (auction Dec 7–14) ·
+   `japanese-inspired-whisky-cocktail-recipes` · `/smores-whiskey-cocktail-recipe` ·
+   `/whisky-auction-update-october-16-2026` · `/european-oak-barrels` · `/sweet-mash-and-sour-mash-whiskey` ·
+   `the-long-orchard-whiskey-cocktail-recipe` (read Oct 29, a live Nov 10 / later-Friday candidate; the
+   WA-cocktail count bar decides it, not Aaron — and the Halloween column being spent gives it room).
 
-6. **SOURCES — READ THE WA RSS FEED FIRST, `https://whiskyadvocate.com/call/blogs/rss/`, curl browser UA.
-   THEN THE BB DATE-SORTED REVIEW INDEX:
-   `https://breakingbourbon.com/bourbon-rye-whiskey-reviews-sort-by-review-date`.** Both verified 200 on
-   Oct 29. **Then walk WA's front page as a SUPPLEMENT.** **`breakingbourbon.com/reviews` AND
+7. **SOURCES — WA RSS FEED FIRST, `https://whiskyadvocate.com/call/blogs/rss/`, curl browser UA (200,
+   5,880 bytes, ten items on Nov 1). THEN THE BB DATE-SORTED REVIEW INDEX,
+   `https://breakingbourbon.com/bourbon-rye-whiskey-reviews-sort-by-review-date` (200, 63,872 bytes).**
+   **Then walk WA's front page as a SUPPLEMENT.** **`breakingbourbon.com/reviews` AND
    `breakingbourbon.com/bourbon-whiskey-press-releases` BOTH 404 AS INDEXES — those are GUESSES, not
-   absences; the individual press-release ARTICLE URLs under that second path DO work.**
+   absences; individual press-release ARTICLE URLs under that second path DO work, but the slug must be
+   known, not guessed (the Barrell 2027 slug 404s while the 2026 one returns 200).**
 
-7. **LESSON 57 IS UNCONDITIONAL. `whiskyadvocate.com` and `breakingbourbon.com` 503 WebFetch and return
-   200 to a curl browser UA.** **NEVER record a fetcher failure on either domain as an absence without the
-   curl retry. AND NEVER record a 404 on a GUESSED path as an absence at all.**
-   **WHEN A KNOWN PATH 404s, GREP THIS FILE FOR THE PATH BEFORE GUESSING A NEW ONE.** Cheapest save in
-   the file.
+8. **LESSON 57 IS UNCONDITIONAL. `whiskyadvocate.com` and `breakingbourbon.com` 503 WebFetch and return
+   200 to a curl browser UA.** **NEVER record a fetcher failure on either domain as an absence without
+   the curl retry, and NEVER record a 404 on a GUESSED path as an absence at all.** **WHEN A KNOWN PATH
+   404s, GREP THIS FILE FOR THE PATH BEFORE GUESSING A NEW ONE.**
 
-8. **DO NOT RE-WALK WHAT IS CLOSED.** Everything on the Oct 29 list, plus **NEW Oct 30, all three now
-   PUBLISHED AND CLOSED: `whisky-advocate-halloween-cocktails-2026` (a dated seasonal column; Halloween
-   has passed) · `flower-mound-smoke-whiskey-fest-2026` (the event expired after Oct 31 — DEAD, not
-   benched) · `dragons-milk-origin-x-dnd-blue-dragon-2026` (a later review of the SAME bottle does NOT
-   reopen it — the Stranahan's ground).** · Also still closed: `stranahans-first-bottled-in-bond-2026` ·
-   `stranahans-mountain-angel-12-year-2026` · the four bottles stranded by the spent WA Whisky Watch
-   roundup (Jack Daniel's Coy Hill Rye, Liberty Pole High Rye, New Riff 6 Year Wheated BiB, Bowmore
-   Captivo) · **WHISKYFEST NEW YORK — BARRED AS A LINK-OUT FOR GOOD (WA's own event, both M. Shanken)** ·
-   Spokane, Boston, the $55 column, Fredericksburg, Washback NY, Charlotte, Kirkland, Five & 20, Blackhat,
-   Shenk's, Glenlivet Provence, Atlanta, Champaign, Booker's, the WA football roundup, Fresno and OKC
-   Whiskey Riot, Silicon Valley, Lucky D RTDs, Two Stacks, Chip Tate's Gran Nota, GlenWyvis and Great
-   Jones, Bulleit '87, Mad River (both), Old Forester Birthday Bourbon, King of Kentucky, Silverthorn,
-   Koopers Prodigal Son, Onyx & Amber. **`copper-cask-x-barrel-proof-2026` IS DEAD ON THE WA PATH.**
+9. **DO NOT RE-WALK WHAT IS CLOSED.** Everything on the Oct 30 list, plus **NEW Nov 1:**
+   `russells-reserve-single-rickhouse-camp-nelson-d-2026` (**PUBLISHED Oct 13 — the Oct 29 BB review
+   does NOT reopen it, the Stranahan's ground**) · `flag-hill-rye-2026` (rated 2, `Ongoing` release) ·
+   `soldier-valley-lee-greenwood-2026` (rated 2.5, June release) · `whisky-advocate-irish-whiskey-way-2026`
+   (lost the News Notes collision to Fireside and does not re-open) · the Wild Turkey Thanksgiving
+   activation, Buckhorn Smoked Maple and the Cotswolds cream liqueur (brand marketing; the Wild Turkey
+   kit also carries a 1.75-litre decanting can, which is volume framing). **Also still closed:**
+   `whisky-advocate-halloween-cocktails-2026` · `flower-mound-smoke-whiskey-fest-2026` (expired) ·
+   `dragons-milk-origin-x-dnd-blue-dragon-2026` · `stranahans-first-bottled-in-bond-2026` ·
+   `stranahans-mountain-angel-12-year-2026` · the four bottles stranded by the spent Oct 23 WA roundup ·
+   **WHISKYFEST NEW YORK — BARRED AS A LINK-OUT FOR GOOD** · Spokane, Boston, the $55 column,
+   Fredericksburg, Washback NY, Charlotte, Kirkland, Five & 20, Blackhat, Shenk's, Glenlivet Provence,
+   Atlanta, Champaign, Booker's, the WA football roundup, Fresno and OKC Whiskey Riot, Silicon Valley,
+   Lucky D RTDs, Two Stacks, Chip Tate's Gran Nota, GlenWyvis and Great Jones, Bulleit '87, Mad River,
+   Old Forester Birthday Bourbon, King of Kentucky, Silverthorn, Koopers Prodigal Son, Onyx & Amber.
+   **`copper-cask-x-barrel-proof-2026` IS DEAD ON THE WA PATH.**
 
-9. **QUOTES — MCDANIEL IS NOW SPENT (Oct 30). UNSPENT AND AVAILABLE:** Pacult's "I can find something
-   better than 46" (8 words) · Arnold's "wood-burning stove in a cabin in the woods" (9 words, Nov 6) ·
-   Kennedy's "We can work with those" (4 words) · Beiter's "a rich, layered classic bourbon with an
-   accessible asking price" (11 words, Nov 6). **Beiter's D&D line is unspent but its BOTTLE is closed, so
-   it can only ride a different item.** **NEVER invent one, never lift one from a reprint. Quote-less is
-   normal — five editions have run that way.**
+10. **COLLISION FLAGS — TWO LIVE ONES ON OCT 30 WA ROUNDUPS.**
+   **`whiskeyadvocate.com/whiskey-news-october-30-2026` IS SPENT ON FIRESIDE.**
+   **`/woodfod-double-oaked-rye-barrell-sweet-peat-and-more-new-whiskey` IS UNSPENT AND HOLDS SIX
+   BOTTLES — Woodford Double Oaked Rye (recommended), Barrell Sweet Peat ($200, 71.1%), Garrison
+   Brothers BiB Fall 2020 Vintage ($90, 50%, 19,500 bottles, first 1,000 at the distillery Nov 14),
+   Milam & Greene Desert Marigold ($150, 288 bottles), Orphan Barrel Latverian Cask ($200) and a
+   Blade & Bow 30 year old. ONLY ONE CAN EVER RUN.** **Garrison Brothers is the runner-up and has a real
+   Nov 14 peg — the Fri Nov 13 fallback if Woodford's second source never lands.**
 
-10. **FOUR CALLS ARE OPEN WITH AARON AND NONE IS TO BE RE-ASKED, ONLY CARRIED:** **(a) the Tuesday board
-   shape. (b) the evergreen-value rule behind Kirkland — THE SUB-$30 GAP RIDES ON THIS AND IS NOW 24 RUNS
-   OLD. (c) PENELOPE (14th). (d) WANDERFOLK (17th).** **All compress to `_unchanged:_`. DO NOT ADD A FIFTH
-   QUESTION.** **PLUS THE TWO OCT 25 DEAD-LINK DECISIONS, carried in ONE compressed line.**
-   **Where a call is this file's to make, MAKE IT and report it as a decision — Oct 30 did exactly that
-   with the Flower Mound link-out and it did not cost him a question.**
-   **ONE NEW ITEM FOR HIM, ALREADY SENT BY NOTIFICATION, NOT A FIFTH QUESTION: the Oct 30 edition
-   rendered italic. He may want it re-posted. THAT IS HIS CALL AND A RUN MUST NOT MAKE IT —
-   re-posting is a second edition.**
+11. **QUOTES — UNSPENT AND AVAILABLE:** Pacult's `I can find something better than 46` (8 words) ·
+   Arnold's `wood-burning stove in a cabin in the woods` (9 words, Nov 6) · Kennedy's `We can work with
+   those` (4 words) · Beiter's `a rich, layered classic bourbon with an accessible asking price`
+   (11 words, Nov 6). **McDaniel and Polonski are SPENT.** **NEVER invent one, never lift one from a
+   reprint. Quote-less is normal — five editions have run that way.** **NO QUOTE ON AN OBITUARY ITEM.**
 
-11. **PRUNE — CHECK ELIGIBILITY, DO NOT ASSUME (Lesson 51).** It ran Oct 30 on `## MONDAY Sep 14 — PREP
-   RUN` at 46 days. **DERIVE THE NEXT TARGET'S AGE AGAINST THE RUN DAY with `date -d`; do not carry a
-   name forward as settled.** **`## WEDNESDAY Sep 16` and `## THURSDAY Sep 17` are the next candidates by
-   age — CONFIRM, do not trust this line.**
+12. **FOUR CALLS ARE OPEN WITH AARON AND NONE IS TO BE RE-ASKED, ONLY CARRIED: (a) the Tuesday board
+   shape. (b) the evergreen-value rule behind Kirkland — THE SUB-$30 GAP RIDES ON THIS AND IS NOW 25
+   RUNS OLD. (c) PENELOPE (15th). (d) WANDERFOLK (18th).** **All compress to `_unchanged:_`. DO NOT ADD
+   A FIFTH.** **Plus the Oct 30 italic render, still unanswered, carried in the same compressed line.**
+   **Where a call is this file's to make, MAKE IT and report it as a decision — Nov 1 did that with the
+   Variety link-out, the Barrell proof suppression and the Fireside independence note, and none of them
+   cost him a question.**
+
+13. **PRUNE — CHECK ELIGIBILITY, DO NOT ASSUME (Lesson 51).** It ran Nov 1 on `## WEDNESDAY Sep 16` at
+   46 days. **`## THURSDAY Sep 17` is the next candidate by age — CONFIRM with `date -d`, do not trust
+   this line.**
+   **READ `### LESSON 85` FIRST AND DERIVE THE END BOUNDARY IN CODE: heading line to the line before
+   the NEXT `^## `. A prep section here is 100–300 lines; if the range exceeds ~350 lines or contains
+   more than one `^## ` heading, THE BOUNDARY IS WRONG. The arms and the delete must use the same range,
+   computed once.**
    **DO NOT PRUNE: `FRIDAY Aug 21 — STAGING RECORD`, `TUESDAY Aug 25 — ALL FOUR PUBLISHED`,
    `TUESDAY Sep 1 — ALL FOUR PUBLISHED`, `FRIDAY Sep 4 — FOUR STAGED`, `FRIDAY Aug 28 — ALL FOUR
    PUBLISHED`, `TUESDAY Sep 8 — ALL FOUR PUBLISHED` — each is the only record of its day.**
    **Never prune DEDUP, OPEN GAPS, COLLISION FLAGS, boards or LESSONS.**
-   **ARM 1 IS A DEDUP CHECK, NOT AN AUDIT (Lesson 82). WHEN AN ARM NAMES A KEY THE RUN IS ALSO SCOUTING,
-   RECONCILE AGAINST THE RECORDED CONDITION, NOT THE INDEX DATE.**
-   **ARM 2: A SURVIVING URL DOES NOT PRESERVE THE INSTRUCTION ATTACHED TO IT.**
-   **ARM 1 AT ZERO IS A REAL ORPHAN AND MUST BE MIGRATED, NEVER OVERRIDDEN — BUT FIRST RE-SEARCH THE ZERO
-   IN THE OTHER STRING SHAPE, KEY AND PROSE, CASE-INSENSITIVELY. Oct 30 produced FIVE FALSE ORPHANS on a
-   prose-form search and would have duplicated five live entries. See `### LESSON 84`.**
+   **ARM 1 IS A DEDUP CHECK, NOT AN AUDIT (Lesson 82). ARM 2: A SURVIVING URL DOES NOT PRESERVE THE
+   INSTRUCTION ATTACHED TO IT. ARM 1 AT ZERO MUST BE RE-SEARCHED IN THE OTHER STRING SHAPE, KEY AND
+   PROSE, CASE-INSENSITIVELY, BEFORE IT IS BELIEVED (Lesson 84).**
 
-12. **FILE SIZE: judge the ~1.3 MB threshold on BYTES, not lines.** **~1.08 MB after the Oct 30 prune and
-   this run's additions.** One prune target a run until the file passes ~1.3 MB; then go to two.
+14. **FILE SIZE: judge the ~1.3 MB threshold on BYTES, not lines.** One prune target a run until the
+   file passes ~1.3 MB; then go to two.
+
+## LESSON 86 (added Nov 1) — an urgent sweep phrased as a search for disasters cannot find an obituary, and the rail that carries deaths is the one an edition day is told not to read
+
+**WHAT HAPPENED.** Marvin R. Shanken, publisher of Whisky Advocate, died Oct 29 at 13:03 PT. The
+Oct 29 prep run had already posted at 06:38. The Oct 30 edition run posted at 06:52 the next morning,
+ran its urgent sweep, found nothing, and shipped. **The story sat at position three in the Whisky
+Advocate RSS feed the whole time.** It was found on Nov 1, a Sunday prep run, two days late.
+
+**WHY THE SWEEP MISSED IT, AND IT IS NOT CARELESSNESS.** The urgent rule enumerates four triggers:
+recall, safety issue, litigation or investigation naming a partner, and **a death in the industry.**
+**THE SWEEP HAS ALWAYS BEEN IMPLEMENTED AS A WEB SEARCH, AND ITS QUERIES HAVE ALWAYS BEEN BUILT OUT OF
+THE FIRST THREE.** Thirty-eight consecutive applications returned the same stale set of lawsuits and
+warehouse collapses, and the consistency read as thoroughness. **A QUERY PHRASED AROUND RECALLS AND
+LITIGATION WILL NOT SURFACE AN OBITUARY, BECAUSE AN OBITUARY SHARES NO VOCABULARY WITH IT.** The fourth
+trigger had never once been exercised, so nothing ever revealed that the instrument could not see it.
+
+**THE SECOND HALF, AND IT IS THE STRUCTURAL ONE.** The rail that DID carry the story is the WA RSS
+feed. **An edition day is expressly told not to scout, and the Oct 30 run obeyed that correctly — it
+verified the feed was alive and deliberately left its items for the next prep run.** So the one rail
+that would have caught it was the one rail the day was forbidden to harvest. **THE SCOUT/EDITION SPLIT
+IS RIGHT AND IS NOT WHAT SHOULD CHANGE. The urgent sweep is the exception to it and always was —
+urgency is precisely the thing that does not wait for the roster.**
+
+**THE STANDING FIX, WHICH RUNS EVERY DAY INCLUDING EDITION DAYS (Lesson 60's form — only a step that
+reruns every time protects anything):**
+1. **THE URGENT SWEEP READS THE HEADLINES OF THE WA RSS FEED AND THE BB DATE-SORTED INDEX BEFORE IT
+   RUNS ANY SEARCH.** That is a headline scan, not a scout: titles and dates only, judged against the
+   four triggers, nothing staged. **It costs one fetch each and it is the only rail with a proven hit.**
+2. **THE SEARCH HALF CARRIES A DEATH-SHAPED QUERY OF ITS OWN**, in the vocabulary deaths are written
+   in — `dies`, `died`, `obituary`, `1943-2026` — never folded into the recall-and-litigation query.
+3. **THE WINDOW IS THE GAP SINCE THE LAST RUN, NOT 24 HOURS.** This story published four hours after a
+   prep run posted and was already outside that run's reach. **A trigger that fires between two runs is
+   exactly the case the sweep exists for.**
+
+**THE GENERALISABLE PART.** A check that has returned the same answer thirty-eight times has not been
+validated thirty-eight times; **it has been asked a question it can answer thirty-eight times.** Lesson
+60's standing form says a verified fix protects nothing and only a step that reruns protects anything.
+**THIS IS ITS SHARPER TWIN: A STEP THAT RERUNS FOREVER AND NEVER FIRES IS NOT EVIDENCE OF A QUIET
+WORLD — IT MAY BE EVIDENCE OF AN INSTRUMENT THAT CANNOT DETECT THE THING IT WAS BUILT FOR.** When a
+check has never once fired, the question to ask is not `is anything happening` but `COULD THIS CHECK
+SEE IT IF IT WERE`. Exercise it against a case you already know the answer to.
+
+## LESSON 85 (added Nov 1) — a section's END boundary is a fact to derive, not to eyeball, and an oversized range makes a prune arm lie in the dangerous direction
+
+**WHAT HAPPENED.** The Nov 1 prune targeted `## WEDNESDAY Sep 16 — PREP RUN`. Its start line came from
+a heading grep. **ITS END LINE WAS GUESSED FROM A TRUNCATED HEADING LIST — the next `^## ` heading that
+happened to be visible in an earlier `head`/`tail` output — AND IT WAS 556 LINES TOO FAR.** The real
+section is 204 lines. The guessed range was 760 and swallowed a dozen unrelated sections, including the
+entire run of one-line prune tombstones.
+
+**WHAT THE OVERSIZED RANGE DID TO THE ARMS, AND THE DIRECTION OF THE ERROR IS THE WHOLE POINT.** Every
+arm compares `the section` against `the rest of the file`. **ENLARGING THE SECTION SHRINKS THE REST.**
+Content that genuinely lives in several places gets counted as living only inside the doomed section.
+**ARM 2 REPORTED 12 ORPHANED URLs. ARM 3 REPORTED LESSON 45 AS AN ORPHAN WITH ZERO SURVIVING MENTIONS
+ANYWHERE. ALL THIRTEEN WERE FALSE** — artefacts of the boundary, not facts about the file.
+
+**WHY THIS IS WORSE THAN AN ARM-1 FALSE ORPHAN (Lesson 84).** A false orphan from the wrong string shape
+causes a duplicated entry — ugly, recoverable. **A FALSE ORPHAN FROM AN OVERSIZED BOUNDARY IS ATTACHED
+TO A DELETE RANGE THAT IS ALSO OVERSIZED.** The arms were measuring exactly the region the prune was
+about to remove. **Had the delete been executed on the range the arms were measured against, twelve
+sections would have gone with it — and the arms would have reported it as a clean prune with thirteen
+findings dutifully migrated.** The migration would have been real. The deletion would have been
+catastrophic. **The arms would have agreed with themselves the whole way down.**
+
+**THE STANDING FIX, AND IT IS THREE LINES OF CODE, NOT A HABIT:**
+1. **DERIVE THE END BOUNDARY PROGRAMMATICALLY: the target section runs from its own `^## ` heading to
+   the line before the NEXT `^## ` heading. Compute it in the same command that finds the start. NEVER
+   carry a boundary from an earlier listing, and never from a `head -n` or `tail -n` of one.**
+2. **SANITY-CHECK THE SIZE BEFORE RUNNING ANY ARM.** A prep-run section in this file is 100–300 lines.
+   **IF THE RANGE EXCEEDS ~350 LINES, OR CONTAINS MORE THAN ONE `^## ` HEADING, THE BOUNDARY IS WRONG.
+   One heading in, one heading's worth of lines out.**
+3. **THE ARMS AND THE DELETE MUST USE THE SAME RANGE OBJECT, COMPUTED ONCE.** They did here only by
+   luck, because the delete had not been written yet when the boundary was corrected.
+
+**THE GENERALISABLE PART.** This file already knows that a zero is a question, not an answer (Lesson
+69), and that a zero from the wrong string shape is not an absence (Lesson 84). **LESSON 85 IS THE
+THIRD FACE OF THE SAME COIN AND THE ONLY ONE THAT CAN DELETE SOMETHING: A ZERO FROM THE WRONG REGION IS
+NOT AN ABSENCE EITHER.** Before believing any count, check what was counted. **AN ARM REPORTING AN
+UNUSUAL NUMBER OF FINDINGS IS MORE LIKELY MIS-SCOPED THAN RIGHT — twelve orphans at once was not a
+windfall, it was a symptom, and it should have read as one immediately.**
 
 ## LESSON 77 (added Oct 14) — when a source will not load, stop asking "how do I open this page" and start asking "who else would have to know about this"
 
